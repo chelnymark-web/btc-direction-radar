@@ -1,0 +1,44 @@
+{
+  "_note": "MSTR(Strategy)监控的慢变量,手动维护。这些数据没有干净的免费实时 API,来源是它不定期的 SEC 8-K 文件(每周一前后的持仓公告)和季报。看到新的 8-K / 季报时,更新这里的数字即可。mNAV 和距成本线由脚本用实时 BTC 价 + 这里的慢变量自动算。",
+  "_sources": {
+    "holdings_cost_debt": "SEC EDGAR 8-K (cik 0001050446) 或 bitcointreasuries.net / strategy.com/purchases",
+    "stock_price_shares": "任意股票行情源(算 mNAV 需要 MSTR 市值);若无自动源,可手填 last_mstr_marketcap_musd",
+    "warning": "聚合站如 bitcointreasuries 的 avg_cost 可能是过时缓存(曾显示 66,384 的旧值)。以 SEC 8-K 披露的为准——截至 2026-05-18 的 8-K 为 75,700。"
+  },
+
+  "as_of": "2026-06-15",
+  "btc_holdings": 846842,
+  "avg_cost_usd": 75700,
+  "total_cost_musd": 63867,
+  "debt_musd": 6754,
+  "pref_musd": 15475,
+  "usd_reserve_musd": 1100,
+  "annual_dividends_musd": 1711,
+  "shares_diluted_m": 300,
+
+  "_optional_marketcap": "若想让 mNAV 用真实市值口径,手填下面这个(MSTR 市值,百万美元);留 null 则脚本用 持仓BTC市值×(1+premium_hint) 做粗略提示,不如真市值准",
+  "last_mstr_marketcap_musd": null,
+  "premium_hint": 1.16,
+
+  "thresholds": {
+    "mnav_warn": 1.10,
+    "mnav_extreme": 1.00,
+    "_mnav_note": "mNAV 跌破 1.0 = 飞轮反转结构拐点(增发变折价稀释),被迫卖币概率跳升。1.10 起预警。",
+    "cost_basis_usd": 75700,
+    "_cost_note": "BTC 价跌破此线 = MSTR 整个仓位浮亏。已于现价附近发生。",
+    "dividend_months_warn": 9,
+    "_div_note": "USD 现金覆盖股息月数低于 9 个月 = 融资压力,逼近被迫卖币。当前约 7.7。",
+    "selling_btc": true,
+    "_sell_note": "是否已在卖币付息。2026-06-01 起为 true(卖 32 枚付优先股息)。一旦卖币规模显著扩大,即 Saylor 铁律实质破裂的行为信号。"
+  },
+
+  "_strc_funding_note": "STRC(Stretch/Digital Credit)是当前主融资管道:截至 5/3 募 55.8 亿、增长 189%,在外优先股超 135 亿、混合年息 9.6%(年股息义务约 13 亿)。6/30 起股息从每月一次改为每月两次(semi-monthly),首次新频率付款 7/15。官方称提升稳定性流动性、不增加总义务——本质是维护融资管道卖相,好继续发新 STRC 续命(因 mNAV 低、发普通股是折价稀释)。这是飞轮从'扩张'转向'维持'的证据,不是压力解除。",
+  "strc_funding": {
+    "outstanding_pref_musd": 13500,
+    "blended_yield_pct": 9.6,
+    "ytd_raised_musd": 5580,
+    "semimonthly_effective": "2026-06-30",
+    "first_new_payment": "2026-07-15",
+    "_watch": "真正要盯:STRC 还发不发得动(ATM 增发是否持续)= 融资管道通不通。连提频率提流动性都救不活 STRC 需求时,才是管道关闭信号。"
+  }
+}

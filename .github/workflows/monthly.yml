@@ -1,0 +1,36 @@
+name: monthly-report
+on:
+  schedule:
+    - cron: "0 22 1 * *"   # 每月 2 日 07:00 JST
+  workflow_dispatch:        # 手动触发,首次配置后先手动跑一次
+permissions:
+  contents: write
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: run pipeline
+        env:
+          REPORT_KIND: monthly
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          HTTPS_PROXY: ${{ secrets.PROXY_URL }}
+        run: |
+          python scripts/fetch_data.py
+          python scripts/fetch_macro.py
+          python scripts/fetch_cme_gaps.py
+          python scripts/fetch_mstr.py
+          python scripts/fetch_levels.py
+          python scripts/fetch_news.py
+          python scripts/generate_report.py
+      - name: commit results
+        run: |
+          git config user.name "bias-radar-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A data docs
+          git commit -m "monthly $(date -u +%F)" || echo "no changes"
+          git push

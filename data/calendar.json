@@ -1,0 +1,17 @@
+{
+  "note": "手动维护的关键日程。日期格式 YYYY-MM-DD(美国事件按美东日期)。FOMC 全年日程已按美联储官网核实;CPI 每次发布时 BLS 会公布下一次日期,建议每月把新日期补进来(来源 bls.gov/cpi)。带 * 的 FOMC 会议附带经济预测摘要 SEP 与点阵图,市场影响更大。",
+  "events": [
+    {"date": "2026-06-16", "name": "FOMC 会议第一天", "tag": "FOMC"},
+    {"date": "2026-06-17", "name": "FOMC 利率决议 + SEP/点阵图 + 记者会 *(新主席首秀)", "tag": "FOMC"},
+    {"date": "2026-07-02", "name": "美国 6 月非农就业报告(BLS 已确认)", "tag": "宏观"},
+    {"date": "2026-07-14", "name": "美国 6 月 CPI(BLS 已确认,08:30 ET)", "tag": "宏观"},
+    {"date": "2026-07-28", "name": "FOMC 会议第一天", "tag": "FOMC"},
+    {"date": "2026-07-29", "name": "FOMC 利率决议 + 记者会", "tag": "FOMC"},
+    {"date": "2026-09-15", "name": "FOMC 会议第一天", "tag": "FOMC"},
+    {"date": "2026-09-16", "name": "FOMC 利率决议 + SEP/点阵图 + 记者会 *", "tag": "FOMC"},
+    {"date": "2026-10-27", "name": "FOMC 会议第一天", "tag": "FOMC"},
+    {"date": "2026-10-28", "name": "FOMC 利率决议 + 记者会", "tag": "FOMC"},
+    {"date": "2026-12-08", "name": "FOMC 会议第一天", "tag": "FOMC"},
+    {"date": "2026-12-09", "name": "FOMC 利率决议 + SEP/点阵图 + 记者会 *", "tag": "FOMC"}
+  ]
+}

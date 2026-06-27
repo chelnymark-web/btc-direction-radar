@@ -1,0 +1,32 @@
+{
+  "_note": "关键价位配置,手动维护。脚本会把这些位 + 自动算的斐波那契位放在一起,找出彼此靠近(默认 1.5% 内)的'重合带'并高亮——重合的位才是真信号,单独一条线是噪音。看到行情结构变化(创新高/新低、均线移动)时更新这里。",
+  "as_of": "2026-06-19",
+  "spot_ref": 62600,
+
+  "fib_swing": {
+    "_note": "斐波那契回撤用的摆动区间。high/low 取你认定的这一轮趋势端点。",
+    "high": 126000,
+    "low": 59557
+  },
+
+  "levels": [
+    {"price": 60000, "type": "gamma", "label": "6万 gamma 开关(持续跌破=做市商对冲转追跌、下方加速区)", "src": "gamma"},
+    {"price": 59557, "type": "支撑", "label": "前低/最强支撑", "src": "结构"},
+    {"price": 60961, "type": "支撑", "label": "pivot S2", "src": "pivot"},
+    {"price": 61951, "type": "支撑", "label": "pivot S1", "src": "pivot"},
+    {"price": 62700, "type": "支撑", "label": "结构线(丢了破坏当前结构)", "src": "结构"},
+    {"price": 64345, "type": "阻力", "label": "pivot R1", "src": "pivot"},
+    {"price": 65749, "type": "阻力", "label": "pivot R2 / 50-EMA 附近", "src": "pivot"},
+    {"price": 66739, "type": "阻力", "label": "pivot R3", "src": "pivot"},
+    {"price": 70806, "type": "均线", "label": "50 日均线", "src": "MA"},
+    {"price": 75017, "type": "均线", "label": "200 日均线", "src": "MA"},
+    {"price": 75700, "type": "MSTR", "label": "MSTR 平均成本线", "src": "MSTR"}
+  ],
+
+  "cme_gaps": [
+    {"low": 67000, "high": 69000, "label": "CME 缺口(本地 TradingView 确认确切边界)", "src": "CME", "filled": false}
+  ],
+
+  "confluence_pct": 1.5,
+  "_confluence_note": "两个位价差在此百分比内,视为重合,合并高亮。重合的位越多、来源越杂(斐波那契+均线+缺口+MSTR),磁吸/阻力越强。"
+}

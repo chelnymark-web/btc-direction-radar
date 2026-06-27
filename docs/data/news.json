@@ -1,0 +1,23 @@
+{
+  "kind": "weekly",
+  "mode": "calendar",
+  "window_days": 7,
+  "items": [
+    {
+      "date": "2026-06-26",
+      "name": "Deribit 季度+月度期权/合约到期(08:00 UTC)·大日子",
+      "source": "规则"
+    },
+    {
+      "date": "2026-07-02",
+      "name": "美国 6 月非农就业报告(BLS 已确认)",
+      "source": "宏观"
+    },
+    {
+      "date": "2026-07-03",
+      "name": "美国非农就业报告(常规日,以 BLS 官方为准)",
+      "source": "规则"
+    }
+  ],
+  "generated": "2026-06-26T16:06:39+00:00"
+}

@@ -1,0 +1,251 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>偏见雷达 · 实时面板</title>
+<style>
+:root{--bg:#0E1116;--panel:#161B23;--line:#242B36;--ink:#E8E3D8;--dim:#8B93A1;
+--cold:#5B8DB8;--hot:#D9842B;--alert:#C73E2E;
+--mono:'IBM Plex Mono',ui-monospace,'SF Mono',Menlo,monospace}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+font:14px/1.6 -apple-system,'Hiragino Sans','Noto Sans CJK SC',sans-serif;padding:26px 18px 60px}
+.wrap{max-width:1040px;margin:0 auto}
+header{display:flex;flex-wrap:wrap;align-items:baseline;gap:14px;margin-bottom:6px}
+h1{font-size:19px;letter-spacing:.06em;margin:0}
+#price{font-family:var(--mono);font-size:19px}
+.meta{color:var(--dim);font-size:12px;margin-left:auto;display:flex;gap:12px;align-items:center}
+#srcchip{padding:1px 10px;border-radius:99px;border:1px solid var(--line);font-size:12px}
+#srcchip.live{border-color:var(--hot);color:var(--hot)}
+#srcchip.snap{border-color:var(--cold);color:var(--cold)}
+button{background:none;border:1px solid var(--line);color:var(--ink);border-radius:7px;
+padding:4px 12px;font-size:12px;cursor:pointer}
+button:hover{border-color:var(--dim)}
+button:focus-visible{outline:2px solid var(--cold);outline-offset:2px}
+.gaugebox{background:var(--panel);border:1px solid var(--line);border-radius:12px;
+padding:20px 24px;margin:18px 0 26px}
+.gtitle{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:12px}
+.gtitle b{font-size:14px;letter-spacing:.1em;font-weight:600}
+#bias{font-family:var(--mono);font-size:26px}
+.gauge{height:12px;border-radius:99px;position:relative;
+background:linear-gradient(90deg,var(--cold),#3a4250 50%,var(--hot))}
+.needle{position:absolute;top:-6px;width:2px;height:24px;background:var(--ink);
+left:50%;transition:left .8s cubic-bezier(.2,.8,.2,1)}
+.glabel{display:flex;justify-content:space-between;color:var(--dim);font-size:12px;margin-top:7px}
+.gnote{color:var(--dim);font-size:12px;margin-top:10px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(235px,1fr));gap:12px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px;min-height:118px}
+.card .name{color:var(--dim);font-size:12px;letter-spacing:.08em;display:flex;justify-content:space-between}
+.card .val{font-family:var(--mono);font-size:23px;margin:7px 0 2px;min-height:30px}
+.card .sub{font-family:var(--mono);font-size:12px;color:var(--dim)}
+.card .use{color:var(--dim);font-size:12px;margin-top:8px;border-top:1px dashed var(--line);padding-top:7px}
+.chip{padding:1px 9px;border-radius:99px;font-size:11px;border:1px solid var(--line);color:var(--dim);white-space:nowrap}
+.chip.long.l1{border-color:var(--hot);color:var(--hot)}
+.chip.long.l2{background:var(--hot);border-color:var(--hot);color:#0E1116}
+.chip.short.l1{border-color:var(--cold);color:var(--cold)}
+.chip.short.l2{background:var(--cold);border-color:var(--cold);color:#0E1116}
+.chip.none.l1{border-color:var(--alert);color:var(--alert)}
+.chip.none.l2{background:var(--alert);border-color:var(--alert);color:#fff}
+.links{margin-top:26px;color:var(--dim);font-size:12.5px}
+.links a{color:var(--cold)}
+@media (prefers-reduced-motion:reduce){.needle{transition:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1>偏见雷达</h1>
+  <span id="price">—</span>
+  <span class="meta">
+    <span id="srcchip">载入中</span>
+    <span id="updated"></span>
+    <button id="refresh">刷新</button>
+  </span>
+</header>
+
+<div class="gaugebox">
+  <div class="gtitle"><b>共识拥挤度</b><span id="bias">0</span></div>
+  <div class="gauge"><div class="needle" id="needle"></div></div>
+  <div class="glabel"><span>空头侧拥挤 −100</span><span>0</span><span>+100 多头侧拥挤</span></div>
+  <div class="gnote">聚合下方各指标的方向与极端等级。两端都不是顺势信号——指针深入任一侧,读作"该侧已饱和,警惕反向相变"。</div>
+</div>
+
+<div class="grid" id="cards"></div>
+
+<div class="links">
+  本面板只覆盖衍生品仪表。清算热图与爆仓量 → <a href="https://www.coinglass.com" target="_blank" rel="noopener">Coinglass</a>;
+  链上(交易所流量 / MVRV)→ <a href="https://cryptoquant.com" target="_blank" rel="noopener">CryptoQuant</a>。
+  个人研究工具,不构成投资建议。
+</div>
+</div>
+
+<script>
+"use strict";
+const FAPI="https://fapi.binance.com", DRB="https://www.deribit.com/api/v2", SYM="BTCUSDT";
+
+/* 指标定义:格式化 + 阈值(与 scripts/fetch_data.py 保持一致) + 一句用法 */
+const METRICS=[
+ {k:"funding_rate",n:"资金费率 / 8h",f:v=>(v*100).toFixed(4)+"%",
+  r:{wh:3e-4,eh:8e-4,wl:-1e-4,el:-4e-4,hs:"long",ls:"short"},
+  u:"正=多头付钱,负=空头付钱;只看极端。深负 = 你这侧挤满了,收紧止损"},
+ {k:"oi_change_24h_pct",n:"OI 24h 变化",f:v=>v.toFixed(2)+"%",r:null,
+  u:"跌+OI升=新空进场;跌+OI骤降=多头被强平、去杠杆进行中"},
+ {k:"top_ls_ratio",n:"大户持仓多空比",f:v=>v.toFixed(2),
+  r:{wh:2,eh:3,wl:.8,el:.6,hs:"long",ls:"short"},
+  u:"更接近聪明钱;与全体账户比背离时,跟这个"},
+ {k:"global_ls_ratio",n:"全体账户多空比",f:v=>v.toFixed(2),
+  r:{wh:2.5,eh:4,wl:.9,el:.7,hs:"long",ls:"short"},
+  u:"散户人头数,极端值当反向素材"},
+ {k:"perp_basis_pct",n:"永续基差",f:v=>v.toFixed(3)+"%",
+  r:{wh:.05,eh:.15,wl:-.03,el:-.1,hs:"long",ls:"short"},
+  u:"升水=多头狂热;贴水=恐慌折价"},
+ {k:"quarter_basis_pct",n:"季度基差",f:v=>v.toFixed(2)+"%",
+  r:{wh:2.5,eh:5,wl:0,el:-1,hs:"long",ls:"short"},
+  u:"深贴水历来是投降区域的味道之一"},
+ {k:"dvol",n:"DVOL(BTC 的 VIX)",f:v=>v.toFixed(1),
+  r:{wh:75,eh:95,wl:35,el:28,hs:null,ls:null},
+  u:"恐惧水位。极低的平静里酝酿相变,极高处接近宣泄"},
+ {k:"skew_25d",n:"25Δ skew(近月)",f:v=>(v>0?"+":"")+v.toFixed(1)+" vol",
+  r:{wh:8,eh:15,wl:-3,el:-8,hs:"short",ls:"long"},
+  u:"正=put更贵=怕跌。翘到极端=该侧恐惧饱和,警惕反转"},
+ {k:"term_slope",n:"期限结构斜率",f:v=>(v>0?"+":"")+v.toFixed(1)+" vol",r:null,
+  u:"负=近月倒挂=市场对眼前事件极度紧张"},
+];
+const LV=["中性","偏高","极端"], SD={long:"多头侧",short:"空头侧"};
+
+const $=id=>document.getElementById(id);
+const j=async(u)=>{const r=await fetch(u);if(!r.ok)throw new Error(r.status+" "+u);return r.json()};
+
+function ncdf(x){return .5*(1+erf(x/Math.SQRT2))}
+function erf(x){const s=x<0?-1:1;x=Math.abs(x);
+const a1=.254829592,a2=-.284496736,a3=1.421413741,a4=-1.453152027,a5=1.061405429,p=.3275911;
+const t=1/(1+p*x),y=1-((((a5*t+a4)*t+a3)*t+a2)*t+a1)*t*Math.exp(-x*x);return s*y}
+function bsDelta(S,K,T,iv,call){if(T<=0||iv<=0)return null;
+const d1=(Math.log(S/K)+.5*iv*iv*T)/(iv*Math.sqrt(T));return call?ncdf(d1):ncdf(d1)-1}
+
+const MON={JAN:0,FEB:1,MAR:2,APR:3,MAY:4,JUN:5,JUL:6,AUG:7,SEP:8,OCT:9,NOV:10,DEC:11};
+function parseInst(name){
+ const p=name.split("-");if(p.length!==4)return null;
+ const d=p[1],day=parseInt(d.slice(0,-5)),mon=MON[d.slice(-5,-2)],yr=2000+parseInt(d.slice(-2));
+ if(isNaN(day)||mon===undefined)return null;
+ return {exp:Date.UTC(yr,mon,day,8)/1000,strike:parseFloat(p[2]),call:p[3]==="C"};
+}
+
+async function fetchLive(){
+ const snap={};
+ const prem=await j(`${FAPI}/fapi/v1/premiumIndex?symbol=${SYM}`);
+ const mark=+prem.markPrice, idx=+prem.indexPrice;
+ snap.price=idx; snap.funding_rate=+prem.lastFundingRate;
+ snap.perp_basis_pct=(mark-idx)/idx*100;
+
+ const tasks={
+  oi:j(`${FAPI}/futures/data/openInterestHist?symbol=${SYM}&period=1h&limit=48`),
+  top:j(`${FAPI}/futures/data/topLongShortPositionRatio?symbol=${SYM}&period=1h&limit=2`),
+  glob:j(`${FAPI}/futures/data/globalLongShortAccountRatio?symbol=${SYM}&period=1h&limit=2`),
+  basis:j(`${FAPI}/futures/data/basis?pair=${SYM}&contractType=CURRENT_QUARTER&period=1h&limit=2`),
+  didx:j(`${DRB}/public/get_index_price?index_name=btc_usd`),
+  dvol:j(`${DRB}/public/get_volatility_index_data?currency=BTC&resolution=3600&start_timestamp=${Date.now()-1728e5}&end_timestamp=${Date.now()}`),
+  book:j(`${DRB}/public/get_book_summary_by_currency?currency=BTC&kind=option`),
+ };
+ const r={};
+ for(const[k,p]of Object.entries(tasks)){try{r[k]=await p}catch(e){console.warn(k,e)}}
+
+ if(r.oi&&r.oi.length>=25){const a=+r.oi[r.oi.length-1].sumOpenInterest,b=+r.oi[r.oi.length-25].sumOpenInterest;
+  snap.oi_change_24h_pct=(a-b)/b*100}
+ if(r.top)snap.top_ls_ratio=+r.top[r.top.length-1].longShortRatio;
+ if(r.glob)snap.global_ls_ratio=+r.glob[r.glob.length-1].longShortRatio;
+ if(r.basis)snap.quarter_basis_pct=+r.basis[r.basis.length-1].basisRate*100;
+ if(r.dvol&&r.dvol.result&&r.dvol.result.data&&r.dvol.result.data.length)
+  snap.dvol=r.dvol.result.data[r.dvol.result.data.length-1][4];
+
+ if(r.book&&r.didx){
+  const S=r.didx.result.index_price, now=Date.now()/1000, by={};
+  for(const it of r.book.result||[]){
+   const p=parseInst(it.instrument_name||"");const iv=it.mark_iv;
+   if(!p||!iv||iv<=0)continue;
+   const days=(p.exp-now)/86400; if(days<5)continue;
+   (by[p.exp]=by[p.exp]||[]).push({...p,iv:+iv});
+  }
+  const exps=Object.keys(by).map(Number).sort((a,b)=>a-b);
+  const metrics=e=>{
+   const T=(e-now)/86400/365, rows=by[e];
+   let atm=rows.reduce((m,r)=>Math.abs(r.strike-S)<Math.abs(m.strike-S)?r:m,rows[0]).iv;
+   let bp=null,bc=null;
+   for(const r of rows){
+    const d=bsDelta(S,r.strike,T,r.iv/100,r.call); if(d===null)continue;
+    if(!r.call&&r.strike<S){const g=Math.abs(d+.25);if(!bp||g<bp.g)bp={g,iv:r.iv}}
+    if(r.call&&r.strike>S){const g=Math.abs(d-.25);if(!bc||g<bc.g)bc={g,iv:r.iv}}
+   }
+   return {atm,skew:(bp&&bc)?bp.iv-bc.iv:null};
+  };
+  if(exps.length){
+   const near=metrics(exps[0]);
+   snap.skew_25d=near.skew;
+   const later=exps.find(e=>(e-exps[0])/86400>=14);
+   if(later)snap.term_slope=metrics(later).atm-near.atm;
+  }
+ }
+ if(snap.price===undefined)throw new Error("核心数据缺失");
+ snap.ts=new Date().toISOString();
+ return snap;
+}
+
+function flag(m,v){
+ if(!m.r||v===null||v===undefined)return {level:0,side:null};
+ const r=m.r;
+ if(v>=r.eh)return {level:2,side:r.hs};
+ if(v>=r.wh)return {level:1,side:r.hs};
+ if(v<=r.el)return {level:2,side:r.ls};
+ if(v<=r.wl)return {level:1,side:r.ls};
+ return {level:0,side:null};
+}
+
+function render(snap,src){
+ $("price").textContent=snap.price?Math.round(snap.price).toLocaleString()+" USD":"—";
+ $("updated").textContent=(snap.ts||"").replace("T"," ").slice(0,16)+" UTC";
+ const chip=$("srcchip");
+ chip.textContent=src==="live"?"实时":"Actions 快照";
+ chip.className=src==="live"?"live":"snap";
+
+ let score=0,wt=0;
+ const cards=$("cards"); cards.innerHTML="";
+ for(const m of METRICS){
+  const v=snap[m.k];
+  const fl=(snap.flags&&snap.flags[m.k]&&src!=="live")?snap.flags[m.k]:flag(m,v);
+  if(fl.side==="long")score+=fl.level; else if(fl.side==="short")score-=fl.level;
+  if(m.r)wt+=2;
+  const el=document.createElement("div"); el.className="card";
+  const chipCls=`chip ${fl.side||"none"} l${fl.level}`;
+  const chipTxt=LV[fl.level]+(fl.side?" · "+SD[fl.side]:"");
+  el.innerHTML=`<div class="name"><span>${m.n}</span><span class="${chipCls}">${fl.level?chipTxt:"中性"}</span></div>
+   <div class="val">${(v===null||v===undefined)?"—":m.f(v)}</div>
+   <div class="use">${m.u}</div>`;
+  cards.appendChild(el);
+ }
+ const bias=(snap.bias_score!==undefined&&src!=="live")?snap.bias_score:(wt?Math.round(score/wt*100):0);
+ $("bias").textContent=(bias>0?"+":"")+bias;
+ $("needle").style.left=Math.max(2,Math.min(98,(bias+100)/2))+"%";
+}
+
+async function load(){
+ $("srcchip").textContent="载入中";$("srcchip").className="";
+ try{
+  render(await fetchLive(),"live");
+ }catch(e){
+  console.warn("实时拉取失败,回退到快照",e);
+  try{
+   const snap=await j("./data/latest.json");
+   render(snap,"snap");
+  }catch(e2){
+   $("srcchip").textContent="无数据";
+   $("cards").innerHTML='<div class="card"><div class="use">实时接口被拦(可能是地区或 CORS 限制),且本地快照不存在。'+
+    '先让 GitHub Actions 跑一次生成 data/latest.json,本页即可回退显示。</div></div>';
+  }
+ }
+}
+$("refresh").addEventListener("click",load);
+load();
+</script>
+</body>
+</html>

@@ -1,0 +1,61 @@
+{
+  "ts": "2026-06-26T11:32:13+00:00",
+  "components": {
+    "ndx": {
+      "name": "纳指100",
+      "symbol": "^NDX",
+      "value": 29440.32,
+      "dod_pct": 0.75,
+      "w5_pct": -0.78,
+      "level": 0,
+      "direction": 0,
+      "weight": 0.45,
+      "note": "↑+0.75%(5日 -0.8%)|科技股=BTC 最强领先;涨=风险偏好回暖(对 BTC 偏多),跌=天花板压低(放大杀跌) (变动温和,近中性)"
+    },
+    "dxy": {
+      "name": "美元指数",
+      "symbol": "DX-Y.NYB",
+      "value": 101.21,
+      "dod_pct": -0.22,
+      "w5_pct": 0.35,
+      "level": 0,
+      "direction": 0,
+      "weight": 0.25,
+      "note": "↓-0.22%(5日 +0.4%)|上破 100 关口;美元强=全球流动性紧(对 BTC 偏空),弱=放水(偏多) (变动温和,近中性)"
+    },
+    "vix": {
+      "name": "VIX恐慌",
+      "symbol": "^VIX",
+      "value": 20.04,
+      "dod_pct": 6.09,
+      "w5_pct": 22.2,
+      "level": 1,
+      "direction": -1,
+      "weight": 0.2,
+      "note": "↑+6.09%(5日 +22.2%)|现 20.0(20-25 警戒);急升=避险抛售(对 BTC 偏空) → 偏空 BTC"
+    },
+    "oil": {
+      "name": "WTI原油",
+      "symbol": "CL=F",
+      "value": 69.72,
+      "dod_pct": -3.06,
+      "w5_pct": -8.98,
+      "level": 1,
+      "direction": 1,
+      "weight": 0.1,
+      "note": "↓-3.06%(5日 -9.0%)|急升=通胀火星+强化鹰派/滞胀(对 BTC 偏空);急跌=需求忧虑但缓解通胀压力 → 偏多 BTC"
+    }
+  },
+  "gold": {
+    "name": "黄金",
+    "symbol": "GC=F",
+    "value": 4066.9,
+    "dod_pct": 0.9,
+    "falling": false,
+    "note": "↑+0.90%;只在与 BTC 同向下跌时读作恐慌最深处(去货币化/流动性危机)"
+  },
+  "coverage": "4/4",
+  "macro_dir": -0.05,
+  "macro_bias": -5,
+  "panic_extreme": false
+}

@@ -1,0 +1,376 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>方向罗盘 · BTC 实时监视</title>
+<style>
+:root{
+  --bg:#0A0C10; --panel:#12161D; --panel2:#161B23; --line:#222934;
+  --ink:#E6E9EF; --dim:#7E8794; --faint:#525A66;
+  --long:#3FB68B;   /* 偏多/绿 */
+  --short:#E0604A;  /* 偏空/红 */
+  --warn:#E0A030;   /* 中性偏热 */
+  --mono:'IBM Plex Mono',ui-monospace,'SF Mono',Menlo,monospace;
+  --sans:-apple-system,'Hiragino Sans','Noto Sans CJK SC',sans-serif;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.55 var(--sans);
+  padding:24px 18px 64px;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1080px;margin:0 auto}
+
+/* header */
+header{display:flex;flex-wrap:wrap;align-items:baseline;gap:14px;margin-bottom:4px}
+h1{font-family:var(--mono);font-size:15px;letter-spacing:.18em;font-weight:600;margin:0;text-transform:uppercase}
+h1 .b{color:var(--faint)}
+#price{font-family:var(--mono);font-size:20px;margin-left:2px}
+#chg{font-family:var(--mono);font-size:13px}
+.meta{margin-left:auto;display:flex;gap:10px;align-items:center;color:var(--dim);font-size:12px;font-family:var(--mono)}
+#src{padding:1px 9px;border:1px solid var(--line);border-radius:3px}
+#src.live{color:var(--long);border-color:var(--long)}
+#src.snap{color:var(--warn);border-color:var(--warn)}
+#src.dead{color:var(--short);border-color:var(--short)}
+button{background:none;border:1px solid var(--line);color:var(--ink);border-radius:4px;
+  padding:4px 12px;font:12px var(--mono);cursor:pointer}
+button:hover{border-color:var(--dim)}
+button:focus-visible{outline:2px solid var(--long);outline-offset:2px}
+.tagline{color:var(--faint);font-size:12px;font-family:var(--mono);margin:2px 0 22px;letter-spacing:.04em}
+
+/* compass */
+.compass{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:22px 26px;margin-bottom:14px}
+.compass .top{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:14px}
+.compass .lab{font-family:var(--mono);font-size:12px;letter-spacing:.14em;color:var(--dim);text-transform:uppercase}
+#verdict{font-family:var(--mono);font-size:22px;font-weight:600}
+.track{height:14px;border-radius:99px;position:relative;
+  background:linear-gradient(90deg,var(--short) 0%,#3a4250 50%,var(--long) 100%)}
+.tick{position:absolute;top:-1px;bottom:-1px;width:1px;background:#000;opacity:.25}
+#ndl{position:absolute;top:-7px;width:3px;height:28px;background:var(--ink);border-radius:2px;
+  left:50%;transform:translateX(-50%);transition:left .9s cubic-bezier(.2,.85,.2,1);
+  box-shadow:0 0 8px rgba(0,0,0,.6)}
+.scale{display:flex;justify-content:space-between;color:var(--dim);font-size:11px;font-family:var(--mono);margin-top:9px}
+.cnote{color:var(--dim);font-size:12px;margin-top:12px;line-height:1.6}
+
+/* grid */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(248px,1fr));gap:11px}
+.card{background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:13px 15px;
+  display:flex;flex-direction:column;position:relative;overflow:hidden}
+.card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--faint)}
+.card.long::before{background:var(--long)}
+.card.short::before{background:var(--short)}
+.card.warn::before{background:var(--warn)}
+.card .top{display:flex;justify-content:space-between;align-items:flex-start;gap:8px}
+.card .nm{font-size:12px;color:var(--dim);letter-spacing:.04em}
+.card .verdict{font-family:var(--mono);font-size:11px;padding:1px 7px;border-radius:3px;
+  border:1px solid var(--faint);color:var(--dim);white-space:nowrap}
+.card.long .verdict{color:var(--long);border-color:var(--long)}
+.card.short .verdict{color:var(--short);border-color:var(--short)}
+.card.warn .verdict{color:var(--warn);border-color:var(--warn)}
+.card .val{font-family:var(--mono);font-size:21px;margin:8px 0 1px;letter-spacing:-.01em;min-height:26px}
+.card .raw{font-family:var(--mono);font-size:11px;color:var(--faint)}
+.card .exp{color:var(--dim);font-size:11.5px;line-height:1.55;margin-top:9px;padding-top:9px;border-top:1px solid var(--line)}
+
+.section-h{font-family:var(--mono);font-size:11px;letter-spacing:.16em;color:var(--faint);
+  text-transform:uppercase;margin:26px 0 11px;display:flex;align-items:center;gap:10px}
+.section-h::after{content:"";flex:1;height:1px;background:var(--line)}
+
+.ext{margin-top:22px;display:grid;grid-template-columns:repeat(auto-fill,minmax(168px,1fr));gap:9px}
+.ext a{display:block;background:var(--panel2);border:1px solid var(--line);border-radius:8px;
+  padding:11px 13px;text-decoration:none;color:var(--ink);transition:border-color .15s}
+.ext a:hover{border-color:var(--dim)}
+.ext .t{font-size:12.5px;margin-bottom:2px}
+.ext .d{color:var(--faint);font-size:11px;font-family:var(--mono)}
+.foot{color:var(--faint);font-size:11.5px;margin-top:30px;border-top:1px solid var(--line);padding-top:14px;line-height:1.7}
+@media (prefers-reduced-motion:reduce){#ndl{transition:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>方向罗盘<span class="b"> / btc</span></h1>
+  <span id="price">——</span>
+  <span id="chg"></span>
+  <span class="meta">
+    <span id="src">连接中</span>
+    <span id="ts"></span>
+    <button id="refresh">刷新</button>
+  </span>
+</header>
+<div class="tagline">把拥挤度读成方向 · 两端是"该侧已饱和,警惕反转",不是顺势信号</div>
+
+<div class="compass">
+  <div class="top">
+    <span class="lab">综合方向</span>
+    <span id="verdict">——</span>
+  </div>
+  <div class="track" id="track">
+    <div id="ndl"></div>
+  </div>
+  <div class="scale"><span>空头侧拥挤 −100</span><span>0 平衡</span><span>+100 多头侧拥挤</span></div>
+  <div class="cnote" id="cnote">载入各指标后,这里给出方向的一句话解读。</div>
+</div>
+
+<div class="section-h">衍生品仪表 · 浏览器直拉 binance + deribit</div>
+<div class="grid" id="grid"></div>
+
+<div class="section-h">mstr · 杠杆飞轮监控(慢变量,看到 8-K 更新 data/mstr.json)</div>
+<div class="grid" id="mstrgrid"></div>
+
+<div class="section-h">关键位 · 重合带(多来源叠加处才是真磁吸,单线弱化)</div>
+<div class="grid" id="lvlgrid"></div>
+
+<div class="section-h">这些没接进来 · 数据源收费或跨域受限</div>
+<div class="ext">
+  <a href="https://www.coinglass.com/LiquidationData" target="_blank" rel="noopener"><div class="t">清算热图</div><div class="d">coinglass</div></a>
+  <a href="https://cryptoquant.com/asset/btc/chart/exchange-flows" target="_blank" rel="noopener"><div class="t">交易所流入流出</div><div class="d">cryptoquant</div></a>
+  <a href="https://www.tradingview.com/chart/?symbol=CME%3ABTC1!" target="_blank" rel="noopener"><div class="t">CME 缺口</div><div class="d">tradingview · CME:BTC1!</div></a>
+  <a href="https://www.bitcoinmagazinepro.com/charts/mvrv-zscore/" target="_blank" rel="noopener"><div class="t">MVRV / 已实现价</div><div class="d">bm pro</div></a>
+  <a href="https://www.congress.gov/search?q=CLARITY+Act+digital+asset" target="_blank" rel="noopener"><div class="t">法案进度</div><div class="d">congress.gov</div></a>
+  <a href="https://alternative.me/crypto/fear-and-greed-index/" target="_blank" rel="noopener"><div class="t">恐惧贪婪指数</div><div class="d">alternative.me</div></a>
+</div>
+
+<div class="foot">
+  方向 = 各指标方向 × 极端等级的加权聚合。指标到达极端(深色边)读作"该侧饱和、警惕反向相变",而非加仓信号。
+  数据走 binance fapi 与 deribit 公开端点,被跨域/地区拦截时回退读同目录 <code>data/latest.json</code>(若你的 Actions 在跑)。
+  个人研究工具,不构成投资建议。
+</div>
+
+</div>
+
+<script>
+"use strict";
+const FAPI="https://fapi.binance.com", DRB="https://www.deribit.com/api/v2", SYM="BTCUSDT";
+const $=id=>document.getElementById(id);
+const j=async u=>{const r=await fetch(u);if(!r.ok)throw new Error(r.status);return r.json()};
+
+/* ---- 指标定义:格式化 + 方向阈值 + 解释。dir 决定哪一侧算"多/空"。---- */
+const M=[
+ {k:"funding",n:"资金费率 / 8h",f:v=>(v*100).toFixed(4)+"%",
+  th:{eh:8e-4,wh:3e-4,wl:-1e-4,el:-4e-4,hi:"long",lo:"short"},
+  ex:"永续里多空互付的利率。正=多头付钱(多头拥挤),负=空头付钱(空头拥挤)。深负时空头挤满,反弹/轧空风险升高。"},
+ {k:"oichg",n:"OI 24h 变化",f:v=>(v>0?"+":"")+v.toFixed(2)+"%",
+  th:{eh:8,wh:3,wl:-3,el:-8,hi:"long",lo:"short"},
+  ex:"未平仓合约的杠杆总量变化。配合价格读:此处仅以增减给方向提示,价跌而 OI 升=新空进场,价跌而 OI 降=多头被强平。"},
+ {k:"topls",n:"大户持仓多空比",f:v=>v.toFixed(2),
+  th:{eh:3,wh:2,wl:.8,el:.6,hi:"long",lo:"short"},
+  ex:"头部账户的多空仓位比,更接近聪明钱。与全体账户比背离时,以此为准。极端值代表该侧拥挤。"},
+ {k:"globls",n:"全体账户多空比",f:v=>v.toFixed(2),
+  th:{eh:4,wh:2.5,wl:.9,el:.7,hi:"long",lo:"short"},
+  ex:"按账户人头的多空比,偏散户情绪。极端值常作反向素材:人人做多≈接近顶,人人做空≈接近底。"},
+ {k:"taker",n:"主动买卖比",f:v=>v.toFixed(2),
+  th:{eh:1.4,wh:1.15,wl:.87,el:.71,hi:"long",lo:"short"},
+  ex:"主动吃单的买卖量比,反映即时攻击性方向。>1 买方主动,<1 卖方主动。日内意义大,周期级作辅助。"},
+ {k:"pbasis",n:"永续基差",f:v=>(v>0?"+":"")+v.toFixed(3)+"%",
+  th:{eh:.15,wh:.05,wl:-.03,el:-.1,hi:"long",lo:"short"},
+  ex:"永续标记价对现货指数的偏离。升水=多头狂热,贴水=恐慌折价。深贴水常出现在投降区域。"},
+ {k:"qbasis",n:"季度基差",f:v=>(v>0?"+":"")+v.toFixed(2)+"%",
+  th:{eh:5,wh:2.5,wl:0,el:-1,hi:"long",lo:"short"},
+  ex:"季度合约对现货的年化升贴水,反映中期杠杆情绪。深度贴水(负)历来是投降区域的味道之一。"},
+ {k:"dvol",n:"DVOL · BTC 的 VIX",f:v=>v.toFixed(1),
+  th:{eh:95,wh:75,wl:35,el:28,hi:null,lo:null},
+  ex:"Deribit 期权隐含波动率指数=恐惧水位。不计方向。极低的平静里酝酿相变,极高处接近情绪宣泄。"},
+ {k:"skew",n:"25Δ skew · 近月",f:v=>(v>0?"+":"")+v.toFixed(1),
+  th:{eh:15,wh:8,wl:-3,el:-8,hi:"short",lo:"long"},
+  ex:"put 与 call 的隐含波动率差。正=put 更贵=怕跌(恐惧)。翘到极端=下行恐惧饱和,反向轧空土壤;转负=贪婪(怕踏空)。"},
+ {k:"term",n:"期限结构斜率",f:v=>(v>0?"+":"")+v.toFixed(1),
+  th:{eh:6,wh:2,wl:-2,el:-6,hi:"long",lo:"short"},
+  ex:"次月 ATM 波动率减近月。负=倒挂=市场对眼前事件极度紧张(常见于恐慌或大事件前)。"},
+];
+const VCN={long:["偏多","多头拥挤"],short:["偏空","空头拥挤"],null:["中性","中性"]};
+
+/* ---- BS delta(用 mark IV 反推,定位 25Δ) ---- */
+function ncdf(x){return .5*(1+erf(x/Math.SQRT2))}
+function erf(x){const s=x<0?-1:1;x=Math.abs(x);const a1=.254829592,a2=-.284496736,a3=1.421413741,a4=-1.453152027,a5=1.061405429,p=.3275911;const t=1/(1+p*x);return s*(1-((((a5*t+a4)*t+a3)*t+a2)*t+a1)*t*Math.exp(-x*x))}
+function bsd(S,K,T,iv,c){if(T<=0||iv<=0)return null;const d1=(Math.log(S/K)+.5*iv*iv*T)/(iv*Math.sqrt(T));return c?ncdf(d1):ncdf(d1)-1}
+const MON={JAN:0,FEB:1,MAR:2,APR:3,MAY:4,JUN:5,JUL:6,AUG:7,SEP:8,OCT:9,NOV:10,DEC:11};
+function pInst(n){const p=n.split("-");if(p.length!==4)return null;const d=p[1],day=parseInt(d.slice(0,-5)),mo=MON[d.slice(-5,-2)],yr=2000+parseInt(d.slice(-2));if(isNaN(day)||mo===undefined)return null;return{exp:Date.UTC(yr,mo,day,8)/1000,k:parseFloat(p[2]),c:p[3]==="C"}}
+
+async function pull(){
+ const s={};
+ const pr=await j(`${FAPI}/fapi/v1/premiumIndex?symbol=${SYM}`);
+ const mk=+pr.markPrice, ix=+pr.indexPrice;
+ s.price=ix; s.funding=+pr.lastFundingRate; s.pbasis=(mk-ix)/ix*100;
+ try{const t=await j(`${FAPI}/fapi/v1/ticker/24hr?symbol=${SYM}`);s.chg24=+t.priceChangePercent;}catch(e){}
+ const T={
+  oi:j(`${FAPI}/futures/data/openInterestHist?symbol=${SYM}&period=1h&limit=48`),
+  top:j(`${FAPI}/futures/data/topLongShortPositionRatio?symbol=${SYM}&period=1h&limit=2`),
+  gl:j(`${FAPI}/futures/data/globalLongShortAccountRatio?symbol=${SYM}&period=1h&limit=2`),
+  tk:j(`${FAPI}/futures/data/takerlongshortRatio?symbol=${SYM}&period=1h&limit=2`),
+  bs:j(`${FAPI}/futures/data/basis?pair=${SYM}&contractType=CURRENT_QUARTER&period=1h&limit=2`),
+  di:j(`${DRB}/public/get_index_price?index_name=btc_usd`),
+  dv:j(`${DRB}/public/get_volatility_index_data?currency=BTC&resolution=3600&start_timestamp=${Date.now()-1728e5}&end_timestamp=${Date.now()}`),
+  bk:j(`${DRB}/public/get_book_summary_by_currency?currency=BTC&kind=option`),
+ };
+ const r={};
+ for(const[k,p]of Object.entries(T)){try{r[k]=await p}catch(e){console.warn(k,e.message)}}
+ if(r.oi&&r.oi.length>=25){const a=+r.oi.at(-1).sumOpenInterest,b=+r.oi.at(-25).sumOpenInterest;s.oichg=(a-b)/b*100}
+ if(r.top)s.topls=+r.top.at(-1).longShortRatio;
+ if(r.gl)s.globls=+r.gl.at(-1).longShortRatio;
+ if(r.tk)s.taker=+r.tk.at(-1).buySellRatio;
+ if(r.bs)s.qbasis=+r.bs.at(-1).basisRate*100;
+ if(r.dv?.result?.data?.length)s.dvol=r.dv.result.data.at(-1)[4];
+ if(r.bk?.result&&r.di){
+  const S=r.di.result.index_price, now=Date.now()/1000, by={};
+  for(const it of r.bk.result){const p=pInst(it.instrument_name||"");const iv=it.mark_iv;
+   if(!p||!iv||iv<=0)continue;const dd=(p.exp-now)/86400;if(dd<5)continue;(by[p.exp]=by[p.exp]||[]).push({...p,iv:+iv})}
+  const ex=Object.keys(by).map(Number).sort((a,b)=>a-b);
+  const met=e=>{const Ty=(e-now)/86400/365,rs=by[e];let atm=rs.reduce((m,x)=>Math.abs(x.k-S)<Math.abs(m.k-S)?x:m,rs[0]).iv,bp=null,bc=null;
+   for(const x of rs){const d=bsd(S,x.k,Ty,x.iv/100,x.c);if(d===null)continue;
+    if(!x.c&&x.k<S){const g=Math.abs(d+.25);if(!bp||g<bp.g)bp={g,iv:x.iv}}
+    if(x.c&&x.k>S){const g=Math.abs(d-.25);if(!bc||g<bc.g)bc={g,iv:x.iv}}}
+   return{atm,skew:(bp&&bc)?bp.iv-bc.iv:null}};
+  if(ex.length){const nr=met(ex[0]);s.skew=nr.skew;const lt=ex.find(e=>(e-ex[0])/86400>=14);if(lt)s.term=met(lt).atm-nr.atm}
+ }
+ if(s.price===undefined)throw new Error("core missing");
+ s.ts=new Date().toISOString();
+ return s;
+}
+
+function flag(m,v){
+ const t=m.th;if(v==null||(t.hi===null&&t.lo===null))return{lvl:0,side:null};
+ if(v>=t.eh)return{lvl:2,side:t.hi};
+ if(v>=t.wh)return{lvl:1,side:t.hi};
+ if(v<=t.el)return{lvl:2,side:t.lo};
+ if(v<=t.wl)return{lvl:1,side:t.lo};
+ return{lvl:0,side:null};
+}
+
+function paint(s,src){
+ if(s.price)window.LAST_BTC=s.price;
+ $("price").textContent=s.price?Math.round(s.price).toLocaleString()+" ":"——";
+ if(s.chg24!=null){$("chg").textContent=(s.chg24>0?"+":"")+s.chg24.toFixed(2)+"% 24h";
+  $("chg").style.color=s.chg24>=0?"var(--long)":"var(--short)"}
+ $("ts").textContent=(s.ts||"").replace("T"," ").slice(5,16)+"Z";
+ const c=$("src");c.textContent=src==="live"?"实时":"快照";c.className=src;
+
+ let score=0,wt=0;
+ const g=$("grid");g.innerHTML="";
+ for(const m of M){
+  const v=s[m.k];const fl=flag(m,v);
+  if(fl.side==="long")score+=fl.lvl;else if(fl.side==="short")score-=fl.lvl;
+  if(m.th.hi!==null)wt+=2;
+  const cls=fl.lvl?(fl.side||"warn"):"";
+  const vt=fl.side?VCN[fl.side][fl.lvl===2?1:0]:(m.th.hi===null&&v!=null?"—":"中性");
+  const el=document.createElement("div");el.className="card "+cls;
+  el.innerHTML=`<div class="top"><span class="nm">${m.n}</span><span class="verdict">${vt}</span></div>
+   <div class="val">${v==null?"——":m.f(v)}</div>
+   <div class="exp">${m.ex}</div>`;
+  g.appendChild(el);
+ }
+ const bias=wt?Math.round(score/wt*100):0;
+ $("ndl").style.left=Math.max(2,Math.min(98,(bias+100)/2))+"%";
+ const vtxt=bias>25?"多头侧拥挤":bias>8?"偏多":bias<-25?"空头侧拥挤":bias<-8?"偏空":"平衡";
+ const vc=bias>8?"var(--long)":bias<-8?"var(--short)":"var(--dim)";
+ $("verdict").textContent=(bias>0?"+":"")+bias+" · "+vtxt;
+ $("verdict").style.color=vc;
+ $("cnote").textContent=Math.abs(bias)>25
+  ? `读数偏向${bias>0?"多头":"空头"}侧拥挤。注意:这是"该侧已饱和"的警报——拥挤的一侧正是反向意外冲击最大的一侧,不是顺势加仓的依据。`
+  : Math.abs(bias)>8
+  ? `轻度偏向${bias>0?"多头":"空头"}侧,尚未到极端。多数指标在中性区,意味着此刻没有明显的拥挤可利用。`
+  : `各指标方向分散、相互抵消,处在平衡区。近均衡状态下市场近似有效,通常没有可利用的拥挤——空手等待优于强行下注。`;
+}
+
+async function load(){
+ $("src").textContent="连接中";$("src").className="";
+ try{paint(await pull(),"live")}
+ catch(e){
+  console.warn("实时失败,回退快照",e.message);
+  try{paint(await j("./data/latest.json"),"snap")}
+  catch(e2){
+   $("src").textContent="无数据";$("src").className="dead";
+   $("cnote").textContent="实时接口被地区或跨域策略拦截,且本地未找到 data/latest.json 快照。可在能联网的环境(如本地 Actions)跑一次取数脚本生成快照,本页会自动回退显示。";
+  }
+ }
+}
+$("refresh").addEventListener("click",load);
+load();
+setInterval(load,60000); /* 每 60s 自动刷新 */
+
+/* ---- MSTR 监控:读 data/mstr.json 慢变量,用罗盘的 BTC 价实时算 ---- */
+let LAST_BTC=null;
+async function loadMstr(){
+ const g=$("mstrgrid");if(!g)return;
+ let cfg;
+ try{cfg=await j("./data/mstr.json")}
+ catch(e){g.innerHTML='<div class="card"><div class="exp">未找到 data/mstr.json。把它放在网页同目录的 data/ 下即可显示 MSTR 监控(mNAV、距成本线、股息覆盖)。</div></div>';return}
+ const btc=window.LAST_BTC, th=cfg.thresholds, cards=[];
+ // 距成本线
+ if(btc){const d=(btc-cfg.avg_cost_usd)/cfg.avg_cost_usd*100;
+  cards.push({nm:"距 MSTR 成本线",val:(d>0?"+":"")+d.toFixed(1)+"%",
+   cls:btc<cfg.avg_cost_usd?"short":(d<8?"warn":""),
+   vt:btc<cfg.avg_cost_usd?"浮亏":(d<8?"逼近":"有缓冲"),
+   ex:`MSTR 平均成本 $${cfg.avg_cost_usd.toLocaleString()}(以 SEC 8-K 为准)。跌破=整个仓位浮亏。`})}
+ // mNAV
+ const mnav=cfg.last_mstr_marketcap_musd&&btc?cfg.last_mstr_marketcap_musd/(btc*cfg.btc_holdings/1e6):cfg.premium_hint;
+ if(mnav){const lvl=mnav<=th.mnav_extreme?"short":(mnav<=th.mnav_warn?"warn":"");
+  cards.push({nm:"mNAV",val:mnav.toFixed(2),cls:lvl,
+   vt:mnav<=th.mnav_extreme?"飞轮反转":(mnav<=th.mnav_warn?"逼近 1.0":"溢价中"),
+   ex:`市值/持仓净值。${cfg.last_mstr_marketcap_musd?"真实市值":"手填提示值,非实时"}。跌破 1.0=增发变折价稀释、被迫卖币概率跳升。`})}
+ // 股息覆盖
+ if(cfg.usd_reserve_musd&&cfg.annual_dividends_musd){const m=cfg.usd_reserve_musd/(cfg.annual_dividends_musd/12);
+  cards.push({nm:"USD 股息覆盖",val:m.toFixed(1)+" 月",
+   cls:m<6?"short":(m<th.dividend_months_warn?"warn":""),
+   vt:m<6?"紧张":(m<th.dividend_months_warn?"偏紧":"充足"),
+   ex:`现金够付几个月优先股息。偏低=融资压力,逼近被迫卖币。`})}
+ // 卖币行为
+ if(th.selling_btc){cards.push({nm:"卖币状态",val:"已卖",cls:"warn",vt:"铁律松动",
+   ex:`已开始卖币付息(2026-06-01 起)。规模显著扩大=Saylor"绝不卖"实质破裂——读 8-K 文件,别听 X 表态。`})}
+ g.innerHTML=cards.map(c=>`<div class="card ${c.cls}"><div class="top"><span class="nm">${c.nm}</span><span class="verdict">${c.vt}</span></div><div class="val">${c.val}</div><div class="exp">${c.ex}</div></div>`).join("");
+}
+loadMstr();
+setInterval(loadMstr,60000);
+
+/* ---- 关键位 + 斐波那契 + 重合带:用现价 + data/levels.json 实时算 ---- */
+const FIB_R=[0.236,0.382,0.5,0.618,0.786], FIB_E=[1.272,1.618];
+async function loadLevels(){
+ const g=$("lvlgrid");if(!g)return;
+ let cfg;
+ try{cfg=await j("./data/levels.json")}
+ catch(e){g.innerHTML='<div class="card"><div class="exp">未找到 data/levels.json。放进同目录 data/ 即可显示支撑/阻力/斐波那契的重合带。</div></div>';return}
+ const spot=window.LAST_BTC||cfg.spot_ref;
+ let all=(cfg.levels||[]).slice();
+ const sw=cfg.fib_swing;
+ if(sw&&sw.high&&sw.low){const R=sw.high-sw.low;
+  FIB_R.forEach(f=>all.push({price:Math.round(sw.high-R*f),src:"fib",label:`fib ${f} 回撤`}));
+  FIB_E.forEach(f=>{all.push({price:Math.round(sw.low+R*f),src:"fib",label:`fib ${f} 扩展`})});}
+ (cfg.cme_gaps||[]).forEach(gp=>{if(!gp.filled)all.push({price:Math.round((gp.low+gp.high)/2),src:"CME",label:gp.label||"CME 缺口"})});
+ // 阶段三自动算的未回补 CME 缺口(fetch_cme_gaps.py → data/cme_gaps.json)并入重合图
+ try{const cg=await j("./data/cme_gaps.json");
+  (cg.gaps||[]).forEach(gp=>all.push({price:gp.mid,src:"CME",
+    label:`CME缺口 ${Math.round(gp.low/1000)}–${Math.round(gp.high/1000)}k`}));
+ }catch(e){/* 没有就只用 levels.json 手填的缺口 */}
+ all=all.filter(x=>x.price>0).sort((a,b)=>a.price-b.price);
+ // 聚类
+ const pct=cfg.confluence_pct||1.5, bands=[]; let cur=[];
+ for(const lv of all){
+  if(!cur.length){cur=[lv];continue}
+  if(Math.abs(lv.price-cur.at(-1).price)/cur.at(-1).price*100<=pct)cur.push(lv);
+  else{bands.push(cur);cur=[lv]}}
+ if(cur.length)bands.push(cur);
+ const out=bands.map(b=>{const ps=b.map(x=>x.price),srcs=[...new Set(b.map(x=>x.src))],mid=ps.reduce((a,c)=>a+c,0)/ps.length;
+  return{mid:Math.round(mid),srcs,conf:srcs.length>=2,side:mid>spot?"上方":"下方",
+   dist:((mid-spot)/spot*100),members:b.map(x=>x.label)}})
+  .sort((a,b)=>Math.abs(a.dist)-Math.abs(b.dist));
+ // 展示:重合带 + 最近的未回补 CME 缺口(已知磁吸,即使单线也高亮)+ 离现价最近的几个普通单线
+ const conf=out.filter(b=>b.conf);
+ const gaps=out.filter(b=>!b.conf&&b.srcs.includes("CME")).slice(0,2);
+ const near=out.filter(b=>!b.conf&&!b.srcs.includes("CME")).slice(0,3);
+ const show=[...conf,...gaps,...near].filter((b,i,a)=>a.indexOf(b)===i)
+  .sort((a,b)=>Math.abs(a.dist)-Math.abs(b.dist)).slice(0,9);
+ g.innerHTML=show.map(b=>{
+  const isGap=!b.conf&&b.srcs.includes("CME");
+  const cls=b.conf?(b.side==="上方"?"short":"long"):(isGap?"warn":"");  // 重合带染色;CME 缺口琥珀高亮;普通单线不染色
+  const vt=b.conf?`重合 ×${b.srcs.length}`:(isGap?"CME 缺口":"单线");
+  const exp=b.conf?" — 多来源叠加,真磁吸/阻力。"
+            :isGap?" — 未回补 CME 周末缺口,价格的已知磁吸目标(多数缺口终被回补)。"
+            :" — 单一来源,信噪低,仅供参考。";
+  return `<div class="card ${cls}"><div class="top"><span class="nm">${b.mid.toLocaleString()} · ${b.side} ${b.dist>0?"+":""}${b.dist.toFixed(1)}%</span><span class="verdict">${vt}</span></div>
+   <div class="val" style="font-size:13px">${b.conf?b.srcs.join(" + "):b.srcs[0]}</div>
+   <div class="exp">${b.members.join(" / ")}${exp}</div></div>`;
+ }).join("");
+}
+loadLevels();
+setInterval(loadLevels,60000);
+</script>
+</body>
+</html>

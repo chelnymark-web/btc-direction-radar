@@ -1,0 +1,335 @@
+{
+  "ts": "2026-06-26T11:32:29+00:00",
+  "spot": 59417.3476087,
+  "bands": [
+    {
+      "lo": 59557,
+      "hi": 60000,
+      "mid": 59778,
+      "members": [
+        "前低/最强支撑",
+        "6万 gamma 开关(持续跌破=做市商对冲转追跌、下方加速区)"
+      ],
+      "sources": [
+        "gamma",
+        "结构"
+      ],
+      "n_sources": 2,
+      "confluence": true,
+      "side": "上方",
+      "dist_pct": 0.6
+    },
+    {
+      "lo": 60961,
+      "hi": 60961,
+      "mid": 60961,
+      "members": [
+        "pivot S2"
+      ],
+      "sources": [
+        "pivot"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "上方",
+      "dist_pct": 2.6
+    },
+    {
+      "lo": 61951,
+      "hi": 62700,
+      "mid": 62326,
+      "members": [
+        "pivot S1",
+        "结构线(丢了破坏当前结构)"
+      ],
+      "sources": [
+        "pivot",
+        "结构"
+      ],
+      "n_sources": 2,
+      "confluence": true,
+      "side": "上方",
+      "dist_pct": 4.9
+    },
+    {
+      "lo": 64345,
+      "hi": 64345,
+      "mid": 64345,
+      "members": [
+        "pivot R1"
+      ],
+      "sources": [
+        "pivot"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "上方",
+      "dist_pct": 8.3
+    },
+    {
+      "lo": 65749,
+      "hi": 65749,
+      "mid": 65749,
+      "members": [
+        "pivot R2 / 50-EMA 附近"
+      ],
+      "sources": [
+        "pivot"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "上方",
+      "dist_pct": 10.7
+    },
+    {
+      "lo": 66739,
+      "hi": 66739,
+      "mid": 66739,
+      "members": [
+        "pivot R3"
+      ],
+      "sources": [
+        "pivot"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "上方",
+      "dist_pct": 12.3
+    },
+    {
+      "lo": 68000,
+      "hi": 68000,
+      "mid": 68000,
+      "members": [
+        "CME 缺口(本地 TradingView 确认确切边界)"
+      ],
+      "sources": [
+        "CME"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "上方",
+      "dist_pct": 14.4
+    },
+    {
+      "lo": 70806,
+      "hi": 70806,
+      "mid": 70806,
+      "members": [
+        "50 日均线"
+      ],
+      "sources": [
+        "MA"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "上方",
+      "dist_pct": 19.2
+    },
+    {
+      "lo": 73776,
+      "hi": 73776,
+      "mid": 73776,
+      "members": [
+        "fib 0.786 回撤"
+      ],
+      "sources": [
+        "fib"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "上方",
+      "dist_pct": 24.2
+    },
+    {
+      "lo": 75017,
+      "hi": 75700,
+      "mid": 75358,
+      "members": [
+        "200 日均线",
+        "MSTR 平均成本线"
+      ],
+      "sources": [
+        "MA",
+        "MSTR"
+      ],
+      "n_sources": 2,
+      "confluence": true,
+      "side": "上方",
+      "dist_pct": 26.8
+    },
+    {
+      "lo": 41485,
+      "hi": 41485,
+      "mid": 41485,
+      "members": [
+        "fib 1.272 扩展(下)"
+      ],
+      "sources": [
+        "fib"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "下方",
+      "dist_pct": -30.2
+    },
+    {
+      "lo": 84938,
+      "hi": 84938,
+      "mid": 84938,
+      "members": [
+        "fib 0.618 回撤"
+      ],
+      "sources": [
+        "fib"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "上方",
+      "dist_pct": 43.0
+    },
+    {
+      "lo": 92778,
+      "hi": 92778,
+      "mid": 92778,
+      "members": [
+        "fib 0.500 回撤"
+      ],
+      "sources": [
+        "fib"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "上方",
+      "dist_pct": 56.1
+    },
+    {
+      "lo": 18495,
+      "hi": 18495,
+      "mid": 18495,
+      "members": [
+        "fib 1.618 扩展(下)"
+      ],
+      "sources": [
+        "fib"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "下方",
+      "dist_pct": -68.9
+    },
+    {
+      "lo": 100619,
+      "hi": 100619,
+      "mid": 100619,
+      "members": [
+        "fib 0.382 回撤"
+      ],
+      "sources": [
+        "fib"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "上方",
+      "dist_pct": 69.3
+    },
+    {
+      "lo": 110319,
+      "hi": 110319,
+      "mid": 110319,
+      "members": [
+        "fib 0.236 回撤"
+      ],
+      "sources": [
+        "fib"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "上方",
+      "dist_pct": 85.7
+    },
+    {
+      "lo": 144072,
+      "hi": 144072,
+      "mid": 144072,
+      "members": [
+        "fib 1.272 扩展(上)"
+      ],
+      "sources": [
+        "fib"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "上方",
+      "dist_pct": 142.5
+    },
+    {
+      "lo": 167062,
+      "hi": 167062,
+      "mid": 167062,
+      "members": [
+        "fib 1.618 扩展(上)"
+      ],
+      "sources": [
+        "fib"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "上方",
+      "dist_pct": 181.2
+    }
+  ],
+  "confluence_bands": [
+    {
+      "lo": 59557,
+      "hi": 60000,
+      "mid": 59778,
+      "members": [
+        "前低/最强支撑",
+        "6万 gamma 开关(持续跌破=做市商对冲转追跌、下方加速区)"
+      ],
+      "sources": [
+        "gamma",
+        "结构"
+      ],
+      "n_sources": 2,
+      "confluence": true,
+      "side": "上方",
+      "dist_pct": 0.6
+    },
+    {
+      "lo": 61951,
+      "hi": 62700,
+      "mid": 62326,
+      "members": [
+        "pivot S1",
+        "结构线(丢了破坏当前结构)"
+      ],
+      "sources": [
+        "pivot",
+        "结构"
+      ],
+      "n_sources": 2,
+      "confluence": true,
+      "side": "上方",
+      "dist_pct": 4.9
+    },
+    {
+      "lo": 75017,
+      "hi": 75700,
+      "mid": 75358,
+      "members": [
+        "200 日均线",
+        "MSTR 平均成本线"
+      ],
+      "sources": [
+        "MA",
+        "MSTR"
+      ],
+      "n_sources": 2,
+      "confluence": true,
+      "side": "上方",
+      "dist_pct": 26.8
+    }
+  ]
+}
