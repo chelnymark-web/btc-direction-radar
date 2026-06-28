@@ -113,6 +113,8 @@ button:focus-visible{outline:2px solid var(--amber);outline-offset:2px}
 </header>
 <div class="tagline">把衍生品 · 流动性(usdt) · 价格位置 · 事件 合成一个方向概率 — 极端读作"该侧饱和、警惕反转",非顺势信号</div>
 
+<div id="netbanner" style="display:none;margin:-8px 0 16px;padding:9px 13px;border-radius:8px;background:rgba(245,166,35,.10);border:1px solid #5e4a1e;color:var(--amber);font-size:12.5px;line-height:1.6"></div>
+
 <!-- HERO -->
 <div class="hero">
   <div class="dialcard">
@@ -581,6 +583,17 @@ async function load(){
  else if(liq._fail&&deriv._fails.length){sc.textContent="部分";sc.className="partial"}
  else if(deriv._fails.length||liq._fail){sc.textContent="部分实时";sc.className="partial"}
  else{sc.textContent="实时";sc.className="live"}
+
+ // 缺数据时给一条醒目提示,别让用户对着一堆"——"发懵
+ const banner=$("netbanner"), noBinance=(deriv?.price==null);
+ if(src==="snap"||noBinance){
+  banner.style.display="block";
+  banner.innerHTML='⚠ 现在是<b>快照模式</b>:你浏览器没连上交易所(多半<b>代理没开</b>或掉线),所以价格/资金费率等显示"——"。'
+   +'打开你的代理(全局/规则模式)后按 <b>Ctrl+Shift+R</b> 刷新,这些就会变成实时数字。宏观/股指/事件不受影响照常显示。';
+ }else if(sc.className==="partial"){
+  banner.style.display="block";
+  banner.innerHTML='部分数据没拿到(某些接口被限流或拦截)。可稍后自动刷新重试,或检查代理是否稳定。';
+ }else{banner.style.display="none";}
 }
 $("refresh").addEventListener("click",load);
 load();
