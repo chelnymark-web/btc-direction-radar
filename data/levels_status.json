@@ -1,6 +1,6 @@
 {
-  "ts": "2026-06-28T16:02:53+00:00",
-  "spot": 59944.7,
+  "ts": "2026-06-28T16:05:52+00:00",
+  "spot": 59924.99,
   "bands": [
     {
       "lo": 59557,
@@ -17,7 +17,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "下方",
-      "dist_pct": -0.3
+      "dist_pct": -0.2
     },
     {
       "lo": 60961,
@@ -64,7 +64,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 7.3
+      "dist_pct": 7.4
     },
     {
       "lo": 65749,
@@ -94,7 +94,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 11.3
+      "dist_pct": 11.4
     },
     {
       "lo": 68000,
@@ -109,7 +109,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 13.4
+      "dist_pct": 13.5
     },
     {
       "lo": 70806,
@@ -124,7 +124,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 18.1
+      "dist_pct": 18.2
     },
     {
       "lo": 73776,
@@ -156,7 +156,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "上方",
-      "dist_pct": 25.7
+      "dist_pct": 25.8
     },
     {
       "lo": 41485,
@@ -246,7 +246,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 84.0
+      "dist_pct": 84.1
     },
     {
       "lo": 144072,
@@ -261,7 +261,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 140.3
+      "dist_pct": 140.4
     },
     {
       "lo": 167062,
@@ -276,7 +276,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 178.7
+      "dist_pct": 178.8
     }
   ],
   "confluence_bands": [
@@ -295,7 +295,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "下方",
-      "dist_pct": -0.3
+      "dist_pct": -0.2
     },
     {
       "lo": 61951,
@@ -329,7 +329,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "上方",
-      "dist_pct": 25.7
+      "dist_pct": 25.8
     }
   ]
 }
