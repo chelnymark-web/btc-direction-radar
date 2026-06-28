@@ -138,6 +138,9 @@ button:focus-visible{outline:2px solid var(--amber);outline-offset:2px}
   <div class="breakdown" id="breakdown"></div>
 </div>
 
+<div class="section-h">见顶 / 下行风险 · 触发器亮灯(🔴 满足=风险跳升,盯它别猜)</div>
+<div class="grid" id="riskgrid"></div>
+
 <div class="section-h">衍生品仪表 · binance + deribit 直拉</div>
 <div class="grid" id="derivgrid"></div>
 
@@ -386,7 +389,7 @@ function renderLiq(liq){
   $("liqgrid").appendChild(el);}
 }
 
-let POS_DIR=null;
+let POS_DIR=null, RISK_SUPPORT=null;
 async function loadPos(price){
  const g=$("posgrid");
  let cfg;
@@ -412,6 +415,7 @@ async function loadPos(price){
   return{mid:Math.round(mid),srcs,conf:srcs.length>=2,side:mid>price?"上":"下",dist:(mid-price)/price*100,members:b.map(x=>x.label)}});
  const up=out.filter(b=>b.side==="上"&&b.conf).sort((a,b)=>a.dist-b.dist)[0];
  const dn=out.filter(b=>b.side==="下"&&b.conf).sort((a,b)=>b.dist-a.dist)[0];
+ RISK_SUPPORT=dn||null;  // 最近的下方重合支撑带,供"见顶风险"面板做跌破触发线
  // 位置方向:离下方支撑越近=越偏多(易反弹),离上方阻力越近=越偏空
  if(up&&dn){const du=Math.abs(up.dist),dd=Math.abs(dn.dist);POS_DIR=clamp((du-dd)/(du+dd))}
  else POS_DIR=null;
@@ -448,6 +452,51 @@ async function loadEvents(){
    <div class="evtag ${hot?"hot":""}">${hot?"高影响":(e.tag||"事件")}</div></div>`;
  }).join("");
  EV_DIR=null; // 事件方向偏向需人工判断,默认中性不强加方向
+}
+
+/* ============ 见顶/下行风险触发器 ============ */
+// 阈值放这里,想调就调。逻辑:满足=该风险"已触发"(红),接近=黄,否则绿。
+const RISK_TH={
+ vix_trip:25, vix_warn:22,           // VIX 上破 25 = risk-off 正式转向
+ ndx_dod:-2.5, ndx_w5:-6, ndx_warn_w5:-3,   // 纳指单日急挫或 5 日累跌过深 = 领先转弱
+ dxy_trip:102, dxy_warn:101,         // 美元破位上行(且 5 日走强)= 流动性收紧
+ support_fallback:59800,             // 拿不到重合支撑带时的兜底跌破线
+};
+function rlight(s){return s==='hit'?'🔴':s==='warn'?'🟡':'🟢'}
+function renderTopRisk(macro, price){
+ const g=$("riskgrid"); if(!g) return;
+ const comps=(macro&&macro.components)||{};
+ const items=[];
+ // 1) VIX 恐慌转向
+ const vix=comps.vix?comps.vix.value:null;
+ if(vix!=null){const st=vix>=RISK_TH.vix_trip?'hit':vix>=RISK_TH.vix_warn?'warn':'ok';
+  items.push({nm:'VIX 恐慌转向',val:vix.toFixed(1)+' / 阈值 25',st,
+   ex:'>25=risk-off 正式转向。真正的顶通常伴随 VIX 飙升;低位=还没恐慌。'});}
+ // 2) BTC 跌破关键支撑
+ const sup=(RISK_SUPPORT&&RISK_SUPPORT.mid)||RISK_TH.support_fallback;
+ if(price){const st=price<sup?'hit':price<sup*1.01?'warn':'ok';
+  items.push({nm:'BTC 跌破关键支撑',val:Math.round(price).toLocaleString()+' / 支撑 '+Math.round(sup).toLocaleString(),st,
+   ex:`跌破 ${Math.round(sup).toLocaleString()} 重合支撑带=结构破坏、下方加速区。`});}
+ // 3) 纳指破位
+ const ndx=comps.ndx;
+ if(ndx){const st=(ndx.dod_pct<=RISK_TH.ndx_dod||ndx.w5_pct<=RISK_TH.ndx_w5)?'hit':(ndx.w5_pct<=RISK_TH.ndx_warn_w5?'warn':'ok');
+  items.push({nm:'纳指破位(BTC 天花板)',val:`日 ${ndx.dod_pct>0?'+':''}${ndx.dod_pct}% · 5日 ${ndx.w5_pct>0?'+':''}${ndx.w5_pct}%`,st,
+   ex:'科技股=BTC 天花板。单日急挫或 5 日累跌过深=领先转弱、压顶。'});}
+ // 4) 美元走强 = 流动性收紧
+ const dxy=comps.dxy;
+ if(dxy){const rising=dxy.w5_pct>0;const st=(dxy.value>=RISK_TH.dxy_trip&&rising)?'hit':((dxy.value>=RISK_TH.dxy_warn&&rising)?'warn':'ok');
+  items.push({nm:'美元走强(流动性收紧)',val:dxy.value.toFixed(2)+` · 5日 ${dxy.w5_pct>0?'+':''}${dxy.w5_pct}%`,st,
+   ex:'美元破位上行=全球流动性收紧、压制风险资产(对 BTC 偏空)。'});}
+ // 汇总
+ const hits=items.filter(i=>i.st==='hit').length, warns=items.filter(i=>i.st==='warn').length;
+ const ss=hits>=2?'hit':(hits>=1||warns>=2?'warn':'ok');
+ const sum=`<div class="card ${ss==='hit'?'short':ss==='warn'?'amber':''}" style="grid-column:1/-1">
+  <div class="top"><span class="nm">触发汇总</span><span class="vd">${hits} 已触发 · ${warns} 接近</span></div>
+  <div class="val">${rlight(ss)} ${hits>=2?'见顶/下行风险升高':hits>=1?'有苗头,盯紧':'尚未确认见顶'}</div>
+  <div class="ex">${hits>=2?'多个触发器同时满足=风险明显升高,优先防守。':hits>=1?'已有触发器满足,看其余是否跟上确认。':'触发器多数未满足=暂无确认的见顶信号;而空头已拥挤,提防"先轧一波再跌"。'}</div></div>`;
+ g.innerHTML=sum+items.map(i=>`<div class="card ${i.st==='hit'?'short':i.st==='warn'?'amber':''}">
+  <div class="top"><span class="nm">${i.nm}</span><span class="vd">${i.st==='hit'?'已触发':i.st==='warn'?'接近':'未触发'}</span></div>
+  <div class="val" style="font-size:14px">${rlight(i.st)} ${i.val}</div><div class="ex">${i.ex}</div></div>`).join('');
 }
 
 function renderHero(c){
@@ -516,6 +565,7 @@ async function load(){
  renderMacro(macro);
  renderLiq(liq);
  await loadPos(price);
+ renderTopRisk(macro, price);
  await loadEvents();
 
  // 合成概率
