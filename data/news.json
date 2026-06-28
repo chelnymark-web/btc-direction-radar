@@ -3,6 +3,36 @@
   "mode": "news",
   "items": [
     {
+      "source": "CoinDesk",
+      "title": "Samson Mow says bitcoin bottom is in despite skepticism from analysts",
+      "link": "https://www.coindesk.com/markets/2026/06/28/samson-mow-says-bitcoin-bottom-is-in-but-analysts-remain-divided",
+      "published": "2026-06-28T15:07+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Michael Saylor teases more bitcoin buying even as Strategy stock continues to fall",
+      "link": "https://www.coindesk.com/markets/2026/06/28/michael-saylor-teases-more-bitcoin-buying-even-as-strategy-stock-continues-to-fall",
+      "published": "2026-06-28T15:02+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SBI's $289 million Bitbank deal is symptomatic of Japan's crypto consolidation: Architect Partners",
+      "link": "https://www.coindesk.com/business/2026/06/28/sbi-s-usd289-million-bitbank-deal-is-symptomatic-of-japan-s-crypto-consolidation-architect-partners",
+      "published": "2026-06-28T15:00+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-28T13:04+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto's next frontier isn't crypto, it's financing AI and robotics, Framework's Anderson says",
+      "link": "https://www.coindesk.com/business/2026/06/28/crypto-s-next-frontier-isn-t-crypto-it-s-financing-ai-and-robotics-framework-s-anderson-says",
+      "published": "2026-06-28T13:00+00:00"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Binance posts over $400M in weekly net outflows as MiCA deadline nears",
       "link": "https://cointelegraph.com/news/binance-400m-weekly-net-outflows-mica-deadline-nears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,12 +76,6 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-27T19:34+00:00"
-    },
-    {
-      "source": "Cointelegraph",
       "title": "Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss",
       "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-capitulation-risk-as-50k-btc-moves-at-a-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "2026-06-27T19:27+00:00"
@@ -79,43 +103,7 @@
       "title": "Average IBIT investor now down about 40% as spot bitcoin ETFs cap second-worst week on record",
       "link": "https://www.theblock.co/post/406451/average-ibit-investor-now-down-about-40-as-spot-bitcoin-etfs-cap-second-worst-week-on-record?utm_source=rss&utm_medium=rss",
       "published": "2026-06-27T16:29+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Coinbase, Circle underperform Big Tech as crypto stock slump deepens",
-      "link": "https://cointelegraph.com/news/crypto-stocks-underperform-tech-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-27T16:02+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tether putting $23 billion gold stockpile to work with bullion-backed loans",
-      "link": "https://www.coindesk.com/business/2026/06/27/tether-putting-usd23-billion-gold-stockpile-to-work-with-bullion-backed-loans",
-      "published": "2026-06-27T15:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Polymarket hack updated to $3.1 million days after the platform promised users full refunds",
-      "link": "https://www.coindesk.com/markets/2026/06/27/polymarket-hack-updated-to-usd3-1-million-days-after-the-platform-promised-users-full-refunds",
-      "published": "2026-06-27T14:13+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Coinbase and OKX try to lure in Binance’s EU users after it failed to secure a MiCA license",
-      "link": "https://www.coindesk.com/business/2026/06/27/coinbase-and-okx-try-to-lure-in-binance-s-450m-eu-users-after-failing-to-secure-a-mica-license",
-      "published": "2026-06-27T14:11+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Binance founder CZ blames crypto's sour 2026 on mix of AI, global tension, 4-year cycle",
-      "link": "https://www.coindesk.com/policy/2026/06/27/binance-founder-cz-blames-crypto-s-sour-2026-on-mix-of-ai-global-tension-4-year-cycle",
-      "published": "2026-06-27T13:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Strategy's valuation has fallen below the value of its bitcoin holdings",
-      "link": "https://www.coindesk.com/markets/2026/06/27/strategy-s-valuation-has-fallen-below-the-value-of-its-bitcoin-holdings",
-      "published": "2026-06-27T12:08+00:00"
     }
   ],
-  "generated": "2026-06-28T12:06:52+00:00"
+  "generated": "2026-06-28T16:02:54+00:00"
 }
