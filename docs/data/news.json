@@ -3,6 +3,18 @@
   "mode": "news",
   "items": [
     {
+      "source": "Cointelegraph",
+      "title": "Binance posts over $400M in weekly net outflows as MiCA deadline nears",
+      "link": "https://cointelegraph.com/news/binance-400m-weekly-net-outflows-mica-deadline-nears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-28T11:51+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Grayscale's Pandl hopes Strategy sells $3B in Bitcoin to restore confidence",
+      "link": "https://cointelegraph.com/news/grayscales-pandl-strategy-sells-3b-bitcoin-confidence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-28T07:59+00:00"
+    },
+    {
       "source": "CoinDesk",
       "title": "Bitcoin falls below $60,000, on track for a rare back-to-back quarterly loss",
       "link": "https://www.coindesk.com/markets/2026/06/28/bitcoin-falls-below-usd60-000-on-track-for-a-rare-back-to-back-quarterly-loss",
@@ -103,25 +115,7 @@
       "title": "Strategy's valuation has fallen below the value of its bitcoin holdings",
       "link": "https://www.coindesk.com/markets/2026/06/27/strategy-s-valuation-has-fallen-below-the-value-of-its-bitcoin-holdings",
       "published": "2026-06-27T12:08+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "SecondFi targets two-week recovery after Cardano wallet exploit",
-      "link": "https://cointelegraph.com/news/secondfi-two-week-recovery-cardano-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-27T12:00+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "EU lawmakers urge assessing DeFi, staking, NFT regulation",
-      "link": "https://cointelegraph.com/news/eu-lawmakers-assessing-defi-staking-nft-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-27T08:21+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ripple CEO stays bullish on bitcoin but says Saylor's strategy has hurt crypto",
-      "link": "https://www.coindesk.com/markets/2026/06/27/ripple-ceo-stays-bullish-on-bitcoin-but-says-saylor-s-strategy-has-hurt-crypto",
-      "published": "2026-06-27T07:58+00:00"
     }
   ],
-  "generated": "2026-06-28T07:51:48+00:00"
+  "generated": "2026-06-28T12:06:52+00:00"
 }

@@ -1,13 +1,13 @@
 {
-  "ts": "2026-06-28T07:51:12+00:00",
-  "deribit_index": 60131.88,
-  "dvol": 45.59,
-  "skew_25d": 9.240000000000002,
-  "atm_iv_near": 47.45,
-  "near_expiry_days": 5.0,
-  "atm_iv_next": 44.02,
-  "term_slope": -3.4299999999999997,
-  "next_expiry_days": 19.0,
+  "ts": "2026-06-28T12:06:18+00:00",
+  "deribit_index": 60294.27,
+  "dvol": 46.54,
+  "skew_25d": 11.030000000000001,
+  "atm_iv_near": 45.86,
+  "near_expiry_days": 11.8,
+  "atm_iv_next": 44.06,
+  "term_slope": -1.7999999999999972,
+  "next_expiry_days": 32.8,
   "flags": {
     "skew_25d": {
       "level": 1,
