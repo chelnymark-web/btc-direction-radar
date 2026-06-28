@@ -141,7 +141,7 @@ button:focus-visible{outline:2px solid var(--amber);outline-offset:2px}
 <div class="section-h">衍生品仪表 · binance + deribit 直拉</div>
 <div class="grid" id="derivgrid"></div>
 
-<div class="section-h">宏观 · 纳指 / dxy / vix / 油价(2026 最强驱动 · actions 端取数,网页读快照)</div>
+<div class="section-h">宏观 · 纳指 / 标普 / dxy / vix / 油价 + 全球股指参考(2026 最强驱动 · actions 端取数,网页读快照)</div>
 <div class="grid" id="macrogrid"></div>
 
 <div class="section-h">流动性 · usdt 发行量(defillama) + 稳定币资金面</div>
@@ -286,7 +286,7 @@ function renderMacro(macro){
   g.innerHTML='<div class="card cyan"><div class="ex">还没有 data/macro.json。本地或 Actions 跑一次 <code>python scripts/fetch_macro.py</code>(拉 Yahoo 纳指/DXY/VIX/油价)即可点亮这块——它是 2026 年 BTC 最强驱动维度。</div></div>';
   return;
  }
- const order=["ndx","dxy","vix","oil"];
+ const order=["ndx","gspc","dxy","vix","oil"];
  for(const k of order){const c=macro.components[k];if(!c)continue;
   const dir=c.direction, strong=c.level>=2;
   const cl=dir>0?"long":dir<0?"short":"";
@@ -305,6 +305,20 @@ function renderMacro(macro){
    <div class="val">${gold.value.toLocaleString()} <span style="font-size:12px;color:${gold.dod_pct>=0?'var(--long)':'var(--short)'}">${(gold.dod_pct>0?"+":"")+gold.dod_pct}%</span></div>
    <div class="ex">${macro.panic_extreme?"⚠ 纳指与黄金同向下跌=流动性危机/去货币化最深处,BTC 此时往往放大杀跌。":gold.note}</div>`;
   g.appendChild(el);}
+ // 参考股指(只展示,不进方向打分)
+ const idx=macro.indices||[];
+ if(idx.length){
+  const hdr=document.createElement("div");hdr.className="card cyan";
+  hdr.style.gridColumn="1/-1";hdr.style.padding="7px 14px";
+  hdr.innerHTML='<div class="ex" style="margin:0;padding:0;border:0;color:var(--dim)">▾ 下面是参考股指(看全球盘面,<b>不计入</b>方向打分——多数与纳指同步,计入会稀释信号)</div>';
+  g.appendChild(hdr);
+  for(const c of idx){const up=c.dod_pct>=0;
+   const el=document.createElement("div");el.className="card";
+   el.innerHTML=`<div class="top"><span class="nm">${c.name} <small style="color:var(--faint)">${c.symbol}</small></span><span class="vd">参考</span></div>
+    <div class="val" style="font-size:16px">${c.value.toLocaleString()} <span style="font-size:12px;color:${up?'var(--long)':'var(--short)'}">${(up?'+':'')+c.dod_pct}%</span></div>
+    <div class="ex">日 <span style="color:${up?'var(--long)':'var(--short)'}">${(up?'+':'')+c.dod_pct}%</span> · 5日 ${(c.w5_pct>=0?'+':'')+c.w5_pct}%</div>`;
+   g.appendChild(el);}
+ }
 }
 
 /* ============ 维度合成概率 ============ */
@@ -460,7 +474,7 @@ function renderHero(c){
 
 function renderBreakdown(c, derivD, macroD, liqD){
  const rows=[
-  {n:"宏观(纳指/DXY/VIX/油)",sub:"35% 权重",d:macroD},
+  {n:"宏观(纳指/标普/DXY/VIX/油)",sub:"35% 权重",d:macroD},
   {n:"衍生品拥挤度",sub:"30% 权重",d:derivD},
   {n:"价格位置",sub:"15% 权重",d:POS_DIR},
   {n:"流动性 USDT",sub:"12% 权重",d:liqD},

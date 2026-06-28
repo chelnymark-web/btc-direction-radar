@@ -66,12 +66,24 @@ def pct(a, b):
 
 # 每个资产:对 BTC 的方向符号 + 日变动的偏高/极端阈值(按各自波动校准)
 # btc_sign: 该资产上涨对 BTC 是利多(+1)还是利空(-1)
+# 参与方向打分:纳指为主力,标普作大盘佐证;其余股指只展示不打分(避免与纳指高度同步而稀释信号)。
 ASSETS = {
-    "ndx":  {"symbol": "^NDX",     "name": "纳指100",  "btc_sign": +1, "warn": 0.8, "ext": 2.0, "weight": 0.45},
+    "ndx":  {"symbol": "^NDX",     "name": "纳指100",  "btc_sign": +1, "warn": 0.8, "ext": 2.0, "weight": 0.38},
+    "gspc": {"symbol": "^GSPC",    "name": "标普500",  "btc_sign": +1, "warn": 0.7, "ext": 1.8, "weight": 0.12},
     "dxy":  {"symbol": "DX-Y.NYB", "name": "美元指数",  "btc_sign": -1, "warn": 0.3, "ext": 0.7, "weight": 0.25},
-    "vix":  {"symbol": "^VIX",     "name": "VIX恐慌",   "btc_sign": -1, "warn": 6.0, "ext": 15.0, "weight": 0.20},
+    "vix":  {"symbol": "^VIX",     "name": "VIX恐慌",   "btc_sign": -1, "warn": 6.0, "ext": 15.0, "weight": 0.15},
     "oil":  {"symbol": "CL=F",     "name": "WTI原油",   "btc_sign": -1, "warn": 2.0, "ext": 5.0,  "weight": 0.10},
 }
+
+# 仅展示、不进打分的全球股指(看盘面全局;与 BTC 相关较弱或偏滞后)
+INDICES = [
+    {"key": "dji",  "symbol": "^DJI",      "name": "道指"},
+    {"key": "hsi",  "symbol": "^HSI",      "name": "恒生"},
+    {"key": "sse",  "symbol": "000001.SS", "name": "上证综指"},
+    {"key": "n225", "symbol": "^N225",     "name": "日经225"},
+    {"key": "dax",  "symbol": "^GDAXI",    "name": "德国DAX"},
+    {"key": "sx5e", "symbol": "^STOXX50E", "name": "欧洲50"},
+]
 
 
 def level_of(change_pct, warn, ext):
@@ -88,6 +100,8 @@ def note_for(key, last, dod, w5, level, direction):
     base = f"{arrow}{dod:+.2f}%(5日 {w5:+.1f}%)"
     if key == "ndx":
         tail = "科技股=BTC 最强领先;涨=风险偏好回暖(对 BTC 偏多),跌=天花板压低(放大杀跌)"
+    elif key == "gspc":
+        tail = "美股大盘风险情绪;与纳指同向,作佐证。涨=risk-on(对 BTC 偏多),跌=risk-off"
     elif key == "dxy":
         line = "上破" if last >= 100 else "下守"
         tail = f"{line} 100 关口;美元强=全球流动性紧(对 BTC 偏空),弱=放水(偏多)"
@@ -134,6 +148,22 @@ def gold_signal():
         return None
 
 
+def indices_block():
+    """仅展示的全球股指:取最新价 + 日变动 + 5日变动,不参与方向打分。"""
+    out = []
+    for it in INDICES:
+        try:
+            closes = yahoo_closes(it["symbol"])
+            last, prev = closes[-1], closes[-2]
+            w5 = pct(last, closes[-6]) if len(closes) >= 6 else pct(last, closes[0])
+            out.append({"key": it["key"], "name": it["name"], "symbol": it["symbol"],
+                        "value": round(last, 2), "dod_pct": round(pct(last, prev), 2),
+                        "w5_pct": round(w5, 1)})
+        except Exception as e:  # noqa: BLE001
+            print(f"[warn] {it['name']}({it['symbol']}) 跳过: {e}", file=sys.stderr)
+    return out
+
+
 def main():
     os.makedirs(DATA, exist_ok=True)
     comps, score, wsum = {}, 0.0, 0.0
@@ -150,6 +180,7 @@ def main():
     out = {
         "ts": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "components": comps,
+        "indices": indices_block(),
         "gold": gold_signal(),
         "coverage": f"{len(comps)}/{len(ASSETS)}",
     }
@@ -177,6 +208,10 @@ def main():
     for k, c in comps.items():
         print(f"    {c['name']:8} {c['value']:>10} {c['dod_pct']:+.2f}% "
               f"[{'多' if c['direction']>0 else '空' if c['direction']<0 else '·'} L{c['level']}]")
+    idx = out.get("indices", [])
+    if idx:
+        print(f"  参考股指 {len(idx)}/{len(INDICES)}: "
+              + " | ".join(f"{c['name']} {c['dod_pct']:+.2f}%" for c in idx))
 
 
 if __name__ == "__main__":
