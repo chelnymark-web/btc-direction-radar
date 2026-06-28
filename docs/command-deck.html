@@ -584,15 +584,18 @@ async function load(){
  else if(deriv._fails.length||liq._fail){sc.textContent="部分实时";sc.className="partial"}
  else{sc.textContent="实时";sc.className="live"}
 
- // 缺数据时给一条醒目提示,别让用户对着一堆"——"发懵
- const banner=$("netbanner"), noBinance=(deriv?.price==null);
- if(src==="snap"||noBinance){
+ // 数据状态提示条,别让用户对着空白发懵
+ const banner=$("netbanner"), ds=deriv&&deriv.deriv_source;
+ if(deriv?.price==null){
   banner.style.display="block";
-  banner.innerHTML='⚠ 现在是<b>快照模式</b>:你浏览器没连上交易所(多半<b>代理没开</b>或掉线),所以价格/资金费率等显示"——"。'
-   +'打开你的代理(全局/规则模式)后按 <b>Ctrl+Shift+R</b> 刷新,这些就会变成实时数字。宏观/股指/事件不受影响照常显示。';
+  banner.innerHTML='⚠ 没拿到衍生品数据:浏览器连不上交易所,云端快照也缺。开代理后按 <b>Ctrl+Shift+R</b>,或等下次定时任务补全。';
+ }else if(src==="snap"){
+  banner.style.display="block";
+  banner.innerHTML='ℹ 当前为<b>云端快照</b>(每次定时任务自动刷新'+(ds&&/gate/i.test(ds)?',衍生品来自备用源 Gate.io':'')
+   +')。要 60 秒级实时,请开代理后按 <b>Ctrl+Shift+R</b>。';
  }else if(sc.className==="partial"){
   banner.style.display="block";
-  banner.innerHTML='部分数据没拿到(某些接口被限流或拦截)。可稍后自动刷新重试,或检查代理是否稳定。';
+  banner.innerHTML='部分数据没拿到(某些接口被限流或拦截),会自动重试;或检查代理是否稳定。';
  }else{banner.style.display="none";}
 }
 $("refresh").addEventListener("click",load);

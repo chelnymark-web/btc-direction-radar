@@ -32,6 +32,7 @@ for var in ("HTTPS_PROXY", "HTTP_PROXY", "https_proxy", "http_proxy"):
 
 BINANCE = os.environ.get("BINANCE_FAPI", "https://fapi.binance.com")
 DERIBIT = "https://www.deribit.com/api/v2"
+GATE = "https://api.gateio.ws/api/v4"   # 备用源:Binance 封美国 IP(GitHub Actions)时切到这
 SYMBOL = "BTCUSDT"
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(ROOT, "data")
@@ -137,6 +138,45 @@ def fetch_binance():
                               "period": "1h", "limit": 2}), "季度基差")
     if basis:
         out["quarter_basis_pct"] = float(basis[-1]["basisRate"]) * 100
+    return out
+
+
+# ---------- Gate.io 备用源 ----------
+# Binance 的 fapi 会拦美国 IP(GitHub Actions 常见 451/403),导致云端快照缺价格/费率/多空比。
+# Gate.io 公开合约接口一般不封美国,且 contract_stats 一次给齐 OI/大户多空/全体多空/主动买卖。
+# 字段名与 Binance 对齐,下游(拥挤度标记、网页、报告)无需改动。
+
+def fetch_gate():
+    out = {}
+    c = safe(lambda: get(f"{GATE}/futures/usdt/contracts/BTC_USDT"), "Gate 合约")
+    if c:
+        mark, idx = float(c["mark_price"]), float(c["index_price"])
+        out["price"] = idx
+        out["funding_rate"] = float(c["funding_rate"])          # 每 8h,与 Binance 同口径
+        out["perp_basis_pct"] = (mark - idx) / idx * 100
+
+    fh = safe(lambda: get(f"{GATE}/futures/usdt/funding_rate",
+                          {"contract": "BTC_USDT", "limit": 90}), "Gate 资金费率历史")
+    if fh:
+        rates = [float(x["r"]) for x in fh]
+        out["funding_mean_30d"] = sum(rates) / len(rates)
+
+    st = safe(lambda: get(f"{GATE}/futures/usdt/contract_stats",
+                          {"contract": "BTC_USDT", "interval": "1h", "limit": 25}), "Gate 合约统计")
+    if st:
+        latest = st[-1]
+        if len(st) >= 25:
+            oi_now = float(latest.get("open_interest") or 0)
+            oi_prev = float(st[-25].get("open_interest") or 0)
+            out["oi_btc"] = oi_now
+            if oi_prev:
+                out["oi_change_24h_pct"] = (oi_now - oi_prev) / oi_prev * 100
+        if latest.get("top_lsr_account") is not None:
+            out["top_ls_ratio"] = float(latest["top_lsr_account"])    # 大户(头部账户)多空比
+        if latest.get("lsr_account") is not None:
+            out["global_ls_ratio"] = float(latest["lsr_account"])     # 全体账户多空比
+        if latest.get("lsr_taker") is not None:
+            out["taker_ratio"] = float(latest["lsr_taker"])           # 主动买卖比
     return out
 
 
@@ -307,6 +347,14 @@ def main():
     os.makedirs(DATA_DIR, exist_ok=True)
     snap = {"ts": datetime.now(timezone.utc).isoformat(timespec="seconds")}
     snap.update(fetch_binance())
+    if snap.get("price") is None:
+        # Binance 拿不到(多半是 GitHub 美国服务器被 451 拦)→ 切 Gate.io 备用源,补齐价格/费率/多空比
+        print("[warn] Binance 无数据,切换备用源 Gate.io", file=sys.stderr)
+        gate = fetch_gate()
+        snap.update(gate)
+        snap["deriv_source"] = "gate.io(备用)" if gate.get("price") is not None else "无(binance/gate 都失败)"
+    else:
+        snap["deriv_source"] = "binance"
     snap.update(fetch_deribit())
 
     history = load_history()
