@@ -1,109 +1,43 @@
 {
-  "kind": "daily",
-  "mode": "news",
+  "kind": "weekly",
+  "mode": "calendar",
+  "window_days": 7,
   "items": [
     {
-      "source": "CoinDesk",
-      "title": "Samson Mow says bitcoin bottom is in despite skepticism from analysts",
-      "link": "https://www.coindesk.com/markets/2026/06/28/samson-mow-says-bitcoin-bottom-is-in-but-analysts-remain-divided",
-      "published": "2026-06-28T15:07+00:00"
+      "date": "2026-07-01",
+      "name": "Fed Chairman Warsh Speaks(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "CoinDesk",
-      "title": "Michael Saylor teases more bitcoin buying even as Strategy stock continues to fall",
-      "link": "https://www.coindesk.com/markets/2026/06/28/michael-saylor-teases-more-bitcoin-buying-even-as-strategy-stock-continues-to-fall",
-      "published": "2026-06-28T15:02+00:00"
+      "date": "2026-07-01",
+      "name": "ISM Manufacturing PMI(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "CoinDesk",
-      "title": "SBI's $289 million Bitbank deal is symptomatic of Japan's crypto consolidation: Architect Partners",
-      "link": "https://www.coindesk.com/business/2026/06/28/sbi-s-usd289-million-bitbank-deal-is-symptomatic-of-japan-s-crypto-consolidation-architect-partners",
-      "published": "2026-06-28T15:00+00:00"
+      "date": "2026-07-02",
+      "name": "美国 6 月非农就业报告(BLS 已确认)",
+      "source": "宏观"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-28T13:04+00:00"
+      "date": "2026-07-02",
+      "name": "Average Hourly Earnings m/m(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto's next frontier isn't crypto, it's financing AI and robotics, Framework's Anderson says",
-      "link": "https://www.coindesk.com/business/2026/06/28/crypto-s-next-frontier-isn-t-crypto-it-s-financing-ai-and-robotics-framework-s-anderson-says",
-      "published": "2026-06-28T13:00+00:00"
+      "date": "2026-07-02",
+      "name": "Non-Farm Employment Change(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Binance posts over $400M in weekly net outflows as MiCA deadline nears",
-      "link": "https://cointelegraph.com/news/binance-400m-weekly-net-outflows-mica-deadline-nears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-28T11:51+00:00"
+      "date": "2026-07-02",
+      "name": "Unemployment Rate(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Grayscale's Pandl hopes Strategy sells $3B in Bitcoin to restore confidence",
-      "link": "https://cointelegraph.com/news/grayscales-pandl-strategy-sells-3b-bitcoin-confidence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-28T07:59+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin falls below $60,000, on track for a rare back-to-back quarterly loss",
-      "link": "https://www.coindesk.com/markets/2026/06/28/bitcoin-falls-below-usd60-000-on-track-for-a-rare-back-to-back-quarterly-loss",
-      "published": "2026-06-28T07:10+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Base post-mortem reveals sequencer bug behind back-to-back outages",
-      "link": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-28T05:14+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin unspent transaction outputs signal capitulation underway: analyst",
-      "link": "https://cointelegraph.com/news/bitcoin-unspent-transaction-outputs-signal-capitulation-underway-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-28T02:51+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "SecondFi maps recovery path after $2.4 million Cardano wallet exploit, aims to return funds within two weeks",
-      "link": "https://www.theblock.co/post/406457/secondfi-maps-recovery-path-after-2-4-million-cardano-wallet-exploit-aims-to-return-funds-within-two-weeks?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-27T23:10+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Fidelity rebuts claims Bitcoin becomes less secure after halvings",
-      "link": "https://cointelegraph.com/news/fidelity-bitcoin-long-term-security-halvings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-27T20:53+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss",
-      "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-capitulation-risk-as-50k-btc-moves-at-a-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-27T19:27+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why a selloff in gold and silver is dragging bitcoin down",
-      "link": "https://www.coindesk.com/markets/2026/06/27/why-a-selloff-in-gold-and-silver-is-dragging-bitcoin-down",
-      "published": "2026-06-27T18:11+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "DCG-backed Yuma launches fund offering institutional exposure to Bittensor",
-      "link": "https://cointelegraph.com/news/yuma-bittensor-fund-institutional-tao-decentralized-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-27T17:59+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "What Robinhood’s recent layoffs say about the current state of crypto investments",
-      "link": "https://www.coindesk.com/opinion/2026/06/27/what-robinhood-s-recent-layoffs-say-about-the-current-state-of-crypto-investments",
-      "published": "2026-06-27T16:30+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Average IBIT investor now down about 40% as spot bitcoin ETFs cap second-worst week on record",
-      "link": "https://www.theblock.co/post/406451/average-ibit-investor-now-down-about-40-as-spot-bitcoin-etfs-cap-second-worst-week-on-record?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-27T16:29+00:00"
+      "date": "2026-07-03",
+      "name": "美国非农就业报告(常规日,以 BLS 官方为准)",
+      "source": "规则"
     }
   ],
-  "generated": "2026-06-28T16:05:53+00:00"
+  "generated": "2026-06-29T13:56:42+00:00"
 }
