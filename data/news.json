@@ -4,13 +4,49 @@
   "items": [
     {
       "source": "Cointelegraph",
+      "title": "ESMA MiCA warning puts Binance EU service changes under scrutiny",
+      "link": "https://cointelegraph.com/news/esma-challenge-binance-serving-certain-eu-users-post-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-30T10:25+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements",
+      "link": "https://www.coindesk.com/policy/2026/06/30/uk-to-lower-stablecoin-capital-buffers-undercutting-eu-s-mica-requirements",
+      "published": "2026-06-30T10:08+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SEC wins $5.5 million default judgment over alleged fake crypto platform NanoBit",
+      "link": "https://www.coindesk.com/policy/2026/06/30/sec-wins-usd5-5-million-default-judgment-over-alleged-fake-crypto-platform-nanobit",
+      "published": "2026-06-30T09:54+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Kalshi hit with 14-day restraining order in Michigan, blocking sports prediction markets in state",
+      "link": "https://www.theblock.co/post/406652/kalshi-restraining-order-michigan?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-30T09:23+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Michigan judge blocks Kalshi from allowing residents to place sports bets",
+      "link": "https://cointelegraph.com/news/michigan-judge-blocks-kalshi-sports-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-30T09:08+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Benchmark sees over 500% upside in Strategy, reiterates $570 target on new capital framework",
+      "link": "https://www.theblock.co/post/406645/benchmark-sees-500-percent-upside-strategy?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-30T08:57+00:00"
+    },
+    {
+      "source": "Cointelegraph",
       "title": "Celsius-linked Bitcoin miner Ionic Digital seeks Nasdaq direct listing amid AI pivot",
       "link": "https://cointelegraph.com/news/ionic-digital-nasdaq-direct-listing-ai-pivot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "2026-06-30T08:16+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin's 52-week correlation with USD/JPY hits -0.90, undercutting 'carry trade' theory",
+      "title": "Bitcoin's correlation with dollar-yen rate hits -0.90, undercutting 'carry trade' theory",
       "link": "https://www.coindesk.com/markets/2026/06/30/bitcoin-s-52-week-correlation-with-usd-jpy-hits-0-90-undercutting-carry-trade-theory",
       "published": "2026-06-30T07:14+00:00"
     },
@@ -325,43 +361,7 @@
       "title": "BlackRock’s Aladdin platform adds deeper support for Ethena’s stablecoin products",
       "link": "https://www.theblock.co/post/405670/blackrock-ethena-partnership-usde?utm_source=rss&utm_medium=rss",
       "published": "2026-06-29T13:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kalshi and Polymarket could become M&A targets as prediction markets consolidate: Bernstein",
-      "link": "https://www.coindesk.com/business/2026/06/29/kalshi-and-polymarket-could-become-m-and-a-targets-as-prediction-markets-consolidate-bernstein",
-      "published": "2026-06-29T12:56+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tom Lee blames crypto weakness on quarter-end 'window dressing' as Bitmine adds another $43 million of ETH",
-      "link": "https://www.coindesk.com/business/2026/06/29/tom-lee-blames-crypto-weakness-on-quarter-end-window-dressing-as-bitmine-adds-another-usd43-million-of-eth",
-      "published": "2026-06-29T12:51+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "JPMorgan sees limited institutional demand for perpetual futures",
-      "link": "https://www.coindesk.com/business/2026/06/29/jpmorgan-sees-limited-institutional-demand-for-perpetual-futures",
-      "published": "2026-06-29T12:48+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Strategy pauses bitcoin buys, establishes $1B digital credit repurchase program as USD reserve tops $2.5B",
-      "link": "https://www.theblock.co/post/406512/strategy-buys-btc-mstr-strc-collapse-bitcoin-holdings-underwater?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-29T12:45+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Saylor's Strategy initiates buybacks and bitcoin monetization program, lifts STRC dividend",
-      "link": "https://www.coindesk.com/markets/2026/06/29/saylor-s-strategy-initiates-buybacks-bitcoin-monetization-program-lifts-strc-dividend",
-      "published": "2026-06-29T12:13+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tether's USDT jumps to 8.5% premium in India after crypto payment crackdown",
-      "link": "https://www.coindesk.com/markets/2026/06/29/usdt-jumps-to-8-5-premium-in-india-after-crypto-payment-crackdown",
-      "published": "2026-06-29T12:00+00:00"
     }
   ],
-  "generated": "2026-06-30T08:44:35+00:00"
+  "generated": "2026-06-30T10:30:03+00:00"
 }
