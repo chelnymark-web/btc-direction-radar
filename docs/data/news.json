@@ -3,6 +3,12 @@
   "mode": "news",
   "items": [
     {
+      "source": "CoinDesk",
+      "title": "Strategy heads for eleventh losing month in twelve as bitcoin weakness continues",
+      "link": "https://www.coindesk.com/markets/2026/06/30/strategy-heads-for-eleventh-losing-month-in-twelve-as-bitcoin-weakness-continues",
+      "published": "2026-06-30T10:33+00:00"
+    },
+    {
       "source": "Cointelegraph",
       "title": "ESMA MiCA warning puts Binance EU service changes under scrutiny",
       "link": "https://cointelegraph.com/news/esma-challenge-binance-serving-certain-eu-users-post-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -355,13 +361,7 @@
       "title": "Breez launches Bitcoin-to-stablecoin payments across more than 30 blockchains",
       "link": "https://cointelegraph.com/news/breez-bitcoin-wallets-send-usdc-usdt-without-holding-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "2026-06-29T13:00+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "BlackRock’s Aladdin platform adds deeper support for Ethena’s stablecoin products",
-      "link": "https://www.theblock.co/post/405670/blackrock-ethena-partnership-usde?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-29T13:00+00:00"
     }
   ],
-  "generated": "2026-06-30T10:30:03+00:00"
+  "generated": "2026-06-30T10:43:16+00:00"
 }
