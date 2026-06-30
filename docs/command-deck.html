@@ -418,10 +418,13 @@ async function loadPos(price){
  if(cur.length)bands.push(cur);
  const out=bands.map(b=>{const ps=b.map(x=>x.price),srcs=[...new Set(b.map(x=>x.src))],mid=ps.reduce((a,c)=>a+c,0)/ps.length;
   return{mid:Math.round(mid),srcs,conf:srcs.length>=2,side:mid>price?"上":"下",dist:(mid-price)/price*100,members:b.map(x=>x.label)}});
- const up=out.filter(b=>b.side==="上"&&b.conf).sort((a,b)=>a.dist-b.dist)[0];
- const dn=out.filter(b=>b.side==="下"&&b.conf).sort((a,b)=>b.dist-a.dist)[0];
- RISK_SUPPORT=dn||null;  // 最近的下方重合支撑带,供"见顶风险"面板做跌破触发线
- // 位置方向:离下方支撑越近=越偏多(易反弹),离上方阻力越近=越偏空
+ const upC=out.filter(b=>b.side==="上"&&b.conf).sort((a,b)=>a.dist-b.dist)[0];
+ const dnC=out.filter(b=>b.side==="下"&&b.conf).sort((a,b)=>b.dist-a.dist)[0];
+ RISK_SUPPORT=dnC||out.filter(b=>b.side==="下").sort((a,b)=>b.dist-a.dist)[0]||null;
+ // 位置方向:离下方支撑越近=越偏多(易反弹),离上方阻力越近=越偏空。
+ // 优先用成对重合带;没有时退用最近的上方阻力/下方支撑(任意来源),避免长期"无数据"。
+ const up=upC||out.filter(b=>b.side==="上").sort((a,b)=>a.dist-b.dist)[0];
+ const dn=dnC||out.filter(b=>b.side==="下").sort((a,b)=>b.dist-a.dist)[0];
  if(up&&dn){const du=Math.abs(up.dist),dd=Math.abs(dn.dist);POS_DIR=clamp((du-dd)/(du+dd))}
  else POS_DIR=null;
  // 渲染
@@ -456,7 +459,12 @@ async function loadEvents(){
    <div class="evn">${e.name}<small>${e.tag||""}</small></div>
    <div class="evtag ${hot?"hot":""}">${hot?"高影响":(e.tag||"事件")}</div></div>`;
  }).join("");
- EV_DIR=null; // 事件方向偏向需人工判断,默认中性不强加方向
+ // 事件偏向:临近重大事件=不确定性升高,对已拥挤的市场给一个轻微"防守"(偏空)分;否则中性 0(有图,不再"无数据")。
+ const hotEv=up.filter(e=>/FOMC|CPI|PCE|非农|NFP|期权|到期|CLARITY|利率|加息|降息/i.test(e.name));
+ let evd=0;
+ if(hotEv.length){const days=(new Date(hotEv[0].date)-new Date(today))/864e5;
+  evd = days<=2 ? -0.3 : days<=5 ? -0.15 : -0.05;}
+ EV_DIR=evd;
 }
 
 /* ============ 股票顶部研判(读 macro.stock_top,云端算好) ============ */
@@ -559,12 +567,12 @@ function renderBreakdown(c, derivD, macroD, liqD){
  $("breakdown").innerHTML=rows.map(r=>{
   if(r.d==null)return `<div class="brow"><div class="bn">${r.n}<small>${r.sub}</small></div>
     <div class="bar"><div class="mid"></div></div><div class="bscore" style="color:var(--faint)">无数据</div>`;
-  const pct=(r.d+1)/2*100; // -1→0%, +1→100%
+  const isZero=Math.abs(r.d)<0.02;
   const col=r.d>0.15?"var(--long)":r.d<-0.15?"var(--short)":"var(--dim)";
-  const left=r.d>=0?50:pct, w=Math.abs(r.d)*50;
+  const left=r.d>=0?50:(r.d+1)/2*100, w=Math.max(isZero?2:0,Math.abs(r.d)*50);
   return `<div class="brow"><div class="bn">${r.n}<small>${r.sub}</small></div>
-   <div class="bar"><div class="mid"></div><div class="fill" style="left:${left}%;width:${w}%;background:${col}"></div></div>
-   <div class="bscore" style="color:${col}">${r.d>0?"+":""}${(r.d*100).toFixed(0)}</div></div>`;
+   <div class="bar"><div class="mid"></div><div class="fill" style="left:${isZero?'49':left}%;width:${w}%;background:${col}"></div></div>
+   <div class="bscore" style="color:${col}">${isZero?'中性':(r.d>0?"+":"")+(r.d*100).toFixed(0)}</div></div>`;
  }).join("");
 }
 
