@@ -164,6 +164,87 @@ def indices_block():
     return out
 
 
+def _ma(a, n):
+    return sum(a[-n:]) / n if len(a) >= n else None
+
+
+def stock_top_one(name, symbol):
+    """对单个股指算顶部信号:距52周高、50/200日线位置与结构、近1/3月动能 → 顶部风险分+状态。"""
+    c = yahoo_closes(symbol, rng="1y")          # ~252 根日线,够算 200 日均线
+    last = c[-1]
+    m50, m200 = _ma(c, 50), _ma(c, 200)
+    hi52 = max(c)
+    dd = (last - hi52) / hi52 * 100              # 距52周高(收盘口径)
+    m1 = (last / c[-22] - 1) * 100 if len(c) >= 22 else None
+    m3 = (last / c[-66] - 1) * 100 if len(c) >= 66 else None
+    below200 = bool(m200 and last < m200)
+    below50 = bool(m50 and last < m50)
+    death_cross = bool(m50 and m200 and m50 < m200)
+    # 顶部风险评分 0(健康上行)~ 100(趋势破位)。破位 200 日线权重最大。
+    score = 0
+    if below200:
+        score += 45
+    elif below50:
+        score += 20
+    if death_cross:
+        score += 20
+    if dd > -3 and (m1 is not None and m1 < 0):
+        score += 15                              # 贴近高点却月线转跌=高位滞涨/派发
+    if m3 is not None and m3 < 0:
+        score += 10
+    if m1 is not None and m1 < -5:
+        score += 10
+    score = min(100, score)
+    if below200:
+        status = "趋势破位"
+    elif below50:
+        status = "趋势走弱"
+    elif dd > -3 and m1 is not None and m1 < 0:
+        status = "高位转弱"
+    else:
+        status = "健康上行"
+    return {
+        "name": name, "symbol": symbol, "value": round(last, 2),
+        "dd_from_high_pct": round(dd, 1),
+        "vs_ma50_pct": round((last / m50 - 1) * 100, 1) if m50 else None,
+        "vs_ma200_pct": round((last / m200 - 1) * 100, 1) if m200 else None,
+        "above_ma200": (not below200) if m200 else None,
+        "above_ma50": (not below50) if m50 else None,
+        "ma_struct": "多头排列(50>200)" if (m50 and m200 and m50 >= m200) else "空头排列(50<200)" if death_cross else "—",
+        "m1_pct": round(m1, 1) if m1 is not None else None,
+        "m3_pct": round(m3, 1) if m3 is not None else None,
+        "risk_score": score, "status": status,
+    }
+
+
+def stock_top_block(vix_val):
+    """纳指(主)+标普 顶部研判,合成总风险分与一句话结论。"""
+    out = {"indices": {}}
+    for key, name, sym in (("ndx", "纳指100", "^NDX"), ("gspc", "标普500", "^GSPC")):
+        try:
+            out["indices"][key] = stock_top_one(name, sym)
+        except Exception as e:  # noqa: BLE001
+            print(f"[warn] 顶部研判 {name} 跳过: {e}", file=sys.stderr)
+    ndx = out["indices"].get("ndx")
+    gspc = out["indices"].get("gspc")
+    if ndx or gspc:
+        parts = [(ndx["risk_score"], 0.6) for _ in [1] if ndx] + [(gspc["risk_score"], 0.4) for _ in [1] if gspc]
+        risk = round(sum(s * w for s, w in parts) / sum(w for _, w in parts))
+        if vix_val and vix_val >= 25:
+            risk = min(100, risk + 15)           # VIX 进入 risk-off,顶部风险加码
+        out["vix"] = vix_val
+        out["risk_score"] = risk
+        if risk >= 60:
+            out["verdict"] = "趋势已破位:多个均线/动能转空,顶部大概率已现或正在确认,优先防守。"
+        elif risk >= 35:
+            out["verdict"] = "顶部风险升高:高位派发/动能转弱迹象增多,未破关键均线前仍属脆弱顶、未确认。"
+        elif risk >= 15:
+            out["verdict"] = "出现转弱苗头:仍在多头结构内,属正常回调还是见顶要看能否守住 50/200 日线。"
+        else:
+            out["verdict"] = "健康上行:价格在关键均线上方、多头排列,暂无见顶信号。"
+    return out
+
+
 def main():
     os.makedirs(DATA, exist_ok=True)
     comps, score, wsum = {}, 0.0, 0.0
@@ -177,10 +258,12 @@ def main():
         except Exception as e:  # noqa: BLE001
             print(f"[warn] {cfg['name']}({cfg['symbol']}) 获取失败,本项跳过: {e}", file=sys.stderr)
 
+    vix_val = comps.get("vix", {}).get("value")
     out = {
         "ts": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "components": comps,
         "indices": indices_block(),
+        "stock_top": stock_top_block(vix_val),
         "gold": gold_signal(),
         "coverage": f"{len(comps)}/{len(ASSETS)}",
     }
@@ -212,6 +295,12 @@ def main():
     if idx:
         print(f"  参考股指 {len(idx)}/{len(INDICES)}: "
               + " | ".join(f"{c['name']} {c['dod_pct']:+.2f}%" for c in idx))
+    st = out.get("stock_top", {})
+    if st.get("risk_score") is not None:
+        print(f"  股票顶部风险分 {st['risk_score']}/100 — {st.get('verdict','')}")
+        for k, v in st.get("indices", {}).items():
+            print(f"    {v['name']}: {v['status']} (距高 {v['dd_from_high_pct']}% · "
+                  f"vs200日 {v['vs_ma200_pct']}% · {v['ma_struct']})")
 
 
 if __name__ == "__main__":

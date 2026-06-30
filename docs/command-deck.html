@@ -149,6 +149,9 @@ button:focus-visible{outline:2px solid var(--amber);outline-offset:2px}
 <div class="section-h">宏观 · 纳指 / 标普 / dxy / vix / 油价 + 全球股指参考(2026 最强驱动 · actions 端取数,网页读快照)</div>
 <div class="grid" id="macrogrid"></div>
 
+<div class="section-h">股票顶部研判 · 纳指/标普(BTC 的天花板 · 均线结构+动能,长期自动更新)</div>
+<div class="grid" id="stocktopgrid"></div>
+
 <div class="section-h">流动性 · usdt 发行量(defillama) + 稳定币资金面</div>
 <div class="grid" id="liqgrid"></div>
 
@@ -456,6 +459,28 @@ async function loadEvents(){
  EV_DIR=null; // 事件方向偏向需人工判断,默认中性不强加方向
 }
 
+/* ============ 股票顶部研判(读 macro.stock_top,云端算好) ============ */
+function renderStockTop(macro){
+ const g=$("stocktopgrid"); if(!g) return;
+ const st=macro&&macro.stock_top;
+ if(!st||st.risk_score==null){g.innerHTML='<div class="card cyan"><div class="ex">股票顶部研判将在下次取数(fetch_macro.py)后生成。</div></div>';return}
+ const risk=st.risk_score;
+ const cls=risk>=60?'short':risk>=15?'amber':'long';
+ const lite=risk>=60?'🔴':risk>=35?'🟠':risk>=15?'🟡':'🟢';
+ let html=`<div class="card ${cls}" style="grid-column:1/-1">
+   <div class="top"><span class="nm">股票顶部风险总分</span><span class="vd">${risk}/100${st.vix?' · VIX '+(+st.vix).toFixed(1):''}</span></div>
+   <div class="val">${lite} ${risk}/100</div><div class="ex">${st.verdict||''} <span style="color:var(--faint)">(纳指权重 60% + 标普 40%;跌破 200 日线=趋势破位,是顶部确认的核心)</span></div></div>`;
+ for(const [k] of [['ndx'],['gspc']]){const v=st.indices&&st.indices[k]; if(!v)continue;
+  const sc=v.status==='趋势破位'?'short':(v.status==='健康上行'?'long':'amber');
+  const sl=v.status==='趋势破位'?'🔴':v.status==='趋势走弱'?'🟠':v.status==='高位转弱'?'🟡':'🟢';
+  const c200=v.above_ma200?'var(--long)':'var(--short)', c50=v.above_ma50?'var(--long)':'var(--short)';
+  html+=`<div class="card ${sc}"><div class="top"><span class="nm">${v.name} <small style="color:var(--faint)">${v.symbol}</small></span><span class="vd">${sl} ${v.status}</span></div>
+   <div class="val" style="font-size:15px">${v.value.toLocaleString()} <span style="font-size:11px;color:var(--dim)">距52周高 ${v.dd_from_high_pct}%</span></div>
+   <div class="ex">vs 200日线 <b style="color:${c200}">${v.vs_ma200_pct>0?'+':''}${v.vs_ma200_pct}%</b> · vs 50日线 <b style="color:${c50}">${v.vs_ma50_pct>0?'+':''}${v.vs_ma50_pct}%</b> · ${v.ma_struct}<br>近1月 ${v.m1_pct>0?'+':''}${v.m1_pct}% · 近3月 ${v.m3_pct>0?'+':''}${v.m3_pct}%</div></div>`;
+ }
+ g.innerHTML=html;
+}
+
 /* ============ 见顶/下行风险触发器 ============ */
 // 阈值放这里,想调就调。逻辑:满足=该风险"已触发"(红),接近=黄,否则绿。
 const RISK_TH={
@@ -565,6 +590,7 @@ async function load(){
  if(deriv&&deriv.price!=null){renderDeriv(deriv)}
  else{$("derivgrid").innerHTML='<div class="card short"><div class="ex">衍生品接口被地区/跨域拦截,且无本地快照。用能连通的网络,或让本地 Actions 生成 data/latest.json 回退。</div></div>'}
  renderMacro(macro);
+ renderStockTop(macro);
  renderLiq(liq);
  await loadPos(price);
  renderTopRisk(macro, price);
