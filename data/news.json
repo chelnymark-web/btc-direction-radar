@@ -1,367 +1,38 @@
 {
-  "kind": "daily",
-  "mode": "news",
+  "kind": "monthly",
+  "mode": "calendar",
+  "window_days": 30,
   "items": [
     {
-      "source": "The Block",
-      "title": "Ripple, Coinbase among top donors in crypto’s $189 million election spending: report",
-      "link": "https://www.theblock.co/post/406851/ripple-coinbase-election-donations?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-01T10:49+00:00"
+      "date": "2026-07-02",
+      "name": "美国 6 月非农就业报告(BLS 已确认)",
+      "source": "宏观"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin options traders load up on $50,000 puts and gold futures flash a death cross",
-      "link": "https://www.coindesk.com/markets/2026/07/01/bitcoin-options-traders-load-up-on-usd50-000-puts-and-gold-futures-flash-a-death-cross",
-      "published": "2026-07-01T10:47+00:00"
+      "date": "2026-07-03",
+      "name": "美国非农就业报告(常规日,以 BLS 官方为准)",
+      "source": "规则"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Crypto enters Q3 with thinner liquidity but less leverage after Q2 reset: Talos",
-      "link": "https://cointelegraph.com/news/crypto-q3-less-leverage-thinner-liquidity-talos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-01T10:46+00:00"
+      "date": "2026-07-14",
+      "name": "美国 6 月 CPI(BLS 已确认,08:30 ET)",
+      "source": "宏观"
     },
     {
-      "source": "The Block",
-      "title": "Nearly 1,700 UK investors sue Binance, founder CZ over alleged unauthorized derivatives sales",
-      "link": "https://www.theblock.co/post/406842/uk-investors-sue-binance-cz?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-01T10:31+00:00"
+      "date": "2026-07-28",
+      "name": "FOMC 会议第一天",
+      "source": "FOMC"
     },
     {
-      "source": "CoinDesk",
-      "title": "Aave logs biggest network-growth day in nearly 5 years as DeFi interest returns",
-      "link": "https://www.coindesk.com/markets/2026/07/01/aave-logs-biggest-network-growth-day-in-nearly-5-years-as-defi-interest-returns",
-      "published": "2026-07-01T10:20+00:00"
+      "date": "2026-07-29",
+      "name": "FOMC 利率决议 + 记者会",
+      "source": "FOMC"
     },
     {
-      "source": "The Block",
-      "title": "South Korea moves to prosecute crypto whale for alleged pump-and-dump scheme",
-      "link": "https://www.theblock.co/post/406834/south-korea-prosecute-crypto-whale?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-01T09:31+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin ETFs lose record $4.5B in June, eclipsing Strategy's $1.25B raise",
-      "link": "https://cointelegraph.com/news/bitcoin-etf-4-5-billion-outflow-june-worst-on-record?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-01T09:22+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Former Goliath Ventures CEO pleads guilty in $400M crypto Ponzi case",
-      "link": "https://cointelegraph.com/news/goliath-ceo-guilty-400m-crypto-ponzi-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-01T08:20+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Shanghai court sentences five to prison over $29 million crypto forex scheme",
-      "link": "https://www.theblock.co/post/406827/china-sentences-five-prison-crypto-foreign-exchange?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-01T07:48+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin’s 20% June crash looks even deadlier on the charts. Here’s why",
-      "link": "https://www.coindesk.com/markets/2026/07/01/bitcoin-s-20-june-crash-looks-even-deadlier-on-the-charts-here-s-why",
-      "published": "2026-07-01T07:42+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live markets: U.S. spot bitcoin ETFs had their worst month ever in June, shedding $4.5 billion",
-      "link": "https://www.coindesk.com/tech/2026/07/01/live-markets-u-s-spot-bitcoin-etfs-had-their-worst-month-ever-in-june-shedding-usd4-5-billion",
-      "published": "2026-07-01T07:05+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Anthropic restores AI models Fable, Mythos after the U.S. lifts export controls",
-      "link": "https://www.coindesk.com/tech/2026/07/01/anthropic-restores-ai-models-fable-mythos-after-the-u-s-lifts-export-controls",
-      "published": "2026-07-01T06:54+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why Poland is the only EU country where crypto firms can't get a MiCA license",
-      "link": "https://www.coindesk.com/policy/2026/07/01/why-poland-is-the-only-eu-country-where-crypto-firms-can-t-get-a-mica-license",
-      "published": "2026-07-01T06:30+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Taiwan’s legislature passes crypto, stablecoin regulations",
-      "link": "https://cointelegraph.com/news/taiwans-legislature-passes-crypto-regulation-licensing-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-01T06:15+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Anthropic to bring back Fable 5 as US lifts export controls",
-      "link": "https://cointelegraph.com/news/anthropic-reactivates-newest-ai-models-after-us-govt-lifts-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-01T06:14+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-01T06:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "XRP holds above $1 after leverage flush as network activity improves",
-      "link": "https://www.coindesk.com/markets/2026/07/01/xrp-holds-above-usd1-after-leverage-flush-as-network-activity-improves",
-      "published": "2026-07-01T05:30+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Taiwan’s sweeping crypto law raises the bar with licensing, reserve mandates, and tough penalties",
-      "link": "https://www.coindesk.com/policy/2026/07/01/taiwan-s-sweeping-crypto-law-raises-the-bar-with-licensing-reserve-mandates-and-tough-penalties",
-      "published": "2026-07-01T05:04+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Taiwan passes key crypto law, clearing legal uncertainty for digital asset sector",
-      "link": "https://www.theblock.co/post/406816/taiwan-passes-crypto-law?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-01T04:25+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Trump earned more from crypto than real estate in 2025, filings show",
-      "link": "https://cointelegraph.com/news/trump-earned-more-from-crypto-than-real-estate-in-2025-filings-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-01T04:01+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Spot bitcoin ETFs record worst month since debut, shedding $4.5 billion in June",
-      "link": "https://www.theblock.co/post/406802/bitcoin-etf-worst-month-yet?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-01T03:56+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Director of ‘47 Ronin’ who gambled Netflix funds on crypto gets 30 months",
-      "link": "https://cointelegraph.com/news/47-ronin-director-who-gambled-netflix-funds-on-crypto-gets-30-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-01T03:47+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "UK crypto investors sue Binance, Changpeng Zhao for $200M",
-      "link": "https://cointelegraph.com/news/uk-crypto-investors-sue-binance-changpeng-zhao-for-potential-200m-payout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-01T02:30+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Million-dollar homes, luxury bags and Lamborghinis: Florida man pleads guilty in crypto fraud scheme",
-      "link": "https://www.theblock.co/post/406789/florida-man-pleads-guilty-crypto-fraud?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-01T01:58+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Has Strategy’s capital overhaul put an end to ‘death spiral’ fears?",
-      "link": "https://cointelegraph.com/features/does-strategys-new-capital-plan-put-an-end-to-death-spiral-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-30T23:11+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. senators seek to block foreign adversaries from AI technology in new bill",
-      "link": "https://www.coindesk.com/policy/2026/06/30/u-s-senators-seek-to-block-foreign-adversaries-from-ai-technology-in-new-bill",
-      "published": "2026-06-30T23:02+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Trump pocketed more than $1 billion from crypto ties as industry headed toward slump",
-      "link": "https://www.coindesk.com/policy/2026/06/30/trump-pocketed-more-than-usd1-billion-from-crypto-ties-as-industry-headed-toward-slump",
-      "published": "2026-06-30T22:28+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "President Trump’s financial disclosures show hundreds of millions in crypto-related income",
-      "link": "https://www.theblock.co/post/406782/president-trump-financial-disclosures-hundreds-millions-crypto-related-income?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-30T22:16+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin just $5K away from ‘best investment opportunity’ of bear market",
-      "link": "https://cointelegraph.com/markets/bitcoin-is-just-a-5k-drop-away-from-its-best-investment-opportunity-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-30T21:49+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Massachusetts AG files amended lawsuit against Kalshi over sports betting after court ruling",
-      "link": "https://cointelegraph.com/news/massachusetts-lawsuit-kalshi-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-30T21:44+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitmine Ether buys eclipsed by $345M ETH ETF outflows: Is sub $1.5K next?",
-      "link": "https://cointelegraph.com/markets/bitmine-ether-buys-eclipsed-by-345m-eth-etf-345m-outflows-is-sub-15k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-30T21:16+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "ENS co-founder Nick Johnson blocks Security Council renewal with 80% of votes",
-      "link": "https://www.theblock.co/post/406767/ens-co-founder-nick-johnson-blocks-security-council-renewal-with-80-of-votes?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-30T21:09+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Phantom doubles down on perpetual futures with hire of Hyperliquid market builders",
-      "link": "https://www.coindesk.com/business/2026/06/30/phantom-doubles-down-on-perpetual-futures-with-hire-of-hyperliquid-market-builders",
-      "published": "2026-06-30T21:00+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "SEC seeks public comment on regulating next generation of ETFs",
-      "link": "https://cointelegraph.com/news/sec-seeks-public-comment-on-regulating-novel-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-30T20:38+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Companies spending the most on AI are growing jobs, Ramp study finds",
-      "link": "https://www.coindesk.com/business/2026/06/30/companies-spending-the-most-on-ai-are-growing-jobs-ramp-study-finds",
-      "published": "2026-06-30T20:21+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Circle shares sink 16% after Open USD reveal, analysts say fears are ‘overblown’",
-      "link": "https://www.theblock.co/post/406758/circle-shares-sink-16-open-usd-reveal-analysts-say-fears-overblown?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-30T19:34+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Financial companies join forces for US dollar stablecoin, keeping reserve earnings",
-      "link": "https://cointelegraph.com/news/financial-companies-us-dollar-payment-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-30T19:31+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Nasdaq brings proprietary market data onchain through Pyth",
-      "link": "https://cointelegraph.com/news/nasdaq-brings-proprietary-market-data-onchain-through-pyth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-30T18:46+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why OpenUSD's 'real threat' that tanked Circle stock still faces a steep uphill battle for adoption",
-      "link": "https://www.coindesk.com/business/2026/06/30/why-the-openusd-s-real-threat-that-tanked-circle-stock-still-faces-a-steep-uphill-battle-for-adoption",
-      "published": "2026-06-30T18:39+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin price risks drop below $58K as US dollar hits 40-year high against yen",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-slumps-to-near-58k-as-us-dollar-hits-40-year-high-against-yen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-30T18:17+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "SEC giving novel ETFs a rethink as it opens comment period on overhauling U.S. rules",
-      "link": "https://www.coindesk.com/policy/2026/06/30/sec-giving-novel-etfs-a-rethink-as-it-opens-comment-period-on-overhauling-u-s-rules",
-      "published": "2026-06-30T17:51+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "AI’s power crunch turns Bitcoin miners’ grid access into an asset",
-      "link": "https://cointelegraph.com/features/bitcoin-miners-ai-data-centers-power-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-30T17:44+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto companies have spent $189M so far on 2026 US election cycle: Report",
-      "link": "https://cointelegraph.com/news/crypto-companies-spent-2026-us-election-cycle-public-citizen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-30T17:19+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "SEC opens ETF rule review following crypto fund surge, prediction markets push",
-      "link": "https://www.theblock.co/post/406750/sec-opens-etf-rule-review-following-crypto-fund-surge-prediction-markets-push?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-30T17:19+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Business use of stablecoins set for growth surge: Cybrid report",
-      "link": "https://cointelegraph.com/news/42-of-businesses-surveyed-use-stablecoins-for-cross-border-payments-cybrid-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-30T16:34+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Chinese exile once linked to Trump strategist gets 30-year sentence in $1 billion fraud",
-      "link": "https://www.coindesk.com/policy/2026/06/30/chinese-exile-once-linked-to-trump-strategist-gets-30-year-sentence-in-usd1-billion-fraud",
-      "published": "2026-06-30T16:31+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Visa, Stripe, Coinbase and more join Open USD stablecoin that shares reserve revenue",
-      "link": "https://www.theblock.co/post/406736/visa-stripe-coinbase-join-open-usd-stablecoin-shares-reserve-revenue?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-30T14:57+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "OKX AI unveils marketplace for agents to find work and get paid in stablecoins",
-      "link": "https://www.theblock.co/post/406704/okx-ai-unveils-marketplace-for-agents-to-find-work-and-get-paid-in-stablecoins?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-30T14:49+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "New Zcash nonprofit Sovright unveils ZEC wallet recovery tool",
-      "link": "https://www.theblock.co/post/406731/new-zcash-nonprofit-sovright-unveils-zec-wallet-recovery-tool?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-30T14:44+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Jefferies warns of crypto market volatility as Clarity Act faces Senate test",
-      "link": "https://www.coindesk.com/policy/2026/06/30/jefferies-warns-of-crypto-market-volatility-as-clarity-act-faces-senate-test",
-      "published": "2026-06-30T14:41+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Circle craters 17% as Stripe, Coinbase and BlackRock back rival stablecoin network",
-      "link": "https://www.coindesk.com/business/2026/06/30/circle-slides-8-as-stripe-coinbase-and-blackrock-back-rival-stablecoin-network",
-      "published": "2026-06-30T14:32+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "MetaMask launches Money Account with stablecoin yield and spending in one wallet",
-      "link": "https://www.coindesk.com/tech/2026/06/30/metamask-launches-money-account-with-stablecoin-yield-and-spending-in-one-wallet",
-      "published": "2026-06-30T14:00+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "MetaMask launches stablecoin yield account with card spending",
-      "link": "https://cointelegraph.com/news/metamask-money-account-musd-stablecoin-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-30T14:00+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "MetaMask unveils all-in-one Money Account offerings users up to 4% APY on mUSD holdings",
-      "link": "https://www.theblock.co/post/406570/metamask-all-in-one-money-account-offerings-users-4-apy-musd-holdings?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-30T14:00+00:00"
-    },
-    {
-      "source": "美联储新闻稿",
-      "title": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",
-      "published": "2026-06-30T14:00+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Sharplink buys 10,000 ETH, repurchases 2.13 million SBET shares in latest buyback",
-      "link": "https://www.theblock.co/post/406721/sharplink-buys-10000-eth-repurchases-2-13-million-shares-latest-buyback?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-30T13:59+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "OKX launches AI marketplace for autonomous agent economy",
-      "link": "https://cointelegraph.com/news/okx-ai-marketplace-autonomous-agent-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-30T13:39+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tokenized securities need competition, not gatekeepers",
-      "link": "https://www.coindesk.com/opinion/2026/06/29/tokenized-securities-need-competition-not-gatekeepers",
-      "published": "2026-06-30T13:25+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Strategy's new plan divides industry observers even as MSTR, STRC climb",
-      "link": "https://cointelegraph.com/news/strategy-new-plan-split-community-mstr-strc-climb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-06-30T13:14+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Nasdaq expands distribution of its market data into blockchain infrastructure",
-      "link": "https://www.coindesk.com/markets/2026/06/30/nasdaq-expands-distribution-of-its-market-data-into-blockchain-infrastructure",
-      "published": "2026-06-30T13:00+00:00"
+      "date": "2026-07-31",
+      "name": "Deribit 月度期权到期(08:00 UTC)",
+      "source": "规则"
     }
   ],
-  "generated": "2026-07-01T10:56:16+00:00"
+  "generated": "2026-07-02T08:36:30+00:00"
 }
