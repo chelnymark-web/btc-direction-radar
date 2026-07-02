@@ -1,38 +1,367 @@
 {
-  "kind": "monthly",
-  "mode": "calendar",
-  "window_days": 30,
+  "kind": "daily",
+  "mode": "news",
   "items": [
     {
-      "date": "2026-07-02",
-      "name": "美国 6 月非农就业报告(BLS 已确认)",
-      "source": "宏观"
+      "source": "CoinDesk",
+      "title": "Taiko fully restores cross-chain bridge just 10 days after a $1.7 million hack",
+      "link": "https://www.coindesk.com/markets/2026/07/02/taiko-s-bridge-is-back-online-after-usd1-7-million-hack-and-its-token-is-up-a-staggering-136",
+      "published": "2026-07-02T08:35+00:00"
     },
     {
-      "date": "2026-07-03",
-      "name": "美国非农就业报告(常规日,以 BLS 官方为准)",
-      "source": "规则"
+      "source": "Cointelegraph",
+      "title": "OpenAI weighs 5% US government stake amid Trump talks: FT",
+      "link": "https://cointelegraph.com/news/openai-5-percent-stake-us-government-trump-talks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-02T08:26+00:00"
     },
     {
-      "date": "2026-07-14",
-      "name": "美国 6 月 CPI(BLS 已确认,08:30 ET)",
-      "source": "宏观"
+      "source": "The Block",
+      "title": "Avalanche Treasury stock plunges 73% since debut as company’s AVAX holdings lose value",
+      "link": "https://www.theblock.co/post/406990/avalanche-treasury-stock-plunge?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-02T06:28+00:00"
     },
     {
-      "date": "2026-07-28",
-      "name": "FOMC 会议第一天",
-      "source": "FOMC"
+      "source": "CoinDesk",
+      "title": "XRP edges higher as whale activity rises while retail traders stay cautious",
+      "link": "https://www.coindesk.com/markets/2026/07/02/xrp-edges-higher-as-whale-activity-rises-while-retail-traders-stay-cautious",
+      "published": "2026-07-02T06:20+00:00"
     },
     {
-      "date": "2026-07-29",
-      "name": "FOMC 利率决议 + 记者会",
-      "source": "FOMC"
+      "source": "CoinDesk",
+      "title": "Bitcoin's long-term holders have returned to accumulation",
+      "link": "https://www.coindesk.com/markets/2026/07/02/bitcoin-long-term-holders-have-returned-to-accumulation",
+      "published": "2026-07-02T06:17+00:00"
     },
     {
-      "date": "2026-07-31",
-      "name": "Deribit 月度期权到期(08:00 UTC)",
-      "source": "规则"
+      "source": "Cointelegraph",
+      "title": "Robinhood links with dYdX Labs to launch new DEX Arcus",
+      "link": "https://cointelegraph.com/news/robinhood-links-with-dydx-labs-to-launch-new-dex-arcus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-02T06:05+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-02T05:27+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "FBI Director Kash Patel caught sleeping on required disclosure of six-figure MSTR investment: Report",
+      "link": "https://www.coindesk.com/policy/2026/07/02/fbi-director-kash-patel-caught-sleeping-on-required-disclosure-of-six-figure-mstr-investment",
+      "published": "2026-07-02T05:24+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ether, solana, dogecoin in the green after Warsh comments push bitcoin above $60,000",
+      "link": "https://www.coindesk.com/markets/2026/07/02/ether-solana-dogecoin-in-the-green-after-warsh-comments-push-bitcoin-above-usd60-000",
+      "published": "2026-07-02T05:22+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "France to strengthen response as crypto wrench attacks hit 77",
+      "link": "https://cointelegraph.com/news/french-wrench-attacks-rise-to-77-as-government-promises-more-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-02T05:22+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Analyst warns BTC could drop further after worst June since 2022",
+      "link": "https://cointelegraph.com/news/renowned-analyst-predicts-btc-drop-to-52k-after-worst-june-since-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-02T03:42+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Kalshi and Polymarket’s combined volume surges 75% to $45 billion in June amid World Cup fever",
+      "link": "https://www.theblock.co/post/406983/kalshi-polymarket-volume-45-billion?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-02T03:33+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Venice AI becomes unicorn after $65M Series A as AI privacy concerns grow",
+      "link": "https://cointelegraph.com/news/venice-ai-becomes-a-unicorn-as-ai-privacy-concerns-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-02T03:31+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trumps’ American Bitcoin sinks 8.4% ahead of reverse stock split to stay listed",
+      "link": "https://cointelegraph.com/news/trumps-american-bitcoin-sinks-ahead-of-reverse-stock-split-to-stay-listed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-02T02:38+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Ark Invest scoops up $18 million in Circle shares as stock dips 41% over past month",
+      "link": "https://www.theblock.co/post/406978/ark-invest-18-million-circle?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-02T02:20+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin tops $60K amid Fed inflation talks: Is bull trap or $65K next?",
+      "link": "https://cointelegraph.com/markets/bitcoin-pings-60k-amid-fed-inflation-talks-is-bull-trap-or-65k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-01T22:02+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Robinhood rolls out public blockchain, plans crypto trading for UK residents",
+      "link": "https://cointelegraph.com/news/robinhood-public-blockchain-mainnet-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-01T21:38+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum Institutional launch draws support from across the Ethereum ecosystem",
+      "link": "https://www.coindesk.com/tech/2026/07/01/ethereum-institutional-launch-draws-support-from-across-the-ethereum-ecosystem",
+      "published": "2026-07-01T21:13+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Tradeweb executes real-time tokenized US Treasury transaction on Canton Network",
+      "link": "https://cointelegraph.com/news/tradeweb-executes-real-time-tokenized-us-treasury-transaction-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-01T20:38+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin bounces off 21-month low, but leverage data signals caution: Was $57K the bottom?",
+      "link": "https://cointelegraph.com/markets/bitcoin-bounces-off-21-month-low-but-leverage-data-signals-caution-was-57k-the-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-01T20:27+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Democrat backed by Ripple co-founder’s PAC wins Colorado primary",
+      "link": "https://cointelegraph.com/news/democrat-ripple-co-founders-pac-wins-colorado?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-01T19:30+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Trump-backed American Bitcoin sets 1-for-15 reverse stock split in bid to maintain Nasdaq listing",
+      "link": "https://www.theblock.co/post/406941/trump-backed-american-bitcoin-1-for-15-reverse-stock-split-maintain-nasdaq-listing?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-01T19:16+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "‘We desperately need legislation that includes an agreement on ethics:’ Trump financial filing adds urgency to crypto bill negotiations",
+      "link": "https://www.theblock.co/post/406953/desperately-need-legislation-on-ethics-trump-financial-filing-adds-urgency-to-crypto-bill-negotiations?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-01T19:03+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin bear market ‘dead’ after first TD9 reversal signal since July 2022 fires",
+      "link": "https://cointelegraph.com/markets/bitcoin-tests-claims-price-is-dead-with-first-td9-reversal-signal-since-july-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-01T18:59+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Robinhood Chain goes live on mainnet alongside 24/7 tokenized stocks, Lighter perps and planned crypto agentic trading",
+      "link": "https://www.theblock.co/post/406918/robinhood-chain-goes-live-mainnet-alongside-24-7-tokenized-stocks-lighter-perps-planned-crypto-agentic-trading?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-01T18:45+00:00"
+    },
+    {
+      "source": "美联储新闻稿",
+      "title": "Federal Reserve issues initial findings from its 2025 triennial payments study",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
+      "published": "2026-07-01T18:30+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood rolls out public blockchain as it expands deeper into crypto",
+      "link": "https://www.coindesk.com/business/2026/07/01/robinhood-rolls-out-public-blockchain-as-it-expands-deeper-into-crypto",
+      "published": "2026-07-01T18:25+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Venice AI raises $65 million Series A at $1 billion equity valuation led by Dragonfly",
+      "link": "https://www.theblock.co/post/406934/venice-ai-funding-equity-valuation-dragonfly?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-01T18:24+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum Foundation lays out use cases for governments, institutions in new policy guide",
+      "link": "https://www.coindesk.com/policy/2026/07/01/ethereum-foundation-lays-out-use-cases-for-governments-institutions-in-new-policy-guide",
+      "published": "2026-07-01T17:52+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto ATM bans, restrictions now in effect in Tennessee and Georgia",
+      "link": "https://cointelegraph.com/news/crypto-atm-bans-restrictions-tennessee-georgia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-01T17:06+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Anchorage Digital brings off-exchange settlement to Binance",
+      "link": "https://cointelegraph.com/news/anchorage-digital-expands-binance-access-with-off-exchange-settlement-for-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-01T16:55+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price returns to $60K as US dollar strength rejects weekly high",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-returns-to-60k-as-us-dollar-strength-rejects-from-weekly-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-01T16:47+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "‘An honest, neutral counterpart:’ Bitmine, Sharplink and Joe Lubin back new Ethereum Institutional non-profit",
+      "link": "https://www.theblock.co/post/406920/neutral-counterpart-bitmine-sharplink-joe-lubin-back-ethereum-institutional-non-profit?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-01T16:44+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum backers launch nonprofit to lead institutional adoption efforts",
+      "link": "https://cointelegraph.com/news/ethereum-institutional-nonprofit-launches-institutional-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-01T16:39+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Jefferies warns against buying the dip in Circle as Open USD raises new competition fears",
+      "link": "https://www.coindesk.com/markets/2026/07/01/jefferies-warns-against-buying-the-dip-in-circle-as-open-usd-raises-new-competition-fears",
+      "published": "2026-07-01T16:11+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Forward Industries jumps 17% after expanding Solana treasury to 7.55 million SOL",
+      "link": "https://www.theblock.co/post/406903/forward-industries-stock-jumps-expanding-solana-treasury-7-55-million-sol?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-01T15:53+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Solana-based prediction market app on Phantom wallet launches",
+      "link": "https://www.theblock.co/post/406900/solana-based-prediction-market-app-on-phantom-wallet-launches?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-01T15:34+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cantor says bitcoin bear market may be entering final stretch",
+      "link": "https://www.coindesk.com/markets/2026/07/01/cantor-says-bitcoin-bear-market-may-be-entering-final-stretch",
+      "published": "2026-07-01T15:11+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Goliath Ventures CEO pleads guilty in $400 million crypto Ponzi case",
+      "link": "https://www.coindesk.com/policy/2026/07/01/goliath-ventures-ceo-pleads-guilty-in-usd400-million-crypto-ponzi-case",
+      "published": "2026-07-01T15:06+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin breaks above $60,000 after Fed Chair Warsh said inflation risks has come down",
+      "link": "https://www.coindesk.com/markets/2026/07/01/bitcoin-retakes-usd60-000-level-after-fed-chair-warsh-said-inflation-risks-has-come-down",
+      "published": "2026-07-01T14:36+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "French banking giant Crédit Agricole launches EURXT euro stablecoin",
+      "link": "https://cointelegraph.com/news/credit-agricole-eurxt-euro-stablecoin-caceis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-01T14:24+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "EthLabs launches as Ethereum undergoes its biggest leadership transition in years",
+      "link": "https://www.coindesk.com/tech/2026/07/01/ethlabs-launches-as-ethereum-undergoes-its-biggest-leadership-transition-in-years",
+      "published": "2026-07-01T14:09+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Europe's MiCA rollout sparks debate over who wins under new crypto rules",
+      "link": "https://www.coindesk.com/policy/2026/07/01/europe-s-mica-rollout-sparks-debate-over-who-wins-under-new-crypto-rules",
+      "published": "2026-07-01T14:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Europe is closing the door on offshore crypto, but it’s leaving the riskiest window open",
+      "link": "https://www.coindesk.com/opinion/2026/07/01/europe-is-closing-the-door-on-offshore-crypto-but-it-s-leaving-the-riskiest-window-open",
+      "published": "2026-07-01T14:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "French banking giant Crédit Agricole rolls out euro stablecoin, EURXT",
+      "link": "https://www.coindesk.com/business/2026/07/01/french-banking-giant-credit-agricole-rolls-out-euro-stablecoin-eurxt",
+      "published": "2026-07-01T13:50+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Morpho poised to scale as DeFi infrastructure play, Standard Chartered says",
+      "link": "https://www.coindesk.com/markets/2026/07/01/morpho-poised-to-scale-as-defi-infrastructure-play-standard-chartered-says",
+      "published": "2026-07-01T13:46+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum gets a new nonprofit focused on institutional adoption",
+      "link": "https://www.coindesk.com/tech/2026/07/01/ethereum-gets-a-new-nonprofit-focused-on-institutional-adoption",
+      "published": "2026-07-01T13:41+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Citi slashes 12-month bitcoin, ether targets as ETF flows dry up",
+      "link": "https://www.coindesk.com/markets/2026/07/01/citi-slashes-12-month-bitcoin-ether-targets-as-etf-flows-dry-up",
+      "published": "2026-07-01T13:39+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bank of Korea governor outlines tokenized bond vision, unified ledger plan",
+      "link": "https://cointelegraph.com/news/bank-korea-governor-tokenized-government-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-01T13:36+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenized Google stock inflated 7,700% in rare DeFi lending exploit",
+      "link": "https://www.coindesk.com/tech/2026/07/01/tokenized-google-stock-inflated-7-700-in-rare-defi-lending-exploit",
+      "published": "2026-07-01T13:32+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "‘We are bullish on Morpho’: Standard Chartered sees token at $60 by 2030, outperforming bitcoin and ether",
+      "link": "https://www.theblock.co/post/406888/bullish-on-morpho-standard-chartered-sees-token-at-60-by-2030-outperforming-bitcoin-ether?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-01T13:25+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Panther Hollow launches multi-strategy merchant bank focused on compliant RWA and yield strategies",
+      "link": "https://www.theblock.co/post/406875/panther-hollow-launches-multi-strategy-merchant-bank-focused-on-compliant-rwa-and-yield-strategies?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-01T13:18+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Bernstein sees 203% upside for Circle even as new stablecoin rival OUSD debuts",
+      "link": "https://www.theblock.co/post/406877/bernstein-sees-203-upside-for-circle-even-as-new-stablecoin-rival-ousd-debuts?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-01T13:07+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "The Cross-Asset Frontier: Tokenized Equities and Stock Trading on Crypto Platforms",
+      "link": "https://www.theblock.co/post/406198/the-cross-asset-frontier-tokenized-equities-and-stock-trading-on-crypto-platforms?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-01T13:02+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "What's next for Bitcoin and stocks? Analysts see a volatile second half",
+      "link": "https://www.coindesk.com/markets/2026/06/30/what-s-next-for-bitcoin-and-stocks-analysts-see-a-volatile-second-half",
+      "published": "2026-07-01T13:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Mysterious Solana project World unveiled as fully onchain prediction market",
+      "link": "https://www.coindesk.com/web3/2026/07/01/mysterious-solana-project-world-unveiled-as-fully-onchain-prediction-market",
+      "published": "2026-07-01T13:00+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Circle CEO touts USDC's network advantage as OUSD emerges",
+      "link": "https://cointelegraph.com/news/circle-ceo-challenges-ousd-revenue-sharing-governance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-01T12:38+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin opens the third quarter in an historical red zone after rare losing first half",
+      "link": "https://www.coindesk.com/markets/2026/07/01/bitcoin-opens-the-third-quarter-in-a-dangerous-historical-red-zone-after-rare-losing-first-half",
+      "published": "2026-07-01T12:30+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Europe is rewriting its landmark crypto rulebook MiCA as hard July 1 deadline passes",
+      "link": "https://www.coindesk.com/policy/2026/06/30/europe-is-rewriting-its-landmark-crypto-rulebook-mica-as-hard-july-1-deadline-passes",
+      "published": "2026-07-01T12:29+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Last-minute MiCA approvals mark end of EU transition period",
+      "link": "https://cointelegraph.com/news/new-licenses-issued-eu-mica-grace-period-ends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-01T12:17+00:00"
     }
   ],
-  "generated": "2026-07-02T08:36:30+00:00"
+  "generated": "2026-07-02T08:39:58+00:00"
 }

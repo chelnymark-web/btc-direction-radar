@@ -1,6 +1,6 @@
 {
-  "ts": "2026-07-02T08:36:30+00:00",
-  "spot": 60477.59,
+  "ts": "2026-07-02T08:39:57+00:00",
+  "spot": 60457.6,
   "bands": [
     {
       "lo": 60961,
@@ -32,7 +32,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "下方",
-      "dist_pct": -1.2
+      "dist_pct": -1.1
     },
     {
       "lo": 61951,
@@ -79,7 +79,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 8.7
+      "dist_pct": 8.8
     },
     {
       "lo": 66739,
@@ -109,7 +109,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 12.4
+      "dist_pct": 12.5
     },
     {
       "lo": 70806,
@@ -186,7 +186,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 40.4
+      "dist_pct": 40.5
     },
     {
       "lo": 92778,
@@ -201,7 +201,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 53.4
+      "dist_pct": 53.5
     },
     {
       "lo": 100619,
@@ -246,7 +246,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 82.4
+      "dist_pct": 82.5
     },
     {
       "lo": 144072,
@@ -261,7 +261,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 138.2
+      "dist_pct": 138.3
     },
     {
       "lo": 167062,
@@ -276,7 +276,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 176.2
+      "dist_pct": 176.3
     }
   ],
   "confluence_bands": [
@@ -295,7 +295,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "下方",
-      "dist_pct": -1.2
+      "dist_pct": -1.1
     },
     {
       "lo": 61951,
