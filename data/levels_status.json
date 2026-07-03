@@ -1,6 +1,6 @@
 {
-  "ts": "2026-07-02T08:39:57+00:00",
-  "spot": 60457.6,
+  "ts": "2026-07-03T09:46:03+00:00",
+  "spot": 61666.74,
   "bands": [
     {
       "lo": 60961,
@@ -14,23 +14,6 @@
       ],
       "n_sources": 1,
       "confluence": false,
-      "side": "上方",
-      "dist_pct": 0.8
-    },
-    {
-      "lo": 59557,
-      "hi": 60000,
-      "mid": 59778,
-      "members": [
-        "前低/最强支撑",
-        "6万 gamma 开关(持续跌破=做市商对冲转追跌、下方加速区)"
-      ],
-      "sources": [
-        "gamma",
-        "结构"
-      ],
-      "n_sources": 2,
-      "confluence": true,
       "side": "下方",
       "dist_pct": -1.1
     },
@@ -49,7 +32,24 @@
       "n_sources": 2,
       "confluence": true,
       "side": "上方",
-      "dist_pct": 3.1
+      "dist_pct": 1.1
+    },
+    {
+      "lo": 59557,
+      "hi": 60000,
+      "mid": 59778,
+      "members": [
+        "前低/最强支撑",
+        "6万 gamma 开关(持续跌破=做市商对冲转追跌、下方加速区)"
+      ],
+      "sources": [
+        "gamma",
+        "结构"
+      ],
+      "n_sources": 2,
+      "confluence": true,
+      "side": "下方",
+      "dist_pct": -3.1
     },
     {
       "lo": 64345,
@@ -64,7 +64,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 6.4
+      "dist_pct": 4.3
     },
     {
       "lo": 65749,
@@ -79,7 +79,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 8.8
+      "dist_pct": 6.6
     },
     {
       "lo": 66739,
@@ -94,7 +94,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 10.4
+      "dist_pct": 8.2
     },
     {
       "lo": 68000,
@@ -109,7 +109,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 12.5
+      "dist_pct": 10.3
     },
     {
       "lo": 70806,
@@ -124,7 +124,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 17.1
+      "dist_pct": 14.8
     },
     {
       "lo": 73776,
@@ -139,7 +139,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 22.0
+      "dist_pct": 19.6
     },
     {
       "lo": 75017,
@@ -156,7 +156,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "上方",
-      "dist_pct": 24.6
+      "dist_pct": 22.2
     },
     {
       "lo": 41485,
@@ -171,7 +171,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "下方",
-      "dist_pct": -31.4
+      "dist_pct": -32.7
     },
     {
       "lo": 84938,
@@ -186,7 +186,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 40.5
+      "dist_pct": 37.7
     },
     {
       "lo": 92778,
@@ -201,7 +201,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 53.5
+      "dist_pct": 50.5
     },
     {
       "lo": 100619,
@@ -216,7 +216,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 66.4
+      "dist_pct": 63.2
     },
     {
       "lo": 18495,
@@ -231,7 +231,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "下方",
-      "dist_pct": -69.4
+      "dist_pct": -70.0
     },
     {
       "lo": 110319,
@@ -246,7 +246,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 82.5
+      "dist_pct": 78.9
     },
     {
       "lo": 144072,
@@ -261,7 +261,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 138.3
+      "dist_pct": 133.6
     },
     {
       "lo": 167062,
@@ -276,27 +276,10 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 176.3
+      "dist_pct": 170.9
     }
   ],
   "confluence_bands": [
-    {
-      "lo": 59557,
-      "hi": 60000,
-      "mid": 59778,
-      "members": [
-        "前低/最强支撑",
-        "6万 gamma 开关(持续跌破=做市商对冲转追跌、下方加速区)"
-      ],
-      "sources": [
-        "gamma",
-        "结构"
-      ],
-      "n_sources": 2,
-      "confluence": true,
-      "side": "下方",
-      "dist_pct": -1.1
-    },
     {
       "lo": 61951,
       "hi": 62700,
@@ -312,7 +295,24 @@
       "n_sources": 2,
       "confluence": true,
       "side": "上方",
-      "dist_pct": 3.1
+      "dist_pct": 1.1
+    },
+    {
+      "lo": 59557,
+      "hi": 60000,
+      "mid": 59778,
+      "members": [
+        "前低/最强支撑",
+        "6万 gamma 开关(持续跌破=做市商对冲转追跌、下方加速区)"
+      ],
+      "sources": [
+        "gamma",
+        "结构"
+      ],
+      "n_sources": 2,
+      "confluence": true,
+      "side": "下方",
+      "dist_pct": -3.1
     },
     {
       "lo": 75017,
@@ -329,7 +329,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "上方",
-      "dist_pct": 24.6
+      "dist_pct": 22.2
     }
   ]
 }
