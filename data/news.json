@@ -1,18 +1,241 @@
 {
-  "kind": "weekly",
-  "mode": "calendar",
-  "window_days": 7,
+  "kind": "daily",
+  "mode": "news",
   "items": [
     {
-      "date": "2026-07-06",
-      "name": "ISM Services PMI(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "The Block",
+      "title": "Strategy sells 3,588 BTC for $216 million, with total bitcoin holdings still underwater",
+      "link": "https://www.theblock.co/post/407217/strategy-bitcoin-digital-energy?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T12:22+00:00"
     },
     {
-      "date": "2026-07-08",
-      "name": "FOMC Meeting Minutes(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "CoinDesk",
+      "title": "Michael Saylor's Strategy dramatically ups pace of bitcoin sales, raising $216 million",
+      "link": "https://www.coindesk.com/markets/2026/07/06/michael-saylor-s-strategy-dramatically-ups-pace-of-bitcoin-sales-raising-usd216-million",
+      "published": "2026-07-06T12:16+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Belgian regulator flags six unauthorized crypto providers after MiCA deadline",
+      "link": "https://cointelegraph.com/news/belgium-unauthorized-crypto-firms-mica-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T12:15+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Russia's largest bank plans crypto wallet launch as Moscow clears market path",
+      "link": "https://www.coindesk.com/business/2026/07/06/russia-s-largest-bank-plans-crypto-wallet-launch-as-moscow-clears-market-path",
+      "published": "2026-07-06T11:36+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SpaceX's Nasdaq 100 inclusion comes with a historical warning",
+      "link": "https://www.coindesk.com/markets/2026/07/06/spacex-s-nasdaq-100-inclusion-comes-with-a-historical-warning",
+      "published": "2026-07-06T11:16+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. inflation outlook underpins bitcoin bulls after best week since March",
+      "link": "https://www.coindesk.com/daybook-us/2026/07/06/u-s-inflation-outlook-underpins-bitcoin-bulls-after-best-week-since-march",
+      "published": "2026-07-06T11:15+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "‘Any signs of life?’ Bernstein holds ‘ambitious’ $150K year-end bitcoin target despite 54% drawdown",
+      "link": "https://www.theblock.co/post/407212/any-signs-of-life-bernstein-holds-ambitious-150k-year-end-bitcoin-target-despite-54-drawdown?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T10:49+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto bounces back from the brink as altcoin optimism returns despite pockets of weakness",
+      "link": "https://www.coindesk.com/markets/2026/07/06/crypto-bounces-back-from-the-brink-as-altcoin-optimism-returns-despite-pockets-of-weakness",
+      "published": "2026-07-06T10:44+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "$60.4K Becomes 'most important area': Five things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/markets/604k-becomes-most-important-area-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T10:25+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's Sharpe Ratio slides to lowest since 2022. Here's what it means.",
+      "link": "https://www.coindesk.com/markets/2026/07/06/bitcoin-s-sharpe-ratio-slides-to-lowest-since-2022-here-s-what-it-means",
+      "published": "2026-07-06T10:19+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ripple's preliminary crypto asset provider license in Luxembourg upgraded to fully compliant",
+      "link": "https://www.coindesk.com/policy/2026/07/06/ripple-s-preliminary-crypto-asset-provider-license-in-luxembourg-upgraded-to-fully-compliant",
+      "published": "2026-07-06T10:01+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "South Korea weighs action against Polymarket over gambling concerns",
+      "link": "https://cointelegraph.com/news/south-korea-polymarket-gambling-review-corrective-action?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T09:53+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase AI draws backlash after erroneously publishing World Cup result before kickoff",
+      "link": "https://www.coindesk.com/business/2026/07/06/coinbase-ai-draws-backlash-after-pushing-world-cup-result-before-kickoff",
+      "published": "2026-07-06T09:39+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Ripple secures full MiCA CASP authorization for crypto services across 30 EEA countries",
+      "link": "https://www.theblock.co/post/407207/ripple-secures-full-mica-casp-authorization-for-crypto-services-across-30-eea-countries?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T09:30+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Dormant $1.9M Bitcoin tied to New York lawsuit moves after nearly 15 years",
+      "link": "https://cointelegraph.com/news/dormant-bitcoin-new-york-lawsuit-moved-15-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T09:20+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "DeFi protocol Summer Finance exploited for $6 million; analysts point to flash loan attack",
+      "link": "https://www.theblock.co/post/407198/summer-finance-exploited?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T08:49+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "South Korea develops crypto-specific procedures for asset seizures and liquidation: report",
+      "link": "https://www.theblock.co/post/407183/south-korea-crypto-specific-procedure?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T08:35+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "FOMC minutes, SpaceX joins Nasdaq 100: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/07/06/fomc-minutes-spacex-joins-nasdaq-100-crypto-week-ahead",
+      "published": "2026-07-06T08:18+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Vitalik Buterin says Ethereum is preparing its 'biggest rebuild' since the Merge",
+      "link": "https://www.coindesk.com/tech/2026/07/06/vitalik-buterin-says-ethereum-is-preparing-its-biggest-rebuild-since-the-merge",
+      "published": "2026-07-06T07:44+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live markets: Saylor's Strategy amps up bitcoin sales, raising $216 million",
+      "link": "https://www.coindesk.com/tech/2026/07/06/live-markets-bitcoin-pops-to-usd63-900-then-reverses-as-week-begins",
+      "published": "2026-07-06T07:43+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "How Sovereign Wealth Funds Invest in Digital Assets",
+      "link": "https://www.theblock.co/learn/407186/how-sovereign-wealth-funds-invest-in-digital-assets?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T06:14+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "I am contemplating selling some of my bitcoin for gold, veteran trader Peter Brandt says",
+      "link": "https://www.coindesk.com/markets/2026/07/06/i-am-contemplating-selling-some-of-my-bitcoin-for-gold-veteran-trader-peter-brandt-says",
+      "published": "2026-07-06T06:03+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Nigel Farage accepted gifts from crypto-linked fraudster: Report",
+      "link": "https://cointelegraph.com/news/nigel-farage-accepted-gifts-from-crypto-linked-fraudster-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T06:02+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T05:59+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Stablecoin transaction volume hits record $1.79T in June",
+      "link": "https://cointelegraph.com/news/stablecoin-transaction-volume-hits-record-179-trillion-in-june-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T05:44+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Thousands of crypto wallets at risk from ‘Ill Bloom’ vulnerability: Coinspect",
+      "link": "https://cointelegraph.com/news/thousands-of-crypto-wallets-at-risk-from-ill-bloom-vulnerability-coinspect?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T05:35+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP rises 3% as $1.14 breakout turns into support test",
+      "link": "https://www.coindesk.com/markets/2026/07/06/xrp-rises-3-as-usd1-14-breakout-turns-into-support-test",
+      "published": "2026-07-06T05:15+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ether leads crypto's hold above key levels as bitcoin steadies over $63,000",
+      "link": "https://www.coindesk.com/markets/2026/07/06/ether-leads-crypto-s-hold-above-key-levels-as-bitcoin-steadies-over-usd63-000",
+      "published": "2026-07-06T05:09+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Central bankers sound alarms over agentic AI finance risks",
+      "link": "https://cointelegraph.com/news/central-bankers-sound-alarms-over-agentic-ai-finance-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T03:30+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trump’s memecoin holders have lost over $3.8B: Report",
+      "link": "https://cointelegraph.com/news/trumps-memecoin-loses-38b-for-nearly-1m-holders-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T03:12+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Dubai tops Asian crypto hubs, Taiwan passes crypto laws: Asia Express",
+      "link": "https://cointelegraph.com/features/asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-05T23:35+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Nigel Farage failed to declare funding from crypto gambling figure convicted of fraud: Sunday Times",
+      "link": "https://www.theblock.co/post/407178/nigel-farage-failed-to-declare-funding-from-crypto-gambling-figure-convicted-of-fraud-sunday-times?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-05T22:53+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Vitalik Buterin says Ethereum’s next rebuild will rival the Merge, and take three to four years",
+      "link": "https://www.theblock.co/post/407176/vitalik-buterin-says-ethereums-next-rebuild-will-rival-the-merge-and-take-three-to-four-years?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-05T19:56+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Clarity and Congress's summer break: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/07/05/clarity-and-congress-s-summer-break-state-of-crypto",
+      "published": "2026-07-05T18:30+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin nears $63.5K into weekly close as trader warns of 'terrible' Monday",
+      "link": "https://cointelegraph.com/markets/bitcoin-nears-635k-into-weekly-close-as-trader-warns-of-terrible-monday?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-05T16:06+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Americans traded $571 million on Polymarket politic bets despite U.S. ban",
+      "link": "https://www.coindesk.com/tech/2026/07/03/americans-traded-usd571-million-on-polymarket-politic-bets-despite-u-s-ban",
+      "published": "2026-07-05T15:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
+      "link": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how",
+      "published": "2026-07-05T14:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Collateral, not yield, will decide which stablecoins win",
+      "link": "https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win",
+      "published": "2026-07-05T13:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kalshi and prediction market sector embroiled in mixed bag of legal fights across U.S.",
+      "link": "https://www.coindesk.com/news-analysis/2026/07/02/kalshi-and-prediction-market-sector-embroiled-in-mixed-bag-of-legal-fights-across-u-s",
+      "published": "2026-07-05T13:00+00:00"
     }
   ],
-  "generated": "2026-07-06T12:28:26+00:00"
+  "generated": "2026-07-06T12:29:25+00:00"
 }
