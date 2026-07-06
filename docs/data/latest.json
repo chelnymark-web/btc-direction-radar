@@ -1,23 +1,23 @@
 {
-  "ts": "2026-07-05T08:32:39+00:00",
-  "price": 62985.17,
-  "funding_rate": -3.7e-05,
-  "perp_basis_pct": -0.05301247896925485,
-  "funding_mean_30d": 2.1744444444444423e-05,
-  "oi_btc": 654186232.0,
-  "oi_change_24h_pct": -2.0859806995582155,
-  "top_ls_ratio": 0.620253164556962,
-  "global_ls_ratio": 1.0805830229870297,
-  "taker_ratio": 0.7069487250974207,
+  "ts": "2026-07-06T12:27:51+00:00",
+  "price": 62048.28,
+  "funding_rate": 9.3e-05,
+  "perp_basis_pct": -0.031878401786477946,
+  "funding_mean_30d": 2.234444444444443e-05,
+  "oi_btc": 604771216.0,
+  "oi_change_24h_pct": -6.890286608294114,
+  "top_ls_ratio": 0.5897435897435896,
+  "global_ls_ratio": 1.345711216817554,
+  "taker_ratio": 0.9380224501852568,
   "deriv_source": "gate.io(备用)",
-  "deribit_index": 62934.08,
-  "dvol": 39.64,
-  "skew_25d": 7.209999999999994,
-  "atm_iv_near": 37.04,
-  "near_expiry_days": 12.0,
-  "atm_iv_next": 37.58,
-  "term_slope": 0.5399999999999991,
-  "next_expiry_days": 26.0,
+  "deribit_index": 61991.17,
+  "dvol": 40.19,
+  "skew_25d": 8.96,
+  "atm_iv_near": 38.56,
+  "near_expiry_days": 10.8,
+  "atm_iv_next": 37.65,
+  "term_slope": -0.9100000000000037,
+  "next_expiry_days": 24.8,
   "flags": {
     "funding_rate": {
       "level": 0,
@@ -25,7 +25,7 @@
       "note": "静态阈值(历史样本<30)"
     },
     "top_ls_ratio": {
-      "level": 1,
+      "level": 2,
       "side": "short",
       "note": "静态阈值(历史样本<30)"
     },
@@ -40,8 +40,8 @@
       "note": "静态阈值(历史样本<30)"
     },
     "skew_25d": {
-      "level": 0,
-      "side": null,
+      "level": 1,
+      "side": "short",
       "note": "静态阈值(历史样本<30)"
     },
     "dvol": {
@@ -50,5 +50,5 @@
       "note": "静态阈值(历史样本<30)"
     }
   },
-  "bias_score": -17
+  "bias_score": -33
 }

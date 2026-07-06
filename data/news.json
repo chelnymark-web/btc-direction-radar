@@ -1,127 +1,18 @@
 {
-  "kind": "daily",
-  "mode": "news",
+  "kind": "weekly",
+  "mode": "calendar",
+  "window_days": 7,
   "items": [
     {
-      "source": "CoinDesk",
-      "title": "Barstool's Portnoy plans to hold bitcoin down to zero after timing it wrong every time",
-      "link": "https://www.coindesk.com/markets/2026/07/05/barstool-s-portnoy-plans-to-hold-bitcoin-down-to-zero-after-timing-it-wrong-every-time",
-      "published": "2026-07-05T06:00+00:00"
+      "date": "2026-07-06",
+      "name": "ISM Services PMI(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-05T03:51+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap",
-      "link": "https://cointelegraph.com/news/vitalik-buterin-shares-top-priorities-for-new-lean-ethereum-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-05T03:50+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
-      "link": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-05T00:50+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Bitcoin ETFs log record eighth straight negative week despite large Thursday inflow",
-      "link": "https://www.theblock.co/post/407173/bitcoin-etfs-log-record-eighth-straight-negative-week-despite-large-thursday-inflow?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-04T23:56+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Nearly 1 million wallets are down $3.81 billion on Trump’s memecoin: report",
-      "link": "https://www.theblock.co/post/407170/nearly-1-million-wallets-are-down-3-81-billion-on-trumps-memecoin-report?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-04T20:44+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tokenization's next use case is personalized portfolios, NYLIM executive says",
-      "link": "https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says",
-      "published": "2026-07-04T20:00+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Kraken lets traders use tokenized stocks as collateral for leveraged trades",
-      "link": "https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-04T19:37+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin jumps above $63,000, reversing end-June losses",
-      "link": "https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses",
-      "published": "2026-07-04T18:07+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin experts split over plan to freeze Satoshi's 1.1 million bitcoin as quantum threat grows",
-      "link": "https://www.coindesk.com/business/2026/07/04/bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoin-as-quantum-threat-grows",
-      "published": "2026-07-04T18:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "How ethical hackers with just a $3,000 server found a flaw that could've put $70 billion in crypto at risk",
-      "link": "https://www.coindesk.com/tech/2026/07/04/how-ethical-hackers-with-just-a-usd3-000-server-found-a-flaw-that-could-ve-put-usd70-billion-in-crypto-at-risk",
-      "published": "2026-07-04T18:00+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Kalshi hits record June trading volume as World Cup fuels prediction markets",
-      "link": "https://cointelegraph.com/news/world-cup-drives-prediction-markets-to-record-june-trading-volumes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-04T16:47+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Aave’s new Monad market tops $100 million in deposits two days after launch",
-      "link": "https://www.theblock.co/post/407167/aaves-new-monad-market-tops-100-million-in-deposits-two-days-after-launch?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-04T16:32+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why bitcoin's disconnect from record-high stocks won't last",
-      "link": "https://www.coindesk.com/markets/2026/07/03/why-bitcoin-s-disconnect-from-record-high-stocks-won-t-last",
-      "published": "2026-07-04T16:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Trump's crypto token buyers are down $3.8 billion, blockchain data shows",
-      "link": "https://www.coindesk.com/business/2026/07/04/trump-s-crypto-token-buyers-are-down-usd3-8-billion-blockchain-data-shows",
-      "published": "2026-07-04T15:30+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Europe led on crypto regulation. Now implementation must match ambition",
-      "link": "https://www.coindesk.com/opinion/2026/07/04/europe-led-on-crypto-regulation-now-implementation-must-match-ambition",
-      "published": "2026-07-04T14:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "EU moves to block retail investors from explosive boom of multibillion-dollar prediction markets",
-      "link": "https://www.coindesk.com/policy/2026/07/04/eu-moves-to-block-retail-investors-from-explosive-boom-of-multibillion-dollar-prediction-markets",
-      "published": "2026-07-04T13:56+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bollinger Bands creator eyes Bitcoin bear-market end, 'W'-shaped reversal",
-      "link": "https://cointelegraph.com/markets/bollinger-bands-creator-eyes-bitcoin-bear-market-end-w-shaped-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-04T13:09+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout",
-      "link": "https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout",
-      "published": "2026-07-04T12:00+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Revolut to delist USDT in August, citing regulatory and risk concerns",
-      "link": "https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-04T11:25+00:00"
+      "date": "2026-07-08",
+      "name": "FOMC Meeting Minutes(USD·高影响)",
+      "source": "ForexFactory"
     }
   ],
-  "generated": "2026-07-05T08:33:16+00:00"
+  "generated": "2026-07-06T12:28:26+00:00"
 }
