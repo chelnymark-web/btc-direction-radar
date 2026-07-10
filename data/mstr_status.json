@@ -1,13 +1,13 @@
 {
-  "ts": "2026-07-09T10:38:57+00:00",
+  "ts": "2026-07-10T10:30:56+00:00",
   "as_of_config": "2026-06-15",
-  "btc_price": 62893.52,
+  "btc_price": 64424.86,
   "avg_cost": 75700,
   "holdings": 846842,
   "flags": {
     "cost_basis": {
       "level": 2,
-      "note": "现价距 MSTR 成本线 75,700 为 -16.9%(仓位浮亏)"
+      "note": "现价距 MSTR 成本线 75,700 为 -14.9%(仓位浮亏)"
     },
     "mnav": {
       "level": 0,
@@ -22,7 +22,7 @@
       "note": "已在卖币付息(2026-06-01 起)。规模显著扩大=Saylor 铁律实质破裂的行为信号——读 8-K,别听 X 表态。"
     }
   },
-  "dist_to_cost_pct": -16.9,
+  "dist_to_cost_pct": -14.9,
   "underwater": true,
   "mnav": 1.16,
   "mnav_source": "手填 premium_hint(非实时,仅提示)",

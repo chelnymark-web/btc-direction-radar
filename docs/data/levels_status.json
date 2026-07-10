@@ -1,7 +1,37 @@
 {
-  "ts": "2026-07-09T10:38:57+00:00",
-  "spot": 62893.52,
+  "ts": "2026-07-10T10:30:56+00:00",
+  "spot": 64424.86,
   "bands": [
+    {
+      "lo": 64345,
+      "hi": 64345,
+      "mid": 64345,
+      "members": [
+        "pivot R1"
+      ],
+      "sources": [
+        "pivot"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "下方",
+      "dist_pct": -0.1
+    },
+    {
+      "lo": 65749,
+      "hi": 65749,
+      "mid": 65749,
+      "members": [
+        "pivot R2 / 50-EMA 附近"
+      ],
+      "sources": [
+        "pivot"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "上方",
+      "dist_pct": 2.1
+    },
     {
       "lo": 61951,
       "hi": 62700,
@@ -17,14 +47,14 @@
       "n_sources": 2,
       "confluence": true,
       "side": "下方",
-      "dist_pct": -0.9
+      "dist_pct": -3.3
     },
     {
-      "lo": 64345,
-      "hi": 64345,
-      "mid": 64345,
+      "lo": 66739,
+      "hi": 66739,
+      "mid": 66739,
       "members": [
-        "pivot R1"
+        "pivot R3"
       ],
       "sources": [
         "pivot"
@@ -32,7 +62,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 2.3
+      "dist_pct": 3.6
     },
     {
       "lo": 60961,
@@ -47,22 +77,22 @@
       "n_sources": 1,
       "confluence": false,
       "side": "下方",
-      "dist_pct": -3.1
+      "dist_pct": -5.4
     },
     {
-      "lo": 65749,
-      "hi": 65749,
-      "mid": 65749,
+      "lo": 68000,
+      "hi": 68000,
+      "mid": 68000,
       "members": [
-        "pivot R2 / 50-EMA 附近"
+        "CME 缺口(本地 TradingView 确认确切边界)"
       ],
       "sources": [
-        "pivot"
+        "CME"
       ],
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 4.5
+      "dist_pct": 5.5
     },
     {
       "lo": 59557,
@@ -79,37 +109,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "下方",
-      "dist_pct": -5.0
-    },
-    {
-      "lo": 66739,
-      "hi": 66739,
-      "mid": 66739,
-      "members": [
-        "pivot R3"
-      ],
-      "sources": [
-        "pivot"
-      ],
-      "n_sources": 1,
-      "confluence": false,
-      "side": "上方",
-      "dist_pct": 6.1
-    },
-    {
-      "lo": 68000,
-      "hi": 68000,
-      "mid": 68000,
-      "members": [
-        "CME 缺口(本地 TradingView 确认确切边界)"
-      ],
-      "sources": [
-        "CME"
-      ],
-      "n_sources": 1,
-      "confluence": false,
-      "side": "上方",
-      "dist_pct": 8.1
+      "dist_pct": -7.2
     },
     {
       "lo": 70806,
@@ -124,7 +124,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 12.6
+      "dist_pct": 9.9
     },
     {
       "lo": 73776,
@@ -139,7 +139,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 17.3
+      "dist_pct": 14.5
     },
     {
       "lo": 75017,
@@ -156,22 +156,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "上方",
-      "dist_pct": 19.8
-    },
-    {
-      "lo": 41485,
-      "hi": 41485,
-      "mid": 41485,
-      "members": [
-        "fib 1.272 扩展(下)"
-      ],
-      "sources": [
-        "fib"
-      ],
-      "n_sources": 1,
-      "confluence": false,
-      "side": "下方",
-      "dist_pct": -34.0
+      "dist_pct": 17.0
     },
     {
       "lo": 84938,
@@ -186,7 +171,22 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 35.1
+      "dist_pct": 31.8
+    },
+    {
+      "lo": 41485,
+      "hi": 41485,
+      "mid": 41485,
+      "members": [
+        "fib 1.272 扩展(下)"
+      ],
+      "sources": [
+        "fib"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "下方",
+      "dist_pct": -35.6
     },
     {
       "lo": 92778,
@@ -201,7 +201,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 47.5
+      "dist_pct": 44.0
     },
     {
       "lo": 100619,
@@ -216,22 +216,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 60.0
-    },
-    {
-      "lo": 18495,
-      "hi": 18495,
-      "mid": 18495,
-      "members": [
-        "fib 1.618 扩展(下)"
-      ],
-      "sources": [
-        "fib"
-      ],
-      "n_sources": 1,
-      "confluence": false,
-      "side": "下方",
-      "dist_pct": -70.6
+      "dist_pct": 56.2
     },
     {
       "lo": 110319,
@@ -246,7 +231,22 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 75.4
+      "dist_pct": 71.2
+    },
+    {
+      "lo": 18495,
+      "hi": 18495,
+      "mid": 18495,
+      "members": [
+        "fib 1.618 扩展(下)"
+      ],
+      "sources": [
+        "fib"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "下方",
+      "dist_pct": -71.3
     },
     {
       "lo": 144072,
@@ -261,7 +261,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 129.1
+      "dist_pct": 123.6
     },
     {
       "lo": 167062,
@@ -276,7 +276,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 165.6
+      "dist_pct": 159.3
     }
   ],
   "confluence_bands": [
@@ -295,7 +295,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "下方",
-      "dist_pct": -0.9
+      "dist_pct": -3.3
     },
     {
       "lo": 59557,
@@ -312,7 +312,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "下方",
-      "dist_pct": -5.0
+      "dist_pct": -7.2
     },
     {
       "lo": 75017,
@@ -329,7 +329,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "上方",
-      "dist_pct": 19.8
+      "dist_pct": 17.0
     }
   ]
 }
