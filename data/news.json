@@ -3,293 +3,113 @@
   "mode": "news",
   "items": [
     {
+      "source": "CoinDesk",
+      "title": "Bitcoin, ether little changed as U.S. launches fresh Iran strikes",
+      "link": "https://www.coindesk.com/markets/2026/07/12/bitcoin-ether-little-changed-as-u-s-launches-fresh-iran-strikes",
+      "published": "2026-07-12T06:18+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ripple once weighed shutting down and handing XRP to shareholders, CEO says",
+      "link": "https://www.coindesk.com/markets/2026/07/12/ripple-once-weighed-shutting-down-and-handing-xrp-to-shareholders-ceo-says",
+      "published": "2026-07-12T06:09+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin’s BIP 110 fork deadline nears with miner support at zero",
+      "link": "https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero",
+      "published": "2026-07-12T05:49+00:00"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-11T04:13+00:00"
+      "published": "2026-07-12T04:24+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Robinhood says its AI agent feature will ‘soon’ be assisting crypto traders",
-      "link": "https://cointelegraph.com/news/robinhood-says-ai-agents-will-be-trading-for-crypto-users-soon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-11T04:12+00:00"
+      "title": "Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal",
+      "link": "https://cointelegraph.com/news/bitcoin-leaders-michael-saylor-and-adam-back-rebuff-bip-110-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-12T04:24+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Empery Digital shares rise after selling Bitcoin to fund AI data center project",
+      "link": "https://cointelegraph.com/news/empery-digital-shares-rise-after-selling-bitcoin-treasury-to-fund-ai-data-center-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-12T01:00+00:00"
     },
     {
       "source": "The Block",
-      "title": "Housing bill that includes a CBDC ban passed into law without Trump’s signature",
-      "link": "https://www.theblock.co/post/406548/housing-bill-cbdc-ban-passed-into-law-without-trump-signature?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-11T04:08+00:00"
+      "title": "Hedera lending protocol Bonzo Lend hit for $9 million after Supra verifier accepts manipulated price update",
+      "link": "https://www.theblock.co/post/407960/hedera-lending-protocol-bonzo-lend-hit-for-9-million-after-supra-verifier-accepts-manipulated-price-update?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-11T19:19+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin analysts predict $300,000–$500,000 price in 2029. The math says no",
-      "link": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no",
-      "published": "2026-07-11T02:30+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report",
-      "link": "https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-11T01:30+00:00"
+      "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
+      "link": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
+      "published": "2026-07-11T18:06+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
-      "link": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business",
-      "published": "2026-07-10T21:26+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Kraken to overhaul app with AI investing assistant",
-      "link": "https://cointelegraph.com/news/kraken-to-rebuild-app-around-ai-powered-trading-agents-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-10T21:07+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Senate Democrats call for hearings into Trump’s ties to crypto amid CLARITY Act discussions",
-      "link": "https://cointelegraph.com/news/senate-democrats-hearings-donald-trump-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-10T21:03+00:00"
+      "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
+      "link": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
+      "published": "2026-07-11T17:07+00:00"
     },
     {
       "source": "The Block",
-      "title": "DOJ to drop charges against man accused in $722 million BitClub crypto Ponzi scheme: Bloomberg",
-      "link": "https://www.theblock.co/post/407931/doj-drop-charges-against-man-accused-722-million-bitclub-crypto-ponzi-scheme-bloomberg?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-10T20:12+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Here’s what’s next for the Clarity Act as Congress returns to Washington",
-      "link": "https://www.theblock.co/post/407930/whats-next-for-clarity-act-congress-returns-to-washington?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-10T19:50+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US CBDC ban to go into effect without Trump signoff on housing bill",
-      "link": "https://cointelegraph.com/news/us-cbdc-ban-donald-trump-housing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-10T19:33+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "SK Hynix’s $26.5 billion US listing brought to Telegram users via xStocks",
-      "link": "https://www.theblock.co/post/407923/sk-hynixs-26-5-billion-us-listing-brought-to-telegram-users-via-xstocks?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-10T18:49+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "New Hampshire council votes down $100M Bitcoin bonds",
-      "link": "https://cointelegraph.com/news/new-hampshire-votes-against-bitcoin-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-10T17:23+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Empery Digital offloads 1,400 bitcoins to help fund AI pivot, pay debt",
-      "link": "https://www.theblock.co/post/407900/empery-digital-offloads-1400-bitcoins-help-fund-ai-pivot-pay-debt?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-10T16:39+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Backpack joins race for 24/7 stock markets with tokenized equities",
-      "link": "https://cointelegraph.com/news/backpack-launches-247-trading-for-tokenized-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-10T16:36+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Kraken to relaunch its mobile app with agentic trading and advice at the center",
-      "link": "https://www.theblock.co/post/407899/kraken-to-relaunch-its-mobile-app-with-agentic-trading-and-advise-at-the-center?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-10T16:27+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Cambridge research puts 31% of Ethereum node activity in the US, where a third offline can stall finalization",
-      "link": "https://www.theblock.co/post/407909/cambridge-research-puts-ethereum-node-activity-in-us-where-third-offline-can-stall-finalization?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-10T16:07+00:00"
+      "title": "Bitcoin, ether ETFs snap eight-week outflow streaks with $282 million combined inflow",
+      "link": "https://www.theblock.co/post/407957/bitcoin-ether-etfs-snap-eight-week-outflow-streaks-with-282-million-combined-inflow?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-11T15:19+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
-      "link": "https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit",
-      "published": "2026-07-10T16:02+00:00"
+      "title": "The UK has finally shown it’s serious about crypto",
+      "link": "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto",
+      "published": "2026-07-11T15:00+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Crypto Biz: How stablecoins found their niche",
-      "link": "https://cointelegraph.com/news/crypto-biz-how-stablecoins-found-their-niche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-10T15:37+00:00"
+      "title": "Bitcoin nearing late stages of bear market: Jamie Coutts, Real Vision",
+      "link": "https://cointelegraph.com/features/bitcoin-is-approaching-the-second-half-of-the-bear-market-jamie-coutts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-11T13:30+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?",
+      "link": "https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-11T12:55+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
-      "link": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
-      "published": "2026-07-10T15:26+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin whales sent BTC price to $64K as Coinbase Premium broke key level: CryptoQuant",
-      "link": "https://cointelegraph.com/markets/bitcoin-whales-sent-btc-price-to-64k-as-coinbase-premium-broke-key-level-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-10T14:59+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "A16z’s Andreessen lands Federal Reserve role as AI reshapes policy debate",
-      "link": "https://cointelegraph.com/news/federal-reserve-a16z-co-founder-monetary-policy-task-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-10T14:12+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "MiCA licensing only the beginning as crypto custodians face scrutiny",
-      "link": "https://cointelegraph.com/news/mica-only-beginning-crypto-custodians-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-10T13:54+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Will the crypto lobby's $189M campaign get CLARITY over the line?",
-      "link": "https://cointelegraph.com/features/how-crypto-built-political-influence-in-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-10T13:30+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Binance co-CEO says 70% of EU withdrawals went to self-custody after MiCA deadline, with just 30% going to licensed platforms",
-      "link": "https://www.theblock.co/post/407888/binance-co-ceo-says-70-of-eu-withdrawals-went-to-self-custody-after-mica-deadline-with-just-30-going-to-licensed-platforms?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-10T13:17+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "‘Communication challenge, nothing more’: Standard Chartered keeps $100,000 bitcoin target, calls Strategy selloff a signaling problem",
-      "link": "https://www.theblock.co/post/407884/communication-challenge-nothing-more-standard-chartered-keeps-100000-bitcoin-target-calls-strategy-selloff-a-signaling-problem?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-10T12:46+00:00"
+      "title": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
+      "link": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack",
+      "published": "2026-07-11T12:25+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "OKX, MetaMask, Matter Labs back dispute resolution court for AI agents",
-      "link": "https://www.coindesk.com/business/2026/07/10/okx-metamask-matter-labs-back-dispute-resolution-court-for-ai-agents",
-      "published": "2026-07-10T12:29+00:00"
+      "title": "AI found an Ethereum bug that could take validators offline, but humans had to prove it",
+      "link": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it",
+      "published": "2026-07-11T12:00+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "US charges prisoner over alleged laundering of seized Kraken crypto",
-      "link": "https://cointelegraph.com/news/us-prisoner-290k-crypto-restrained-kraken-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-10T12:27+00:00"
+      "title": "Bonzo Lend loses $9M in oracle exploit on Hedera",
+      "link": "https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-11T11:56+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Wall Street banks tighten prediction market rules for staff as insider fears spread",
-      "link": "https://cointelegraph.com/news/wall-street-prediction-market-trading-insider-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-10T11:51+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Circle soars after securing U.S. trust bank approval in crypto expansion",
-      "link": "https://www.coindesk.com/business/2026/07/10/circle-secures-u-s-trust-bank-approval-in-crypto-expansion",
-      "published": "2026-07-10T11:41+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Japan's 'invest locally' plan likely to spur demand for assets like bitcoin, gold",
-      "link": "https://www.coindesk.com/daybook-us/2026/07/10/japan-s-invest-locally-plan-likely-to-spur-demand-for-assets-like-bitcoin-gold",
-      "published": "2026-07-10T11:37+00:00"
+      "title": "Bitcoin price gains nearly 10% in July, but traders still see BTC copying 2022 bear market",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-gains-nearly-10-in-july-but-traders-still-see-btc-copying-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-11T11:21+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "USDC issuer Circle wins final approval for US national trust bank charter",
-      "link": "https://cointelegraph.com/news/circle-final-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-10T11:37+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Stablecoin firm Circle wins final OCC approval to open national trust bank",
-      "link": "https://www.theblock.co/post/407876/stablecoin-firm-circle-wins-final-occ-approval-to-open-national-trust-bank?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-10T11:25+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Japanese lender launches Bitcoin-backed loans of up to $6.2M",
-      "link": "https://cointelegraph.com/news/japan-cryl-bitcoin-backed-loans-6-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-10T11:24+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Ledger researchers disclose Tangem card flaw; Tangem says risk to everyday users is ‘virtually non-existent’",
-      "link": "https://www.theblock.co/post/407871/ledger-researchers-disclose-tangem-card-flaw-tangem-says-risk-to-everyday-users-is-virtually-non-existent?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-10T11:08+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto defies equity weakness as altcoin optimism builds into the weekend",
-      "link": "https://www.coindesk.com/markets/2026/07/10/crypto-defies-equity-weakness-as-altcoin-optimism-builds-into-the-weekend",
-      "published": "2026-07-10T10:37+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "New Hampshire’s $100 million bitcoin bond proposal fails to pass final vote",
-      "link": "https://www.theblock.co/post/407867/new-hampshire-bitcoin-backed-bond-fails?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-10T10:29+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "TeraWulf eyes $3.5B debt raise for Anthropic-linked data center: Report",
-      "link": "https://cointelegraph.com/news/terawulf-3-5-billion-debt-raise-anthropic-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-10T10:14+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Revolut integrates its crypto exchange with AI assistants as agentic trading spreads",
-      "link": "https://www.theblock.co/post/407865/revolut-integrates-its-crypto-exchange-with-ai-assistants-as-agentic-trading-spreads?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-10T10:04+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Metaplanet explores Bitcoin-backed digital credit with JPYC in Japan",
-      "link": "https://cointelegraph.com/news/metaplanet-studies-bitcoin-digital-bonds-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-10T09:58+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Polymarket seeks approval to bring margin trading to U.S. customers",
-      "link": "https://www.coindesk.com/markets/2026/07/10/polymarket-seeks-approval-to-bring-margin-trading-to-u-s-customers",
-      "published": "2026-07-10T09:35+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin returns to $64.3K with new 3-week BTC price highs imminent",
-      "link": "https://cointelegraph.com/markets/bitcoin-returns-to-64k-with-three-week-btc-price-highs-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-10T09:32+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin's $60,000-$70,000 range becomes third most traded range in history",
-      "link": "https://www.coindesk.com/markets/2026/07/10/bitcoin-s-usd60k-to-usd70k-range-becomes-third-longest-consolidation-in-history",
-      "published": "2026-07-10T09:16+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "DOJ charges federal inmate over alleged theft of $290,000 in crypto forfeited to US government",
-      "link": "https://www.theblock.co/post/407854/doj-charges-federal-inmate-over-alleged-theft-of-290000-in-crypto-forfeited-to-us-government?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-10T09:13+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Cathie Wood’s Ark Invest buys $14 million worth of Circle, offloads Robinhood shares",
-      "link": "https://www.theblock.co/post/407853/ark-invest-buys-14-million-worth-circle?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-10T09:09+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Metaplanet explores bringing bitcoin-backed digital credit to Japan",
-      "link": "https://www.coindesk.com/markets/2026/07/10/metaplanet-explores-bringing-bitcoin-backed-digital-credit-to-japan",
-      "published": "2026-07-10T09:08+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "UK Labour MPs push to permanently ban crypto political donations",
-      "link": "https://www.theblock.co/post/407842/uk-labour-mps-crypto-ban?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-10T08:44+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin gets a green light from a reliable momentum gauge. Here are key levels to watch",
-      "link": "https://www.coindesk.com/markets/2026/07/10/bitcoin-gets-a-green-light-from-a-reliable-momentum-gauge-here-are-key-levels-to-watch",
-      "published": "2026-07-10T06:49+00:00"
+      "title": "Dollar stablecoins could improve FX access but amplify currency runs: IMF paper",
+      "link": "https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-11T09:14+00:00"
     }
   ],
-  "generated": "2026-07-11T06:27:39+00:00"
+  "generated": "2026-07-12T07:36:03+00:00"
 }
