@@ -1,115 +1,53 @@
 {
-  "kind": "daily",
-  "mode": "news",
+  "kind": "weekly",
+  "mode": "calendar",
+  "window_days": 7,
   "items": [
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin, ether little changed as U.S. launches fresh Iran strikes",
-      "link": "https://www.coindesk.com/markets/2026/07/12/bitcoin-ether-little-changed-as-u-s-launches-fresh-iran-strikes",
-      "published": "2026-07-12T06:18+00:00"
+      "date": "2026-07-14",
+      "name": "美国 6 月 CPI(BLS 已确认,08:30 ET)",
+      "source": "宏观"
     },
     {
-      "source": "CoinDesk",
-      "title": "Ripple once weighed shutting down and handing XRP to shareholders, CEO says",
-      "link": "https://www.coindesk.com/markets/2026/07/12/ripple-once-weighed-shutting-down-and-handing-xrp-to-shareholders-ceo-says",
-      "published": "2026-07-12T06:09+00:00"
+      "date": "2026-07-14",
+      "name": "Core CPI m/m(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin’s BIP 110 fork deadline nears with miner support at zero",
-      "link": "https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero",
-      "published": "2026-07-12T05:49+00:00"
+      "date": "2026-07-14",
+      "name": "Core CPI y/y(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-12T04:24+00:00"
+      "date": "2026-07-14",
+      "name": "CPI m/m(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal",
-      "link": "https://cointelegraph.com/news/bitcoin-leaders-michael-saylor-and-adam-back-rebuff-bip-110-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-12T04:24+00:00"
+      "date": "2026-07-14",
+      "name": "CPI y/y(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Empery Digital shares rise after selling Bitcoin to fund AI data center project",
-      "link": "https://cointelegraph.com/news/empery-digital-shares-rise-after-selling-bitcoin-treasury-to-fund-ai-data-center-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-12T01:00+00:00"
+      "date": "2026-07-14",
+      "name": "Fed Chairman Warsh Testifies(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "The Block",
-      "title": "Hedera lending protocol Bonzo Lend hit for $9 million after Supra verifier accepts manipulated price update",
-      "link": "https://www.theblock.co/post/407960/hedera-lending-protocol-bonzo-lend-hit-for-9-million-after-supra-verifier-accepts-manipulated-price-update?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-11T19:19+00:00"
+      "date": "2026-07-15",
+      "name": "Core PPI m/m(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "CoinDesk",
-      "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
-      "link": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
-      "published": "2026-07-11T18:06+00:00"
+      "date": "2026-07-15",
+      "name": "PPI m/m(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
-      "link": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
-      "published": "2026-07-11T17:07+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Bitcoin, ether ETFs snap eight-week outflow streaks with $282 million combined inflow",
-      "link": "https://www.theblock.co/post/407957/bitcoin-ether-etfs-snap-eight-week-outflow-streaks-with-282-million-combined-inflow?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-11T15:19+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The UK has finally shown it’s serious about crypto",
-      "link": "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto",
-      "published": "2026-07-11T15:00+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin nearing late stages of bear market: Jamie Coutts, Real Vision",
-      "link": "https://cointelegraph.com/features/bitcoin-is-approaching-the-second-half-of-the-bear-market-jamie-coutts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-11T13:30+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?",
-      "link": "https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-11T12:55+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
-      "link": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack",
-      "published": "2026-07-11T12:25+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "AI found an Ethereum bug that could take validators offline, but humans had to prove it",
-      "link": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it",
-      "published": "2026-07-11T12:00+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bonzo Lend loses $9M in oracle exploit on Hedera",
-      "link": "https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-11T11:56+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin price gains nearly 10% in July, but traders still see BTC copying 2022 bear market",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-gains-nearly-10-in-july-but-traders-still-see-btc-copying-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-11T11:21+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Dollar stablecoins could improve FX access but amplify currency runs: IMF paper",
-      "link": "https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-11T09:14+00:00"
+      "date": "2026-07-15",
+      "name": "Fed Chairman Warsh Testifies(USD·高影响)",
+      "source": "ForexFactory"
     }
   ],
-  "generated": "2026-07-12T07:36:03+00:00"
+  "generated": "2026-07-13T08:38:01+00:00"
 }
