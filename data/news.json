@@ -1,53 +1,355 @@
 {
-  "kind": "weekly",
-  "mode": "calendar",
-  "window_days": 7,
+  "kind": "daily",
+  "mode": "news",
   "items": [
     {
-      "date": "2026-07-14",
-      "name": "美国 6 月 CPI(BLS 已确认,08:30 ET)",
-      "source": "宏观"
+      "source": "The Block",
+      "title": "How Bitcoin ETFs Changed Institutional Adoption",
+      "link": "https://www.theblock.co/learn/408156/how-bitcoin-etfs-changed-institutional-adoption?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-14T05:20+00:00"
     },
     {
-      "date": "2026-07-14",
-      "name": "Core CPI m/m(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-14T05:09+00:00"
     },
     {
-      "date": "2026-07-14",
-      "name": "Core CPI y/y(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "CoinDesk",
+      "title": "Solo bitcoin miner makes $200,000 using $150 equipment",
+      "link": "https://www.coindesk.com/markets/2026/07/14/solo-btc-miner-makes-usd200-000-using-usd150-equipment",
+      "published": "2026-07-14T04:43+00:00"
     },
     {
-      "date": "2026-07-14",
-      "name": "CPI m/m(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "Cointelegraph",
+      "title": "White House crypto adviser Patrick Witt to report for military training: Report",
+      "link": "https://cointelegraph.com/news/white-house-crypto-adviser-patrick-witt-to-report-for-military-training-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-14T04:35+00:00"
     },
     {
-      "date": "2026-07-14",
-      "name": "CPI y/y(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "Cointelegraph",
+      "title": "US government moves $297M in seized Bitcoin, Ether to Coinbase Prime",
+      "link": "https://cointelegraph.com/news/us-government-moves-297m-in-seized-bitcoin-ether-to-coinbase-prime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-14T03:35+00:00"
     },
     {
-      "date": "2026-07-14",
-      "name": "Fed Chairman Warsh Testifies(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "CoinDesk",
+      "title": "Bitcoin slips as traders lift July Fed rate hike bets ahead of Inflation report",
+      "link": "https://www.coindesk.com/markets/2026/07/14/bitcoin-slips-as-traders-lift-july-fed-rate-hike-bets-ahead-of-inflation-report",
+      "published": "2026-07-14T02:58+00:00"
     },
     {
-      "date": "2026-07-15",
-      "name": "Core PPI m/m(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "Cointelegraph",
+      "title": "Thai scammer's $122M wallet, Japan embraces crypto credit: Asia Express",
+      "link": "https://cointelegraph.com/features/thai-scammer-japan-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-14T01:39+00:00"
     },
     {
-      "date": "2026-07-15",
-      "name": "PPI m/m(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "Cointelegraph",
+      "title": "CLARITY Act gains second law enforcement endorsement before Senate push",
+      "link": "https://cointelegraph.com/news/clarity-act-gains-second-law-enforcement-endorsement-before-senate-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-14T01:37+00:00"
     },
     {
-      "date": "2026-07-15",
-      "name": "Fed Chairman Warsh Testifies(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "The Block",
+      "title": "Bitcoin and Ethereum tweet volume falls to 12-month lows despite institutional crypto boom",
+      "link": "https://www.theblock.co/post/408061/bitcoin-ethereum-tweet-volume-falls-12-month-lows-despite-institutional-crypto-boom?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-13T22:06+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Global law firm launches MiCA compliance tool as crypto companies navigate new EU rules",
+      "link": "https://cointelegraph.com/news/global-law-firm-mica-compliance-tool-crypto-companies-navigate-new-eu-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-13T21:40+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Hyperliquid’s HIP-3 markets surge to nearly 50% of perp volume as onchain stock trading grows",
+      "link": "https://www.theblock.co/post/408064/hyperliquid-hip-3-markets-surge-50-perp-volume-onchain-stock-trading-grows?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-13T20:33+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance.US CEO says exchange is rebuilding, eyes return to 20% U.S. market share",
+      "link": "https://www.coindesk.com/coindesk-news/2026/07/13/binance-us-ceo-says-exchange-is-rebuilding-eyes-return-to-20-u-s-market-share",
+      "published": "2026-07-13T20:27+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Franklin Crypto CIO says crypto prices are disconnected from fundamentals",
+      "link": "https://www.coindesk.com/markets/2026/07/13/franklin-crypto-cio-says-crypto-prices-are-disconnected-from-fundamentals",
+      "published": "2026-07-13T20:15+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "TeraWulf CEO: 'Not All Megawatts Are Created Equally' in AI Race",
+      "link": "https://www.coindesk.com/coindesk-news/2026/07/13/terawulf-ceo-not-all-megawatts-are-created-equally-in-ai-race",
+      "published": "2026-07-13T19:43+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Gondor v1 to let users borrow against their entire Polymarket portfolio",
+      "link": "https://www.theblock.co/post/408129/gondor-v1-let-users-borrow-against-entire-polymarket-portfolio?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-13T19:37+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Strategy’s no-bitcoin-buy week shows ‘greater balance-sheet discipline,’ analysts say",
+      "link": "https://www.theblock.co/post/408069/strategy-no-bitcoin-buy-week-shows-balance-sheet-discipline-analysts-say?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-13T18:50+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump's crypto riches loom over Clarity Act talks to ban conflicts for U.S. officials",
+      "link": "https://www.coindesk.com/policy/2026/07/13/trump-s-crypto-riches-loom-over-clarity-act-talks-to-ban-conflicts-for-u-s-officials",
+      "published": "2026-07-13T17:49+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bolivia mulls recognizing USDT as payment currency amid dollar shortage",
+      "link": "https://cointelegraph.com/news/bolivia-weighs-usdt-payment-currency-amid-dollar-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-13T17:20+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Onchain Pokémon cards come to Solana-based DEX Jupiter",
+      "link": "https://www.theblock.co/post/408059/onchain-pokemon-cards-come-to-solana-based-dex-jupiter?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-13T16:56+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Hyundai completes USDT treasury settlement pilot between US and Mexico",
+      "link": "https://cointelegraph.com/news/hyundai-completes-usdt-treasury-settlement-pilot-between-us-and-mexico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-13T16:45+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "UK lays out tokenized finance roadmap with projected £33 billion annual boost",
+      "link": "https://www.theblock.co/post/408046/uk-lays-out-tokenized-finance-roadmap-projected-33-billion-annual-boost?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-13T16:42+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Mizuho says Circle bank approval doesn't solve USDC growth, stablecoin competition risks",
+      "link": "https://www.coindesk.com/business/2026/07/13/mizuho-says-circle-bank-approval-doesn-t-solve-usdc-growth-stablecoin-competition-risks",
+      "published": "2026-07-13T16:34+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Donald Trump invokes US senator’s death to push crypto bill",
+      "link": "https://cointelegraph.com/news/us-senate-session-plans-clarity-act-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-13T16:27+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "President Trump, White House press Senate to advance the Clarity Act while ethics fight looms",
+      "link": "https://www.theblock.co/post/408054/trump-white-house-press-senate-advance-clarity-act-ethics-fight-looms?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-13T15:51+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin panic-selling may be ending as sellers' profit margins disappear",
+      "link": "https://www.coindesk.com/markets/2026/07/13/bitcoin-panic-selling-may-be-ending-as-sellers-profit-margins-disappear",
+      "published": "2026-07-13T15:49+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy pauses its Bitcoin buying spree to hoard a massive $3 billion cash cushion",
+      "link": "https://www.coindesk.com/markets/2026/07/13/strategy-pauses-its-bitcoin-buying-spree-to-hoard-a-massive-usd3-billion-cash-cushion",
+      "published": "2026-07-13T15:27+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood built a blockchain for tokenized stocks. Memecoins took over",
+      "link": "https://www.coindesk.com/tech/2026/07/13/robinhood-built-a-blockchain-for-tokenized-stocks-memecoins-took-over",
+      "published": "2026-07-13T15:17+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin threatens $62K in risk-asset rout as Donald Trump says US will 'run' closed Hormuz Strait",
+      "link": "https://cointelegraph.com/markets/bitcoin-threatens-62k-in-risk-asset-out-as-donald-trump-says-us-will-run-closed-hormuz-strait?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-13T15:05+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Chinese prosecutors call for more proactive approach to investigating crypto money laundering",
+      "link": "https://www.theblock.co/post/408035/chinese-prosecutors-call-for-more-proactive-approach-to-investigating-crypto-money-laundering?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-13T14:58+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bolivia weighs adding Tether's USDT to its national payments system",
+      "link": "https://www.coindesk.com/business/2026/07/13/bolivia-weighs-adding-tether-s-usdt-to-its-national-payments-system",
+      "published": "2026-07-13T14:47+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Japan’s largest security token platform moves nearly $3 billion to Avalanche blockchain",
+      "link": "https://www.theblock.co/post/408036/japans-largest-security-token-platform-moves-nearly-3-billion-to-avalanche-blockchain?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-13T14:29+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "UK Treasury report on tokenization cites Ripple as convergence model",
+      "link": "https://www.coindesk.com/policy/2026/07/13/ripple-lands-inside-uk-plan-for-tokenized-repo-bonds-and-funds",
+      "published": "2026-07-13T14:06+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tom Lee's BitMine ether holdings rise to 5.77 million tokens, or 4.8% of total supply",
+      "link": "https://www.coindesk.com/markets/2026/07/13/tom-lee-s-bitmine-raises-ether-holdings-to-usd5-77-million-or-4-8-of-supply",
+      "published": "2026-07-13T14:04+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Stablecoin FX priced below interbank rates in Q2, with routing now the biggest cost lever: Borderless",
+      "link": "https://www.theblock.co/post/408006/stablecoin-fx-priced-below-interbank-rates-in-q2-with-routing-now-the-biggest-cost-lever-borderless?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-13T14:01+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Wall Street transfer agents lobby SEC, warning that third-party tokens pose risks to market integrity",
+      "link": "https://www.coindesk.com/policy/2026/07/13/wall-street-transfer-agents-lobby-sec-warning-that-third-party-tokens-pose-risks-to-market-integrity",
+      "published": "2026-07-13T13:45+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Coinbase Ventures tops crypto VC list for H1 2026",
+      "link": "https://cointelegraph.com/news/coinbase-ventures-leading-crypto-vc-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-13T13:26+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Tom Lee says users ‘starting to see Ethereum as money’ as Bitmine adds 27,801 ETH",
+      "link": "https://www.theblock.co/post/408029/tom-lee-says-users-starting-see-ethereum-money-bitmine-adds-27801-eth?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-13T13:25+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strategy sells $467M in MSTR shares, leaves 843,775 BTC stack untouched",
+      "link": "https://cointelegraph.com/news/strategy-sells-467-million-mstr-keeps-843775-btc-stack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-13T13:08+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood Chain surges into top five by DEX volume: Bernstein",
+      "link": "https://www.coindesk.com/tech/2026/07/13/robinhood-chain-surges-into-top-five-by-dex-volume-bernstein",
+      "published": "2026-07-13T12:49+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Robinhood Chain draws over $3 billion in weekly DEX volume to join top five chains: Bernstein",
+      "link": "https://www.theblock.co/post/408024/robinhood-chain-draws-over-3-billion-in-weekly-dex-volume-to-join-top-five-chains-bernstein?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-13T12:30+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Strategy sells $467 million in MSTR shares, makes no bitcoin purchases as USD reserve hits $3 billion",
+      "link": "https://www.theblock.co/post/408004/strategy-sells-467-million-in-mstr-shares-makes-no-bitcoin-purchases-as-usd-reserve-hits-3-billion?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-13T12:16+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Michael Saylor’s Strategy added $467 million in cash, made no changes to bitcoin holdings",
+      "link": "https://www.coindesk.com/markets/2026/07/13/michael-saylor-s-strategy-added-usd467-million-in-cash-made-no-changes-to-bitcoin-holdings",
+      "published": "2026-07-13T12:15+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "UK tokenization push could add as much as $44B to annual output by 2035: Report",
+      "link": "https://cointelegraph.com/news/uk-tokenization-44-billion-annual-output-2035?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-13T11:50+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SBI Holdings' blockchain initiative pivots to Solana for tokenization, stablecoin issuance",
+      "link": "https://www.coindesk.com/business/2026/07/13/sbi-holdings-blockchain-initiative-pivots-to-solana-for-tokenization-stablecoin-issuance",
+      "published": "2026-07-13T11:40+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BlackRock, Goldman Sachs, JPMorgan, Morgan Stanley join UK government's tokenization taskforce",
+      "link": "https://www.coindesk.com/business/2026/07/13/uk-government-unveils-tokenization-taskforce-with-blackrock-goldman-jpmorgan-morgan-stanley",
+      "published": "2026-07-13T11:40+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin whale moves $188M for first time in 7 years",
+      "link": "https://cointelegraph.com/news/bitcoin-whale-moves-188m-first-7-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-13T11:36+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Resurgent U.S.-Iran hostilities send bitcoin lower even as ETF flows show demand",
+      "link": "https://www.coindesk.com/daybook-us/2026/07/13/resurgent-u-s-iran-hostilities-send-bitcoin-lower-even-as-etf-flows-show-demand",
+      "published": "2026-07-13T11:20+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance June futures volume at $1.6T defies crypto spot trading slump",
+      "link": "https://cointelegraph.com/news/binance-futures-volume-2026-high-crypto-spot-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-13T11:20+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BTC price bull market to begin in September? Five things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/markets/btc-price-bull-market-to-begin-in-september-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-13T10:45+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "SBI Holdings, Solana Foundation partner to build Japan-based onchain financial market",
+      "link": "https://www.theblock.co/post/408010/sbi-holdings-solana-foundation-partner-to-build-japan-based-onchain-financial-market?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-13T10:39+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Profit-taking, MidEast hostilities drag crypto lower after bullish week",
+      "link": "https://www.coindesk.com/markets/2026/07/13/profit-taking-mideast-hostilities-drag-crypto-lower-after-bullish-week",
+      "published": "2026-07-13T10:30+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Japan’s SBI to launch yen stablecoin lending with 3% yield",
+      "link": "https://cointelegraph.com/news/sbi-stablecoin-lending-service-3-yield-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-13T10:27+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Paradigm shifts vs bubbles: AI chips and bitcoin show powerful trends can still produce severe corrections",
+      "link": "https://www.coindesk.com/markets/2026/07/13/paradigm-shifts-vs-bubbles-ai-chips-and-bitcoin-show-powerful-trends-can-still-produce-severe-corrections",
+      "published": "2026-07-13T09:32+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Japan stablecoin payments advance with Lawson trial, Netstars launch",
+      "link": "https://cointelegraph.com/news/japan-lawson-netstars-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-13T08:58+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. inflation, second-quarter earnings reports: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/07/13/u-s-inflation-second-quarter-earnings-reports-crypto-week-ahead",
+      "published": "2026-07-13T08:55+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Bank of Thailand audits high-volume stablecoin trades to crack down on illicit finance: report",
+      "link": "https://www.theblock.co/post/407998/bank-of-thailand-audits-stablecoin?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-13T08:19+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Japan’s SBI Group to launch JPYSC stablecoin lending service this month",
+      "link": "https://www.theblock.co/post/407988/sbi-jpysc-stablecoin-lending?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-13T07:22+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live markets: Bitcoin, stocks, bonds sharply lower as Fed's Waller signals near-term rate hike",
+      "link": "https://www.coindesk.com/markets/2026/07/13/bitcoin-slips-below-usd63-000-in-an-asian-session-leverage-flush",
+      "published": "2026-07-13T06:52+00:00"
     }
   ],
-  "generated": "2026-07-13T08:38:01+00:00"
+  "generated": "2026-07-14T06:24:27+00:00"
 }
