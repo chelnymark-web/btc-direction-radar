@@ -25,6 +25,8 @@ jobs:
           python scripts/fetch_cme_gaps.py
           python scripts/fetch_mstr.py
           python scripts/fetch_levels.py
+          python scripts/analyze_structure.py
+          python scripts/analyze_dow.py
           python scripts/fetch_news.py
           python scripts/generate_report.py
       - name: commit results

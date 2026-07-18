@@ -47,8 +47,8 @@ LEVEL_CN = {0: "中性", 1: "偏高", 2: "极端"}
 SIDE_CN = {"long": "多头侧", "short": "空头侧", None: ""}
 
 CSS = """
-:root{--bg:#0E1116;--panel:#161B23;--line:#242B36;--ink:#E8E3D8;--dim:#8B93A1;
---cold:#5B8DB8;--hot:#D9842B;--alert:#C73E2E;--mono:'IBM Plex Mono',ui-monospace,'SF Mono',Menlo,monospace}
+:root{--bg:#F5F7FB;--panel:#FFFFFF;--line:#E2E7F0;--ink:#1B2233;--dim:#5A6580;
+--cold:#1E6FA8;--hot:#C0740F;--alert:#C0362A;--mono:'IBM Plex Mono',ui-monospace,'SF Mono',Menlo,monospace}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);
 font:15px/1.75 -apple-system,'Hiragino Sans','Noto Sans CJK SC',sans-serif;padding:32px 20px}
 .wrap{max-width:880px;margin:0 auto}a{color:var(--cold)}
@@ -64,7 +64,7 @@ th{color:var(--dim);font-weight:500;font-size:12px;letter-spacing:.06em}
 .chip.l1{border-color:var(--hot);color:var(--hot)}.chip.l2{background:var(--alert);border-color:var(--alert);color:#fff}
 .chip.s-short.l1{border-color:var(--cold);color:var(--cold)}.chip.s-short.l2{background:var(--cold);border-color:var(--cold);color:#0E1116}
 .use{color:var(--dim);font-size:12.5px}
-.gauge{height:10px;border-radius:99px;background:linear-gradient(90deg,var(--cold),#3a4250 50%,var(--hot));position:relative;margin:10px 0 6px}
+.gauge{height:10px;border-radius:99px;background:linear-gradient(90deg,var(--cold),#CED6E4 50%,var(--hot));position:relative;margin:10px 0 6px}
 .needle{position:absolute;top:-5px;width:2px;height:20px;background:var(--ink)}
 .glabel{display:flex;justify-content:space-between;color:var(--dim);font-size:12px}
 .summary{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px 20px;white-space:pre-wrap}
@@ -166,7 +166,46 @@ def render_gaps_section(gaps):
             f"{''.join(rows)}</table>")
 
 
-def render_report(kind, snap, news, summary, macro=None, gaps=None):
+def render_structure_section(st):
+    if not st or st.get("purity_pct") is None:
+        return ""
+    c = st.get("counts", {})
+    vrows = []
+    for v in (st.get("violations") or [])[-6:]:
+        vrows.append(f"<tr><td class='num'>{v['date']}</td><td>{v['type']}</td>"
+                     f"<td class='num'>{v['price']:,}</td><td class='use'>{v['note']}</td></tr>")
+    vtable = ("<table><tr><th>日期</th><th>类型</th><th>价位</th><th>含义</th></tr>"
+              + "".join(vrows) + "</table>") if vrows else "<p class='use'>整段无违反点(LH+LL,下跌结构完好)。</p>"
+    div = st.get("divergence")
+    div_html = (f"<p class='use'>⚠ RSI 底背离:{div['date']} RSI {div['rsi_prev']}→{div['rsi_now']} — {div['note']}</p>"
+                if div else "")
+    return (f"<h2>BTC 下跌结构 · 锚定 ATH {st.get('ath', {}).get('price', '—'):,}</h2>"
+            f"<p class='use'>{st.get('macro_trend', '')} · 距 ATH <b>{st.get('dd_from_ath_pct')}%</b>;"
+            f"摆动结构:<b>{st.get('status', '')}</b>,纯度 {st.get('purity_pct')}%"
+            f"(LH{c.get('LH')} LL{c.get('LL')} / HH{c.get('HH')} HL{c.get('HL')})。现价 {st.get('spot', '—'):,},"
+            f"RSI {st.get('rsi_now', '—')}。{st.get('note', '')}</p>"
+            f"{div_html}<p class='use'>近期结构违反点(高点抬高 HH / 低点抬高 HL):</p>{vtable}")
+
+
+def render_dow_section(dow):
+    if not dow or not dow.get("high_day_share"):
+        return ""
+    order = ["周一", "周二", "周三", "周四", "周五", "周六", "周日"]
+    hi = dow["high_day_share"]
+    lo = dow["low_day_share"]
+    th = "".join(f"<th>{d}</th>" for d in order)
+    hr = "".join(f"<td class='num'>{hi.get(d, 0)}%</td>" for d in order)
+    lr = "".join(f"<td class='num'>{lo.get(d, 0)}%</td>" for d in order)
+    return (f"<h2>星期几高低点分布 · {dow.get('weeks')} 周(基准 {dow.get('baseline_pct')}%)</h2>"
+            f"<table><tr><th></th>{th}</tr>"
+            f"<tr><td class='use'>当周高点</td>{hr}</tr>"
+            f"<tr><td class='use'>当周低点</td>{lr}</tr></table>"
+            f"<p class='use'>{dow.get('verdict', '')}</p>"
+            f"<p class='use'><b>稳健性:</b>{dow.get('robustness', '')}</p>"
+            f"<p class='use'>{dow.get('caveat', '')}</p>")
+
+
+def render_report(kind, snap, news, summary, macro=None, gaps=None, structure=None, dow=None):
     now = datetime.now(JST)
     flags = snap.get("flags", {})
     bias = snap.get("bias_score", 0)
@@ -204,6 +243,8 @@ def render_report(kind, snap, news, summary, macro=None, gaps=None):
     summary_html = f"<h2>简评</h2><div class='summary'>{summary}</div>" if summary else ""
     macro_html = render_macro_section(macro)
     gaps_html = render_gaps_section(gaps)
+    struct_html = render_structure_section(structure)
+    dow_html = render_dow_section(dow)
     needle = max(2, min(98, (bias + 100) / 2))
 
     return f"""<!doctype html><html lang="zh"><head><meta charset="utf-8">
@@ -218,7 +259,9 @@ def render_report(kind, snap, news, summary, macro=None, gaps=None):
 <h2>巡检清单</h2>
 <table><tr><th>指标</th><th>读数</th><th>状态</th><th>用法</th></tr>{''.join(rows)}</table>
 {macro_html}
+{struct_html}
 {gaps_html}
+{dow_html}
 {summary_html}
 <h2>{sec_title}</h2>{news_html}
 <div class="foot">数据:Binance / Deribit 公开端点;清算与链上请看 Coinglass 与 CryptoQuant。
@@ -270,9 +313,11 @@ def main():
 
     macro = load_opt("macro.json")
     gaps = load_opt("cme_gaps.json")
+    structure = load_opt("structure_status.json")
+    dow = load_opt("dow_stats.json")
 
     summary = claude_summary(snap, news)
-    html = render_report(kind, snap, news, summary, macro, gaps)
+    html = render_report(kind, snap, news, summary, macro, gaps, structure, dow)
     date = datetime.now(JST).strftime("%Y-%m-%d")
     out = os.path.join(DOCS, "reports", f"{kind}-{date}.html")
     with open(out, "w", encoding="utf-8") as f:
@@ -282,7 +327,8 @@ def main():
     shutil.copy(os.path.join(ROOT, "data", "latest.json"),
                 os.path.join(DOCS, "data", "latest.json"))
     for fn in ("mstr.json", "mstr_status.json", "levels.json", "levels_status.json",
-               "macro.json", "cme_gaps.json", "calendar.json", "news.json"):
+               "macro.json", "cme_gaps.json", "calendar.json", "news.json",
+               "structure_status.json", "dow_stats.json"):
         src = os.path.join(ROOT, "data", fn)
         if os.path.exists(src):
             shutil.copy(src, os.path.join(DOCS, "data", fn))

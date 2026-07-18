@@ -6,19 +6,19 @@
 <title>流动性指挥台 · BTC 方向概率</title>
 <style>
 :root{
-  --bg:#0B0E17; --bg2:#0F1420; --panel:#141A28; --panel2:#1A2233;
-  --line:#252E42; --line2:#313C56;
-  --ink:#EDF0F7; --dim:#8C97AE; --faint:#5A6481;
-  --long:#3DD68C;    /* 偏多 绿 */
-  --short:#F0584B;   /* 偏空 红 */
-  --amber:#F5A623;   /* 信号琥珀 */
-  --cyan:#4DB6E0;    /* 流动性蓝 */
+  --bg:#F5F7FB; --bg2:#FFFFFF; --panel:#FFFFFF; --panel2:#EEF2F8;
+  --line:#E2E7F0; --line2:#CED6E4;
+  --ink:#1B2233; --dim:#5A6580; --faint:#93A0B5;
+  --long:#0F9D58;    /* 偏多 绿(深,浅底可读) */
+  --short:#D93A2C;   /* 偏空 红(深) */
+  --amber:#C77D10;   /* 信号琥珀(深) */
+  --cyan:#1478B8;    /* 流动性蓝(深) */
   --mono:'IBM Plex Mono',ui-monospace,'SF Mono',Menlo,monospace;
   --sans:-apple-system,'Hiragino Sans','Noto Sans CJK SC',sans-serif;
 }
 *{box-sizing:border-box}
 body{margin:0;background:
-  radial-gradient(900px 500px at 80% -10%, #15233a 0%, transparent 60%),
+  radial-gradient(900px 500px at 80% -10%, #E4ECF8 0%, transparent 60%),
   var(--bg);
   color:var(--ink);font:14px/1.55 var(--sans);padding:22px 16px 70px;-webkit-font-smoothing:antialiased}
 .wrap{max-width:1120px;margin:0 auto}
@@ -31,10 +31,10 @@ header{display:flex;flex-wrap:wrap;align-items:baseline;gap:12px 16px;margin-bot
 #chg{font-family:var(--mono);font-size:13px}
 .meta{margin-left:auto;display:flex;gap:9px;align-items:center;color:var(--dim);font-size:11.5px;font-family:var(--mono)}
 #src{padding:2px 9px;border:1px solid var(--line2);border-radius:4px}
-#src.live{color:var(--long);border-color:#2c5a45}
-#src.partial{color:var(--amber);border-color:#5e4a1e}
-#src.snap{color:var(--cyan);border-color:#2c4a5e}
-#src.dead{color:var(--short);border-color:#5e2c2c}
+#src.live{color:var(--long);border-color:#bfe3cf}
+#src.partial{color:var(--amber);border-color:#ecd9a8}
+#src.snap{color:var(--cyan);border-color:#b9dcef}
+#src.dead{color:var(--short);border-color:#f2c4bd}
 button{background:var(--panel2);border:1px solid var(--line2);color:var(--ink);border-radius:6px;
   padding:5px 13px;font:12px var(--mono);cursor:pointer}
 button:hover{border-color:var(--dim)}
@@ -76,8 +76,8 @@ button:focus-visible{outline:2px solid var(--amber);outline-offset:2px}
 .card .top{display:flex;justify-content:space-between;align-items:flex-start;gap:8px}
 .card .nm{font-size:12px;color:var(--dim)}
 .card .vd{font-family:var(--mono);font-size:10.5px;padding:1px 7px;border-radius:3px;border:1px solid var(--faint);color:var(--dim);white-space:nowrap}
-.card.long .vd{color:var(--long);border-color:#2c5a45}.card.short .vd{color:var(--short);border-color:#5e2c2c}
-.card.amber .vd{color:var(--amber);border-color:#5e4a1e}.card.cyan .vd{color:var(--cyan);border-color:#2c4a5e}
+.card.long .vd{color:var(--long);border-color:#bfe3cf}.card.short .vd{color:var(--short);border-color:#f2c4bd}
+.card.amber .vd{color:var(--amber);border-color:#ecd9a8}.card.cyan .vd{color:var(--cyan);border-color:#b9dcef}
 .card .val{font-family:var(--mono);font-size:20px;margin:8px 0 1px;min-height:25px}
 .card .ex{color:var(--dim);font-size:11px;line-height:1.5;margin-top:8px;padding-top:8px;border-top:1px solid var(--line)}
 
@@ -88,7 +88,7 @@ button:focus-visible{outline:2px solid var(--amber);outline-offset:2px}
 .evd{font-family:var(--mono);font-size:12px;color:var(--amber)}
 .evn{font-size:12.5px}.evn small{color:var(--faint);font-size:10.5px;display:block;font-family:var(--mono)}
 .evtag{font-family:var(--mono);font-size:10px;padding:1px 7px;border-radius:3px;border:1px solid var(--line2);color:var(--dim);white-space:nowrap}
-.evtag.hot{color:var(--short);border-color:#5e2c2c}
+.evtag.hot{color:var(--short);border-color:#f2c4bd}
 
 .ext{margin-top:14px;display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px}
 .ext a{display:block;background:var(--panel);border:1px solid var(--line);border-radius:9px;padding:10px 12px;text-decoration:none;color:var(--ink)}
@@ -113,7 +113,7 @@ button:focus-visible{outline:2px solid var(--amber);outline-offset:2px}
 </header>
 <div class="tagline">把衍生品 · 流动性(usdt) · 价格位置 · 事件 合成一个方向概率 — 极端读作"该侧饱和、警惕反转",非顺势信号</div>
 
-<div id="netbanner" style="display:none;margin:-8px 0 16px;padding:9px 13px;border-radius:8px;background:rgba(245,166,35,.10);border:1px solid #5e4a1e;color:var(--amber);font-size:12.5px;line-height:1.6"></div>
+<div id="netbanner" style="display:none;margin:-8px 0 16px;padding:9px 13px;border-radius:8px;background:rgba(245,166,35,.10);border:1px solid #ecd9a8;color:var(--amber);font-size:12.5px;line-height:1.6"></div>
 
 <!-- HERO -->
 <div class="hero">
@@ -123,13 +123,13 @@ button:focus-visible{outline:2px solid var(--amber);outline-offset:2px}
       <svg viewBox="0 0 240 150" width="240" height="150">
         <defs>
           <linearGradient id="arc" x1="0" y1="0" x2="1" y2="0">
-            <stop offset="0%" stop-color="#F0584B"/><stop offset="50%" stop-color="#313C56"/><stop offset="100%" stop-color="#3DD68C"/>
+            <stop offset="0%" stop-color="#D93A2C"/><stop offset="50%" stop-color="#CED6E4"/><stop offset="100%" stop-color="#0F9D58"/>
           </linearGradient>
         </defs>
-        <path d="M 24 138 A 96 96 0 0 1 216 138" fill="none" stroke="#1A2233" stroke-width="14" stroke-linecap="round"/>
+        <path d="M 24 138 A 96 96 0 0 1 216 138" fill="none" stroke="#E2E7F0" stroke-width="14" stroke-linecap="round"/>
         <path d="M 24 138 A 96 96 0 0 1 216 138" fill="none" stroke="url(#arc)" stroke-width="14" stroke-linecap="round" opacity="0.85"/>
-        <line id="needle" x1="120" y1="138" x2="120" y2="52" stroke="#EDF0F7" stroke-width="3" stroke-linecap="round" transform="rotate(0 120 138)" style="transition:transform .9s cubic-bezier(.2,.85,.2,1)"/>
-        <circle cx="120" cy="138" r="6" fill="#EDF0F7"/>
+        <line id="needle" x1="120" y1="138" x2="120" y2="52" stroke="#1B2233" stroke-width="3" stroke-linecap="round" transform="rotate(0 120 138)" style="transition:transform .9s cubic-bezier(.2,.85,.2,1)"/>
+        <circle cx="120" cy="138" r="6" fill="#1B2233"/>
       </svg>
     </div>
     <div id="prob" style="text-align:center">—</div>
@@ -152,6 +152,9 @@ button:focus-visible{outline:2px solid var(--amber);outline-offset:2px}
 <div class="section-h">股票顶部研判 · 纳指/标普(BTC 的天花板 · 均线结构+动能,长期自动更新)</div>
 <div class="grid" id="stocktopgrid"></div>
 
+<div class="section-h">BTC 下跌结构 + 星期几规律 · 真日线统计(诚实验证,非交易依据)</div>
+<div class="grid" id="structgrid"></div>
+
 <div class="section-h">流动性 · usdt 发行量(defillama) + 稳定币资金面</div>
 <div class="grid" id="liqgrid"></div>
 
@@ -172,7 +175,7 @@ button:focus-visible{outline:2px solid var(--amber);outline-offset:2px}
 </div>
 
 <div class="foot" id="methodfoot">
-  概率 = 各维度方向分(−1~+1)×权重 的加权和,映射到 0–100%。权重:宏观(纳指/DXY/VIX/油)35% · 衍生品拥挤度 30% · 价格位置 15% · 流动性(USDT 趋势)12% · 事件偏向 8%。
+  概率 = 各维度方向分(−1~+1)×权重 的加权和,映射到 0–100%。权重:宏观(纳指/标普/DXY/VIX/油)32% · 衍生品拥挤度 28% · 下跌结构(真日线摆动)12% · 价格位置 12% · 流动性(USDT 趋势)10% · 事件偏向 6%。
   宏观给最高权重:2026 年 BTC = 高 beta 科技股,与纳指相关 +0.7~0.8,天花板由股市定。宏观/CME 缺口走 Actions 端 Python 取数、网页读快照(浏览器直拉 Yahoo 常被 CORS 拦)。
   极端读数读作"该侧饱和、反转风险高",不是加仓信号。缺失维度权重按比例重分配。个人研究工具,不构成投资建议。
 </div>
@@ -342,19 +345,20 @@ function posDir(price, levels){
  return null; // 由 loadPos 用 levels 单独算,这里占位
 }
 
-function combine(deriv, macroD, liqD, posD, evD){
+function combine(deriv, macroD, structD, liqD, posD, evD){
  // 各维度方向分 -1~+1
  let dScore=0,dW=0;
  for(const m of DERIV){const v=deriv[m.k];if(v==null)continue;const d=m.dir(v);if(d===0)continue;dScore+=d;dW++}
  const derivD = dW? dScore/dW : null;
- // 加权(2026 重排):宏观最高,因 BTC=高 beta 科技股,天花板由股市定。
- // 宏观35 衍生品30 价格位置15 流动性12 事件8(缺失维度按比例重分配)。
+ // 加权(2026 重排):宏观最高(BTC=高beta科技股)。新增"下跌结构"维度=真日线摆动方向(独立信号,提准)。
+ // 宏观32 衍生品28 结构12 价格位置12 流动性10 事件6(缺失维度按比例重分配)。
  const parts=[
-  {d:macroD, w:0.35},
-  {d:derivD, w:0.30},
-  {d:posD,   w:0.15},
-  {d:liqD,   w:0.12},
-  {d:evD,    w:0.08},
+  {d:macroD, w:0.32},
+  {d:derivD, w:0.28},
+  {d:structD,w:0.12},
+  {d:posD,   w:0.12},
+  {d:liqD,   w:0.10},
+  {d:evD,    w:0.06},
  ].filter(p=>p.d!=null);
  const wsum=parts.reduce((a,p)=>a+p.w,0)||1;
  const net=parts.reduce((a,p)=>a+p.d*p.w,0)/wsum;  // -1~+1
@@ -392,6 +396,40 @@ function renderLiq(liq){
   el.innerHTML=`<div class="top"><span class="nm">${it.nm}</span><span class="vd">${it.d?vd(it.d,Math.abs(it.d)>0.6):"流动性"}</span></div>
    <div class="val">${it.val}</div><div class="ex">${it.ex}</div>`;
   $("liqgrid").appendChild(el);}
+}
+
+// 下跌结构 + 星期几规律(读 analyze_structure.py / analyze_dow.py 的快照)
+let STRUCT_DIR=null;
+async function loadStructDow(){
+ const g=$("structgrid"); if(!g) return;
+ let s=null,d=null;
+ try{s=await j("./data/structure_status.json")}catch(e){}
+ try{d=await j("./data/dow_stats.json")}catch(e){}
+ STRUCT_DIR=(s&&typeof s.struct_dir==="number")?clamp(s.struct_dir):null;
+ let html="";
+ if(s){
+  const cls=s.struct_dir>=0.3?"long":(s.struct_dir<=-0.3?"short":"amber");
+  html+=`<div class="card ${cls}" style="grid-column:1/-1">
+   <div class="top"><span class="nm">下跌结构 · 锚定 ATH ${s.ath?s.ath.price.toLocaleString():''}</span><span class="vd">RSI ${s.rsi_now??'—'}</span></div>
+   <div class="val" style="font-size:15px">${s.macro_trend} · 距ATH ${s.dd_from_ath_pct}% <span style="color:var(--dim);font-size:12px">| 摆动:${s.status} 纯度${s.purity_pct}%</span></div>
+   <div class="ex">LH${s.counts.LH} LL${s.counts.LL} / HH${s.counts.HH} HL${s.counts.HL} — ${s.note}</div></div>`;
+  if(s.divergence){html+=`<div class="card amber"><div class="top"><span class="nm">RSI 底背离</span><span class="vd">前兆</span></div>
+   <div class="val" style="font-size:13px">${s.divergence.date} · RSI ${s.divergence.rsi_prev}→${s.divergence.rsi_now}</div><div class="ex">${s.divergence.note}</div></div>`;}
+  const lv=(s.violations||[]).slice(-1)[0];
+  if(lv){html+=`<div class="card"><div class="top"><span class="nm">最近结构违反</span><span class="vd">${lv.type}</span></div>
+   <div class="val" style="font-size:13px">${lv.price.toLocaleString()} <span style="font-size:11px;color:var(--dim)">${lv.date}</span></div><div class="ex">${lv.note}</div></div>`;}
+  html+=`<div class="card ${s.reclaimed_major_75k?'long':''}"><div class="top"><span class="nm">75k 超强阻力</span><span class="vd">${s.reclaimed_major_75k?'已站上':'未收复'}</span></div>
+   <div class="val" style="font-size:13px">${s.reclaimed_major_75k?'⚠ 重大结构破坏':'仍在下方'}</div><div class="ex">站上 75k(MA200+MSTR成本+0.236斐波)=需重评做空大逻辑。</div></div>`;
+ }
+ if(d){
+  const top=o=>Object.entries(o).sort((a,b)=>b[1]-a[1]).slice(0,3).map(x=>x[0]+x[1]+'%').join(' ');
+  html+=`<div class="card amber" style="grid-column:1/-1">
+   <div class="top"><span class="nm">星期几规律 · ${d.weeks}周(基准 ${d.baseline_pct}%)</span><span class="vd">诚实统计</span></div>
+   <div class="val" style="font-size:13px">当周高点 ${top(d.high_day_share)} · 当周低点 ${top(d.low_day_share)}</div>
+   <div class="ex">${d.verdict}<br>${d.robustness?('<b>稳健性:</b>'+d.robustness+'<br>'):''}<span style="color:var(--faint)">${d.caveat}</span></div></div>`;
+ }
+ if(!html)html='<div class="card cyan"><div class="ex">结构/星期几统计将在下次取数(analyze_structure.py / analyze_dow.py)后生成。</div></div>';
+ g.innerHTML=html;
 }
 
 let POS_DIR=null, RISK_SUPPORT=null;
@@ -556,13 +594,14 @@ function renderHero(c){
   : `综合${side}。强度 ${(Math.abs(net)*100).toFixed(0)}/100。提醒:概率高不等于马上发生,极端维度读作"该侧饱和、反转风险升高"。`;
 }
 
-function renderBreakdown(c, derivD, macroD, liqD){
+function renderBreakdown(c, derivD, macroD, liqD, structD){
  const rows=[
-  {n:"宏观(纳指/标普/DXY/VIX/油)",sub:"35% 权重",d:macroD},
-  {n:"衍生品拥挤度",sub:"30% 权重",d:derivD},
-  {n:"价格位置",sub:"15% 权重",d:POS_DIR},
-  {n:"流动性 USDT",sub:"12% 权重",d:liqD},
-  {n:"事件偏向",sub:"8% 权重",d:EV_DIR},
+  {n:"宏观(纳指/标普/DXY/VIX/油)",sub:"32% 权重",d:macroD},
+  {n:"衍生品拥挤度",sub:"28% 权重",d:derivD},
+  {n:"下跌结构(摆动方向)",sub:"12% 权重",d:structD},
+  {n:"价格位置",sub:"12% 权重",d:POS_DIR},
+  {n:"流动性 USDT",sub:"10% 权重",d:liqD},
+  {n:"事件偏向",sub:"6% 权重",d:EV_DIR},
  ];
  $("breakdown").innerHTML=rows.map(r=>{
   if(r.d==null)return `<div class="brow"><div class="bn">${r.n}<small>${r.sub}</small></div>
@@ -603,13 +642,14 @@ async function load(){
  await loadPos(price);
  renderTopRisk(macro, price);
  await loadEvents();
+ await loadStructDow();
 
  // 合成概率
  const macroD=macroDir(macro);
  const liqD=liqDir(liq);
- const c=combine(deriv||{}, macroD, liqD, POS_DIR, EV_DIR);
+ const c=combine(deriv||{}, macroD, STRUCT_DIR, liqD, POS_DIR, EV_DIR);
  renderHero(c);
- renderBreakdown(c, c.derivD, macroD, liqD);
+ renderBreakdown(c, c.derivD, macroD, liqD, STRUCT_DIR);
 
  // 源状态
  const sc=$("src");

@@ -6,11 +6,11 @@
 <title>方向罗盘 · BTC 实时监视</title>
 <style>
 :root{
-  --bg:#0A0C10; --panel:#12161D; --panel2:#161B23; --line:#222934;
-  --ink:#E6E9EF; --dim:#7E8794; --faint:#525A66;
-  --long:#3FB68B;   /* 偏多/绿 */
-  --short:#E0604A;  /* 偏空/红 */
-  --warn:#E0A030;   /* 中性偏热 */
+  --bg:#F5F7FB; --panel:#FFFFFF; --panel2:#EEF2F8; --line:#E2E7F0;
+  --ink:#1B2233; --dim:#5A6580; --faint:#93A0B5;
+  --long:#0F9D58;   /* 偏多/绿(深,浅底可读) */
+  --short:#D93A2C;  /* 偏空/红(深) */
+  --warn:#C77D10;   /* 中性偏热(深) */
   --mono:'IBM Plex Mono',ui-monospace,'SF Mono',Menlo,monospace;
   --sans:-apple-system,'Hiragino Sans','Noto Sans CJK SC',sans-serif;
 }
@@ -42,8 +42,8 @@ button:focus-visible{outline:2px solid var(--long);outline-offset:2px}
 .compass .lab{font-family:var(--mono);font-size:12px;letter-spacing:.14em;color:var(--dim);text-transform:uppercase}
 #verdict{font-family:var(--mono);font-size:22px;font-weight:600}
 .track{height:14px;border-radius:99px;position:relative;
-  background:linear-gradient(90deg,var(--short) 0%,#3a4250 50%,var(--long) 100%)}
-.tick{position:absolute;top:-1px;bottom:-1px;width:1px;background:#000;opacity:.25}
+  background:linear-gradient(90deg,var(--short) 0%,#CED6E4 50%,var(--long) 100%)}
+.tick{position:absolute;top:-1px;bottom:-1px;width:1px;background:#8792A5;opacity:.35}
 #ndl{position:absolute;top:-7px;width:3px;height:28px;background:var(--ink);border-radius:2px;
   left:50%;transform:translateX(-50%);transition:left .9s cubic-bezier(.2,.85,.2,1);
   box-shadow:0 0 8px rgba(0,0,0,.6)}
