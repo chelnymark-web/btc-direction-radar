@@ -1,54 +1,54 @@
 {
-  "ts": "2026-07-18T05:53:32+00:00",
-  "price": 63971.4,
-  "funding_rate": 1.8e-05,
-  "perp_basis_pct": -0.046942852587248105,
-  "funding_mean_30d": 4.0611111111111104e-05,
-  "oi_btc": 620531704.0,
-  "oi_change_24h_pct": 3.3679787993362402,
-  "top_ls_ratio": 0.6282051282051282,
-  "global_ls_ratio": 1.1500363108206244,
-  "taker_ratio": 0.969805302450011,
+  "ts": "2026-07-18T14:43:24+00:00",
+  "price": 64163.29,
+  "funding_rate": 8e-06,
+  "perp_basis_pct": -0.05267809677465559,
+  "funding_mean_30d": 4.03e-05,
+  "oi_btc": 625237320.0,
+  "oi_change_24h_pct": 2.5038631747571465,
+  "top_ls_ratio": 0.6363636363636364,
+  "global_ls_ratio": 1.1423843441974244,
+  "taker_ratio": 0.984990265687553,
   "deriv_source": "gate.io(备用)",
-  "deribit_index": 63923.96,
-  "dvol": 36.26,
-  "skew_25d": 2.0799999999999983,
-  "atm_iv_near": 32.4,
-  "near_expiry_days": 6.1,
-  "atm_iv_next": 33.97,
-  "term_slope": 1.5700000000000003,
-  "next_expiry_days": 20.1,
+  "deribit_index": 64122.16,
+  "dvol": 36.29,
+  "skew_25d": 3.0,
+  "atm_iv_near": 33.17,
+  "near_expiry_days": 5.7,
+  "atm_iv_next": 34.31,
+  "term_slope": 1.1400000000000006,
+  "next_expiry_days": 19.7,
   "flags": {
     "funding_rate": {
       "level": 1,
       "side": "short",
-      "note": "历史百分位 24%"
+      "note": "历史百分位 20%"
     },
     "top_ls_ratio": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 62%"
+      "note": "历史百分位 70%"
     },
     "global_ls_ratio": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 28%"
+      "note": "历史百分位 27%"
     },
     "perp_basis_pct": {
-      "level": 1,
+      "level": 2,
       "side": "short",
-      "note": "历史百分位 24%"
+      "note": "历史百分位 10%"
     },
     "skew_25d": {
       "level": 2,
       "side": "long",
-      "note": "历史百分位 0%"
+      "note": "历史百分位 3%"
     },
     "dvol": {
-      "level": 2,
+      "level": 1,
       "side": null,
-      "note": "历史百分位 10%"
+      "note": "历史百分位 12%"
     }
   },
-  "bias_score": 0
+  "bias_score": -8
 }
