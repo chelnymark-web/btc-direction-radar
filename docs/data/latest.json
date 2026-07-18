@@ -1,53 +1,53 @@
 {
-  "ts": "2026-07-17T06:28:49+00:00",
-  "price": 62943.34,
-  "funding_rate": 8.1e-05,
-  "perp_basis_pct": -0.04343589011958455,
-  "funding_mean_30d": 4.0533333333333334e-05,
-  "oi_btc": 608379896.0,
-  "oi_change_24h_pct": -2.8316657137338797,
-  "top_ls_ratio": 0.5301204819277108,
-  "global_ls_ratio": 1.5454391462691623,
-  "taker_ratio": 0.8556639017213382,
+  "ts": "2026-07-18T05:53:32+00:00",
+  "price": 63971.4,
+  "funding_rate": 1.8e-05,
+  "perp_basis_pct": -0.046942852587248105,
+  "funding_mean_30d": 4.0611111111111104e-05,
+  "oi_btc": 620531704.0,
+  "oi_change_24h_pct": 3.3679787993362402,
+  "top_ls_ratio": 0.6282051282051282,
+  "global_ls_ratio": 1.1500363108206244,
+  "taker_ratio": 0.969805302450011,
   "deriv_source": "gate.io(备用)",
-  "deribit_index": 62887.77,
-  "dvol": 37.26,
-  "skew_25d": 4.25,
-  "atm_iv_near": 34.69,
-  "near_expiry_days": 7.1,
-  "atm_iv_next": 35.02,
-  "term_slope": 0.3300000000000054,
-  "next_expiry_days": 21.1,
+  "deribit_index": 63923.96,
+  "dvol": 36.26,
+  "skew_25d": 2.0799999999999983,
+  "atm_iv_near": 32.4,
+  "near_expiry_days": 6.1,
+  "atm_iv_next": 33.97,
+  "term_slope": 1.5700000000000003,
+  "next_expiry_days": 20.1,
   "flags": {
     "funding_rate": {
-      "level": 0,
-      "side": null,
-      "note": "历史百分位 64%"
+      "level": 1,
+      "side": "short",
+      "note": "历史百分位 24%"
     },
     "top_ls_ratio": {
-      "level": 2,
-      "side": "short",
-      "note": "历史百分位 0%"
+      "level": 0,
+      "side": null,
+      "note": "历史百分位 62%"
     },
     "global_ls_ratio": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 61%"
+      "note": "历史百分位 28%"
     },
     "perp_basis_pct": {
-      "level": 0,
-      "side": null,
-      "note": "历史百分位 39%"
+      "level": 1,
+      "side": "short",
+      "note": "历史百分位 24%"
     },
     "skew_25d": {
       "level": 2,
       "side": "long",
-      "note": "历史百分位 7%"
+      "note": "历史百分位 0%"
     },
     "dvol": {
-      "level": 1,
+      "level": 2,
       "side": null,
-      "note": "历史百分位 17%"
+      "note": "历史百分位 10%"
     }
   },
   "bias_score": 0
