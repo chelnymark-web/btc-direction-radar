@@ -4,6 +4,54 @@
   "items": [
     {
       "source": "CoinDesk",
+      "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
+      "link": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
+      "published": "2026-07-19T05:37+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "US regulators miss GENIUS Act’s one-year deadline for final stablecoin rules",
+      "link": "https://www.theblock.co/post/408843/us-regulators-miss-genius-acts-one-year-deadline-for-final-stablecoin-rules?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-18T22:04+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "France orders country's internet service providers to block Polymarket",
+      "link": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket",
+      "published": "2026-07-18T21:52+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin Japan, which holds no bitcoin, taps EVO Fund in planned $60 million raise to finally buy some",
+      "link": "https://www.theblock.co/post/408838/bitcoin-japan-which-holds-no-bitcoin-taps-evo-fund-in-planned-60-million-raise-to-finally-buy-some?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-18T18:47+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto executives say digital native generations may never need a bank account",
+      "link": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
+      "published": "2026-07-18T18:30+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "DOG Mode explains Bitcoin's next governance fight",
+      "link": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
+      "published": "2026-07-18T17:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
+      "link": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
+      "published": "2026-07-18T16:09+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Here is why a massive $1.6 billion in crypto liquidity is sitting idle and wasting away",
+      "link": "https://www.coindesk.com/web3/2026/07/18/here-is-why-a-massive-usd1-6-billion-in-crypto-liquidity-is-sitting-idle-and-wasting-away",
+      "published": "2026-07-18T15:50+00:00"
+    },
+    {
+      "source": "CoinDesk",
       "title": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
       "link": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
       "published": "2026-07-18T14:15+00:00"
@@ -37,103 +85,7 @@
       "title": "French gambling regulator orders ISPs to block Polymarket",
       "link": "https://cointelegraph.com/news/french-gambling-authority-blocks-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "2026-07-18T09:58+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "FTX to distribute $900M to creditors in fifth payment round",
-      "link": "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-17T21:40+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Bank of America taps new leaders to bridge crypto, AI and traditional finance",
-      "link": "https://www.theblock.co/post/408830/bank-america-taps-new-leaders-bridge-crypto-ai-traditional-finance?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-17T21:08+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Galaxy lands 15-year Texas Tech stadium naming rights deal",
-      "link": "https://cointelegraph.com/news/galaxy-lands-15-year-texas-tech-stadium-naming-rights-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-17T20:03+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "CryptoQuant says Strategy still needs disciplined bitcoin buying and selling framework",
-      "link": "https://www.theblock.co/post/408825/cryptoquant-strategy-bitcoin-buying-selling-framework-mstr?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-17T20:01+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Consensys unknowingly outsourced developer work to North Korean",
-      "link": "https://cointelegraph.com/news/consensys-north-korean-hacker-software-developer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-17T19:33+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto Biz: When dollars disappear, stablecoins step in",
-      "link": "https://cointelegraph.com/news/crypto-biz-when-dollars-disappear-stablecoins-step-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-17T19:23+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "FTX to distribute roughly $900 million to creditors in fifth wave of payouts",
-      "link": "https://www.theblock.co/post/408803/ftx-to-distribute-roughly-900-million-to-creditors-in-fifth-wave-of-payouts?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-17T18:27+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Trezor exec pushes back on ZachXBT claim that hardware wallets are ‘complete garbage’",
-      "link": "https://www.theblock.co/post/408794/trezor-exec-pushes-back-zachxbt-claim-hardware-wallets-complete-garbage?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-17T18:13+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
-      "link": "https://www.coindesk.com/markets/2026/07/17/polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-drags-on",
-      "published": "2026-07-17T18:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Stripe and Swift race to control the next generation of global payments infrastructure",
-      "link": "https://www.coindesk.com/business/2026/07/17/stripe-and-swift-race-to-control-the-next-generation-of-global-payments-infrastructure",
-      "published": "2026-07-17T17:23+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "OKX Europe lets users convert USDT to MiCA-compliant USDC",
-      "link": "https://cointelegraph.com/news/okx-europe-lets-users-convert-usdt-to-mica-compliant-usdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-17T16:54+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Senator Warren requests 2026 reporting for Trump’s crypto earnings after $1.4B disclosure",
-      "link": "https://cointelegraph.com/news/senator-warren-2026-reporting-donald-trump-crypto-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-17T16:48+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Bitcoin slides toward $63,000 as Coinbase premium stays negative for a record 60 days",
-      "link": "https://www.theblock.co/post/408793/bitcoin-slides-63000-coinbase-premium-stays-negative-record-60-days?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-17T16:38+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Cardano hands core development to outside teams in decentralization push",
-      "link": "https://www.coindesk.com/tech/2026/07/17/cardano-hands-core-development-to-outside-teams-in-decentralization-push",
-      "published": "2026-07-17T16:23+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Bitcoin ETFs could mirror gold’s history of ‘spectacular gains’ and ‘painful drawdowns,’ analyst says",
-      "link": "https://www.theblock.co/post/408782/bitcoin-etfs-ibit-mirror-golds-history-spectacular-gains-painful-drawdowns-analyst?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-17T15:40+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Inside Robinhood’s high-stakes bet to onboard millions of casual users onto decentralized finance",
-      "link": "https://www.coindesk.com/business/2026/07/17/inside-robinhood-s-high-stakes-bet-to-onboard-10-million-casual-investors-onto-decentralized-finance",
-      "published": "2026-07-17T15:36+00:00"
     }
   ],
-  "generated": "2026-07-18T14:44:03+00:00"
+  "generated": "2026-07-19T07:18:19+00:00"
 }

@@ -1,6 +1,6 @@
 {
-  "ts": "2026-07-18T14:44:00+00:00",
-  "spot": 64163.29,
+  "ts": "2026-07-19T07:18:16+00:00",
+  "spot": 64696.43,
   "bands": [
     {
       "lo": 64345,
@@ -14,8 +14,8 @@
       ],
       "n_sources": 1,
       "confluence": false,
-      "side": "上方",
-      "dist_pct": 0.3
+      "side": "下方",
+      "dist_pct": -0.5
     },
     {
       "lo": 65749,
@@ -30,7 +30,22 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 2.5
+      "dist_pct": 1.6
+    },
+    {
+      "lo": 66739,
+      "hi": 66739,
+      "mid": 66739,
+      "members": [
+        "pivot R3"
+      ],
+      "sources": [
+        "pivot"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "上方",
+      "dist_pct": 3.2
     },
     {
       "lo": 61951,
@@ -47,37 +62,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "下方",
-      "dist_pct": -2.9
-    },
-    {
-      "lo": 66739,
-      "hi": 66739,
-      "mid": 66739,
-      "members": [
-        "pivot R3"
-      ],
-      "sources": [
-        "pivot"
-      ],
-      "n_sources": 1,
-      "confluence": false,
-      "side": "上方",
-      "dist_pct": 4.0
-    },
-    {
-      "lo": 60961,
-      "hi": 60961,
-      "mid": 60961,
-      "members": [
-        "pivot S2"
-      ],
-      "sources": [
-        "pivot"
-      ],
-      "n_sources": 1,
-      "confluence": false,
-      "side": "下方",
-      "dist_pct": -5.0
+      "dist_pct": -3.7
     },
     {
       "lo": 68000,
@@ -92,7 +77,22 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 6.0
+      "dist_pct": 5.1
+    },
+    {
+      "lo": 60961,
+      "hi": 60961,
+      "mid": 60961,
+      "members": [
+        "pivot S2"
+      ],
+      "sources": [
+        "pivot"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "下方",
+      "dist_pct": -5.8
     },
     {
       "lo": 59557,
@@ -109,7 +109,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "下方",
-      "dist_pct": -6.8
+      "dist_pct": -7.6
     },
     {
       "lo": 70806,
@@ -124,7 +124,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 10.4
+      "dist_pct": 9.4
     },
     {
       "lo": 73776,
@@ -139,7 +139,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 15.0
+      "dist_pct": 14.0
     },
     {
       "lo": 75017,
@@ -156,7 +156,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "上方",
-      "dist_pct": 17.4
+      "dist_pct": 16.5
     },
     {
       "lo": 84938,
@@ -171,7 +171,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 32.4
+      "dist_pct": 31.3
     },
     {
       "lo": 41485,
@@ -186,7 +186,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "下方",
-      "dist_pct": -35.3
+      "dist_pct": -35.9
     },
     {
       "lo": 92778,
@@ -201,7 +201,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 44.6
+      "dist_pct": 43.4
     },
     {
       "lo": 100619,
@@ -216,22 +216,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 56.8
-    },
-    {
-      "lo": 18495,
-      "hi": 18495,
-      "mid": 18495,
-      "members": [
-        "fib 1.618 扩展(下)"
-      ],
-      "sources": [
-        "fib"
-      ],
-      "n_sources": 1,
-      "confluence": false,
-      "side": "下方",
-      "dist_pct": -71.2
+      "dist_pct": 55.5
     },
     {
       "lo": 110319,
@@ -246,7 +231,22 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 71.9
+      "dist_pct": 70.5
+    },
+    {
+      "lo": 18495,
+      "hi": 18495,
+      "mid": 18495,
+      "members": [
+        "fib 1.618 扩展(下)"
+      ],
+      "sources": [
+        "fib"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "下方",
+      "dist_pct": -71.4
     },
     {
       "lo": 144072,
@@ -261,7 +261,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 124.5
+      "dist_pct": 122.7
     },
     {
       "lo": 167062,
@@ -276,7 +276,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 160.4
+      "dist_pct": 158.2
     }
   ],
   "confluence_bands": [
@@ -295,7 +295,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "下方",
-      "dist_pct": -2.9
+      "dist_pct": -3.7
     },
     {
       "lo": 59557,
@@ -312,7 +312,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "下方",
-      "dist_pct": -6.8
+      "dist_pct": -7.6
     },
     {
       "lo": 75017,
@@ -329,7 +329,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "上方",
-      "dist_pct": 17.4
+      "dist_pct": 16.5
     }
   ]
 }
