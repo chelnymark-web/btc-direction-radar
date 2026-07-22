@@ -1,54 +1,54 @@
 {
-  "ts": "2026-07-21T07:41:41+00:00",
-  "price": 66061.94,
-  "funding_rate": -7e-06,
-  "perp_basis_pct": -0.036390090875333285,
-  "funding_mean_30d": 4.0244444444444446e-05,
-  "oi_btc": 672566800.0,
-  "oi_change_24h_pct": 8.699251348102102,
-  "top_ls_ratio": 0.6753246753246753,
-  "global_ls_ratio": 0.8562821712681329,
-  "taker_ratio": 0.9549109433149219,
+  "ts": "2026-07-22T07:42:01+00:00",
+  "price": 65768.08,
+  "funding_rate": 4.3e-05,
+  "perp_basis_pct": -0.0430756074983514,
+  "funding_mean_30d": 3.963333333333333e-05,
+  "oi_btc": 659452208.0,
+  "oi_change_24h_pct": -3.6443154021447466,
+  "top_ls_ratio": 0.6582278481012658,
+  "global_ls_ratio": 0.8610261441680614,
+  "taker_ratio": 0.8842900095680277,
   "deriv_source": "gate.io(备用)",
-  "deribit_index": 66016.46,
-  "dvol": 36.39,
-  "skew_25d": 3.3399999999999963,
-  "atm_iv_near": 35.2,
-  "near_expiry_days": 10.0,
-  "atm_iv_next": 34.46,
-  "term_slope": -0.740000000000002,
-  "next_expiry_days": 38.0,
+  "deribit_index": 65723.36,
+  "dvol": 38.14,
+  "skew_25d": 0.3299999999999983,
+  "atm_iv_near": 36.69,
+  "near_expiry_days": 9.0,
+  "atm_iv_next": 35.81,
+  "term_slope": -0.8799999999999955,
+  "next_expiry_days": 37.0,
   "flags": {
     "funding_rate": {
-      "level": 1,
-      "side": "short",
-      "note": "历史百分位 12%"
+      "level": 0,
+      "side": null,
+      "note": "历史百分位 56%"
     },
     "top_ls_ratio": {
       "level": 1,
       "side": "long",
-      "note": "历史百分位 88%"
+      "note": "历史百分位 82%"
     },
     "global_ls_ratio": {
       "level": 2,
       "side": "short",
-      "note": "历史百分位 0%"
+      "note": "历史百分位 3%"
     },
     "perp_basis_pct": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 64%"
+      "note": "历史百分位 47%"
     },
     "skew_25d": {
       "level": 2,
       "side": "long",
-      "note": "历史百分位 9%"
+      "note": "历史百分位 0%"
     },
     "dvol": {
-      "level": 1,
+      "level": 0,
       "side": null,
-      "note": "历史百分位 17%"
+      "note": "历史百分位 36%"
     }
   },
-  "bias_score": 0
+  "bias_score": 8
 }
