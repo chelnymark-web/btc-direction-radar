@@ -1,9 +1,9 @@
 {
-  "ts": "2026-07-23T07:44:44+00:00",
+  "ts": "2026-07-24T07:41:50+00:00",
   "source": "Yahoo BTC=F(CME 连续期货)",
-  "spot": 65401.9,
+  "spot": 65430.8,
   "history_from": "2017-12-18",
-  "history_bars": 2162,
+  "history_bars": 2163,
   "total_gaps": 462,
   "unfilled_count": 15,
   "gaps": [
@@ -17,7 +17,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -17.2,
+      "dist_pct": -17.3,
       "side": "下方"
     },
     {
@@ -43,7 +43,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -26.4,
+      "dist_pct": -26.5,
       "side": "下方"
     },
     {
@@ -82,7 +82,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -47.4,
+      "dist_pct": -47.5,
       "side": "下方"
     },
     {
@@ -147,7 +147,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -74.6,
+      "dist_pct": -74.7,
       "side": "下方"
     },
     {
