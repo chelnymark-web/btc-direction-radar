@@ -3,269 +3,113 @@
   "mode": "news",
   "items": [
     {
+      "source": "CoinDesk",
+      "title": "Shiba Inu surges 36% as South Korean traders fuel mystery rally",
+      "link": "https://www.coindesk.com/markets/2026/07/26/shiba-inu-surges-36-as-south-korean-traders-fuel-mystery-rally",
+      "published": "2026-07-26T07:29+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BitMart to wind down exchange, end trading by Aug. 26",
+      "link": "https://cointelegraph.com/news/bitmart-wind-down-exchange-end-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-26T07:11+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto exchange BitMart to shut down after nine years, BMX token crashes 58%",
+      "link": "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58",
+      "published": "2026-07-26T06:59+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance ‘red teams’ its own staff every month to keep hackers out",
+      "link": "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-26T02:00+00:00"
+    },
+    {
       "source": "The Block",
-      "title": "Bitcoin Policy Institute, Palantir and Anduril join US State Department’s Freedom Tech Excellence Program",
-      "link": "https://www.theblock.co/post/409652/bitcoin-policy-institute-palantir-anduril-us-state-departments-freedom-tech-excellence-program?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-24T22:21+00:00"
+      "title": "EU adds HTX to Russia sanctions list, barring transactions starting Aug. 23",
+      "link": "https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-25T21:23+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "EU authorities include HTX exchange in Russian sanctions",
-      "link": "https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T21:53+00:00"
+      "title": "Robinhood in talks with Crypto.com over prediction markets: WSJ",
+      "link": "https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-25T21:01+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Strive’s SATA recovers most of June decline, trades within 3% of par",
-      "link": "https://cointelegraph.com/news/strives-sata-recovers-most-of-june-decline-trades-within-3-of-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T21:02+00:00"
+      "title": "Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program",
+      "link": "https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-25T18:15+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Robinhood in talks to add Crypto.com prediction markets as Kalshi rivalry grows: WSJ",
+      "link": "https://www.theblock.co/post/409665/robinhood-in-talks-to-add-crypto-com-prediction-markets-as-kalshi-rivalry-grows-wsj?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-25T17:27+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Russia’s largest bank Sberbank plans crypto trading infrastructure by December",
+      "link": "https://www.coindesk.com/business/2026/07/25/russia-s-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december",
+      "published": "2026-07-25T16:59+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "House passes bill on lawmakers using insider information for stock trading",
-      "link": "https://cointelegraph.com/news/house-bill-lawmakers-insider-information-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T20:05+00:00"
+      "title": "Wise to resubmit US charter application under GENIUS Act",
+      "link": "https://cointelegraph.com/news/wise-resubmit-occ-charter-application-genius-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-25T16:05+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "North Korea arrests hackers accused of laundering stolen funds from country's bank via crypto",
+      "link": "https://www.coindesk.com/business/2026/07/25/north-korea-arrests-hackers-accused-of-laundering-stolen-funds-from-country-s-bank-via-crypto",
+      "published": "2026-07-25T15:46+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin ETF weekly trading volume falls to lowest since October 2024 as ether funds lead inflows again",
+      "link": "https://www.theblock.co/post/409660/bitcoin-etf-weekly-trading-volume-falls-to-lowest-since-october-2024-as-ether-funds-lead-inflows-again?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-25T13:59+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
+      "link": "https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-25T13:14+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
+      "link": "https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case",
+      "published": "2026-07-25T13:00+00:00"
     },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T19:03+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Cardano co-founder Hoskinson says Bitcoin could lose top spot if governance fails quantum test",
-      "link": "https://www.theblock.co/post/409627/cardano-co-founder-hoskinson-bitcoin-lose-top-spot-governance-fails-quantum-test?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-24T19:01+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Wise plans to resubmit national trust bank application under GENIUS Act framework",
-      "link": "https://www.theblock.co/post/409631/wise-plans-resubmit-national-trust-bank-application-under-genius-act-framework?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-24T17:37+00:00"
+      "published": "2026-07-25T12:06+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Crypto advocacy groups support CLARITY passage as ethics rules face pushback",
-      "link": "https://cointelegraph.com/news/crypto-advocacy-groups-support-clarity-act-pushback-ethics-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T16:55+00:00"
+      "title": "Fidelity joins push for Senate passage of CLARITY Act",
+      "link": "https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-25T11:30+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Internet Freedom Foundation calls India’s BitChat GitHub takedown order ‘unconstitutional’",
-      "link": "https://cointelegraph.com/news/internet-freedom-foundation-calls-indias-bitchat-github-takedown-order-unconstitutional?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T16:04+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto Biz: Is the AI-to-crypto rotation underway?",
-      "link": "https://cointelegraph.com/news/crypto-biz-ai-to-crypto-rotation-bitcoin-etf-inflows-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T15:15+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Galaxy cuts Clarity Act passage odds to 30%, says bill needs ‘last-ditch effort’",
-      "link": "https://www.theblock.co/post/409608/galaxy-says-clarity-act-now-needs-last-ditch-effort-cuts-passage-odds-30?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-24T15:11+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "World Foundation raises $52.5M in Pantera-led funding to expand World ID infrastructure",
-      "link": "https://cointelegraph.com/news/world-foundation-funding-led-by-pantera-world-id-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T15:09+00:00"
+      "title": "Dango’s perp DEX taps out nearly 4 months after launch",
+      "link": "https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-25T10:01+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Senate Dems should accept the victory they won on Trump's crypto limits: White House",
-      "link": "https://www.coindesk.com/policy/2026/07/24/senate-dems-should-accept-the-victory-they-won-on-trump-s-crypto-limits-white-house",
-      "published": "2026-07-24T15:01+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Sam Altman-backed World Network secures $52.5 million in fresh funding to fight online AI deepfakes",
-      "link": "https://www.coindesk.com/business/2026/07/24/sam-altman-backed-world-network-secures-fresh-funding-to-fight-online-ai-deepfakes",
-      "published": "2026-07-24T15:00+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "World Foundation raises $52.5 million in WLD token sale with one-year lockup",
-      "link": "https://www.theblock.co/post/409610/world-foundation-wld-token-sale-funding?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-24T14:50+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Institutional crypto trading platform LMAX is exploring sale, IPO",
-      "link": "https://www.coindesk.com/business/2026/05/22/institutional-crypto-trading-platform-lmax-is-exploring-sale-ipo",
-      "published": "2026-07-24T14:36+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin falls under $64K as surging US bond yields boost Fed rate-hike odds",
-      "link": "https://cointelegraph.com/markets/bitcoin-falls-under-64k-us-bond-yields-fed-rate-hike-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T14:28+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "A quantum roadmap would push Bitcoin much higher: Charles Edwards",
-      "link": "https://cointelegraph.com/magazine/bitcoins-biggest-bull-catalyst-may-come-from-fixing-its-biggest-risk-edwards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T13:30+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Saylor and team overhaul Strategy's bitcoin metrics as bear market persists",
-      "link": "https://www.coindesk.com/markets/2026/07/24/saylor-and-team-overhaul-strategy-s-bitcoin-metrics-as-bear-market-persists",
-      "published": "2026-07-24T13:15+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank lending limits",
-      "link": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
-      "published": "2026-07-24T13:03+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Thailand SEC files complaint against Bitkub over alleged false disclosures",
-      "link": "https://cointelegraph.com/news/bitkub-criminal-complaint-thailand-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T12:46+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Arthur Hayes, BitMEX co-founders face fraud claims over alleged ‘Insider Trading Desk’ as exchange winds down",
-      "link": "https://www.theblock.co/post/409595/arthur-hayes-bitmex-co-founders-face-fraud-claims-over-alleged-insider-trading-desk-as-exchange-winds-down?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-24T12:38+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Odos Protocol to shut down, gives users until July 30 to withdraw assets",
-      "link": "https://cointelegraph.com/news/odos-protocol-shut-down-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T11:59+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "EU hits Russia with massive 21st sanctions package targeting $120B crypto network",
-      "link": "https://www.coindesk.com/policy/2026/07/24/eu-hits-russia-with-massive-21st-sanctions-package-targeting-usd120b-crypto-network",
-      "published": "2026-07-24T11:58+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto market maker B2C2 held sale talks with multiple potential buyers",
-      "link": "https://www.coindesk.com/business/2026/06/29/crypto-market-maker-b2c2-held-sale-talks-with-multiple-potential-buyers",
-      "published": "2026-07-24T11:49+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "RWAs become Hyperliquid’s largest trading category",
-      "link": "https://cointelegraph.com/news/hyperliquid-rwa-volume-crypto-trading-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T11:42+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto's institutional influx has killed the memecoin craze",
-      "link": "https://www.coindesk.com/daybook-us/2026/07/24/crypto-s-institutional-influx-has-killed-the-memecoin-craze",
-      "published": "2026-07-24T11:35+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "A $5 billion cluster has formed in bitcoin options. It tells a bullish story",
-      "link": "https://www.coindesk.com/markets/2026/07/24/a-usd5-billion-cluster-has-formed-in-bitcoin-options-it-tells-a-bullish-story",
-      "published": "2026-07-24T11:34+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin settles near $65,000 as oil's march toward $100 fails to spook the market",
-      "link": "https://www.coindesk.com/markets/2026/07/24/bitcoin-settles-near-usd65-000-as-oil-s-march-toward-usd100-fails-to-spook-the-market",
-      "published": "2026-07-24T11:19+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Poolin was bitcoin's biggest mining pool and now it's filing for bankruptcy",
-      "link": "https://www.coindesk.com/markets/2026/07/24/poolin-was-bitcoin-s-biggest-mining-pool-and-now-it-s-filing-for-bankruptcy",
-      "published": "2026-07-24T11:09+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin treasury companies sell up, repay debt, pivot to AI as share prices collapse",
-      "link": "https://www.coindesk.com/markets/2026/07/24/bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collapse",
-      "published": "2026-07-24T10:53+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Brazil puts tokenized cows to work as loan collateral: Report",
-      "link": "https://cointelegraph.com/news/brazils-b3-rwa-credit-tokenized-cows-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T10:29+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "India orders takedown of Jack Dorsey’s bitcoin-linked messaging app Bitchat",
-      "link": "https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat",
-      "published": "2026-07-24T10:10+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Samsung Wallet plans stablecoin support in digital payments expansion",
-      "link": "https://cointelegraph.com/news/samsung-wallet-stablecoin-support-galaxy-unpacked?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T10:10+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Philippine bank BPI plans stablecoin payments pilot",
-      "link": "https://cointelegraph.com/news/philippine-bank-bpi-plans-stablecoin-payments-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T10:01+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "BitMEX faces proposed class-action suit for theft, insider trading as crypto exchange shuts down",
-      "link": "https://www.coindesk.com/business/2026/07/24/bitmex-faces-proposed-class-action-suit-for-theft-insider-trading-as-crypto-exchange-shuts-down",
-      "published": "2026-07-24T09:54+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Former bitcoin miner Poolin files Chapter 11, sets $52 million floor bid for Texas operations",
-      "link": "https://www.theblock.co/post/409587/former-bitcoin-miner-poolin-files-chapter-11-sets-52-million-floor-bid-for-texas-operations?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-24T09:52+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BTC supply in profit eyes 60%, but analysis hints recovery may ‘roll back over’",
-      "link": "https://cointelegraph.com/markets/btc-supply-profit-analysis-hints-recovery-roll-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T09:43+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "South Korea’s Korbit to rebrand as Digital X under Mirae: Report",
-      "link": "https://cointelegraph.com/news/korbit-rebrand-digital-x-mirae-asset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T08:51+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ripple launches Mint to expand institutional access to RLUSD",
-      "link": "https://cointelegraph.com/news/ripple-mint-expand-institutional-access-rlusd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T08:47+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin mining pool Poolin files for Chapter 11 bankruptcy",
-      "link": "https://cointelegraph.com/news/bitcoin-mining-poolin-chapter-11-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T08:38+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "EU widens Belarus ownership ban to all crypto service providers",
-      "link": "https://cointelegraph.com/news/eu-belarus-crypto-ownership-ban-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T08:06+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin gives up gains, falls below $64,000 as stocks retreat",
-      "link": "https://www.coindesk.com/tech/2026/07/24/live-updates-dogecoin-and-ether-lead-pullback-as-investors-digest-tech-earnings",
-      "published": "2026-07-24T07:22+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin ETFs snap 7-day inflow streak with $225M in outflows",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-225-million-outflow-end-7-day-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-07-24T07:17+00:00"
+      "title": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
+      "link": "https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size",
+      "published": "2026-07-25T10:00+00:00"
     }
   ],
-  "generated": "2026-07-25T06:37:14+00:00"
+  "generated": "2026-07-26T07:46:33+00:00"
 }
