@@ -1,48 +1,367 @@
 {
-  "kind": "weekly",
-  "mode": "calendar",
-  "window_days": 7,
+  "kind": "daily",
+  "mode": "news",
   "items": [
     {
-      "date": "2026-07-28",
-      "name": "FOMC 会议第一天",
-      "source": "FOMC"
+      "source": "CoinDesk",
+      "title": "Bitcoin recovers from Asian session lows; Nasdaq futures remain under pressure",
+      "link": "https://www.coindesk.com/markets/2026/07/28/bitcoin-recovers-from-asian-session-lows-nasdaq-futures-remain-under-pressure",
+      "published": "2026-07-28T07:46+00:00"
     },
     {
-      "date": "2026-07-29",
-      "name": "FOMC 利率决议 + 记者会",
-      "source": "FOMC"
+      "source": "Cointelegraph",
+      "title": "Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses",
+      "link": "https://cointelegraph.com/news/apple-lawsuit-alleged-1-8-million-loss-fake-bitcoin-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-28T07:40+00:00"
     },
     {
-      "date": "2026-07-29",
-      "name": "Federal Funds Rate(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "The Block",
+      "title": "Judge blocks Minnesota from enforcing prediction market ban in win for Kalshi, Polymarket",
+      "link": "https://www.theblock.co/post/409861/judge-blocks-minnesota-prediction-market-ban?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-28T07:22+00:00"
     },
     {
-      "date": "2026-07-29",
-      "name": "FOMC Statement(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "Cointelegraph",
+      "title": "Binance co-founder CZ backs crypto license passporting across ASEAN",
+      "link": "https://cointelegraph.com/news/binance-co-founder-cz-backs-crypto-license-passporting-across-asean?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-28T06:00+00:00"
     },
     {
-      "date": "2026-07-29",
-      "name": "FOMC Press Conference(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "The Block",
+      "title": "What Is KuCoin?",
+      "link": "https://www.theblock.co/learn/409571/what-is-kucoin?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-28T05:14+00:00"
     },
     {
-      "date": "2026-07-30",
-      "name": "Advance GDP q/q(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "CoinDesk",
+      "title": "Bitcoin slides 2% after U.S. close while Korea’s Kospi plunges 10%",
+      "link": "https://www.coindesk.com/markets/2026/07/28/bitcoin-slides-2-after-u-s-close-while-korea-s-kospi-plunges-10",
+      "published": "2026-07-28T04:32+00:00"
     },
     {
-      "date": "2026-07-30",
-      "name": "Core PCE Price Index m/m(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "Cointelegraph",
+      "title": "US judge temporarily blocks Minnesota prediction market ban",
+      "link": "https://cointelegraph.com/news/us-judge-blocks-minnesota-prediction-market-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-28T04:28+00:00"
     },
     {
-      "date": "2026-07-31",
-      "name": "Deribit 月度期权到期(08:00 UTC)",
-      "source": "规则"
+      "source": "Cointelegraph",
+      "title": "Zimbabwe admits 7 fintech projects to regulatory sandbox",
+      "link": "https://cointelegraph.com/news/zimbabwe-seven-fintech-projects-regulatory-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-28T03:17+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Hong Kong prepares banks for quantum threats amid tokenization push",
+      "link": "https://cointelegraph.com/news/hong-kong-banks-quantum-threats-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-28T02:21+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "What Is a Digital Commodity?",
+      "link": "https://www.theblock.co/learn/409682/what-is-a-digital-commodity?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-28T01:55+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance phishes its own staff monthly, India censors BitChat code: Asia Express",
+      "link": "https://cointelegraph.com/magazine/india-bans-bitchat-binance-phishs-its-own-staff-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-28T01:23+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Senate puts off crypto Clarity Act for now as it focuses limited bandwidth elsewhere",
+      "link": "https://www.coindesk.com/policy/2026/07/27/u-s-senate-puts-off-crypto-clarity-act-for-now-as-it-focuses-limited-bandwidth-elsewhere",
+      "published": "2026-07-27T23:55+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kalshi, Polymarket win pause against Minnesota's prediction market ban",
+      "link": "https://www.coindesk.com/policy/2026/07/27/kalshi-polymarket-win-pause-against-minnesota-s-prediction-market-ban",
+      "published": "2026-07-27T23:29+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "New York AG warns CLARITY Act could weaken state crypto enforcement",
+      "link": "https://cointelegraph.com/news/new-york-ag-clarity-act-state-crypto-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-27T22:55+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "NFL urges CFTC to strengthen rules on sports prediction markets: report",
+      "link": "https://www.theblock.co/post/409846/nfl-urges-cftc-to-strengthen-rules-on-sports-prediction-markets-report?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-27T21:57+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Cross River to enable P2P payments, banking services for X Money",
+      "link": "https://cointelegraph.com/news/x-money-cross-river-embedded-banking-p2p-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-27T21:05+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "NY Attorney General Letitia James warns Clarity Act would ‘dilute’ states’ ability to go after fraud as pressure mounts",
+      "link": "https://www.theblock.co/post/409831/ny-attorney-general-letitia-james-warns-clarity-act-dilute-states-ability-fraud-pressure-mounts?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-27T20:31+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin shrugs off AI selloff but high-stakes Fed meeting could determine what's next",
+      "link": "https://www.coindesk.com/markets/2026/07/27/bitcoin-shrugs-off-ai-selloff-but-high-stakes-fed-meeting-could-determine-what-s-next",
+      "published": "2026-07-27T19:55+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitmine keeps buying Ether as ETH outperforms Bitcoin",
+      "link": "https://cointelegraph.com/news/bitmine-keeps-buying-ether-as-eth-outperforms-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-27T19:22+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Ethereum, Solana and Avalanche get busier and cheaper even as token prices fall: Bitwise",
+      "link": "https://www.theblock.co/post/409799/ethereum-solana-avalanche-get-busier-cheaper-even-as-token-prices-fall-bitwise?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-27T19:00+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-27T18:51+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Securitize Capital becomes SEC-registered investment adviser",
+      "link": "https://cointelegraph.com/news/securitize-becomes-sec-registered-investment-adviser-through-capital-unit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-27T18:41+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Securitize expands regulated platform with SEC adviser license",
+      "link": "https://www.theblock.co/post/409821/securitize-expands-regulated-platform-with-sec-adviser-license?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-27T18:08+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto’s favorite $90 trillion trading product is coming to Wall Street, but big banks are taking it slow",
+      "link": "https://www.coindesk.com/markets/2026/07/22/crypto-s-favorite-usd90-trillion-trading-product-is-coming-to-wall-street-but-big-banks-are-taking-it-slow",
+      "published": "2026-07-27T18:00+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "TD Cowen cuts David Bailey’s Nakamoto target 58% after bitcoin outlook reset",
+      "link": "https://www.theblock.co/post/409797/td-cowen-cuts-david-bailey-nakamoto-target-58-bitcoin-outlook-reset?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-27T17:10+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Digital asset trading platform Uphold cuts 17% of global headcount as crypto winter bites",
+      "link": "https://www.coindesk.com/business/2026/07/27/digital-asset-trading-platform-uphold-cuts-17-of-global-headcount-as-crypto-winter-bites",
+      "published": "2026-07-27T16:47+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Tether’s XAUt gold token receives Shariah certification to expand Islamic finance access",
+      "link": "https://cointelegraph.com/news/tether-xaut-gold-token-receives-shariah-certification-islamic-finance-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-27T16:44+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kraken parent Payward acquires Magic Labs’ wallet business",
+      "link": "https://cointelegraph.com/news/kraken-parent-payward-acquires-magic-labs-wallet-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-27T16:40+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Ondo launches new execution network, calling it ‘evolution’ of Ondo Chain",
+      "link": "https://www.theblock.co/post/409792/ondo-launches-new-execution-network-calling-it-evolution-of-ondo-chain?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-27T16:00+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Metaplanet’s brokerage deal ‘badly undersells’ plans for bitcoin-backed ‘Bitbonds,’ Benchmark says",
+      "link": "https://www.theblock.co/post/409752/benchmark-metaplanet-brokerage-deal-badly-undersells-plans-bitcoin-backed-bitbonds?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-27T15:06+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Lido begins consolidating $16 billion worth of staked ETH as Curated Module v2 rolls out",
+      "link": "https://www.theblock.co/post/409780/lido-begins-consolidating-16-billion-worth-of-staked-eth-as-curated-module-v2-rolls-out?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-27T15:03+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "What are perps, anyway? Everything you need to know about crypto’s hottest trading instrument",
+      "link": "https://www.coindesk.com/business/2026/07/27/what-are-perps-anyway-everything-you-need-to-know-about-crypto-s-hottest-trading-instrument",
+      "published": "2026-07-27T15:00+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price eyes $66K as US stocks rise on Iran-strike pause",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-66k-as-us-stocks-rise-on-iran-strike-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-27T14:51+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Fanatics buys regulated exchange in bid to grow prediction markets business",
+      "link": "https://www.coindesk.com/markets/2026/07/27/fanatics-buys-regulated-exchange-in-bid-to-grow-prediction-markets-business",
+      "published": "2026-07-27T14:46+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cantor is advising crypto bank AMINA on path to potential public listing",
+      "link": "https://www.coindesk.com/business/2026/07/27/cantor-is-advising-crypto-bank-amina-on-path-to-potential-public-listing",
+      "published": "2026-07-27T14:36+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Bitmine adds nearly 10,000 ETH while repurchasing 6.1 million common shares",
+      "link": "https://www.theblock.co/post/409749/bitmine-adds-nearly-10000-eth-repurchasing-6-1-million-common-shares?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-27T14:22+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "IBM portfolio acquisition makes Circle the largest US blockchain patent holder",
+      "link": "https://www.theblock.co/post/409750/circle-acquires-ibm-blockchain-patent-portfolio-becomes-largest-us-patent-holder?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-27T14:19+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Lido begins moving $16.5 billion in staked ether to cut validator count by a third",
+      "link": "https://www.coindesk.com/tech/2026/07/27/lido-begins-moving-usd16-5-billion-in-staked-ether-to-cut-validator-count-by-a-third",
+      "published": "2026-07-27T14:00+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Hong Kong crypto giant HashKey merges regional exchange into one",
+      "link": "https://cointelegraph.com/news/hong-kong-crypto-giant-hashkey-merges-its-exchanges-into-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-27T13:41+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Benchmark reiterates $570 Strategy target, says cash reserve strengthens bitcoin acquisition plan",
+      "link": "https://www.theblock.co/post/409743/benchmark-reiterates-570-strategy-target-says-cash-reserve-strengthens-bitcoin-acquisition-plan?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-27T13:37+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Thailand's SEC alleges Bitkub concealed cyberattack that led to $50 million hack",
+      "link": "https://www.coindesk.com/policy/2026/07/27/thailand-s-sec-alleges-bitkub-concealed-cyberattack-that-led-to-usd50-million-hack",
+      "published": "2026-07-27T13:32+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Rate path still divides investors: Five things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/markets/rate-path-still-divides-investors-five-things-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-27T13:31+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Nvidia forms 37-member AI security alliance without OpenAI, Anthropic or Google",
+      "link": "https://www.coindesk.com/tech/2026/07/27/nvidia-forms-37-member-ai-security-alliance-without-openai-anthropic-or-google",
+      "published": "2026-07-27T13:25+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance disappears from Google Play in certain EU countries",
+      "link": "https://cointelegraph.com/news/binance-disappears-android-google-play-certain-eu-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-27T13:24+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "USDC issuer Circle to acquire nearly 1,000 IBM blockchain patents",
+      "link": "https://cointelegraph.com/news/circle-to-acquire-nearly-1000-ibm-blockchain-patents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-27T13:08+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Securitize builds Wall Street credentials with SEC adviser license as tokenization expands",
+      "link": "https://www.coindesk.com/business/2026/07/27/securitize-builds-wall-street-credentials-with-sec-adviser-license-as-tokenization-expands",
+      "published": "2026-07-27T13:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto is rewriting how Wall Street traders spend their weekends",
+      "link": "https://www.coindesk.com/markets/2026/07/27/crypto-is-rewriting-how-wall-street-traders-spend-their-weekends",
+      "published": "2026-07-27T13:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitmine buys more ether as Tom Lee says rising ETH/BTC ratio points to stronger crypto prices",
+      "link": "https://www.coindesk.com/business/2026/07/27/bitmine-buys-more-ether-as-tom-lee-says-rising-eth-btc-ratio-points-to-stronger-crypto-prices",
+      "published": "2026-07-27T12:55+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle buys nearly 1,000 blockchain patents from IBM",
+      "link": "https://www.coindesk.com/business/2026/07/27/circle-buys-nearly-1-000-blockchain-patents-from-ibm",
+      "published": "2026-07-27T12:47+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strategy sells MSTR shares, buys back $25M in STRC preferred stock",
+      "link": "https://cointelegraph.com/news/strategy-sells-mstr-buys-back-25-milllion-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-27T12:34+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Strategy extends bitcoin pause to five weeks, sells $544.5 million in MSTR as USD reserve hits $3.75 billion",
+      "link": "https://www.theblock.co/post/409721/strategy-extends-bitcoin-pause-to-five-weeks-sells-544-5-million-in-mstr-as-usd-reserve-hits-3-75-billion?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-27T12:23+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Kraken parent Payward acquires Magic Labs’ embedded wallet business",
+      "link": "https://www.theblock.co/post/409705/kraken-parent-payward-acquires-magic-labs-embedded-wallet-business?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-27T12:15+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Michael Saylor's Strategy boosted cash reserve to $3.75 billion, repurchased $25 million of STRC",
+      "link": "https://www.coindesk.com/markets/2026/07/27/michael-saylor-s-strategy-boosted-cash-reserve-to-usd3-75-billion",
+      "published": "2026-07-27T12:12+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin options traders are dropping their hedges going into the Fed meeting",
+      "link": "https://www.coindesk.com/markets/2026/07/27/bitcoin-options-traders-are-dropping-their-hedges-going-into-the-fed-meeting",
+      "published": "2026-07-27T11:53+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "STORJ token falls 20% as decentralized storage firm files for Chapter 11 bankruptcy amid crypto shutdown wave",
+      "link": "https://www.theblock.co/post/409712/storj-token-falls-20-as-decentralized-storage-firm-files-for-chapter-11-bankruptcy-amid-crypto-shutdown-wave?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-27T11:31+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "SparkKitty malware hidden in mobile apps scans photos for crypto wallet seed phrases",
+      "link": "https://www.theblock.co/post/409716/sparkkitty-malware-hidden-in-mobile-apps-scans-photos-for-crypto-wallet-seed-phrases?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-27T11:30+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ballooning U.S. debt sends investors to bitcoin, gold to shelter from dollar devaluation",
+      "link": "https://www.coindesk.com/daybook-us/2026/07/27/ballooning-u-s-debt-sends-investors-to-bitcoin-gold-to-shelter-from-dollar-devaluation",
+      "published": "2026-07-27T11:15+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin ETFs post third straight weekly inflows despite $465 million in late-week losses",
+      "link": "https://www.coindesk.com/markets/2026/07/27/bitcoin-etfs-record-third-consecutive-weekly-inflows-despite-losses-of-usd465-million-to-end-week",
+      "published": "2026-07-27T11:04+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase CEO Brian Armstrong criticizes crypto startups that rebrand to AI",
+      "link": "https://www.coindesk.com/business/2026/07/27/coinbase-ceo-brian-armstrong-criticizes-crypto-startups-that-rebrand-to-ai",
+      "published": "2026-07-27T10:39+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BNY Mellon unit joins MiCA register as ESMA adds 15 providers",
+      "link": "https://cointelegraph.com/news/mica-register-expands-third-post-deadline-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-27T10:38+00:00"
     }
   ],
-  "generated": "2026-07-27T10:55:31+00:00"
+  "generated": "2026-07-28T07:47:52+00:00"
 }
