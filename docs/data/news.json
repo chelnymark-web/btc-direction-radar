@@ -1,127 +1,18 @@
 {
-  "kind": "daily",
-  "mode": "news",
+  "kind": "monthly",
+  "mode": "calendar",
+  "window_days": 30,
   "items": [
     {
-      "source": "CoinDesk",
-      "title": "Strategy holds STRC dividend at 12%",
-      "link": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12",
-      "published": "2026-08-01T22:01+00:00"
+      "date": "2026-08-07",
+      "name": "美国非农就业报告(常规日,以 BLS 官方为准)",
+      "source": "规则"
     },
     {
-      "source": "The Block",
-      "title": "Iran-linked exchange sent $676 million to Binance in alleged sanctions-evasion operation: Reuters",
-      "link": "https://www.theblock.co/post/410355/iran-linked-exchange-sent-676-million-to-binance-in-alleged-sanctions-evasion-operation-reuters?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-01T21:18+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Onchain, in court: What happened in crypto legal news this week",
-      "link": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-01T21:14+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
-      "link": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
-      "published": "2026-08-01T20:10+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "BNB Chain ‘pursuing legal action’ against former employee over memecoin launched from tutorial wallet",
-      "link": "https://www.theblock.co/post/410351/bnb-chain-pursuing-legal-action-against-former-employee-over-memecoin-launched-from-tutorial-wallet?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-01T19:09+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
-      "link": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-01T18:07+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
-      "link": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
-      "published": "2026-08-01T16:51+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Russian decree bans crypto mining across Moscow region through 2032",
-      "link": "https://www.theblock.co/post/410345/russian-decree-bans-crypto-mining-across-moscow-region-through-2032?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-01T16:09+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
-      "link": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances",
-      "published": "2026-08-01T16:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
-      "link": "https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot",
-      "published": "2026-08-01T15:51+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "SEC to review Nasdaq bitcoin options approval after CME challenge",
-      "link": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
-      "published": "2026-08-01T15:48+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto PAC pours another $1M into Michigan House race",
-      "link": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-01T15:44+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
-      "link": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
-      "published": "2026-08-01T13:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Everyone has the perps convergence backwards",
-      "link": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
-      "published": "2026-08-01T13:00+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Russia expands crypto mining ban to Moscow through 2032",
-      "link": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-01T10:23+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
-      "link": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-01T09:23+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
-      "link": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
-      "published": "2026-08-01T09:01+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin ETFs end July in the green despite late-month selling",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-01T07:23+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
-      "link": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
-      "published": "2026-08-01T06:09+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
-      "link": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
-      "published": "2026-08-01T05:55+00:00"
+      "date": "2026-08-28",
+      "name": "Deribit 月度期权到期(08:00 UTC)",
+      "source": "规则"
     }
   ],
-  "generated": "2026-08-01T22:57:33+00:00"
+  "generated": "2026-08-02T07:40:27+00:00"
 }
