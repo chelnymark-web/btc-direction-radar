@@ -1,48 +1,48 @@
 {
-  "ts": "2026-08-02T07:39:51+00:00",
-  "price": 63517.22,
-  "funding_rate": 2e-06,
-  "perp_basis_pct": -0.05419002909761834,
-  "funding_mean_30d": 3.393333333333334e-05,
-  "oi_btc": 645404072.0,
-  "oi_change_24h_pct": -0.2849736737923372,
-  "top_ls_ratio": 0.726027397260274,
-  "global_ls_ratio": 1.8218066337332393,
-  "taker_ratio": 0.236569274269557,
+  "ts": "2026-08-02T22:57:31+00:00",
+  "price": 63434.62,
+  "funding_rate": 2.2e-05,
+  "perp_basis_pct": -0.04716667334021316,
+  "funding_mean_30d": 3.3488888888888895e-05,
+  "oi_btc": 645344096.0,
+  "oi_change_24h_pct": -1.0429753336023857,
+  "top_ls_ratio": 0.6282051282051282,
+  "global_ls_ratio": 1.9061295717298044,
+  "taker_ratio": 1.7126646350463193,
   "deriv_source": "gate.io(备用)",
-  "deribit_index": 63450.82,
-  "dvol": 35.19,
-  "skew_25d": 3.0599999999999987,
-  "atm_iv_near": 33.19,
-  "near_expiry_days": 5.0,
-  "atm_iv_next": 33.1,
-  "term_slope": -0.0899999999999963,
-  "next_expiry_days": 19.0,
+  "deribit_index": 63369.79,
+  "dvol": 35.05,
+  "skew_25d": 4.629999999999999,
+  "atm_iv_near": 32.65,
+  "near_expiry_days": 11.4,
+  "atm_iv_next": 33.33,
+  "term_slope": 0.6799999999999997,
+  "next_expiry_days": 25.4,
   "flags": {
     "funding_rate": {
-      "level": 1,
-      "side": "short",
-      "note": "历史百分位 17%"
+      "level": 0,
+      "side": null,
+      "note": "历史百分位 38%"
     },
     "top_ls_ratio": {
-      "level": 2,
-      "side": "long",
-      "note": "历史百分位 91%"
+      "level": 0,
+      "side": null,
+      "note": "历史百分位 60%"
     },
     "global_ls_ratio": {
       "level": 1,
       "side": "long",
-      "note": "历史百分位 78%"
+      "note": "历史百分位 79%"
     },
     "perp_basis_pct": {
-      "level": 2,
-      "side": "short",
-      "note": "历史百分位 7%"
+      "level": 0,
+      "side": null,
+      "note": "历史百分位 30%"
     },
     "skew_25d": {
-      "level": 1,
-      "side": "long",
-      "note": "历史百分位 17%"
+      "level": 0,
+      "side": null,
+      "note": "历史百分位 37%"
     },
     "dvol": {
       "level": 2,
