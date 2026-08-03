@@ -1,85 +1,33 @@
 {
-  "kind": "daily",
-  "mode": "news",
+  "kind": "weekly",
+  "mode": "calendar",
+  "window_days": 7,
   "items": [
     {
-      "source": "The Block",
-      "title": "SEC keeps Nasdaq bitcoin options on hold after granting CME review",
-      "link": "https://www.theblock.co/post/410373/sec-keeps-nasdaq-bitcoin-options-on-hold-after-granting-cme-review?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-02T21:25+00:00"
+      "date": "2026-08-03",
+      "name": "ISM Manufacturing PMI(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-02T20:00+00:00"
+      "date": "2026-08-07",
+      "name": "美国非农就业报告(常规日,以 BLS 官方为准)",
+      "source": "规则"
     },
     {
-      "source": "CoinDesk",
-      "title": "Counting down the days: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto",
-      "published": "2026-08-02T18:30+00:00"
+      "date": "2026-08-07",
+      "name": "Average Hourly Earnings m/m(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "The Block",
-      "title": "Saylor hints at Strategy bitcoin buy after five-week pause as STRC rate stays at 12%: ‘Bitcoin Drive engaged’",
-      "link": "https://www.theblock.co/post/410370/saylor-hints-at-strategy-bitcoin-buy-after-five-week-pause-as-strc-rate-stays-at-12-bitcoin-drive-engaged?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-02T18:10+00:00"
+      "date": "2026-08-07",
+      "name": "Non-Farm Employment Change(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "CoinDesk",
-      "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
-      "link": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
-      "published": "2026-08-02T17:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The future of crypto payments won't include on-ramps or bridges, Fun CEO says",
-      "link": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
-      "published": "2026-08-02T16:00+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Strategy leaves preferred STRC dividend at 12% as price still below par",
-      "link": "https://cointelegraph.com/news/strategy-leaves-preferred-strc-dividend-at-12-price-still-below-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-02T15:24+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Trump Media says $165 million bitcoin transfer to Crypto.com wasn’t a sale",
-      "link": "https://www.theblock.co/post/410360/trump-media-linked-wallets-move-165-million-in-bitcoin-to-crypto-com-leaving-4261-btc-in-tracked-wallets?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-02T15:16+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The reverse bridge: Crypto meets Wall Street using perps",
-      "link": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps",
-      "published": "2026-08-02T13:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges",
-      "link": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges",
-      "published": "2026-08-02T12:03+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BNB Chain pursues legal action after ex-employee’s memecoin launch",
-      "link": "https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-02T11:24+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
-      "link": "https://cointelegraph.com/news/trump-media-2628-btc-crypto-com-4261-btc-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-02T09:31+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
-      "link": "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-02T08:07+00:00"
+      "date": "2026-08-07",
+      "name": "Unemployment Rate(USD·高影响)",
+      "source": "ForexFactory"
     }
   ],
-  "generated": "2026-08-02T22:58:09+00:00"
+  "generated": "2026-08-03T10:56:26+00:00"
 }

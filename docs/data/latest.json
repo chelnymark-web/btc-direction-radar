@@ -1,54 +1,54 @@
 {
-  "ts": "2026-08-02T22:57:31+00:00",
-  "price": 63434.62,
-  "funding_rate": 2.2e-05,
-  "perp_basis_pct": -0.04716667334021316,
-  "funding_mean_30d": 3.3488888888888895e-05,
-  "oi_btc": 645344096.0,
-  "oi_change_24h_pct": -1.0429753336023857,
-  "top_ls_ratio": 0.6282051282051282,
-  "global_ls_ratio": 1.9061295717298044,
-  "taker_ratio": 1.7126646350463193,
+  "ts": "2026-08-03T10:55:48+00:00",
+  "price": 62684.4,
+  "funding_rate": 2.6e-05,
+  "perp_basis_pct": -0.04195621239096635,
+  "funding_mean_30d": 3.407777777777778e-05,
+  "oi_btc": 663570640.0,
+  "oi_change_24h_pct": 3.256883633107118,
+  "top_ls_ratio": 0.6049382716049383,
+  "global_ls_ratio": 2.071645510474262,
+  "taker_ratio": 0.6665332158966557,
   "deriv_source": "gate.io(备用)",
-  "deribit_index": 63369.79,
-  "dvol": 35.05,
-  "skew_25d": 4.629999999999999,
-  "atm_iv_near": 32.65,
-  "near_expiry_days": 11.4,
-  "atm_iv_next": 33.33,
-  "term_slope": 0.6799999999999997,
-  "next_expiry_days": 25.4,
+  "deribit_index": 62605.92,
+  "dvol": 35.47,
+  "skew_25d": 5.939999999999998,
+  "atm_iv_near": 31.74,
+  "near_expiry_days": 10.9,
+  "atm_iv_next": 32.87,
+  "term_slope": 1.129999999999999,
+  "next_expiry_days": 24.9,
   "flags": {
     "funding_rate": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 38%"
+      "note": "历史百分位 42%"
     },
     "top_ls_ratio": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 60%"
+      "note": "历史百分位 40%"
     },
     "global_ls_ratio": {
-      "level": 1,
+      "level": 2,
       "side": "long",
-      "note": "历史百分位 79%"
+      "note": "历史百分位 100%"
     },
     "perp_basis_pct": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 30%"
+      "note": "历史百分位 52%"
     },
     "skew_25d": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 37%"
+      "note": "历史百分位 52%"
     },
     "dvol": {
       "level": 2,
       "side": null,
-      "note": "历史百分位 0%"
+      "note": "历史百分位 4%"
     }
   },
-  "bias_score": 8
+  "bias_score": 17
 }
