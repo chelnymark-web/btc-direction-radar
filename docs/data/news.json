@@ -3,359 +3,365 @@
   "mode": "news",
   "items": [
     {
+      "source": "The Block",
+      "title": "Tribal gaming regulators, senators make a renewed push to add prediction markets provision to Clarity Act",
+      "link": "https://www.theblock.co/post/410668/tribal-gaming-regulators-senators-make-renewed-push-add-prediction-markets-provision-clarity-act?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T22:15+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "BlackRock’s spot Ethereum ETF to undergo 1-for-3 reverse share split in October",
+      "link": "https://www.theblock.co/post/410663/blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T21:34+00:00"
+    },
+    {
+      "source": "美联储新闻稿",
+      "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
+      "published": "2026-08-04T20:30+00:00"
+    },
+    {
+      "source": "美联储新闻稿",
+      "title": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm",
+      "published": "2026-08-04T20:30+00:00"
+    },
+    {
+      "source": "美联储新闻稿",
+      "title": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
+      "published": "2026-08-04T20:30+00:00"
+    },
+    {
       "source": "CoinDesk",
-      "title": "U.S. FBI intelligence agent arrested in connection with theft of $1 million in crypto",
-      "link": "https://www.coindesk.com/policy/2026/08/03/u-s-fbi-intelligence-agent-arrested-in-connection-with-theft-of-usd1-million-in-crypto",
-      "published": "2026-08-03T22:17+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Blockchain Association counters National Sheriffs’ group claims as pivotal week for Clarity Act unfolds",
-      "link": "https://www.theblock.co/post/410507/blockchain-association-counters-sheriffs-associations-claims-pivotal-week-clarity-act?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-03T21:13+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "DEXs capture record 24% of spot crypto trading as CEX volumes sink",
-      "link": "https://www.theblock.co/post/410476/dexs-capture-record-spot-crypto-trading-as-cex-volumes-sink?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-03T20:46+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bessent’s top crypto adviser Tyler Williams exits US Treasury: Report",
-      "link": "https://cointelegraph.com/news/bessent-top-crypto-adviser-tyler-williams-leaves-us-treasury-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-03T20:29+00:00"
+      "title": "SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings",
+      "link": "https://www.coindesk.com/business/2026/08/04/spacex-tops-wall-street-revenue-forecast-posts-usd540-million-decline-on-bitcoin-holding-value",
+      "published": "2026-08-04T20:26+00:00"
     },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-03T19:52+00:00"
+      "published": "2026-08-04T19:59+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "FalconX cuts 10% of workforce amid prolonged crypto market slump: Report",
-      "link": "https://cointelegraph.com/news/falconx-workforce-reduction-amid-crypto-market-slump-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-03T19:44+00:00"
+      "title": "US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks",
+      "link": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-04T19:58+00:00"
     },
     {
       "source": "The Block",
-      "title": "FBI agent accused of stealing $1 million in crypto, allegedly turned to ChatGPT for vacation plans",
-      "link": "https://www.theblock.co/post/410491/fbi-agent-stealing-1-million-crypto-turned-to-chatgpt-vacation-plans?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-03T18:48+00:00"
+      "title": "Ethereum researchers propose burning validator rewards to cap staking at 50%",
+      "link": "https://www.theblock.co/post/410643/ethereum-researchers-propose-burning-validator-rewards-cap-staking-50?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T19:49+00:00"
     },
     {
       "source": "The Block",
-      "title": "Kalshi CEO invokes Nasdaq, Uber and Airbnb in defense against New York lawsuit",
-      "link": "https://www.theblock.co/post/410481/kalshi-ceo-invokes-nasdaq-uber-airbnb-defense-new-york-lawsuit?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-03T18:44+00:00"
+      "title": "Cloudflare kicks off stablecoin wallet rollout for AI agents to pay for APIs and online content",
+      "link": "https://www.theblock.co/post/410629/cloudflare-kicks-off-stablecoin-wallet-rollout-ai-agents-pay-apis-online-content?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T19:33+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Open USD rattled Circle's stock, but its key backers still support USDC",
+      "link": "https://www.coindesk.com/business/2026/08/03/open-usd-rattled-circle-s-stock-but-its-key-backers-still-support-usdc",
+      "published": "2026-08-04T17:55+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Samsung is poised to become a dominant stablecoin distributor, analysts say",
+      "link": "https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say",
+      "published": "2026-08-04T17:14+00:00"
     },
     {
       "source": "The Block",
-      "title": "Proof of Attendance Protocol is shutting down after 5+ years",
-      "link": "https://www.theblock.co/post/410482/proof-of-attendance-protocol-is-shutting-down-after-5-years?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-03T18:40+00:00"
+      "title": "Senators seek SEC probe of President Trump’s memecoin as crypto bill enters into a pivotal week",
+      "link": "https://www.theblock.co/post/410624/senators-seek-sec-probe-president-trump-memecoin-crypto-bill-enters-pivotal-week?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T17:11+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BNY to offer institutional crypto staking through Galaxy partnership",
+      "link": "https://cointelegraph.com/news/bny-galaxy-institutional-crypto-staking-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-04T17:10+00:00"
     },
     {
       "source": "The Block",
-      "title": "BlackRock launches two tokenized money market funds for stablecoin reserves",
-      "link": "https://www.theblock.co/post/410469/blackrock-launches-two-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-03T17:48+00:00"
+      "title": "Robinhood shrugs off crypto slump as Coinbase activity remains tied to trading cycle",
+      "link": "https://www.theblock.co/post/410478/robinhood-shrugs-off-crypto-slump-coinbase-activity-remains-tied-trading-cycle?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T16:56+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin coils at $64K as Hormuz reopening timeline sends S&P 500 to $70T record",
+      "link": "https://cointelegraph.com/markets/bitcoin-coils-as-hormuz-reopening-time-line-sends-sp-500-to-new-record-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-04T16:38+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him",
+      "link": "https://www.coindesk.com/policy/2026/08/04/clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investigate-him",
+      "published": "2026-08-04T16:21+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitdeer expands AI infrastructure with long-term $4.7B data center lease",
+      "link": "https://cointelegraph.com/news/bitdeer-ai-data-center-lease-norway?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-04T15:50+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Wells Fargo joins JPMorgan and Citi in the race to tokenize Wall Street’s settlement rails",
+      "link": "https://www.coindesk.com/business/2026/08/04/wells-fargo-to-offer-tokenized-deposits-for-24-7-corporate-payments",
+      "published": "2026-08-04T15:47+00:00"
     },
     {
       "source": "The Block",
-      "title": "Jameson Lopp says Coldcard exploit exposes limits of Bitcoin’s ‘don’t trust, verify’ mantra",
-      "link": "https://www.theblock.co/post/410446/jameson-lopp-coldcard-exploit-exposes-limits-bitcoins-dont-trust-verify-mantra?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-03T16:59+00:00"
+      "title": "Dinari launches tokenized S&P 500 stocks for US self-custody wallets using USDC",
+      "link": "https://www.theblock.co/post/410588/dinari-tokenized-sp-500-stocks-self-custody-wallets-using-usdc?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T15:27+00:00"
     },
     {
       "source": "The Block",
-      "title": "Michael Saylor says he’s never sold his personal bitcoin after Strategy dumps more BTC",
-      "link": "https://www.theblock.co/post/410451/michael-saylor-says-never-sold-his-personal-bitcoin-strategy-dumps-more-btc?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-03T16:57+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Kenya moves 30 million academic credentials onto Avalanche blockchain",
-      "link": "https://cointelegraph.com/news/kenya-avalanche-blockchain-academic-credentials-verification?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-03T16:46+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BlackRock launches tokenized money market funds for stablecoin reserves",
-      "link": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-03T16:13+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Trump-linked American Bitcoin president Matt Prusak departs for Giga Energy",
-      "link": "https://www.coindesk.com/business/2026/08/03/trump-linked-american-bitcoin-president-matt-prusak-departs-for-giga-energy",
-      "published": "2026-08-03T15:24+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Hashdex to shut smallest Bitcoin ETF after more than two years",
-      "link": "https://cointelegraph.com/news/hashdex-to-shut-smallest-bitcoin-etf-after-more-than-two-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-03T15:24+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S.-Japan intervention revives yen carry trade fears for bitcoin",
-      "link": "https://www.coindesk.com/markets/2026/08/03/u-s-japan-intervention-revives-yen-carry-trade-fears-for-bitcoin",
-      "published": "2026-08-03T14:46+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US hints at more yen intervention: Five things to know in Bitcoin this week",
-      "link": "https://cointelegraph.com/markets/us-hints-at-more-yen-intervention-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-03T14:11+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Circle slides after Morgan Stanley downgrade, cut in price target",
-      "link": "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target",
-      "published": "2026-08-03T13:59+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bernstein sees another leg lower for crypto markets if Clarity Act stalls",
-      "link": "https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls",
-      "published": "2026-08-03T13:49+00:00"
+      "title": "BitGo moves $7.4 billion Wrapped Bitcoins to Chainlink CCIP in latest LayerZero exodus",
+      "link": "https://www.theblock.co/post/410594/bitgo-moves-7-4-billion-wrapped-bitcoins-to-chainlink-ccip-in-latest-layerzero-exodus?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T15:24+00:00"
     },
     {
       "source": "The Block",
-      "title": "Tom Lee says ether outperformed Nasdaq 100 in July as Bitmine adds 10,399 ETH",
-      "link": "https://www.theblock.co/post/410441/tom-lee-says-ether-outperformed-nasdaq-100-july-bitmine-adds-10399-eth?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-03T13:48+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "How Fake World Assets and onchain gacha became crypto’s latest craze",
-      "link": "https://cointelegraph.com/magazine/how-fake-world-assets-and-online-gacha-became-cryptos-latest-craze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-03T13:30+00:00"
+      "title": "Hut 8 shares slip after mild Q2 revenue miss as AI data center pipeline grows",
+      "link": "https://www.theblock.co/post/410581/hut-8-shares-slip-mild-q2-revenue-miss-ai-data-center-pipeline-grows?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T15:00+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "BlackRock expands tokenized cash with new blockchain-based money market offerings",
-      "link": "https://www.coindesk.com/business/2026/08/03/blackrock-expands-tokenized-cash-with-new-blockchain-based-money-market-offerings",
-      "published": "2026-08-03T13:15+00:00"
+      "title": "Bitcoin’s $63,000 zone emerges as key battleground for buyers: Glassnode",
+      "link": "https://www.coindesk.com/markets/2026/08/04/bitcoin-s-usd63-000-zone-emerges-as-key-battleground-for-buyers-glassnode",
+      "published": "2026-08-04T14:49+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Polymarket targets $20 billion valuation as competition heats up in prediction market sector",
+      "link": "https://www.coindesk.com/markets/2026/08/04/polymarket-targets-usd20-billion-valuation-as-competition-heats-up-in-prediction-markets",
+      "published": "2026-08-04T14:38+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "At least 15 attackers exploited Coldcard vulnerability: Galaxy",
+      "link": "https://cointelegraph.com/news/15-attackers-exploited-coldcard-vulnerability-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-04T14:38+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Intesa Sanpaolo slashed IBIT stake by 94% in 2Q, tripled ether ETF holding as crypto prices slumped",
+      "link": "https://www.coindesk.com/business/2026/08/04/intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-crypto-prices-slumped",
+      "published": "2026-08-04T14:25+00:00"
     },
     {
       "source": "The Block",
-      "title": "Eric Trump’s American Bitcoin treasury tops 8,000 BTC as Q2 mining production hits record",
-      "link": "https://www.theblock.co/post/410426/eric-trumps-american-bitcoin-treasury-tops-8000-btc-as-q2-mining-production-hits-record?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-03T13:03+00:00"
+      "title": "Bitdeer stock pops and drops on $4.7 billion AI data center lease in Norway",
+      "link": "https://www.theblock.co/post/410578/bitdeer-stock-pops-drops-4-7-billion-ai-data-center-lease-norway?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T14:24+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Tom Lee's Bitmine bought more ether, added to stock buyback last week",
-      "link": "https://www.coindesk.com/business/2026/08/03/bitmine-bought-more-ether-added-to-stock-buyback-last-week",
-      "published": "2026-08-03T12:53+00:00"
+      "title": "Dinari brings tokenized U.S. stocks to American investors as equity race heats up",
+      "link": "https://www.coindesk.com/business/2026/08/04/dinari-brings-tokenized-u-s-stocks-to-american-investors-as-equity-race-heats-up",
+      "published": "2026-08-04T14:00+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Strategy sells 1,638 Bitcoin to fund dividends and STRC repurchases",
-      "link": "https://cointelegraph.com/news/strategy-sells-bitcoin-dividend-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-03T12:27+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bithumb sets 2028 IPO timetable as it overhauls internal controls",
-      "link": "https://cointelegraph.com/news/bithumb-ipo-timetable-internal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-03T12:21+00:00"
+      "title": "Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin",
+      "link": "https://cointelegraph.com/magazine/bitcoin-to-go-down-into-the-40s-before-next-bull-run-michael-terpin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-04T13:30+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Strategy sold another $105 million of bitcoin last week, repurchased $81.2 million of STRC",
-      "link": "https://www.coindesk.com/markets/2026/08/03/strategy-sold-another-usd105-million-of-bitcoin-last-week-repurchased-usd81-2-million-of-strc",
-      "published": "2026-08-03T12:17+00:00"
+      "title": "As Clarity Act teeters, mystery group hammers away at crypto in Washington ads",
+      "link": "https://www.coindesk.com/policy/2026/08/03/as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads",
+      "published": "2026-08-04T13:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BitGo’s WBTC move pushes LayerZero-to-Chainlink tally near $15 billion",
+      "link": "https://www.coindesk.com/business/2026/08/04/bitgo-s-wbtc-move-pushes-layerzero-to-chainlink-tally-near-usd15-billion",
+      "published": "2026-08-04T13:00+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Texas electric grid moratorium won’t have big impact on BTC miners: Bernstein",
+      "link": "https://cointelegraph.com/news/texas-electric-grid-moratorim-btc-miners-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-04T12:37+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BNY to add crypto staking to digital asset custody platform",
+      "link": "https://www.coindesk.com/business/2026/08/04/bny-to-add-crypto-staking-to-digital-asset-custody-platform",
+      "published": "2026-08-04T12:30+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Tether Gold reserves rise 9.5% as gold posts worst quarter in 13 years",
+      "link": "https://cointelegraph.com/news/tether-gold-rise-q2-sharpest-quarterly-gold-correction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-04T12:30+00:00"
     },
     {
       "source": "The Block",
-      "title": "Michael Saylor’s Strategy sells another 1,638 BTC for $105 million, reducing total holdings to 842,138 BTC",
-      "link": "https://www.theblock.co/post/410414/michael-saylors-strategy-sells-another-1638-btc-for-105-million-reducing-total-holdings-to-842138-btc?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-03T12:13+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "CLARITY Act failure could send crypto valuations lower: Bernstein",
-      "link": "https://cointelegraph.com/news/clarity-act-failure-crypto-valuations-lower-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-03T12:07+00:00"
+      "title": "OKX says Coldcard exploit triggers ‘record’ inflows to centralized exchanges",
+      "link": "https://www.theblock.co/post/410515/okx-says-coldcard-exploit-record-inflows-centralized-exchanges?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T12:05+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Bitget set to exit Japan, close all remaining positions by year-end",
-      "link": "https://www.coindesk.com/policy/2026/08/03/bitget-set-to-exit-japan-close-all-remaining-positions-by-year-end",
-      "published": "2026-08-03T12:03+00:00"
+      "title": "Coldcard urges users to move bitcoin as exploit is still in progress",
+      "link": "https://www.coindesk.com/tech/2026/08/04/coldcard-urges-users-to-move-bitcoin-as-active-wallet-exploit-continues",
+      "published": "2026-08-04T12:00+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Italy’s biggest bank triples staked Ether ETF holdings while cutting IBIT shares",
+      "link": "https://cointelegraph.com/news/intesa-sanpaolo-bank-staked-ether-etf-ibit-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-04T11:55+00:00"
     },
     {
       "source": "The Block",
-      "title": "BitGo launches Link, connecting clients to Coinbase, Kraken, Crypto.com and more",
-      "link": "https://www.theblock.co/post/410408/bitgo-link-coinbase-kraken-crypto-com?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-03T11:50+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Trumps’ American Bitcoin reports record BTC output, narrower Q2 loss",
-      "link": "https://cointelegraph.com/news/trumps-american-bitcoin-output-narrower-q2-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-03T11:40+00:00"
+      "title": "DCG’s Fortitude acquires 12.5 MW Nebraska facility for net $4.7 million, expanding Zcash mining portfolio",
+      "link": "https://www.theblock.co/post/410565/dcgs-fortitude-acquires-nebraska-facility-zcash-mining?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T11:32+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Solo Bitcoin miner nets $200,000 as Coldcard hardware wallet drains rocks sentiment",
-      "link": "https://www.coindesk.com/daybook-us/2026/08/03/solo-bitcoin-miner-nets-usd200-000-as-coldcard-hardware-wallet-drains-rocks-sentiment",
-      "published": "2026-08-03T11:18+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ripple invests in Zilo and Licuido to assist tokenized capital markets push",
-      "link": "https://cointelegraph.com/news/ripple-invests-zilo-licuido-tokenized-capital-markets-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-03T10:58+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin, ether decline as Coldcard exploit enters a fifth day",
-      "link": "https://www.coindesk.com/markets/2026/08/03/bitcoin-ether-decline-as-coldcard-exploit-enters-a-fifth-day",
-      "published": "2026-08-03T10:51+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bithumb now targets 2028 IPO after major internal restructuring",
-      "link": "https://www.coindesk.com/business/2026/08/03/bithumb-now-targets-2028-ip-after-major-internal-restructuring",
-      "published": "2026-08-03T10:41+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin flirts with $64,000 as stocks start strong in August",
-      "link": "https://www.coindesk.com/business/2026/08/03/live-updates-traders-say-bitcoin-sell-off-from-usd65-000-points-to-thin-volume-not-panic-selling",
-      "published": "2026-08-03T10:29+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin may find bear market bottom in August: 10x Research",
-      "link": "https://cointelegraph.com/markets/bitcoin-find-bear-market-bottom-august-10x-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-03T10:25+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The bitcoin futures yield collapse: Once over 20%, now less than Treasury notes",
-      "link": "https://www.coindesk.com/markets/2026/08/03/the-bitcoin-futures-yield-collapse-once-over-20-now-less-than-treasury-notes",
-      "published": "2026-08-03T10:13+00:00"
+      "title": "The bitcoin market has plenty of reasons to freak out, yet calm pervades",
+      "link": "https://www.coindesk.com/daybook-us/2026/08/04/the-bitcoin-market-has-plenty-of-reasons-to-freak-out-yet-calm-pervades",
+      "published": "2026-08-04T11:23+00:00"
     },
     {
       "source": "The Block",
-      "title": "Bernstein says Clarity Act failure could accelerate SEC, CFTC crypto rulemaking",
-      "link": "https://www.theblock.co/post/410395/bernstein-says-clarity-act-failure-could-accelerate-sec-cftc-crypto-rulemaking?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-03T09:49+00:00"
+      "title": "Cathie Wood’s Ark Invest snaps up nearly $10 million in Coinbase and Circle stock",
+      "link": "https://www.theblock.co/post/410558/cathie-woods-ark-invest-snaps-up-nearly-10-million-in-coinbase-and-circle-stock?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T11:02+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Robinhood wins UK crypto registration before new regulatory regime kicks off",
-      "link": "https://www.coindesk.com/policy/2026/08/03/robinhood-wins-uk-crypto-registration-before-new-regulatory-regime-kicks-off",
-      "published": "2026-08-03T09:38+00:00"
+      "title": "South African lawmakers propose draft rules on cross-border crypto transactions",
+      "link": "https://www.coindesk.com/policy/2026/08/04/south-african-lawmakers-propose-draft-rules-on-cross-border-crypto-transactions",
+      "published": "2026-08-04T10:59+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Jim Cramer plans to sell his Bitcoin over quantum fears as BTC rises 1.6%",
+      "link": "https://cointelegraph.com/markets/jim-cramer-sell-bitcoin-quantum-fears-btc-rises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-04T10:53+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin rises toward $64,000 as Coldcard exploit, Strategy sales recede. ADA advances",
+      "link": "https://www.coindesk.com/markets/2026/08/04/bitcoin-rises-toward-usd64-000-as-coldcard-exploit-strategy-sales-recede-ada-advances",
+      "published": "2026-08-04T10:51+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Former FBI supervisor admits guilt in $1M crypto theft",
+      "link": "https://cointelegraph.com/news/former-fbi-supervisor-charged-1m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-04T10:30+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BlackRock debuts tokenized access to $311 billion of money market funds in Europe",
+      "link": "https://www.coindesk.com/business/2026/08/04/blackrock-debuts-tokenized-access-to-usd311-billion-of-money-market-funds-in-europe",
+      "published": "2026-08-04T10:03+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "First U.S. spot bitcoin ETF to close as inflows dwindle, investors chase AI returns",
+      "link": "https://www.coindesk.com/business/2026/08/04/first-u-s-spot-bitcoin-etf-to-close-as-inflows-dwindle-investors-chase-ai-returns",
+      "published": "2026-08-04T09:54+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strategy’s STRC retakes $90 after 24% rebound from June closing low",
+      "link": "https://cointelegraph.com/markets/strategy-strc-stock-above-90-june-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-04T09:42+00:00"
     },
     {
       "source": "The Block",
-      "title": "Ripple invests in ZILO and Licuido to deepen tokenized capital markets push",
-      "link": "https://www.theblock.co/post/410397/ripple-invests-zilo-licuido?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-03T09:38+00:00"
+      "title": "BlackRock debuts tokenized share classes for select European money market funds with $311 billion in assets",
+      "link": "https://www.theblock.co/post/410554/blackrock-debuts-tokenized-share-classes-for-select-european-money-market-funds-with-311-billion-in-assets?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T09:31+00:00"
     },
     {
       "source": "The Block",
-      "title": "South Korea’s Bithumb officially targets 2028 IPO, outlines multi-year roadmap",
-      "link": "https://www.theblock.co/post/410391/south-korea-bithumb-ipo-2028?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-03T09:21+00:00"
+      "title": "Binance launches bitcoin-backed ‘Lite Loan’ with $1,000 borrowing limit",
+      "link": "https://www.theblock.co/post/410544/binance-lite-loan-bitcoin?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T09:30+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "HashKey receives JPMorgan approval to open client money account",
-      "link": "https://cointelegraph.com/news/hashkey-jpmorgan-client-money-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-03T09:14+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Coldcard wallet losses may near $114 million as possible fourth sweep emerges",
-      "link": "https://www.coindesk.com/tech/2026/08/03/coldcard-wallet-losses-may-near-usd114-million-as-possible-fourth-sweep-emerges",
-      "published": "2026-08-03T08:51+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitget to exit Japan, close remaining positions after Dec. 31",
-      "link": "https://cointelegraph.com/news/bitget-exit-japan-account-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-03T08:21+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. Jobs, Circle, Galaxy, American Bitcoin earnings: Crypto Week Ahead",
-      "link": "https://www.coindesk.com/markets/2026/08/03/u-s-jobs-circle-galaxy-american-bitcoin-earnings-crypto-week-ahead",
-      "published": "2026-08-03T08:16+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto treasury firm ZeroStack warns of survival risk amid $82.5M loss",
-      "link": "https://cointelegraph.com/news/zerostack-survival-risk-82m-crypto-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-03T07:15+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin slips under $63,000 despite Iran deal hopes as Coldcard losses rattle market",
-      "link": "https://www.coindesk.com/markets/2026/08/03/bitcoin-slips-under-usd63-000-despite-iran-deal-hopes-as-coldcard-losses-rattle-market",
-      "published": "2026-08-03T06:15+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin hits $62K while Coinbase premium hits 77-day negative streak",
-      "link": "https://cointelegraph.com/markets/bitcoin-hits-62k-while-coinbase-premium-hits-77-day-negative-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-03T05:58+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Trump Media’s bitcoin stash may be down to loan collateral after $165 million BTC move",
-      "link": "https://www.coindesk.com/markets/2026/08/03/trump-media-s-bitcoin-stash-may-be-down-to-loan-collateral-after-usd165-million-btc-move",
-      "published": "2026-08-03T05:52+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Michael Saylor’s Strategy is now tracking bitcoin’s 200-week moving average",
-      "link": "https://www.coindesk.com/markets/2026/08/03/michael-saylor-s-strategy-is-now-tracking-bitcoin-s-200-week-moving-average",
-      "published": "2026-08-03T05:07+00:00"
+      "title": "US yen intervention puts Bitcoin, risk assets on notice for liquidity flux",
+      "link": "https://cointelegraph.com/markets/us-yen-intervention-puts-bitcoin-risk-assets-on-notice-for-liquidity-flux?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-04T09:22+00:00"
     },
     {
       "source": "The Block",
-      "title": "Kalshi and Polymarket’s combined volume reaches all-time high in July, surpassing $50 billion",
-      "link": "https://www.theblock.co/post/410382/kalshi-polymarket-volume-july?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-03T04:34+00:00"
+      "title": "Bernstein says Texas data center audit could boost value of existing bitcoin mining and AI sites",
+      "link": "https://www.theblock.co/post/410545/bernstein-texas-data-center-audit?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T08:57+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin stuck in tight range as risk assets soar on Iran deal hopes",
+      "link": "https://www.coindesk.com/business/2026/08/04/live-updates-bitcoin-at-usd63-600-as-rare-us-japan-yen-action-tests-carry-trade-fears",
+      "published": "2026-08-04T08:41+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief",
-      "link": "https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-03T04:09+00:00"
+      "title": "Apple briefly removes Telegram from App Store, Gram rebounds",
+      "link": "https://cointelegraph.com/news/apple-telegram-app-store-gram-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-04T08:03+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bhutan's GMC puts part of its bitcoin treasury to work after 10,000 BTC pledge",
+      "link": "https://www.coindesk.com/markets/2026/08/04/bhutan-s-gmc-puts-part-of-its-bitcoin-treasury-to-work-after-10-000-btc-pledge",
+      "published": "2026-08-04T07:56+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Why Jim Cramer’s quantum panic isn’t rattling bitcoin as price holds steady around $64,000",
+      "link": "https://www.coindesk.com/markets/2026/08/04/why-jim-cramer-s-quantum-panic-isn-t-rattling-bitcoin-as-price-holds-steady-around-usd64-000",
+      "published": "2026-08-04T07:53+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "South Korean stablecoin outflows top $367M in June: Report",
-      "link": "https://cointelegraph.com/news/south-korea-stablecoin-outflows-overseas-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-03T04:05+00:00"
+      "title": "NY judge denies CFTC motion to halt enforcement action against Kalshi",
+      "link": "https://cointelegraph.com/news/ny-judge-denies-cftc-motion-enforcement-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-04T07:49+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Nigeria sets crypto tax collection rules for digital asset platforms",
+      "link": "https://cointelegraph.com/news/nigeria-crypto-tax-rules-digital-asset-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-04T07:25+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool",
+      "link": "https://www.coindesk.com/markets/2026/08/04/flare-s-wrapped-xrp-wins-approval-in-a-usd280-million-rlusd-lending-vault",
+      "published": "2026-08-04T06:12+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto firms still seeking frontier AI access; only select few have it",
+      "link": "https://cointelegraph.com/news/few-crypto-firms-have-access-to-frontier-ai-as-cyber-threats-escalate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-04T06:00+00:00"
     },
     {
       "source": "The Block",
-      "title": "Hong Kong police flag $3.3 million romance scam involving fake crypto app",
-      "link": "https://www.theblock.co/post/410377/hong-kong-3-million-crypto-romance-scam?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-03T03:42+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Suspected 4th Coldcard attack wave sweeps 448 Bitcoin: Galaxy’s Thorn",
-      "link": "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-03T01:57+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler’s Digest, August 2",
-      "link": "https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-02T23:44+00:00"
+      "title": "Bitcoin losses from Coldcard hack could swell to $130 million, Galaxy Research says",
+      "link": "https://www.theblock.co/post/410533/coldcard-hack-130-million-galaxy-research?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T05:46+00:00"
     }
   ],
-  "generated": "2026-08-03T23:03:32+00:00"
+  "generated": "2026-08-04T23:05:21+00:00"
 }
