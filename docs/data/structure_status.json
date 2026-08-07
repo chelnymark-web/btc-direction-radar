@@ -1,40 +1,35 @@
 {
-  "ts": "2026-08-05T23:01:46+00:00",
+  "ts": "2026-08-07T01:30:55+00:00",
   "source": "Binance(data-api.binance.vision)",
-  "spot": 64603.6,
-  "bars": 309,
+  "spot": 64434.4,
+  "bars": 311,
   "from": "2025-10-01",
   "ath": {
     "price": 126200,
     "date": "2025-10-06"
   },
   "fractal_n": 5,
-  "dd_from_ath_pct": -48.8,
+  "dd_from_ath_pct": -48.9,
   "macro_trend": "宏观下跌",
-  "rsi_now": 53.0,
-  "status": "结构不清晰(震荡,LH/LL 不占优)",
-  "struct_dir": 0.0,
-  "purity_pct": 52,
+  "rsi_now": 52.0,
+  "status": "出现 HL(反转前兆,低点抬高)",
+  "struct_dir": 0.3,
+  "purity_pct": 50,
   "counts": {
     "LH": 6,
     "LL": 6,
     "HH": 6,
-    "HL": 5
+    "HL": 6
   },
   "last_swing_high": {
     "price": 66956,
     "date": "2026-07-21"
   },
   "last_swing_low": {
-    "price": 57800,
-    "date": "2026-07-01"
+    "price": 62275,
+    "date": "2026-08-01"
   },
   "recent_swings": [
-    {
-      "type": "L",
-      "price": 65000,
-      "date": "2026-03-29"
-    },
     {
       "type": "H",
       "price": 79486,
@@ -69,6 +64,11 @@
       "type": "H",
       "price": 66956,
       "date": "2026-07-21"
+    },
+    {
+      "type": "L",
+      "price": 62275,
+      "date": "2026-08-01"
     }
   ],
   "violations": [
@@ -136,6 +136,12 @@
       "type": "HL",
       "date": "2026-04-29",
       "price": 74938,
+      "note": "低点抬高=更强的反转信号"
+    },
+    {
+      "type": "HL",
+      "date": "2026-08-01",
+      "price": 62275,
       "note": "低点抬高=更强的反转信号"
     }
   ],
