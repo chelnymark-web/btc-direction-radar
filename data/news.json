@@ -1,38 +1,67 @@
 {
-  "kind": "weekly",
-  "mode": "calendar",
-  "window_days": 7,
+  "kind": "daily",
+  "mode": "news",
   "items": [
     {
-      "date": "2026-08-12",
-      "name": "Core CPI m/m(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "The Block",
+      "title": "World Liberty received $100 million from businessman investigated for money laundering: NYT",
+      "link": "https://www.theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-09T18:51+00:00"
     },
     {
-      "date": "2026-08-12",
-      "name": "Core CPI y/y(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "CoinDesk",
+      "title": "Is Clarity's delay a blessing in disguise?: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/08/09/is-clarity-s-delay-a-blessing-in-disguise-state-of-crypto",
+      "published": "2026-08-09T18:30+00:00"
     },
     {
-      "date": "2026-08-12",
-      "name": "CPI m/m(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "The Block",
+      "title": "Brazil to tighten crypto fraud controls with new 24-hour wait on transfers to self-custody wallets",
+      "link": "https://www.theblock.co/news/regulation/2026-08-09-brazil-to-tighten-crypto-fraud-controls-with-new-24-hour-wait-on-transfers-to-self-custody-wallets-411219?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-09T17:03+00:00"
     },
     {
-      "date": "2026-08-12",
-      "name": "CPI y/y(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "CoinDesk",
+      "title": "Hyperliquid’s RWA perps boom is eating into the revenue that backs HYPE",
+      "link": "https://www.coindesk.com/business/2026/08/09/hyperliquid-s-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype",
+      "published": "2026-08-09T15:00+00:00"
     },
     {
-      "date": "2026-08-13",
-      "name": "Core PPI m/m(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "CoinDesk",
+      "title": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
+      "link": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk",
+      "published": "2026-08-09T14:19+00:00"
     },
     {
-      "date": "2026-08-13",
-      "name": "PPI m/m(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "CoinDesk",
+      "title": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
+      "link": "https://www.coindesk.com/business/2026/08/09/crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fold-in-2026",
+      "published": "2026-08-09T13:00+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
+      "link": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-09T11:00+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Brazil targets crypto fraud with up to 24-hour transfer hold",
+      "link": "https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-09T09:10+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BTCPay restricts remote Lightning access after attackers steal funds",
+      "link": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-09T05:46+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
+      "link": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
+      "published": "2026-08-09T05:08+00:00"
     }
   ],
-  "generated": "2026-08-09T22:22:21+00:00"
+  "generated": "2026-08-09T22:33:48+00:00"
 }
