@@ -1,60 +1,60 @@
 {
-  "ts": "2026-08-11T22:44:53+00:00",
+  "ts": "2026-08-12T22:43:05+00:00",
   "components": {
     "ndx": {
       "name": "纳指100",
       "symbol": "^NDX",
-      "value": 29525.48,
-      "dod_pct": -0.33,
-      "w5_pct": -0.7,
+      "value": 29742.6,
+      "dod_pct": 0.74,
+      "w5_pct": 0.86,
       "level": 0,
       "direction": 0,
       "weight": 0.38,
-      "note": "↓-0.33%(5日 -0.7%)|科技股=BTC 最强领先;涨=风险偏好回暖(对 BTC 偏多),跌=天花板压低(放大杀跌) (变动温和,近中性)"
+      "note": "↑+0.74%(5日 +0.9%)|科技股=BTC 最强领先;涨=风险偏好回暖(对 BTC 偏多),跌=天花板压低(放大杀跌) (变动温和,近中性)"
     },
     "gspc": {
       "name": "标普500",
       "symbol": "^GSPC",
-      "value": 7728.2,
-      "dod_pct": -0.32,
-      "w5_pct": -0.11,
+      "value": 7748.5,
+      "dod_pct": 0.26,
+      "w5_pct": 0.32,
       "level": 0,
       "direction": 0,
       "weight": 0.12,
-      "note": "↓-0.32%(5日 -0.1%)|美股大盘风险情绪;与纳指同向,作佐证。涨=risk-on(对 BTC 偏多),跌=risk-off (变动温和,近中性)"
+      "note": "↑+0.26%(5日 +0.3%)|美股大盘风险情绪;与纳指同向,作佐证。涨=risk-on(对 BTC 偏多),跌=risk-off (变动温和,近中性)"
     },
     "dxy": {
       "name": "美元指数",
       "symbol": "DX-Y.NYB",
-      "value": 99.81,
-      "dod_pct": 0.0,
-      "w5_pct": -0.08,
+      "value": 99.99,
+      "dod_pct": 0.17,
+      "w5_pct": 0.3,
       "level": 0,
       "direction": 0,
       "weight": 0.25,
-      "note": "↑+0.00%(5日 -0.1%)|下守 100 关口;美元强=全球流动性紧(对 BTC 偏空),弱=放水(偏多) (变动温和,近中性)"
+      "note": "↑+0.17%(5日 +0.3%)|下守 100 关口;美元强=全球流动性紧(对 BTC 偏空),弱=放水(偏多) (变动温和,近中性)"
     },
     "vix": {
       "name": "VIX恐慌",
       "symbol": "^VIX",
-      "value": 15.28,
-      "dod_pct": -1.16,
-      "w5_pct": -7.39,
+      "value": 14.55,
+      "dod_pct": -4.78,
+      "w5_pct": -7.97,
       "level": 0,
       "direction": 0,
       "weight": 0.15,
-      "note": "↓-1.16%(5日 -7.4%)|现 15.3(<20 平静);急升=避险抛售(对 BTC 偏空) (变动温和,近中性)"
+      "note": "↓-4.78%(5日 -8.0%)|现 14.6(<20 平静);急升=避险抛售(对 BTC 偏空) (变动温和,近中性)"
     },
     "oil": {
       "name": "WTI原油",
       "symbol": "CL=F",
-      "value": 83.52,
-      "dod_pct": 1.69,
-      "w5_pct": 10.23,
+      "value": 82.71,
+      "dod_pct": -0.59,
+      "w5_pct": 9.96,
       "level": 0,
       "direction": 0,
       "weight": 0.1,
-      "note": "↑+1.69%(5日 +10.2%)|急升=通胀火星+强化鹰派/滞胀(对 BTC 偏空);急跌=需求忧虑但缓解通胀压力 (变动温和,近中性)"
+      "note": "↓-0.59%(5日 +10.0%)|急升=通胀火星+强化鹰派/滞胀(对 BTC 偏空);急跌=需求忧虑但缓解通胀压力 (变动温和,近中性)"
     }
   },
   "indices": [
@@ -62,25 +62,25 @@
       "key": "dji",
       "name": "道指",
       "symbol": "^DJI",
-      "value": 53791.85,
-      "dod_pct": -0.34,
-      "w5_pct": -0.5
+      "value": 53770.27,
+      "dod_pct": -0.04,
+      "w5_pct": -1.1
     },
     {
       "key": "hsi",
       "name": "恒生",
       "symbol": "^HSI",
-      "value": 25937.49,
-      "dod_pct": 1.05,
-      "w5_pct": -0.3
+      "value": 25652.82,
+      "dod_pct": -1.1,
+      "w5_pct": -0.8
     },
     {
       "key": "sse",
       "name": "上证综指",
       "symbol": "000001.SS",
-      "value": 3966.59,
-      "dod_pct": 0.67,
-      "w5_pct": 4.1
+      "value": 3934.09,
+      "dod_pct": -0.82,
+      "w5_pct": 2.9
     },
     {
       "key": "n225",
@@ -94,17 +94,17 @@
       "key": "dax",
       "name": "德国DAX",
       "symbol": "^GDAXI",
-      "value": 26323.88,
-      "dod_pct": 0.02,
-      "w5_pct": 1.2
+      "value": 26391.42,
+      "dod_pct": 0.26,
+      "w5_pct": 0.7
     },
     {
       "key": "sx5e",
       "name": "欧洲50",
       "symbol": "^STOXX50E",
-      "value": 6535.62,
-      "dod_pct": 0.18,
-      "w5_pct": 1.7
+      "value": 6551.22,
+      "dod_pct": 0.24,
+      "w5_pct": 1.0
     }
   ],
   "stock_top": {
@@ -112,45 +112,45 @@
       "ndx": {
         "name": "纳指100",
         "symbol": "^NDX",
-        "value": 29525.48,
-        "dd_from_high_pct": -3.7,
-        "vs_ma50_pct": 0.6,
-        "vs_ma200_pct": 10.7,
+        "value": 29742.6,
+        "dd_from_high_pct": -3.0,
+        "vs_ma50_pct": 1.1,
+        "vs_ma200_pct": 11.7,
         "above_ma200": true,
         "above_ma50": true,
         "ma_struct": "多头排列(50>200)",
-        "m1_pct": 0.9,
-        "m3_pct": 3.4,
+        "m1_pct": 0.1,
+        "m3_pct": 6.2,
         "risk_score": 0,
         "status": "健康上行"
       },
       "gspc": {
         "name": "标普500",
         "symbol": "^GSPC",
-        "value": 7728.2,
-        "dd_from_high_pct": -0.4,
-        "vs_ma50_pct": 3.0,
-        "vs_ma200_pct": 9.5,
+        "value": 7748.5,
+        "dd_from_high_pct": -0.1,
+        "vs_ma50_pct": 3.2,
+        "vs_ma200_pct": 9.9,
         "above_ma200": true,
         "above_ma50": true,
         "ma_struct": "多头排列(50>200)",
-        "m1_pct": 2.8,
-        "m3_pct": 5.3,
+        "m1_pct": 2.7,
+        "m3_pct": 6.7,
         "risk_score": 0,
         "status": "健康上行"
       }
     },
-    "vix": 15.28,
+    "vix": 14.55,
     "risk_score": 0,
     "verdict": "健康上行:价格在关键均线上方、多头排列,暂无见顶信号。"
   },
   "gold": {
     "name": "黄金",
     "symbol": "GC=F",
-    "value": 4435.4,
-    "dod_pct": 1.69,
+    "value": 4459.7,
+    "dod_pct": 1.75,
     "falling": false,
-    "note": "↑+1.69%;只在与 BTC 同向下跌时读作恐慌最深处(去货币化/流动性危机)"
+    "note": "↑+1.75%;只在与 BTC 同向下跌时读作恐慌最深处(去货币化/流动性危机)"
   },
   "coverage": "5/5",
   "macro_dir": 0.0,
