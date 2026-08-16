@@ -1,13 +1,73 @@
 {
-  "kind": "weekly",
-  "mode": "calendar",
-  "window_days": 7,
+  "kind": "daily",
+  "mode": "news",
   "items": [
     {
-      "date": "2026-08-19",
-      "name": "FOMC Meeting Minutes(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "The Block",
+      "title": "Prediction market Novig sues Wisconsin AG in latest spat over sports contracts",
+      "link": "https://www.theblock.co/news/business/2026-08-16-prediction-market-novig-sues-wisconsin-ag-in-latest-spat-over-sports-contracts-411938",
+      "published": "2026-08-16T21:40+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The SEC meeting that wasn't: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
+      "published": "2026-08-16T18:30+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Wallet provider SafePal says data breach exposed personal info of nearly 40,000 customers",
+      "link": "https://www.theblock.co/news/business/2026-08-16-wallet-provider-safepal-says-data-breach-exposed-personal-info-of-nearly-40000-customers-411934",
+      "published": "2026-08-16T17:18+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
+      "link": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
+      "published": "2026-08-16T16:00+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Hackers exploited macOS Screen Sharing flaw to install Monero miners, Dutch cyber agency says",
+      "link": "https://www.theblock.co/news/defi/2026-08-16-hackers-exploited-macos-screen-sharing-flaw-to-install-monero-miners-dutch-cyber-agency-says-411932",
+      "published": "2026-08-16T15:07+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
+      "link": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
+      "published": "2026-08-16T14:02+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "MiCA's cleanup is creating a new scam wave across the European Union",
+      "link": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
+      "published": "2026-08-16T14:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
+      "link": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition",
+      "published": "2026-08-16T13:00+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says",
+      "link": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-16T12:48+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
+      "link": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
+      "published": "2026-08-16T12:00+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
+      "link": "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-16T11:12+00:00"
     }
   ],
-  "generated": "2026-08-16T22:13:34+00:00"
+  "generated": "2026-08-16T22:23:20+00:00"
 }
