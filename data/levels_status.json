@@ -1,69 +1,7 @@
 {
-  "ts": "2026-08-18T22:26:02+00:00",
-  "spot": 64565.26,
+  "ts": "2026-08-19T22:27:11+00:00",
+  "spot": 69207.92,
   "bands": [
-    {
-      "lo": 64345,
-      "hi": 64345,
-      "mid": 64345,
-      "members": [
-        "pivot R1"
-      ],
-      "sources": [
-        "pivot"
-      ],
-      "n_sources": 1,
-      "confluence": false,
-      "side": "下方",
-      "dist_pct": -0.3
-    },
-    {
-      "lo": 65749,
-      "hi": 65749,
-      "mid": 65749,
-      "members": [
-        "pivot R2 / 50-EMA 附近"
-      ],
-      "sources": [
-        "pivot"
-      ],
-      "n_sources": 1,
-      "confluence": false,
-      "side": "上方",
-      "dist_pct": 1.8
-    },
-    {
-      "lo": 66739,
-      "hi": 66739,
-      "mid": 66739,
-      "members": [
-        "pivot R3"
-      ],
-      "sources": [
-        "pivot"
-      ],
-      "n_sources": 1,
-      "confluence": false,
-      "side": "上方",
-      "dist_pct": 3.4
-    },
-    {
-      "lo": 61951,
-      "hi": 62700,
-      "mid": 62326,
-      "members": [
-        "pivot S1",
-        "结构线(丢了破坏当前结构)"
-      ],
-      "sources": [
-        "pivot",
-        "结构"
-      ],
-      "n_sources": 2,
-      "confluence": true,
-      "side": "下方",
-      "dist_pct": -3.5
-    },
     {
       "lo": 68000,
       "hi": 68000,
@@ -76,40 +14,8 @@
       ],
       "n_sources": 1,
       "confluence": false,
-      "side": "上方",
-      "dist_pct": 5.3
-    },
-    {
-      "lo": 60961,
-      "hi": 60961,
-      "mid": 60961,
-      "members": [
-        "pivot S2"
-      ],
-      "sources": [
-        "pivot"
-      ],
-      "n_sources": 1,
-      "confluence": false,
       "side": "下方",
-      "dist_pct": -5.6
-    },
-    {
-      "lo": 59557,
-      "hi": 60000,
-      "mid": 59778,
-      "members": [
-        "前低/最强支撑",
-        "6万 gamma 开关(持续跌破=做市商对冲转追跌、下方加速区)"
-      ],
-      "sources": [
-        "gamma",
-        "结构"
-      ],
-      "n_sources": 2,
-      "confluence": true,
-      "side": "下方",
-      "dist_pct": -7.4
+      "dist_pct": -1.7
     },
     {
       "lo": 70806,
@@ -124,7 +30,37 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 9.7
+      "dist_pct": 2.3
+    },
+    {
+      "lo": 66739,
+      "hi": 66739,
+      "mid": 66739,
+      "members": [
+        "pivot R3"
+      ],
+      "sources": [
+        "pivot"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "下方",
+      "dist_pct": -3.6
+    },
+    {
+      "lo": 65749,
+      "hi": 65749,
+      "mid": 65749,
+      "members": [
+        "pivot R2 / 50-EMA 附近"
+      ],
+      "sources": [
+        "pivot"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "下方",
+      "dist_pct": -5.0
     },
     {
       "lo": 73776,
@@ -139,7 +75,22 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 14.3
+      "dist_pct": 6.6
+    },
+    {
+      "lo": 64345,
+      "hi": 64345,
+      "mid": 64345,
+      "members": [
+        "pivot R1"
+      ],
+      "sources": [
+        "pivot"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "下方",
+      "dist_pct": -7.0
     },
     {
       "lo": 75017,
@@ -156,130 +107,8 @@
       "n_sources": 2,
       "confluence": true,
       "side": "上方",
-      "dist_pct": 16.7
+      "dist_pct": 8.9
     },
-    {
-      "lo": 84938,
-      "hi": 84938,
-      "mid": 84938,
-      "members": [
-        "fib 0.618 回撤"
-      ],
-      "sources": [
-        "fib"
-      ],
-      "n_sources": 1,
-      "confluence": false,
-      "side": "上方",
-      "dist_pct": 31.6
-    },
-    {
-      "lo": 41485,
-      "hi": 41485,
-      "mid": 41485,
-      "members": [
-        "fib 1.272 扩展(下)"
-      ],
-      "sources": [
-        "fib"
-      ],
-      "n_sources": 1,
-      "confluence": false,
-      "side": "下方",
-      "dist_pct": -35.7
-    },
-    {
-      "lo": 92778,
-      "hi": 92778,
-      "mid": 92778,
-      "members": [
-        "fib 0.500 回撤"
-      ],
-      "sources": [
-        "fib"
-      ],
-      "n_sources": 1,
-      "confluence": false,
-      "side": "上方",
-      "dist_pct": 43.7
-    },
-    {
-      "lo": 100619,
-      "hi": 100619,
-      "mid": 100619,
-      "members": [
-        "fib 0.382 回撤"
-      ],
-      "sources": [
-        "fib"
-      ],
-      "n_sources": 1,
-      "confluence": false,
-      "side": "上方",
-      "dist_pct": 55.8
-    },
-    {
-      "lo": 110319,
-      "hi": 110319,
-      "mid": 110319,
-      "members": [
-        "fib 0.236 回撤"
-      ],
-      "sources": [
-        "fib"
-      ],
-      "n_sources": 1,
-      "confluence": false,
-      "side": "上方",
-      "dist_pct": 70.9
-    },
-    {
-      "lo": 18495,
-      "hi": 18495,
-      "mid": 18495,
-      "members": [
-        "fib 1.618 扩展(下)"
-      ],
-      "sources": [
-        "fib"
-      ],
-      "n_sources": 1,
-      "confluence": false,
-      "side": "下方",
-      "dist_pct": -71.4
-    },
-    {
-      "lo": 144072,
-      "hi": 144072,
-      "mid": 144072,
-      "members": [
-        "fib 1.272 扩展(上)"
-      ],
-      "sources": [
-        "fib"
-      ],
-      "n_sources": 1,
-      "confluence": false,
-      "side": "上方",
-      "dist_pct": 123.1
-    },
-    {
-      "lo": 167062,
-      "hi": 167062,
-      "mid": 167062,
-      "members": [
-        "fib 1.618 扩展(上)"
-      ],
-      "sources": [
-        "fib"
-      ],
-      "n_sources": 1,
-      "confluence": false,
-      "side": "上方",
-      "dist_pct": 158.7
-    }
-  ],
-  "confluence_bands": [
     {
       "lo": 61951,
       "hi": 62700,
@@ -295,7 +124,22 @@
       "n_sources": 2,
       "confluence": true,
       "side": "下方",
-      "dist_pct": -3.5
+      "dist_pct": -9.9
+    },
+    {
+      "lo": 60961,
+      "hi": 60961,
+      "mid": 60961,
+      "members": [
+        "pivot S2"
+      ],
+      "sources": [
+        "pivot"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "下方",
+      "dist_pct": -11.9
     },
     {
       "lo": 59557,
@@ -312,8 +156,130 @@
       "n_sources": 2,
       "confluence": true,
       "side": "下方",
-      "dist_pct": -7.4
+      "dist_pct": -13.6
     },
+    {
+      "lo": 84938,
+      "hi": 84938,
+      "mid": 84938,
+      "members": [
+        "fib 0.618 回撤"
+      ],
+      "sources": [
+        "fib"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "上方",
+      "dist_pct": 22.7
+    },
+    {
+      "lo": 92778,
+      "hi": 92778,
+      "mid": 92778,
+      "members": [
+        "fib 0.500 回撤"
+      ],
+      "sources": [
+        "fib"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "上方",
+      "dist_pct": 34.1
+    },
+    {
+      "lo": 41485,
+      "hi": 41485,
+      "mid": 41485,
+      "members": [
+        "fib 1.272 扩展(下)"
+      ],
+      "sources": [
+        "fib"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "下方",
+      "dist_pct": -40.1
+    },
+    {
+      "lo": 100619,
+      "hi": 100619,
+      "mid": 100619,
+      "members": [
+        "fib 0.382 回撤"
+      ],
+      "sources": [
+        "fib"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "上方",
+      "dist_pct": 45.4
+    },
+    {
+      "lo": 110319,
+      "hi": 110319,
+      "mid": 110319,
+      "members": [
+        "fib 0.236 回撤"
+      ],
+      "sources": [
+        "fib"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "上方",
+      "dist_pct": 59.4
+    },
+    {
+      "lo": 18495,
+      "hi": 18495,
+      "mid": 18495,
+      "members": [
+        "fib 1.618 扩展(下)"
+      ],
+      "sources": [
+        "fib"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "下方",
+      "dist_pct": -73.3
+    },
+    {
+      "lo": 144072,
+      "hi": 144072,
+      "mid": 144072,
+      "members": [
+        "fib 1.272 扩展(上)"
+      ],
+      "sources": [
+        "fib"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "上方",
+      "dist_pct": 108.2
+    },
+    {
+      "lo": 167062,
+      "hi": 167062,
+      "mid": 167062,
+      "members": [
+        "fib 1.618 扩展(上)"
+      ],
+      "sources": [
+        "fib"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "上方",
+      "dist_pct": 141.4
+    }
+  ],
+  "confluence_bands": [
     {
       "lo": 75017,
       "hi": 75700,
@@ -329,7 +295,41 @@
       "n_sources": 2,
       "confluence": true,
       "side": "上方",
-      "dist_pct": 16.7
+      "dist_pct": 8.9
+    },
+    {
+      "lo": 61951,
+      "hi": 62700,
+      "mid": 62326,
+      "members": [
+        "pivot S1",
+        "结构线(丢了破坏当前结构)"
+      ],
+      "sources": [
+        "pivot",
+        "结构"
+      ],
+      "n_sources": 2,
+      "confluence": true,
+      "side": "下方",
+      "dist_pct": -9.9
+    },
+    {
+      "lo": 59557,
+      "hi": 60000,
+      "mid": 59778,
+      "members": [
+        "前低/最强支撑",
+        "6万 gamma 开关(持续跌破=做市商对冲转追跌、下方加速区)"
+      ],
+      "sources": [
+        "gamma",
+        "结构"
+      ],
+      "n_sources": 2,
+      "confluence": true,
+      "side": "下方",
+      "dist_pct": -13.6
     }
   ]
 }
