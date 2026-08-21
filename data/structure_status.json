@@ -1,19 +1,19 @@
 {
-  "ts": "2026-08-20T22:29:46+00:00",
+  "ts": "2026-08-21T22:27:13+00:00",
   "source": "Binance(data-api.binance.vision)",
-  "spot": 72786.9,
-  "bars": 324,
+  "spot": 78607.9,
+  "bars": 325,
   "from": "2025-10-01",
   "ath": {
     "price": 126200,
     "date": "2025-10-06"
   },
   "fractal_n": 5,
-  "dd_from_ath_pct": -42.3,
+  "dd_from_ath_pct": -37.7,
   "macro_trend": "宏观下跌",
-  "rsi_now": 80.0,
-  "status": "出现 HL(反转前兆,低点抬高)",
-  "struct_dir": 0.3,
+  "rsi_now": 86.1,
+  "status": "重大结构破坏(站上 75k 超强重合带)",
+  "struct_dir": 0.6,
   "purity_pct": 50,
   "counts": {
     "LH": 7,
@@ -152,6 +152,6 @@
     "rsi_now": 37.2,
     "note": "价格创新低但 RSI 抬高=底背离、动能衰竭,结构违反前兆"
   },
-  "reclaimed_major_75k": false,
+  "reclaimed_major_75k": true,
   "note": "结构规律滞后于价格,只确认趋势不预测拐点;站上 75k(MA200+MSTR成本+0.236斐波)=需重评做空大逻辑。"
 }
