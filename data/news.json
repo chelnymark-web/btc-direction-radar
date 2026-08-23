@@ -1,73 +1,33 @@
 {
-  "kind": "daily",
-  "mode": "news",
+  "kind": "weekly",
+  "mode": "calendar",
+  "window_days": 7,
   "items": [
     {
-      "source": "The Block",
-      "title": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume",
-      "link": "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531",
-      "published": "2026-08-22T19:31+00:00"
+      "date": "2026-08-26",
+      "name": "Core PCE Price Index m/m(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "The Block",
-      "title": "Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push",
-      "link": "https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528",
-      "published": "2026-08-22T17:35+00:00"
+      "date": "2026-08-26",
+      "name": "Prelim GDP q/q(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "The Block",
-      "title": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
-      "link": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521",
-      "published": "2026-08-22T15:54+00:00"
+      "date": "2026-08-28",
+      "name": "Deribit 月度期权到期(08:00 UTC)",
+      "source": "规则"
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
-      "link": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
-      "published": "2026-08-22T15:16+00:00"
+      "date": "2026-08-28",
+      "name": "Fed Chairman Warsh Speaks(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "CoinDesk",
-      "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
-      "link": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
-      "published": "2026-08-22T14:10+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
-      "link": "https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says",
-      "published": "2026-08-22T14:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
-      "link": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle",
-      "published": "2026-08-22T13:30+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
-      "link": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-22T13:30+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories",
-      "link": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
-      "published": "2026-08-22T12:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
-      "link": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
-      "published": "2026-08-22T05:37+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
-      "link": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
-      "published": "2026-08-22T05:05+00:00"
+      "date": "2026-08-28",
+      "name": "Prelim Benchmark Payrolls Revision(USD·高影响)",
+      "source": "ForexFactory"
     }
   ],
-  "generated": "2026-08-22T22:24:22+00:00"
+  "generated": "2026-08-23T22:14:11+00:00"
 }
