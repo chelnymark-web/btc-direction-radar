@@ -1,33 +1,49 @@
 {
-  "kind": "weekly",
-  "mode": "calendar",
-  "window_days": 7,
+  "kind": "daily",
+  "mode": "news",
   "items": [
     {
-      "date": "2026-08-26",
-      "name": "Core PCE Price Index m/m(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "The Block",
+      "title": "DeFi lending protocol Term Finance loses an estimated $8.5 million to governance exploit",
+      "link": "https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543",
+      "published": "2026-08-23T20:50+00:00"
     },
     {
-      "date": "2026-08-26",
-      "name": "Prelim GDP q/q(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "CoinDesk",
+      "title": "Regulation Crypto is here: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto",
+      "published": "2026-08-23T18:30+00:00"
     },
     {
-      "date": "2026-08-28",
-      "name": "Deribit 月度期权到期(08:00 UTC)",
-      "source": "规则"
+      "source": "The Block",
+      "title": "Tether’s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters",
+      "link": "https://www.theblock.co/news/business/2026-08-23-tethers-120-million-uruguay-bitcoin-mining-project-collapsed-over-a-power-contract-dispute-reuters-412536",
+      "published": "2026-08-23T17:02+00:00"
     },
     {
-      "date": "2026-08-28",
-      "name": "Fed Chairman Warsh Speaks(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "CoinDesk",
+      "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
+      "link": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
+      "published": "2026-08-23T15:52+00:00"
     },
     {
-      "date": "2026-08-28",
-      "name": "Prelim Benchmark Payrolls Revision(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "Cointelegraph",
+      "title": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
+      "link": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-23T15:30+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
+      "link": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
+      "published": "2026-08-23T15:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto’s next billion users might be AI agents, and they’re paying with stablecoins",
+      "link": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins",
+      "published": "2026-08-23T13:00+00:00"
     }
   ],
-  "generated": "2026-08-23T22:14:11+00:00"
+  "generated": "2026-08-23T22:24:03+00:00"
 }
