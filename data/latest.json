@@ -1,53 +1,51 @@
 {
-  "ts": "2026-08-25T22:29:04+00:00",
-  "price": 78628.61,
-  "funding_rate": 1e-06,
-  "perp_basis_pct": -0.04198217417298202,
-  "funding_mean_30d": 4.126666666666664e-05,
-  "oi_btc": 578308664.0,
-  "oi_change_24h_pct": -1.7238870803953243,
-  "top_ls_ratio": 0.6666666666666667,
-  "global_ls_ratio": 1.0379258624383974,
-  "taker_ratio": 1.1990973699227059,
+  "ts": "2026-08-27T02:59:28+00:00",
+  "price": 78726.25,
+  "funding_rate": 2e-06,
+  "perp_basis_pct": -0.04909417125799105,
+  "funding_mean_30d": 4.035555555555553e-05,
+  "top_ls_ratio": 0.6712328767123288,
+  "global_ls_ratio": 1.0737838942635236,
+  "taker_ratio": 1.3613331258576056,
   "deriv_source": "gate.io(备用)",
-  "deribit_index": 78616.47,
-  "dvol": 43.43,
-  "skew_25d": -3.3999999999999986,
-  "atm_iv_near": 42.56,
-  "near_expiry_days": 9.4,
-  "atm_iv_next": 41.19,
-  "term_slope": -1.3700000000000045,
-  "next_expiry_days": 30.4,
+  "deribit_index": 78721.77,
+  "dvol": 40.12,
+  "skew_25d": -1.6099999999999994,
+  "atm_iv_near": 39.51,
+  "near_expiry_days": 8.2,
+  "atm_iv_next": 38.38,
+  "term_slope": -1.1299999999999955,
+  "next_expiry_days": 29.2,
   "flags": {
     "funding_rate": {
       "level": 1,
       "side": "short",
-      "note": "历史百分位 19%"
+      "note": "历史百分位 21%"
     },
     "top_ls_ratio": {
       "level": 1,
       "side": "long",
-      "note": "历史百分位 85%"
+      "note": "历史百分位 87%"
     },
     "global_ls_ratio": {
-      "level": 1,
-      "side": "short",
-      "note": "历史百分位 22%"
-    },
-    "perp_basis_pct": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 51%"
+      "note": "历史百分位 32%"
+    },
+    "perp_basis_pct": {
+      "level": 1,
+      "side": "short",
+      "note": "历史百分位 21%"
     },
     "skew_25d": {
       "level": 2,
       "side": "long",
-      "note": "历史百分位 1%"
+      "note": "历史百分位 5%"
     },
     "dvol": {
-      "level": 1,
+      "level": 0,
       "side": null,
-      "note": "历史百分位 86%"
+      "note": "历史百分位 69%"
     }
   },
   "bias_score": 8
