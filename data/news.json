@@ -4,286 +4,106 @@
   "items": [
     {
       "source": "CoinDesk",
-      "title": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
-      "link": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
-      "published": "2026-08-29T02:30+00:00"
+      "title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
+      "link": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49",
+      "published": "2026-08-29T23:49+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply",
+      "link": "https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064",
+      "published": "2026-08-29T21:16+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Polygon discloses security flaws fixed in recent hard forks",
+      "link": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-29T20:28+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack",
+      "link": "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061",
+      "published": "2026-08-29T20:15+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
+      "link": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-29T19:12+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
+      "link": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-29T16:27+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Kalshi takes legal blow in court ruling confirming state powers over prediction markets",
-      "link": "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets",
-      "published": "2026-08-28T21:28+00:00"
+      "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
+      "link": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
+      "published": "2026-08-29T15:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
+      "link": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
+      "published": "2026-08-29T15:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
+      "link": "https://www.coindesk.com/business/2026/08/29/the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet",
+      "published": "2026-08-29T15:00+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Former White House teleprompter operator ordered to pay $172,000 for Kalshi trades on mention markets",
+      "link": "https://www.theblock.co/news/regulation/2026-08-29-former-white-house-teleprompter-operator-ordered-to-pay-172000-for-kalshi-trades-on-mention-markets-413058",
+      "published": "2026-08-29T13:58+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenized assets are busier than the data shows",
+      "link": "https://www.coindesk.com/opinion/2026/08/29/tokenized-assets-are-busier-than-the-data-shows",
+      "published": "2026-08-29T13:00+00:00"
     },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-28T20:42+00:00"
+      "published": "2026-08-29T12:39+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Solana validators approve proposal to accelerate SOL disinflation",
-      "link": "https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-28T19:53+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Ninth Circuit deals blow to Kalshi in Nevada sports betting fight, challenging CFTC’s exclusive jurisdiction claim",
-      "link": "https://www.theblock.co/news/regulation/2026-08-28-ninth-circuit-deals-blow-to-kalshi-in-nevada-sports-betting-fight-challenging-cftcs-exclusive-jurisdiction-claim-413046",
-      "published": "2026-08-28T19:50+00:00"
+      "title": "Trump-promoted brand touts GOLD before token collapse",
+      "link": "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-29T10:53+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
-      "link": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-28T17:46+00:00"
+      "title": "Stablecoins not credible for payments at scale, BIS chief says",
+      "link": "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-29T08:01+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending",
-      "link": "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-28T16:17+00:00"
+      "title": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-29T06:47+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Solana vote to double disinflation passes by a hair in dramatic finish",
-      "link": "https://www.coindesk.com/tech/2026/08/28/solana-vote-to-double-disinflation-passes-by-a-hair-in-dramatic-finish",
-      "published": "2026-08-28T16:12+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Bitwise fund is first Solana ETF to hit $1 billion AUM",
-      "link": "https://www.theblock.co/news/markets/2026-08-28-bitwise-fund-is-first-solana-etf-to-hit-1-billion-aum-413035",
-      "published": "2026-08-28T15:48+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin dips to $78.4K as Fed’s Warsh downplays softer inflation prints",
-      "link": "https://cointelegraph.com/markets/bitcoin-dips-fed-warsh-dismisses-recent-low-inflation-prints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-28T15:31+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto Biz: Bitcoin pumps, Wall Street does the paperwork",
-      "link": "https://cointelegraph.com/news/crypto-biz-bitcoin-rally-crypto-stocks-circle-strategy-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-28T14:53+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Bybit launches 24/7 options on stock perpetuals, starting with SpaceX and Nvidia",
-      "link": "https://www.theblock.co/news/markets/2026-08-28-bybit-launches-24-7-options-on-stock-perpetuals-starting-with-spacex-and-nvidia-413032",
-      "published": "2026-08-28T14:44+00:00"
+      "title": "Bitcoin wallets untouched for 10 years moved $40 million worth of coins",
+      "link": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
+      "published": "2026-08-29T04:30+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "BitGo to buy NYDIG trading arm for $42.5M in cash and stock plus $15M earnout",
-      "link": "https://www.coindesk.com/business/2026/08/28/bitgo-to-buy-nydig-trading-arm-for-usd42-5m-in-cash-and-stock-plus-usd15m-earnout",
-      "published": "2026-08-28T14:37+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Fed Chair Kevin Warsh at Jackson Hole: 'We have work to do' on inflation",
-      "link": "https://www.coindesk.com/markets/2026/08/28/warsh-at-jackson-hole-we-have-work-to-do-on-inflaiton",
-      "published": "2026-08-28T14:05+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "SBI Holdings invests $270 million in Ajaib, taking 20% stake amid Asia digital asset push",
-      "link": "https://www.theblock.co/news/deals/2026-08-28-sbi-holdings-invests-270-million-in-ajaib-taking-20-stake-amid-asia-digital-asset-push-413023",
-      "published": "2026-08-28T13:32+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Who is legally liable when an AI agent goes rogue?",
-      "link": "https://cointelegraph.com/magazine/who-is-legally-liable-when-an-ai-agent-goes-rogue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-28T13:30+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Polish Olympic chief charged in Zondacrypto probe, justice minister says",
-      "link": "https://cointelegraph.com/news/polish-olympic-chief-charged-zondacrypto-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-28T13:16+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The Clarity Act slipped to September. Banks are building anyway",
-      "link": "https://www.coindesk.com/opinion/2026/08/28/the-clarity-act-slipped-to-september-banks-are-building-anyway",
-      "published": "2026-08-28T13:00+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "IREN’s $25 billion-$30 billion AI buildout may have ‘spooked’ investors, Bernstein says",
-      "link": "https://www.theblock.co/news/business/2026-08-28-irens-25-billion-30-billion-ai-buildout-may-have-spooked-investors-bernstein-says-413016",
-      "published": "2026-08-28T12:57+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ethena looks beyond crypto to squeeze yield from booming equity perpetuals",
-      "link": "https://www.coindesk.com/business/2026/08/28/ethena-looks-beyond-crypto-to-squeeze-yield-from-booming-equity-perpetuals",
-      "published": "2026-08-28T12:30+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "SBI buys 20% stake in Indonesia's Ajaib for $270 million to expand yen stablecoin in Southeast Asia",
-      "link": "https://www.coindesk.com/business/2026/08/28/sbi-stakes-usd270-million-in-ajaib-to-expand-yen-stablecoin-in-southeast-asia",
-      "published": "2026-08-28T12:18+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "California Senate passes bill to ban memecoin issuance by public officials",
-      "link": "https://cointelegraph.com/news/california-bill-ban-memecoin-issuance-public-officials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-28T12:09+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin is outperforming stocks and correlating with gold just when it matters most",
-      "link": "https://www.coindesk.com/daybook-us/2026/08/28/bitcoin-is-outperforming-stocks-and-correlating-with-gold-just-when-it-matters-most",
-      "published": "2026-08-28T11:43+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Capital B raises $24.5M for its Bitcoin treasury amid market uncertainty with BlockStream’s Adam Back chipping in",
-      "link": "https://cointelegraph.com/news/capital-b-raises-245m-for-its-bitcoin-treasury-amid-market-uncertainty-with-blockstreams-adam-back-chipping-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-28T11:36+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Investors at least $4.7 billion underwater across Trump crypto ventures, Public Citizen says",
-      "link": "https://www.theblock.co/news/business/2026-08-28-investors-at-least-4-7-billion-underwater-across-trump-crypto-ventures-public-citizen-says-413003",
-      "published": "2026-08-28T11:26+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin bear market ‘over’ as price metric copies 2023 recovery: CryptoQuant CEO",
-      "link": "https://cointelegraph.com/markets/bitcoin-bear-market-over-as-price-metric-copies-2023-recovery-cryptoquant-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-28T11:22+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Circle's USDC takes over Chelsea's jersey in Premier League first sponsorship deal",
-      "link": "https://www.coindesk.com/business/2026/08/28/circle-s-usdc-takes-over-chelsea-s-jersey-in-premier-league-first",
-      "published": "2026-08-28T11:09+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bullish backs USD.AI with $100 million in financing to drive GPU-backed loans",
-      "link": "https://www.coindesk.com/business/2026/08/28/bullish-backs-usd-ai-with-usd100-million-gpu-stablecoin-financing",
-      "published": "2026-08-28T11:03+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Circle strikes Chelsea front-of-shirt sponsorship deal featuring USDC",
-      "link": "https://www.theblock.co/news/business/2026-08-28-circle-strikes-chelsea-front-of-shirt-sponsorship-deal-featuring-usdc-413002",
-      "published": "2026-08-28T11:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin hits highest level in 3 months before pulling back as altcoins consolidate",
-      "link": "https://www.coindesk.com/markets/2026/08/28/bitcoin-hits-highest-level-in-3-months-before-pulling-back-as-altcoins-consolidate",
-      "published": "2026-08-28T10:37+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Visa doubles down on South Korea with Upbit operator Dunamu on stablecoin payments",
-      "link": "https://www.coindesk.com/business/2026/08/28/visa-doubles-down-on-south-korea-with-upbit-operator-dunamu-on-stablecoin-payments",
-      "published": "2026-08-28T10:21+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Latest annual UK tax data shows 240 people reported more than £1 million in crypto capital gains",
-      "link": "https://www.theblock.co/news/regulation/2026-08-28-uk-tax-crypto-capital-gains-412993",
-      "published": "2026-08-28T09:37+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "ENA token rises 10% as Ethena puts revenue-funded token buybacks to vote",
-      "link": "https://cointelegraph.com/markets/ena-rises-10-ethena-token-buyback-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-28T09:27+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BitGo buys NYDIG trading arm to deepen institutional crypto push",
-      "link": "https://cointelegraph.com/news/bitgo-nydig-trading-arm-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-28T09:21+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kraken users briefly locked out after a flood of sanctioned crypto transactions",
-      "link": "https://www.coindesk.com/business/2026/08/28/kraken-users-briefly-locked-out-after-a-flood-of-sanctioned-crypto-transactions",
-      "published": "2026-08-28T09:10+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin slides below $78,000 as markets digest Warsh's hawkish remarks",
-      "link": "https://www.coindesk.com/business/2026/08/28/live-updates-bitcoin-options-worth-usd6-4-billion-just-expired-as-prices-hover-near-usd80-000",
-      "published": "2026-08-28T09:09+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "IREN shares fall 8% as costly AI transition weighs on earnings",
-      "link": "https://www.coindesk.com/markets/2026/08/28/iren-shares-fall-8-as-costly-ai-transition-weighs-on-earnings",
-      "published": "2026-08-28T09:07+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "OneKey reproduces transaction replacement attack on outdated Ledger Ethereum app",
-      "link": "https://cointelegraph.com/news/onekey-transaction-replacement-attack-old-version-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-28T08:21+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Visa works with Upbit parent on stablecoin payments, AI commerce",
-      "link": "https://cointelegraph.com/news/visa-dunamu-stablecoin-payments-ai-commerce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-28T07:41+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Here’s why Warsh’s Jackson Hole speech is a major event for bitcoin and gold",
-      "link": "https://www.coindesk.com/markets/2026/08/28/here-s-why-warsh-s-jackson-hole-speech-is-a-major-event-for-bitcoin-and-gold",
-      "published": "2026-08-28T06:30+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Solana’s faster disinflation plan leads vote as $800K burn proposal trails",
-      "link": "https://www.coindesk.com/tech/2026/08/28/solana-s-faster-supply-cuts-lead-vote-while-usd800-000-daily-burn-plan-trails",
-      "published": "2026-08-28T06:22+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Dunamu and Visa partner on stablecoin, AI business; Open Standard’s OUSD under consideration",
-      "link": "https://www.theblock.co/news/business/2026-08-28-dunamu-visa-partner-stablecoin-ai-ousd-412988",
-      "published": "2026-08-28T06:00+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "The Sandbox pledges 1:1 repayment after $700K bridge exploit",
-      "link": "https://cointelegraph.com/news/the-sandbox-compensation-sand-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-28T05:40+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin is trading at a premium on Coinbase after a long time. Here's what it means",
-      "link": "https://www.coindesk.com/markets/2026/08/28/bitcoin-is-trading-at-a-premium-on-coinbase-after-a-long-time",
-      "published": "2026-08-28T05:02+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin under $80,000, solana leads majors higher before Warsh's Jackson Hole debut",
-      "link": "https://www.coindesk.com/markets/2026/08/28/bitcoin-holds-usd80-000-solana-leads-majors-higher-before-warsh-s-jackson-hole-debut",
-      "published": "2026-08-28T04:40+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "An XRP treasury company backed by Ripple is a shareholder vote away from Nasdaq",
-      "link": "https://www.coindesk.com/markets/2026/08/28/an-xrp-treasury-company-backed-by-ripple-is-a-shareholder-vote-away-from-nasdaq",
-      "published": "2026-08-28T04:21+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Abu Dhabi royal backs 49% stake in Trump-linked crypto bank venture: WSJ",
-      "link": "https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-28T04:17+00:00"
+      "title": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
+      "link": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
+      "published": "2026-08-29T02:30+00:00"
     }
   ],
-  "generated": "2026-08-29T03:33:43+00:00"
+  "generated": "2026-08-29T23:57:05+00:00"
 }
