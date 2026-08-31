@@ -1,33 +1,73 @@
 {
-  "kind": "weekly",
-  "mode": "calendar",
-  "window_days": 7,
+  "kind": "daily",
+  "mode": "news",
   "items": [
     {
-      "date": "2026-09-01",
-      "name": "ISM Manufacturing PMI(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "Cointelegraph",
+      "title": "Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-30T23:36+00:00"
     },
     {
-      "date": "2026-09-04",
-      "name": "美国非农就业报告(常规日,以 BLS 官方为准)",
-      "source": "规则"
+      "source": "The Block",
+      "title": "Kalshi becomes exclusive prediction market partner of US Open: report",
+      "link": "https://www.theblock.co/news/deals/2026-08-30-kalshi-becomes-exclusive-prediction-market-partner-of-us-open-report-413074",
+      "published": "2026-08-30T20:28+00:00"
     },
     {
-      "date": "2026-09-04",
-      "name": "Average Hourly Earnings m/m(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "The Block",
+      "title": "Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million",
+      "link": "https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069",
+      "published": "2026-08-30T18:40+00:00"
     },
     {
-      "date": "2026-09-04",
-      "name": "Non-Farm Employment Change(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "Cointelegraph",
+      "title": "Saylor signals Strategy is ‘Back’ to Bitcoin buying",
+      "link": "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-30T17:59+00:00"
     },
     {
-      "date": "2026-09-04",
-      "name": "Unemployment Rate(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "The Block",
+      "title": "Chainalysis accuses ICE of unfairly steering $95 million blockchain contract to TRM Labs",
+      "link": "https://www.theblock.co/news/business/2026-08-30-chainalysis-accuses-ice-of-unfairly-steering-95-million-blockchain-contract-to-trm-labs-413066",
+      "published": "2026-08-30T17:51+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Michael Saylor hints at first bitcoin purchase in two months",
+      "link": "https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months",
+      "published": "2026-08-30T15:39+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "From Hawala to Swift: Inside the 1,000-year battle to move money safely",
+      "link": "https://www.coindesk.com/business/2026/08/30/from-hawala-to-swift-inside-the-1-000-year-battle-to-move-money-safely",
+      "published": "2026-08-30T15:00+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-30T12:49+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto market makers are cashing in on bitcoin's rally - without betting on direction",
+      "link": "https://www.coindesk.com/markets/2026/08/28/crypto-market-makers-are-cashing-in-on-bitcoin-s-rally-without-betting-on-direction",
+      "published": "2026-08-30T12:00+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Russia’s Sber eyes USDT loans, questions digital ruble demand",
+      "link": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-30T09:55+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Real Trump Coins denies launching GOLD token, blames ‘bad actors’",
+      "link": "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-30T08:04+00:00"
     }
   ],
-  "generated": "2026-08-31T00:06:51+00:00"
+  "generated": "2026-08-31T00:16:04+00:00"
 }
