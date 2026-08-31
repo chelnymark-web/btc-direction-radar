@@ -1,109 +1,33 @@
 {
-  "kind": "daily",
-  "mode": "news",
+  "kind": "weekly",
+  "mode": "calendar",
+  "window_days": 7,
   "items": [
     {
-      "source": "CoinDesk",
-      "title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
-      "link": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49",
-      "published": "2026-08-29T23:49+00:00"
+      "date": "2026-09-01",
+      "name": "ISM Manufacturing PMI(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "The Block",
-      "title": "Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply",
-      "link": "https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064",
-      "published": "2026-08-29T21:16+00:00"
+      "date": "2026-09-04",
+      "name": "美国非农就业报告(常规日,以 BLS 官方为准)",
+      "source": "规则"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Polygon discloses security flaws fixed in recent hard forks",
-      "link": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-29T20:28+00:00"
+      "date": "2026-09-04",
+      "name": "Average Hourly Earnings m/m(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "The Block",
-      "title": "Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack",
-      "link": "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061",
-      "published": "2026-08-29T20:15+00:00"
+      "date": "2026-09-04",
+      "name": "Non-Farm Employment Change(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
-      "link": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-29T19:12+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
-      "link": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-29T16:27+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
-      "link": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
-      "published": "2026-08-29T15:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
-      "link": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
-      "published": "2026-08-29T15:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
-      "link": "https://www.coindesk.com/business/2026/08/29/the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet",
-      "published": "2026-08-29T15:00+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Former White House teleprompter operator ordered to pay $172,000 for Kalshi trades on mention markets",
-      "link": "https://www.theblock.co/news/regulation/2026-08-29-former-white-house-teleprompter-operator-ordered-to-pay-172000-for-kalshi-trades-on-mention-markets-413058",
-      "published": "2026-08-29T13:58+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tokenized assets are busier than the data shows",
-      "link": "https://www.coindesk.com/opinion/2026/08/29/tokenized-assets-are-busier-than-the-data-shows",
-      "published": "2026-08-29T13:00+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-29T12:39+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Trump-promoted brand touts GOLD before token collapse",
-      "link": "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-29T10:53+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Stablecoins not credible for payments at scale, BIS chief says",
-      "link": "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-29T08:01+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-08-29T06:47+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin wallets untouched for 10 years moved $40 million worth of coins",
-      "link": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
-      "published": "2026-08-29T04:30+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
-      "link": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
-      "published": "2026-08-29T02:30+00:00"
+      "date": "2026-09-04",
+      "name": "Unemployment Rate(USD·高影响)",
+      "source": "ForexFactory"
     }
   ],
-  "generated": "2026-08-29T23:57:05+00:00"
+  "generated": "2026-08-31T00:06:51+00:00"
 }
