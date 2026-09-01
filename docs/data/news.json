@@ -1,28 +1,313 @@
 {
-  "kind": "monthly",
-  "mode": "calendar",
-  "window_days": 30,
+  "kind": "daily",
+  "mode": "news",
   "items": [
     {
-      "date": "2026-09-04",
-      "name": "美国非农就业报告(常规日,以 BLS 官方为准)",
-      "source": "规则"
+      "source": "Cointelegraph",
+      "title": "Crypto-backed PAC scales back ad spending in Massachusetts primary",
+      "link": "https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T21:25+00:00"
     },
     {
-      "date": "2026-09-15",
-      "name": "FOMC 会议第一天",
-      "source": "FOMC"
+      "source": "Cointelegraph",
+      "title": "Binance expands TradFi push with options on 1,000 US stocks, ETFs",
+      "link": "https://cointelegraph.com/news/binance-adds-options-on-1000-us-stocks-and-etfs-in-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T20:42+00:00"
     },
     {
-      "date": "2026-09-16",
-      "name": "FOMC 利率决议 + SEP/点阵图 + 记者会 *",
-      "source": "FOMC"
+      "source": "Cointelegraph",
+      "title": "UK crime agency froze $13.5M amid probe into Premier League crypto sponsor",
+      "link": "https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T20:14+00:00"
     },
     {
-      "date": "2026-09-25",
-      "name": "Deribit 季度+月度期权/合约到期(08:00 UTC)·大日子",
-      "source": "规则"
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T20:00+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Buying memecoins with credit cards on Robinhood Wallet and Fomo appears to sidestep card-network crypto rules",
+      "link": "https://www.theblock.co/news/business/2026-09-01-buying-memecoins-with-credit-cards-on-robinhood-wallet-fomo-sidestep-card-network-crypto-rules-411911",
+      "published": "2026-09-01T19:33+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Crypto treasury companies hit $340 billion market cap as altcoin DATs outperform",
+      "link": "https://www.theblock.co/news/markets/2026-09-01-crypto-treasury-companies-hit-340-billion-market-cap-as-altcoin-dats-outperform-413142",
+      "published": "2026-09-01T18:11+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "SEC proposes broad update to decades-old transfer agent rules with blockchain nod",
+      "link": "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T17:52+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kalshi issues first lifetime ban for Republican politician over insider bets",
+      "link": "https://cointelegraph.com/news/kalshi-bans-politicians-insider-trading-bets-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T17:39+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "SEC seeks to update its 1970s-era transfer agent rules for the blockchain age",
+      "link": "https://www.theblock.co/news/regulation/2026-09-01-sec-seeks-update-1970s-era-transfer-agent-rules-for-blockchain-age-413278",
+      "published": "2026-09-01T17:16+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch",
+      "link": "https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T16:39+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ethena launches USDe payments app, offers 6% rewards",
+      "link": "https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T16:06+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Cango shares plunge 20% after bitcoin miner reports $81.6 million Q2 loss",
+      "link": "https://www.theblock.co/news/markets/2026-09-01-cango-shares-plunge-20-after-bitcoin-miner-reports-81-6-million-q2-loss-413259",
+      "published": "2026-09-01T15:48+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
+      "link": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture",
+      "published": "2026-09-01T15:36+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin stays flat as global bond bear market rages on, pushing JGB to high",
+      "link": "https://cointelegraph.com/markets/bitcoin-remains-flat-as-global-bond-bear-market-rages-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T15:34+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring",
+      "link": "https://www.coindesk.com/markets/2026/09/01/robinhood-s-new-crypto-network-is-printing-cash-and-it-s-sending-arbitrum-s-token-soaring",
+      "published": "2026-09-01T15:28+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Musk’s X hit by wave of unsolicited password reset emails",
+      "link": "https://www.coindesk.com/tech/2026/09/01/musk-s-x-hit-by-wave-of-unsolicited-password-reset-emails",
+      "published": "2026-09-01T14:59+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin and gold move in lockstep as debasement trade gains more steam",
+      "link": "https://www.theblock.co/news/markets/2026-09-01-bitcoin-gold-move-lockstep-debasement-trade-gains-steam-413137",
+      "published": "2026-09-01T14:26+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Fake Claude desktop app spreads crypto-stealing malware",
+      "link": "https://cointelegraph.com/news/fake-claude-desktop-app-spreads-crypto-stealing-malware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T14:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Firelight raises $8 million, expands beyond XRP as it aims to make DeFi less scary for fintechs",
+      "link": "https://www.coindesk.com/business/2026/08/31/firelight-raises-usd8-million-expands-beyond-xrp-as-it-aims-to-make-defi-less-scary-for-fintechs",
+      "published": "2026-09-01T13:56+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin enters ‘Rektember’ as rate-hike risk combines with seasonality to threaten rally",
+      "link": "https://www.coindesk.com/markets/2026/09/01/bitcoin-enters-rektember-as-rate-hike-risks-threaten-its-august-rally",
+      "published": "2026-09-01T13:55+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Does the Bitcoin rally mean we haven’t wasted our lives in crypto?",
+      "link": "https://cointelegraph.com/magazine/does-bitcoins-rally-mean-we-havent-wasted-our-lives-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T13:30+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Silhouette debuts RFQ trading for xStocks on Hyperliquid",
+      "link": "https://www.theblock.co/news/business/2026-09-01-silhouette-debuts-rfq-trading-for-xstocks-on-hyperliquid-413226",
+      "published": "2026-09-01T13:30+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethena pushes stablecoins into everyday banking with high-yield savings, cards and payments",
+      "link": "https://www.coindesk.com/business/2026/09/01/ethena-pushes-stablecoins-into-everyday-banking-with-high-yield-savings-cards-and-payments",
+      "published": "2026-09-01T13:15+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Asia sees digital asset custody infrastructure deals from Ripple, Coincheck",
+      "link": "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T13:13+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kast launches stablecoin-powered business platform after $80M raise",
+      "link": "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T13:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "UK’s crime agency freezes Premier League $13.5 million account in crypto crime probe",
+      "link": "https://www.coindesk.com/business/2026/09/01/uk-s-crime-agency-freezes-premier-league-usd13-5-million-account-in-crypto-crime-probe",
+      "published": "2026-09-01T12:37+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Hut 8's Texas power site sits inside Anthropic’s $35 billion AI deal",
+      "link": "https://www.coindesk.com/tech/2026/09/01/hut-8-s-texas-power-site-sits-inside-anthropic-s-usd35-billion-ai-deal",
+      "published": "2026-09-01T12:11+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Lazarus Group-linked addresses move $30M through Hyperliquid",
+      "link": "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T12:01+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Ethena launches Ethena Pay app on Avalanche, offering up to 6% yield and 10% cashback",
+      "link": "https://www.theblock.co/news/web3/2026-09-01-ethena-pay-app-avalanche-yield-cashback-413225",
+      "published": "2026-09-01T12:00+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin defies oil price spike and rising Fed hike bets after best August since 2017",
+      "link": "https://www.theblock.co/news/markets/2026-09-01-bitcoin-defies-oil-price-spike-and-rising-fed-hike-bets-after-best-august-since-2017-413218",
+      "published": "2026-09-01T11:33+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. looks to influence Japan's monetary policy. It couldn't do that with bitcoin",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/01/u-s-looks-to-influence-japan-s-monetary-policy-it-couldn-t-do-that-with-bitcoin",
+      "published": "2026-09-01T11:15+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT",
+      "link": "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T10:56+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Singapore proposes 100% reserves and a ban on yields for stablecoin issuers",
+      "link": "https://www.coindesk.com/policy/2026/09/01/singapore-proposes-100-reserves-and-a-ban-on-yields-for-stablecoin-issuers",
+      "published": "2026-09-01T10:35+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Binance adds options on 1,000 US stocks and ETFs as monthly TradFi perpetual volume hits $433 billion",
+      "link": "https://www.theblock.co/news/business/2026-09-01-binance-adds-options-1000-us-stocks-etfs-monthly-tradfi-perpetual-volume-surge-413213",
+      "published": "2026-09-01T10:33+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin consolidates near $78,000 as Arbitrum surges 30% on Robinhood Chain revenue",
+      "link": "https://www.coindesk.com/markets/2026/09/01/bitcoin-consolidates-near-usd78-000-as-arbitrum-surges-30-on-robinhood-chain-revenue",
+      "published": "2026-09-01T10:29+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet",
+      "link": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T10:00+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Singapore weighs recognizing some foreign-issued stablecoins",
+      "link": "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T09:55+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Kraken parent Payward to tokenize 100 London-listed stocks, with LSE 24 trading planned",
+      "link": "https://www.theblock.co/news/business/2026-09-01-kraken-parent-payward-to-tokenize-100-london-listed-stocks-with-lse-24-trading-planned-413208",
+      "published": "2026-09-01T09:39+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy spends $635M buying back STRC as perpetual preferred stock lags $100 par",
+      "link": "https://www.coindesk.com/markets/2026/09/01/strategy-spends-usd635m-buying-back-strc-as-perpetual-preferred-stock-lags-usd100-par",
+      "published": "2026-09-01T09:29+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin slumps as oil surges to three-month high on new Iran strikes",
+      "link": "https://www.coindesk.com/business/2026/09/01/live-updates-bitcoin-etfs-resume-buying-as-ether-funds-stretch-streak-to-11-days",
+      "published": "2026-09-01T08:35+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "London Stock Exchange to work with Payward to bring biggest UK stocks onchain",
+      "link": "https://www.coindesk.com/markets/2026/09/01/london-stock-exchange-to-work-with-payward-to-bring-biggest-uk-stocks-onchain",
+      "published": "2026-09-01T07:49+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report",
+      "link": "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T07:47+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Strategy hits back at MSCI proposal, calling it ‘discriminatory’ against DATs",
+      "link": "https://www.theblock.co/news/business/2026-09-01-strategy-hits-back-against-msci-413201",
+      "published": "2026-09-01T07:03+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "OpenAI’s ‘Trust Us’ TIME cover raises an old warning for AI bulls",
+      "link": "https://www.coindesk.com/markets/2026/09/01/time-is-putting-openai-s-founders-on-its-cover-paul-montgomery-s-contrary-indicator-says-hello",
+      "published": "2026-09-01T06:52+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Ark Invest buys $37 million worth of shares in Jack Dorsey’s Block Inc",
+      "link": "https://www.theblock.co/news/markets/2026-09-01-ark-invest-buys-37-million-block-413195",
+      "published": "2026-09-01T04:57+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks",
+      "link": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T04:48+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
+      "link": "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets",
+      "published": "2026-09-01T04:30+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump Jr's firm leads $1 billion Polymarket raise at $21 billion value: Report",
+      "link": "https://www.coindesk.com/business/2026/09/01/trump-jr-s-firm-leads-usd1-billion-polymarket-raise-at-usd21-billion-value-report",
+      "published": "2026-09-01T04:19+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CME’s share of XRP futures jumps as token rallies 40% in a week",
+      "link": "https://www.coindesk.com/markets/2026/09/01/xrp-futures-are-shifting-toward-cme-as-institutional-participation-grows",
+      "published": "2026-09-01T03:49+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Thailand SEC proposes retail access to regulated overseas crypto derivatives",
+      "link": "https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T03:49+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "DeFi Development Corp proposes $20 million preferred stock offering to buy more SOL",
+      "link": "https://www.theblock.co/news/business/2026-08-31-solana-defi-development-preferred-stock-offering-413190",
+      "published": "2026-09-01T03:46+00:00"
     }
   ],
-  "generated": "2026-09-01T23:40:28+00:00"
+  "generated": "2026-09-01T23:52:10+00:00"
 }
