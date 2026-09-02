@@ -1,54 +1,54 @@
 {
-  "ts": "2026-09-01T23:51:33+00:00",
-  "price": 77470.49,
-  "funding_rate": 6e-05,
-  "perp_basis_pct": -0.021156442924266283,
-  "funding_mean_30d": 4.2244444444444413e-05,
-  "oi_btc": 565836552.0,
-  "oi_change_24h_pct": -0.6142269303671742,
-  "top_ls_ratio": 0.7397260273972603,
-  "global_ls_ratio": 1.3054320801627364,
-  "taker_ratio": 1.1666852890567387,
+  "ts": "2026-09-02T23:53:54+00:00",
+  "price": 77300.59,
+  "funding_rate": 3.2e-05,
+  "perp_basis_pct": -0.041603822170055225,
+  "funding_mean_30d": 4.262222222222219e-05,
+  "oi_btc": 566956192.0,
+  "oi_change_24h_pct": 0.26022562847399344,
+  "top_ls_ratio": 0.890625,
+  "global_ls_ratio": 1.247718945326532,
+  "taker_ratio": 0.932959670709813,
   "deriv_source": "gate.io(备用)",
-  "deribit_index": 77450.01,
-  "dvol": 37.94,
-  "skew_25d": 0.21000000000000085,
-  "atm_iv_near": 33.69,
-  "near_expiry_days": 9.3,
-  "atm_iv_next": 35.5,
-  "term_slope": 1.8100000000000023,
-  "next_expiry_days": 23.3,
+  "deribit_index": 77272.42,
+  "dvol": 37.18,
+  "skew_25d": 0.3299999999999983,
+  "atm_iv_near": 31.21,
+  "near_expiry_days": 8.3,
+  "atm_iv_next": 34.03,
+  "term_slope": 2.8200000000000003,
+  "next_expiry_days": 22.3,
   "flags": {
     "funding_rate": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 73%"
+      "note": "历史百分位 51%"
     },
     "top_ls_ratio": {
       "level": 2,
       "side": "long",
-      "note": "历史百分位 94%"
+      "note": "历史百分位 95%"
     },
     "global_ls_ratio": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 55%"
+      "note": "历史百分位 50%"
     },
     "perp_basis_pct": {
-      "level": 2,
-      "side": "long",
-      "note": "历史百分位 96%"
+      "level": 0,
+      "side": null,
+      "note": "历史百分位 54%"
     },
     "skew_25d": {
       "level": 1,
       "side": "long",
-      "note": "历史百分位 15%"
+      "note": "历史百分位 17%"
     },
     "dvol": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 55%"
+      "note": "历史百分位 44%"
     }
   },
-  "bias_score": 42
+  "bias_score": 25
 }
