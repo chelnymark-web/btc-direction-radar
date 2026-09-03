@@ -1,54 +1,54 @@
 {
-  "ts": "2026-09-02T23:53:54+00:00",
-  "price": 77300.59,
-  "funding_rate": 3.2e-05,
-  "perp_basis_pct": -0.041603822170055225,
-  "funding_mean_30d": 4.262222222222219e-05,
-  "oi_btc": 566956192.0,
-  "oi_change_24h_pct": 0.26022562847399344,
-  "top_ls_ratio": 0.890625,
-  "global_ls_ratio": 1.247718945326532,
-  "taker_ratio": 0.932959670709813,
+  "ts": "2026-09-03T23:50:05+00:00",
+  "price": 81231.03,
+  "funding_rate": 5.2e-05,
+  "perp_basis_pct": -0.04041558995374273,
+  "funding_mean_30d": 4.271111111111108e-05,
+  "oi_btc": 618658560.0,
+  "oi_change_24h_pct": 9.172989089070855,
+  "top_ls_ratio": 0.8181818181818182,
+  "global_ls_ratio": 0.8000973650581148,
+  "taker_ratio": 2.184211608869143,
   "deriv_source": "gate.io(备用)",
-  "deribit_index": 77272.42,
-  "dvol": 37.18,
-  "skew_25d": 0.3299999999999983,
-  "atm_iv_near": 31.21,
-  "near_expiry_days": 8.3,
-  "atm_iv_next": 34.03,
-  "term_slope": 2.8200000000000003,
-  "next_expiry_days": 22.3,
+  "deribit_index": 81232.89,
+  "dvol": 39.81,
+  "skew_25d": -3.719999999999999,
+  "atm_iv_near": 37.7,
+  "near_expiry_days": 7.3,
+  "atm_iv_next": 37.83,
+  "term_slope": 0.12999999999999545,
+  "next_expiry_days": 21.3,
   "flags": {
     "funding_rate": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 51%"
+      "note": "历史百分位 68%"
     },
     "top_ls_ratio": {
       "level": 2,
       "side": "long",
-      "note": "历史百分位 95%"
+      "note": "历史百分位 94%"
     },
     "global_ls_ratio": {
-      "level": 0,
-      "side": null,
-      "note": "历史百分位 50%"
+      "level": 2,
+      "side": "short",
+      "note": "历史百分位 0%"
     },
     "perp_basis_pct": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 54%"
+      "note": "历史百分位 60%"
     },
     "skew_25d": {
-      "level": 1,
+      "level": 2,
       "side": "long",
-      "note": "历史百分位 17%"
+      "note": "历史百分位 1%"
     },
     "dvol": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 44%"
+      "note": "历史百分位 70%"
     }
   },
-  "bias_score": 25
+  "bias_score": 17
 }
