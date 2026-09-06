@@ -1,9 +1,9 @@
 {
-  "ts": "2026-09-05T23:37:07+00:00",
+  "ts": "2026-09-06T23:22:50+00:00",
   "source": "Binance(data-api.binance.vision)",
   "weeks": 57,
-  "from": "2025-08-02",
-  "to": "2026-09-05",
+  "from": "2025-08-03",
+  "to": "2026-09-06",
   "baseline_pct": 14.3,
   "high_day_share": {
     "周一": 38.6,
@@ -115,14 +115,14 @@
       "intraday": -0.106
     },
     "周六": {
-      "daily": -0.097,
+      "daily": -0.096,
       "overnight": 0.0,
-      "intraday": -0.097
+      "intraday": -0.096
     },
     "周日": {
-      "daily": 0.219,
+      "daily": 0.202,
       "overnight": 0.0,
-      "intraday": 0.219
+      "intraday": 0.202
     }
   },
   "observation_check": "用户观察「周一高(38.6%)+周三低(10.5%)」:数据有一定呼应,但仍弱,勿重仓依赖。",

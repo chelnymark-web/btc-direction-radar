@@ -1,67 +1,38 @@
 {
-  "kind": "daily",
-  "mode": "news",
+  "kind": "weekly",
+  "mode": "calendar",
+  "window_days": 7,
   "items": [
     {
-      "source": "The Block",
-      "title": "UBS, Jane Street among firms with combined $75 million in Hyperliquid ETF holdings: Bloomberg",
-      "link": "https://www.theblock.co/news/defi/2026-09-05-ubs-jane-street-among-firms-with-combined-75-million-in-hyperliquid-etf-holdings-bloomberg-413616",
-      "published": "2026-09-05T20:02+00:00"
+      "date": "2026-09-10",
+      "name": "Core PPI m/m(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "CoinDesk",
-      "title": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market",
-      "link": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
-      "published": "2026-09-05T18:05+00:00"
+      "date": "2026-09-10",
+      "name": "PPI m/m(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "CoinDesk",
-      "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
-      "link": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
-      "published": "2026-09-05T16:43+00:00"
+      "date": "2026-09-11",
+      "name": "Core CPI m/m(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "The Block",
-      "title": "LeBron James teases Polymarket partnership in new social media video",
-      "link": "https://www.theblock.co/news/deals/2026-09-05-lebron-james-teases-polymarket-partnership-in-new-social-media-video-413608",
-      "published": "2026-09-05T14:01+00:00"
+      "date": "2026-09-11",
+      "name": "Core CPI y/y(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "CoinDesk",
-      "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
-      "link": "https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million",
-      "published": "2026-09-05T12:00+00:00"
+      "date": "2026-09-11",
+      "name": "CPI m/m(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-05T11:16+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
-      "link": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-05T10:44+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-05T08:03+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "XRP Ledger has fewer active accounts than last year, but bigger trades and more value",
-      "link": "https://www.coindesk.com/markets/2026/09/05/xrp-ledger-has-fewer-active-accounts-but-bigger-trades-and-more-value",
-      "published": "2026-09-05T05:30+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
-      "link": "https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms",
-      "published": "2026-09-05T05:00+00:00"
+      "date": "2026-09-11",
+      "name": "CPI y/y(USD·高影响)",
+      "source": "ForexFactory"
     }
   ],
-  "generated": "2026-09-05T23:37:08+00:00"
+  "generated": "2026-09-06T23:22:50+00:00"
 }
