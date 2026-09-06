@@ -1,38 +1,61 @@
 {
-  "kind": "weekly",
-  "mode": "calendar",
-  "window_days": 7,
+  "kind": "daily",
+  "mode": "news",
   "items": [
     {
-      "date": "2026-09-10",
-      "name": "Core PPI m/m(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "The Block",
+      "title": "Liquid Network pauses after purported ‘white-hat’ hackers withdraw $320 million in bitcoin",
+      "link": "https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626",
+      "published": "2026-09-06T21:14+00:00"
     },
     {
-      "date": "2026-09-10",
-      "name": "PPI m/m(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "The Block",
+      "title": "STONK surges 250% to $140 million market cap as stock-paired Solana launchpad StonkFun pulls volume to Raydium and Jupiter",
+      "link": "https://www.theblock.co/news/defi/2026-09-06-stonk-surges-250-to-140-million-market-cap-as-stock-paired-solana-launchpad-stonkfun-pulls-volume-to-raydium-and-jupiter-413621",
+      "published": "2026-09-06T20:51+00:00"
     },
     {
-      "date": "2026-09-11",
-      "name": "Core CPI m/m(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "CoinDesk",
+      "title": "Prediction markets inch closer to the Supreme Court: State of Crypto",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
+      "published": "2026-09-06T18:30+00:00"
     },
     {
-      "date": "2026-09-11",
-      "name": "Core CPI y/y(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "The Block",
+      "title": "Coinbase-backed Router Protocol to shut down, burn 303 million ROUTE tokens",
+      "link": "https://www.theblock.co/news/defi/2026-09-06-coinbase-backed-router-protocol-to-shut-down-burn-303-million-route-tokens-413618",
+      "published": "2026-09-06T18:03+00:00"
     },
     {
-      "date": "2026-09-11",
-      "name": "CPI m/m(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "CoinDesk",
+      "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
+      "link": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
+      "published": "2026-09-06T16:00+00:00"
     },
     {
-      "date": "2026-09-11",
-      "name": "CPI y/y(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "CoinDesk",
+      "title": "Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral",
+      "link": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
+      "published": "2026-09-06T14:00+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-06T13:24+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
+      "link": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-06T13:03+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Tether-backed Orionx to shut down after audit flags $7M custody gap",
+      "link": "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-06T09:07+00:00"
     }
   ],
-  "generated": "2026-09-06T23:22:50+00:00"
+  "generated": "2026-09-06T23:35:48+00:00"
 }
