@@ -1,45 +1,35 @@
 {
-  "ts": "2026-09-06T23:35:46+00:00",
+  "ts": "2026-09-08T00:02:41+00:00",
   "source": "Binance(data-api.binance.vision)",
-  "spot": 80220.6,
-  "bars": 341,
+  "spot": 79084.0,
+  "bars": 343,
   "from": "2025-10-01",
   "ath": {
     "price": 126200,
     "date": "2025-10-06"
   },
   "fractal_n": 5,
-  "dd_from_ath_pct": -36.4,
+  "dd_from_ath_pct": -37.3,
   "macro_trend": "宏观下跌",
-  "rsi_now": 67.6,
+  "rsi_now": 62.6,
   "status": "重大结构破坏(站上 75k 超强重合带)",
   "struct_dir": 0.6,
-  "purity_pct": 48,
+  "purity_pct": 45,
   "counts": {
     "LH": 7,
     "LL": 6,
-    "HH": 7,
-    "HL": 7
+    "HH": 8,
+    "HL": 8
   },
   "last_swing_high": {
-    "price": 81479,
-    "date": "2026-08-28"
+    "price": 82300,
+    "date": "2026-09-03"
   },
   "last_swing_low": {
-    "price": 62535,
-    "date": "2026-08-14"
+    "price": 76264,
+    "date": "2026-09-02"
   },
   "recent_swings": [
-    {
-      "type": "L",
-      "price": 59131,
-      "date": "2026-06-05"
-    },
-    {
-      "type": "H",
-      "price": 67292,
-      "date": "2026-06-15"
-    },
     {
       "type": "L",
       "price": 57800,
@@ -69,21 +59,19 @@
       "type": "H",
       "price": 81479,
       "date": "2026-08-28"
+    },
+    {
+      "type": "L",
+      "price": 76264,
+      "date": "2026-09-02"
+    },
+    {
+      "type": "H",
+      "price": 82300,
+      "date": "2026-09-03"
     }
   ],
   "violations": [
-    {
-      "type": "HH",
-      "date": "2026-03-04",
-      "price": 74050,
-      "note": "高点抬高=下跌结构第一道裂缝"
-    },
-    {
-      "type": "HH",
-      "date": "2026-03-17",
-      "price": 76000,
-      "note": "高点抬高=下跌结构第一道裂缝"
-    },
     {
       "type": "HH",
       "date": "2026-04-27",
@@ -100,6 +88,12 @@
       "type": "HH",
       "date": "2026-08-28",
       "price": 81479,
+      "note": "高点抬高=下跌结构第一道裂缝"
+    },
+    {
+      "type": "HH",
+      "date": "2026-09-03",
+      "price": 82300,
       "note": "高点抬高=下跌结构第一道裂缝"
     },
     {
@@ -142,6 +136,12 @@
       "type": "HL",
       "date": "2026-08-14",
       "price": 62535,
+      "note": "低点抬高=更强的反转信号"
+    },
+    {
+      "type": "HL",
+      "date": "2026-09-02",
+      "price": 76264,
       "note": "低点抬高=更强的反转信号"
     }
   ],
