@@ -1,97 +1,38 @@
 {
-  "kind": "daily",
-  "mode": "news",
+  "kind": "weekly",
+  "mode": "calendar",
+  "window_days": 7,
   "items": [
     {
-      "source": "The Block",
-      "title": "CryptoQuant says bitcoin must clear resistance at $81,700 to confirm new bull market",
-      "link": "https://www.theblock.co/news/markets/2026-09-12-cryptoquant-bitcoin-resistance-support-levels-414519",
-      "published": "2026-09-12T21:39+00:00"
+      "date": "2026-09-15",
+      "name": "FOMC 会议第一天",
+      "source": "FOMC"
     },
     {
-      "source": "CoinDesk",
-      "title": "OpenAI IPO won't happen this year, says Sam Altman",
-      "link": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
-      "published": "2026-09-12T21:09+00:00"
+      "date": "2026-09-16",
+      "name": "FOMC 利率决议 + SEP/点阵图 + 记者会 *",
+      "source": "FOMC"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
-      "link": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
-      "published": "2026-09-12T21:09+00:00"
+      "date": "2026-09-16",
+      "name": "Federal Funds Rate(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "The Block",
-      "title": "Revolut says customer KYC, Bitcoin transaction data exposed after fake request from gov’t domain",
-      "link": "https://www.theblock.co/news/business/2026-09-12-revolut-says-customer-kyc-bitcoin-transaction-data-exposed-after-fake-request-from-govt-domain-414516",
-      "published": "2026-09-12T18:57+00:00"
+      "date": "2026-09-16",
+      "name": "FOMC Economic Projections(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "CoinDesk",
-      "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
-      "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
-      "published": "2026-09-12T18:51+00:00"
+      "date": "2026-09-16",
+      "name": "FOMC Statement(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "CoinDesk",
-      "title": "Anthropic CEO calls for AI race to slow down citing safety. Musk and OpenAI's Altman agrees",
-      "link": "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees",
-      "published": "2026-09-12T18:43+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Crypto billionaires Ben Delo and Christopher Harborne each donate £36 million to Farage’s Reform UK",
-      "link": "https://www.theblock.co/news/regulation/2026-09-12-crypto-billionaires-ben-delo-and-christopher-harborne-each-donate-36-million-to-farages-reform-uk-414509",
-      "published": "2026-09-12T16:18+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-12T16:09+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "North Korea using foreign talent to help infiltrate US companies: Report",
-      "link": "https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-12T16:08+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
-      "link": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
-      "published": "2026-09-12T16:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ditching bonds for bitcoin: How crypto can tackle the AI-heavy portfolio dilemma",
-      "link": "https://www.coindesk.com/business/2026/09/12/ditching-bonds-for-bitcoin-how-crypto-can-tackle-the-ai-heavy-portfolio-dilemma",
-      "published": "2026-09-12T16:00+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Farage’s Reform UK gets $97M from two crypto billionaires",
-      "link": "https://cointelegraph.com/news/farages-reform-uk-gets-biggest-donation-ever-from-crypto-billionaire-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-12T15:50+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters",
-      "link": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-12T15:12+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Staked ether should be seen as the benchmark of the decentralized economy",
-      "link": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
-      "published": "2026-09-12T14:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
-      "link": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
-      "published": "2026-09-12T10:11+00:00"
+      "date": "2026-09-16",
+      "name": "FOMC Press Conference(USD·高影响)",
+      "source": "ForexFactory"
     }
   ],
-  "generated": "2026-09-12T23:51:00+00:00"
+  "generated": "2026-09-13T23:50:21+00:00"
 }
