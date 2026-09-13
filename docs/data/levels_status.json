@@ -1,6 +1,6 @@
 {
-  "ts": "2026-09-13T23:50:19+00:00",
-  "spot": 76816.41,
+  "ts": "2026-09-13T23:56:12+00:00",
+  "spot": 76799.64,
   "bands": [
     {
       "lo": 75017,
@@ -32,7 +32,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "下方",
-      "dist_pct": -4.0
+      "dist_pct": -3.9
     },
     {
       "lo": 70806,
@@ -139,7 +139,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "下方",
-      "dist_pct": -18.9
+      "dist_pct": -18.8
     },
     {
       "lo": 60961,
@@ -312,7 +312,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "下方",
-      "dist_pct": -18.9
+      "dist_pct": -18.8
     },
     {
       "lo": 59557,

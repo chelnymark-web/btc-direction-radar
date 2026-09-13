@@ -1,38 +1,67 @@
 {
-  "kind": "weekly",
-  "mode": "calendar",
-  "window_days": 7,
+  "kind": "daily",
+  "mode": "news",
   "items": [
     {
-      "date": "2026-09-15",
-      "name": "FOMC 会议第一天",
-      "source": "FOMC"
+      "source": "The Block",
+      "title": "Symbiosis says it recovered 15 BTC after Bitcoin bridge exploit, offers attacker 20% bounty",
+      "link": "https://www.theblock.co/news/defi/2026-09-13-symbiosis-says-it-recovered-15-btc-after-bitcoin-bridge-exploit-offers-attacker-20-bounty-414568",
+      "published": "2026-09-13T21:51+00:00"
     },
     {
-      "date": "2026-09-16",
-      "name": "FOMC 利率决议 + SEP/点阵图 + 记者会 *",
-      "source": "FOMC"
+      "source": "CoinDesk",
+      "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
+      "published": "2026-09-13T18:45+00:00"
     },
     {
-      "date": "2026-09-16",
-      "name": "Federal Funds Rate(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "The Block",
+      "title": "Mexican authorities raid hidden crypto mine, suspecting power theft and money laundering",
+      "link": "https://www.theblock.co/news/ecosystems/2026-09-13-mexican-authorities-raid-hidden-crypto-mine-suspecting-power-theft-and-money-laundering-414564",
+      "published": "2026-09-13T18:29+00:00"
     },
     {
-      "date": "2026-09-16",
-      "name": "FOMC Economic Projections(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "CoinDesk",
+      "title": "Quantum-proof blockchain: why math, not machines, holds the key",
+      "link": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
+      "published": "2026-09-13T17:00+00:00"
     },
     {
-      "date": "2026-09-16",
-      "name": "FOMC Statement(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-13T16:47+00:00"
     },
     {
-      "date": "2026-09-16",
-      "name": "FOMC Press Conference(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "CoinDesk",
+      "title": "Fed rate hike is about Wall Street, not inflation, says economist",
+      "link": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
+      "published": "2026-09-13T13:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
+      "link": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
+      "published": "2026-09-13T13:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
+      "published": "2026-09-13T12:00+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Anthropic chief urges slowdown in AI development to safer pace",
+      "link": "https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-13T11:09+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Revolut says customer data exposed through fake government email",
+      "link": "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-13T09:27+00:00"
     }
   ],
-  "generated": "2026-09-13T23:50:21+00:00"
+  "generated": "2026-09-13T23:56:15+00:00"
 }
