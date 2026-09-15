@@ -3,65 +3,341 @@
   "mode": "news",
   "items": [
     {
-      "source": "The Block",
-      "title": "Symbiosis says it recovered 15 BTC after Bitcoin bridge exploit, offers attacker 20% bounty",
-      "link": "https://www.theblock.co/news/defi/2026-09-13-symbiosis-says-it-recovered-15-btc-after-bitcoin-bridge-exploit-offers-attacker-20-bounty-414568",
-      "published": "2026-09-13T21:51+00:00"
+      "source": "CoinDesk",
+      "title": "Even if Clarity fails, Wall Street’s crypto push is unlikely to stop",
+      "link": "https://www.coindesk.com/policy/2026/09/14/even-if-clarity-fails-wall-street-s-crypto-push-is-unlikely-to-stop",
+      "published": "2026-09-14T23:43+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
-      "published": "2026-09-13T18:45+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Mexican authorities raid hidden crypto mine, suspecting power theft and money laundering",
-      "link": "https://www.theblock.co/news/ecosystems/2026-09-13-mexican-authorities-raid-hidden-crypto-mine-suspecting-power-theft-and-money-laundering-414564",
-      "published": "2026-09-13T18:29+00:00"
+      "title": "SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it",
+      "link": "https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it",
+      "published": "2026-09-14T23:30+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Quantum-proof blockchain: why math, not machines, holds the key",
-      "link": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
-      "published": "2026-09-13T17:00+00:00"
+      "title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
+      "link": "https://www.coindesk.com/policy/2026/09/14/u-s-senator-lummis-says-democrats-won-t-quit-asking-for-more-on-crypto-clarity-act",
+      "published": "2026-09-14T22:34+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Where the Clarity Act stands ahead of Tuesday’s Senate vote",
+      "link": "https://www.theblock.co/news/regulation/2026-09-14-where-the-clarity-act-stands-ahead-of-tuesdays-senate-vote-414720",
+      "published": "2026-09-14T21:32+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood plans share redemptions, voting rights for stock tokens, after criticism",
+      "link": "https://www.coindesk.com/business/2026/09/14/robinhood-plans-share-redemptions-voting-rights-for-stock-tokens-after-criticism",
+      "published": "2026-09-14T21:05+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
+      "link": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T20:54+00:00"
     },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-13T16:47+00:00"
+      "published": "2026-09-14T20:41+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Robinhood Chain’s rapid growth is being driven by 4 key factors, analyst says",
+      "link": "https://www.theblock.co/news/business/2026-09-14-robinhood-chain-rapid-growth-being-driven-4-key-factors-analyst-says-414687",
+      "published": "2026-09-14T20:21+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "White House crypto adviser feels ‘very good’ ahead of Senate Clarity Act vote on Tuesday",
+      "link": "https://www.theblock.co/news/regulation/2026-09-14-white-house-crypto-adviser-feels-very-good-ahead-senate-clarity-act-vote-tuesday-414702",
+      "published": "2026-09-14T19:29+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Fed rate hike is about Wall Street, not inflation, says economist",
-      "link": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
-      "published": "2026-09-13T13:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
-      "link": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
-      "published": "2026-09-13T13:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
-      "published": "2026-09-13T12:00+00:00"
+      "title": "Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable",
+      "link": "https://www.coindesk.com/business/2026/09/14/trump-s-usd800-million-stake-into-world-liberty-financial-s-token-now-has-a-timeline-to-becoming-sellable",
+      "published": "2026-09-14T19:21+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Anthropic chief urges slowdown in AI development to safer pace",
-      "link": "https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-13T11:09+00:00"
+      "title": "Bitcoin tops $79K, oil falls as Trump says Iran war could end",
+      "link": "https://cointelegraph.com/markets/bitcoin-passes-79k-oil-prices-cool-on-trump-iran-war-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T18:56+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "White House crypto adviser says Trump gave up 'historic' ethics powers in compromise",
+      "link": "https://www.coindesk.com/policy/2026/09/14/white-house-crypto-adviser-says-trump-gave-up-historic-ethics-powers-in-compromise",
+      "published": "2026-09-14T18:34+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin production rebounds in August for BitFuFu, edges higher at CleanSpark as Canaan slips",
+      "link": "https://www.theblock.co/news/markets/2026-09-14-bitcoin-production-rebounds-august-bitfufu-edges-higher-cleanspark-canaan-slips-414660",
+      "published": "2026-09-14T18:01+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote",
+      "link": "https://www.coindesk.com/policy/2026/09/14/banks-escalate-stablecoin-rewards-fight-as-senate-prepares-for-a-clarity-act-vote",
+      "published": "2026-09-14T17:51+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Revolut says customer data exposed through fake government email",
-      "link": "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-13T09:27+00:00"
+      "title": "Strive adds 469 Bitcoin to reach 25,000 BTC treasury",
+      "link": "https://cointelegraph.com/news/strive-adds-469-bitcoin-to-reach-25000-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T17:50+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CLARITY Act faces state AGs opposition ahead of key Senate vote",
+      "link": "https://cointelegraph.com/news/clarity-act-faces-new-opposition-ahead-of-key-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T17:42+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "S&P Global backs Kaiko as Series B reaches $110M",
+      "link": "https://cointelegraph.com/news/sp-global-leads-110m-kaiko-funding-round-as-wall-street-eyes-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T16:17+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A bipartisan coalition of 17 state attorneys generals urge Senate to reject Clarity Act",
+      "link": "https://www.coindesk.com/policy/2026/09/14/bipartisan-group-of-state-attorneys-general-oppose-clarity-act-over-federal-preemption-worry",
+      "published": "2026-09-14T15:57+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury",
+      "link": "https://cointelegraph.com/news/bitmine-5-million-eth-staked-334-million-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T15:55+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Why are AI’s biggest companies suddenly asking to slow down?",
+      "link": "https://cointelegraph.com/magazine/why-are-biggest-ai-companies-suddenly-asking-to-slow-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T15:18+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Strive reaches 25,000 BTC milestone with latest $36.6 million purchase",
+      "link": "https://www.theblock.co/news/markets/2026-09-14-strive-reaches-25000-btc-milestone-36-6-million-purchase-414631",
+      "published": "2026-09-14T15:15+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Clarity Act odds surge on prediction markets, but crypto bill still faces long road",
+      "link": "https://www.coindesk.com/policy/2026/09/14/clarity-act-odds-surge-on-prediction-markets-but-crypto-bill-still-faces-long-road",
+      "published": "2026-09-14T15:10+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "NY Attorney General James leads bipartisan push against the Clarity Act ahead of initial Senate vote",
+      "link": "https://www.theblock.co/news/regulation/2026-09-14-ny-attorney-general-james-bipartisan-push-against-clarity-act-initial-senate-vote-414635",
+      "published": "2026-09-14T14:43+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "DeFi Development Corp expands Solana treasury to 2.39 million SOL, sets up $300 million CHAD ATM",
+      "link": "https://www.theblock.co/news/markets/2026-09-14-defi-development-corp-expands-solana-treasury-2-39-million-sol-sets-300-million-chad-atm-414633",
+      "published": "2026-09-14T14:40+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Consensus heads to Hong Kong for third year with expanded focus on AI",
+      "link": "https://www.coindesk.com/business/2026/09/14/consensus-heads-to-hong-kong-for-third-straight-year-with-expanded-focus-on-ai",
+      "published": "2026-09-14T14:37+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Don’t let perfect be the enemy of Clarity",
+      "link": "https://www.coindesk.com/opinion/2026/09/14/don-t-let-perfect-be-the-enemy-of-clarity",
+      "published": "2026-09-14T14:34+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Here is the revised Clarity Act ethics provision Donald Trump has agreed to",
+      "link": "https://www.coindesk.com/policy/2026/09/14/here-is-the-revised-clarity-act-ethics-provision-donald-trump-has-agreed-to",
+      "published": "2026-09-14T14:27+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kaiko extends Series B funding round to $110 million with S&P Global, BNP Paribas",
+      "link": "https://www.coindesk.com/business/2026/09/14/kaiko-extends-series-b-funding-round-to-usd110-million-with-s-and-p-global-bnp-paribas",
+      "published": "2026-09-14T14:06+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
+      "link": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T13:30+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "HYPE price could suffer as Binance takes its revenue: Alice Liu",
+      "link": "https://cointelegraph.com/magazine/hype-price-could-suffer-as-binance-takes-its-revenue-alice-liu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T13:30+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Bitmine adds 27,180 ETH as adviser Tom DeMark sees sharp move in coming weeks",
+      "link": "https://www.theblock.co/news/business/2026-09-14-bitmine-adds-27180-eth-as-adviser-tom-demark-sees-sharp-move-in-coming-weeks-414621",
+      "published": "2026-09-14T13:20+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "S&P Global leads strategic investment in crypto data firm Kaiko, extending Series B to $110 million",
+      "link": "https://www.theblock.co/news/deals/2026-09-14-sp-global-leads-strategic-investment-in-crypto-data-firm-kaiko-extending-series-b-to-110-million-414618",
+      "published": "2026-09-14T13:13+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead",
+      "link": "https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead",
+      "published": "2026-09-14T12:58+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
+      "link": "https://www.coindesk.com/markets/2026/09/14/dogecoin-etfs-struggled-for-buyers-while-rival-xrp-and-solana-funds-pulled-in-usd3-billion",
+      "published": "2026-09-14T12:08+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Strategy repurchases $139 million of STRC shares, leaves bitcoin holdings unchanged",
+      "link": "https://www.theblock.co/news/business/2026-09-14-strategy-strc-bitcoin-mstr-414603",
+      "published": "2026-09-14T12:08+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP",
+      "link": "https://www.coindesk.com/policy/2026/09/14/trump-agrees-to-stricter-ethics-rules-to-save-clarity-act-crypto-bill-ap",
+      "published": "2026-09-14T12:07+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "FCA considers exempting tokenized gold from fund rules to defend London market",
+      "link": "https://www.coindesk.com/business/2026/09/14/fca-considers-exempting-tokenized-gold-from-fund-rules-to-defend-london-market",
+      "published": "2026-09-14T11:58+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin climbs near $79,000 as stocks narrow declines",
+      "link": "https://www.coindesk.com/tech/2026/09/14/live-updates-bitcoin-manages-small-gains-as-stocks-drop-on-ai-concern-oil-surges",
+      "published": "2026-09-14T11:44+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "EU cyber rules put crypto wallet makers on 24-hour reporting clock",
+      "link": "https://cointelegraph.com/news/eu-cyber-rules-put-crypto-wallet-24-hour-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T11:38+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto market outperforms as call for slower AI development weighs on tech stocks",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/14/crypto-market-outperforms-as-call-for-slower-ai-development-weighs-on-tech-stocks",
+      "published": "2026-09-14T11:15+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
+      "link": "https://www.coindesk.com/markets/2026/09/14/bitcoin-climbs-to-usd78-000-as-crypto-sits-out-the-ai-selloff",
+      "published": "2026-09-14T10:09+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/markets/clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T10:02+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty",
+      "link": "https://cointelegraph.com/news/symbiosis-recovered-15-btc-bridge-hack-20-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T09:55+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "TikTok developer ByteDance arranges $29.6 billion loan as it builds AI ambitions",
+      "link": "https://www.coindesk.com/business/2026/09/14/tiktok-developer-bytedance-arranges-usd29-6-billion-loan-as-it-builds-ai-ambitions",
+      "published": "2026-09-14T09:43+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Bernstein sees more Clarity Act progress than markets expected, says ‘any positive surprise is definitely not priced in’",
+      "link": "https://www.theblock.co/news/regulation/2026-09-14-bernstein-sees-more-clarity-act-progress-than-markets-expected-says-any-positive-surprise-is-definitely-not-priced-in-414593",
+      "published": "2026-09-14T09:36+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/09/14/fed-boe-boj-interest-rate-decisions-crypto-week-ahead",
+      "published": "2026-09-14T09:29+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "TD Cowen sees 90% upside for bitcoin treasury firm Smarter Web following proposed ‘MORE’ preferred IPO",
+      "link": "https://www.theblock.co/news/markets/2026-09-14-td-cowen-sees-90-upside-for-bitcoin-treasury-firm-smarter-web-following-proposed-more-preferred-ipo-414590",
+      "published": "2026-09-14T09:29+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "UK FCA seeks views on fund rule exemptions for tokenized gold",
+      "link": "https://cointelegraph.com/news/uk-fca-weighs-fund-rules-exemption-for-tokenized-gold-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T08:57+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "South Korean investors push for fourth crypto tax delay as regulators stand firm",
+      "link": "https://www.theblock.co/news/regulation/2026-09-14-south-korean-investors-crypto-tax-delay-414581",
+      "published": "2026-09-14T08:31+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin bucks tech selloff as AI safety concerns weigh on stocks",
+      "link": "https://www.coindesk.com/markets/2026/09/14/bitcoin-bucks-tech-selloff-as-ai-safety-concerns-weigh-on-stocks",
+      "published": "2026-09-14T08:07+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-shed-463m-ether-etfs-gain-197m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T07:07+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "King Charles to host AI chiefs amid industry call to slow development",
+      "link": "https://cointelegraph.com/news/king-charles-host-ai-chiefs-amid-industry-call-slow-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T05:16+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Robinhood CEO says issuers should not have veto over tokenized stocks",
+      "link": "https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T04:55+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Senate Republicans release ‘final’ Clarity Act draft as Trump accepts most ethics provisions",
+      "link": "https://www.theblock.co/news/regulation/2026-09-14-senate-republicans-release-final-clarity-act-draft-414575",
+      "published": "2026-09-14T04:24+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US Republicans send ‘final’ CLARITY Act offer to Democrats",
+      "link": "https://cointelegraph.com/news/us-republicans-send-final-clarity-act-offer-to-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T03:22+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Revolut attackers threaten daily customer data leaks",
+      "link": "https://cointelegraph.com/news/revolut-attackers-threaten-daily-customer-data-leaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T00:54+00:00"
     }
   ],
-  "generated": "2026-09-13T23:56:15+00:00"
+  "generated": "2026-09-15T00:22:59+00:00"
 }
