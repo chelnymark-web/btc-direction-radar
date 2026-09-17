@@ -3,359 +3,347 @@
   "mode": "news",
   "items": [
     {
-      "source": "CoinDesk",
-      "title": "Inside the last-minute political breakdown that doomed the Clarity Act vote",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
-      "published": "2026-09-15T21:58+00:00"
+      "source": "Cointelegraph",
+      "title": "CLARITY Act could get another shot during lame-duck session, policy advocate says",
+      "link": "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-16T20:51+00:00"
     },
     {
       "source": "The Block",
-      "title": "‘This one stings’: Clarity Act fails procedural Senate vote — is crypto’s biggest regulatory push dead?",
-      "link": "https://www.theblock.co/news/regulation/2026-09-15-this-one-stings-clarity-act-fails-senate-is-cryptos-biggest-regulatory-push-dead-415135",
-      "published": "2026-09-15T21:24+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
-      "link": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-15T21:23+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
-      "link": "https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-15T20:37+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto stocks sink after Senate rejects Clarity Act",
-      "link": "https://www.coindesk.com/markets/2026/09/15/crypto-stocks-sink-after-senate-rejects-clarity-act",
-      "published": "2026-09-15T20:03+00:00"
+      "title": "Bitcoin, ether swing after unanimous quarter-point Fed rate hike as Warsh takes aim at inflation",
+      "link": "https://www.theblock.co/news/markets/2026-09-16-bitcoin-ether-swing-unanimous-quarter-point-fed-rate-hike-warsh-aim-inflation-415307",
+      "published": "2026-09-16T20:02+00:00"
     },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-15T19:53+00:00"
+      "published": "2026-09-16T19:25+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "UK FCA sets crypto authorization guidance ahead of September application window",
+      "link": "https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-16T19:19+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto industry reacts after Clarity Act fails Senate vote",
-      "link": "https://www.coindesk.com/policy/2026/09/15/clarity-act-fails-in-senate-here-is-how-the-crypto-industry-is-reacting",
-      "published": "2026-09-15T19:06+00:00"
+      "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
+      "link": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
+      "published": "2026-09-16T19:07+00:00"
     },
     {
       "source": "The Block",
-      "title": "Clarity Act preliminary vote falls short in Senate amid ethics fight over Trump’s crypto wealth",
-      "link": "https://www.theblock.co/news/regulation/2026-09-15-clarity-act-preliminary-vote-falls-short-in-senate-amid-ethics-fight-over-trumps-crypto-wealth-415010",
-      "published": "2026-09-15T18:57+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto Clarity Act flames out in failed U.S. Senate vote",
-      "link": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote",
-      "published": "2026-09-15T18:50+00:00"
+      "title": "‘Go time’: SEC, CFTC prepare to push crypto rules as Clarity Act stalls in Senate",
+      "link": "https://www.theblock.co/news/regulation/2026-09-16-go-time-sec-cftc-prepare-push-crypto-rules-clarity-act-stalls-senate-415281",
+      "published": "2026-09-16T18:06+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "US Senate fails to advance CLARITY Act",
-      "link": "https://cointelegraph.com/news/us-senate-fails-to-advance-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-15T18:46+00:00"
+      "title": "US House tax committee advances crypto tax overhaul in 38–5 vote",
+      "link": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-16T18:01+00:00"
+    },
+    {
+      "source": "美联储新闻稿",
+      "title": "Federal Reserve issues FOMC statement",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+      "published": "2026-09-16T18:00+00:00"
+    },
+    {
+      "source": "美联储新闻稿",
+      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+      "published": "2026-09-16T18:00+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
-      "link": "https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion",
-      "published": "2026-09-15T18:02+00:00"
+      "title": "Fed raises rates by 25 basis points in first hike since July 2023",
+      "link": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
+      "published": "2026-09-16T17:54+00:00"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official",
-      "link": "https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-15T17:53+00:00"
+      "source": "CoinDesk",
+      "title": "Celsius sues BitMEX for $495 million over 2020 crash liquidations",
+      "link": "https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations",
+      "published": "2026-09-16T17:34+00:00"
     },
     {
       "source": "The Block",
-      "title": "DOJ charges Robinhood former engineers with front-running crypto listings on Hyperliquid",
-      "link": "https://www.theblock.co/news/regulation/2026-09-15-doj-charges-robinhood-engineers-front-running-crypto-listings-hyperliquid-414865",
-      "published": "2026-09-15T17:50+00:00"
+      "title": "House panel approves first federal crypto tax framework, one day after Senate’s Clarity Act stumbles",
+      "link": "https://www.theblock.co/news/regulation/2026-09-16-house-panel-approves-first-federal-crypto-tax-framework-one-day-after-senates-clarity-act-stumbles-415293",
+      "published": "2026-09-16T17:29+00:00"
     },
     {
       "source": "The Block",
-      "title": "Sen. Elizabeth Warren says she wants a crypto bill, but the Clarity Act just isn’t it",
-      "link": "https://www.theblock.co/news/regulation/2026-09-15-sen-elizabeth-warren-says-she-wants-a-crypto-bill-but-the-clarity-act-just-isnt-it-414869",
-      "published": "2026-09-15T17:49+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Binance adds 11 US-listed ETFs to wealth management offering",
-      "link": "https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-15T17:22+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-falls-to-756k-september-low-as-global-bonds-hit-multidecade-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-15T16:02+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround",
-      "link": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-barrels-toward-disappointment-barring-last-minute-senate-turnaround",
-      "published": "2026-09-15T15:50+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030",
-      "link": "https://cointelegraph.com/news/standard-chartered-arbitrum-arb-price-10-2030?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-15T15:50+00:00"
+      "title": "Aave founder pitches ‘Uber path’ for DeFi after Clarity Act fails Senate vote",
+      "link": "https://www.theblock.co/news/defi/2026-09-16-aave-founder-pitches-uber-path-defi-clarity-act-fails-senate-vote-415278",
+      "published": "2026-09-16T17:08+00:00"
     },
     {
       "source": "The Block",
-      "title": "Bitcoin price recovery unlikely to lure AI-focused miners back, CoinShares says",
-      "link": "https://www.theblock.co/news/markets/2026-09-15-bitcoin-price-recovery-unlikely-lure-ai-focused-miners-back-coinshares-says-414844",
-      "published": "2026-09-15T15:37+00:00"
+      "title": "JPMorgan says Clarity Act ‘not fully dead,’ but passage window ‘extremely narrow’",
+      "link": "https://www.theblock.co/news/regulation/2026-09-16-jpmorgan-clarity-act-crypto-bill-415280",
+      "published": "2026-09-16T17:01+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss",
+      "link": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
+      "published": "2026-09-16T16:21+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address",
-      "link": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-15T15:21+00:00"
+      "title": "Anchorage expands institutional custody to Etherlink, tokenized uranium",
+      "link": "https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-16T16:03+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Coinbase faces greater fallout from CLARITY Act setback: Saxo",
+      "link": "https://cointelegraph.com/news/coinbase-clarity-act-exposure-saxo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-16T15:52+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin awaits Fed rate decision below $76K as analysis discounts ‘dovish surprise’ odds",
+      "link": "https://cointelegraph.com/markets/bitcoin-awaits-fed-rate-decision-below-76k-as-analysis-discounts-dovish-surprise-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-16T15:30+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Hamas military wing told donors to avoid sending crypto directly from Binance, DOJ filing shows",
+      "link": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
+      "published": "2026-09-16T15:25+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: Six signs a crypto winter is ending",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/09/15/crypto-long-and-short-six-signs-a-crypto-winter-is-ending",
+      "published": "2026-09-16T14:59+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Payward plans to offer U.S. clients onchain perpetual futures on Hyperliquid",
+      "link": "https://www.coindesk.com/markets/2026/09/16/payward-plans-to-offer-u-s-clients-onchain-perpetual-futures-on-hyperliquid",
+      "published": "2026-09-16T14:35+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases",
+      "link": "https://www.coindesk.com/business/2026/09/16/blockchain-finance-platform-theo-launches-tokenized-silver-backed-by-usd40-million-in-active-leases",
+      "published": "2026-09-16T14:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A LatAm telecom operator is putting part of its finances on Avalanche",
+      "link": "https://www.coindesk.com/business/2026/09/15/a-latam-telecom-operator-is-putting-part-of-its-finances-on-avalanche",
+      "published": "2026-09-16T14:00+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Revolut ID thefts highlight KYC’s dangers: Here’s how to fix it",
+      "link": "https://cointelegraph.com/magazine/revolut-id-thefts-highlight-kycs-dangers-heres-how-to-fix-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-16T13:30+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A stolen coin can be returned. A leaked identity cannot.",
+      "link": "https://www.coindesk.com/opinion/2026/09/16/a-stolen-coin-can-be-returned-a-leaked-identity-cannot",
+      "published": "2026-09-16T13:00+00:00"
     },
     {
       "source": "The Block",
-      "title": "Lead Senate Republican Lummis rejects Democratic counteroffer as Clarity Act vote nears",
-      "link": "https://www.theblock.co/news/regulation/2026-09-15-senate-republican-lummis-rejects-democratic-counteroffer-clarity-act-vote-414850",
-      "published": "2026-09-15T14:38+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "European Central Bank calls for merchants to participate in digital euro pilot",
-      "link": "https://www.coindesk.com/policy/2026/09/15/european-central-bank-calls-for-merchants-to-participate-in-digital-euro-pilot",
-      "published": "2026-09-15T14:15+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Clarity Act's odds of passing plunge as Republicans reject Democrats' counter-proposal",
-      "link": "https://www.coindesk.com/policy/2026/09/15/clarity-act-s-odds-of-passing-plunge-as-republicans-reject-democrats-counter-proposal",
-      "published": "2026-09-15T14:13+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge",
-      "link": "https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge",
-      "published": "2026-09-15T13:43+00:00"
+      "title": "Bernstein says Clarity Act failure allows stablecoin rewards on idle balances to continue, expects ‘swift’ SEC and CFTC rulemaking",
+      "link": "https://www.theblock.co/news/regulation/2026-09-16-bernstein-says-clarity-act-failure-allows-stablecoin-rewards-on-idle-balances-to-continue-expects-swift-sec-and-cftc-rulemaking-415263",
+      "published": "2026-09-16T12:47+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "USDT payments feature in Polish energy giant’s failed $230M oil deal: FT",
-      "link": "https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-15T13:37+00:00"
+      "title": "Bernstein expects ‘aggressive’ rulemaking from SEC, CFTC, following CLARITY Act failure",
+      "link": "https://cointelegraph.com/news/bernstein-aggressive-rulemaking-sec-cftc-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-16T12:36+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Standard Chartered predicts Arbitrum's ARB to rise 70-fold to $10, citing Robinhood Chain revenue",
-      "link": "https://www.coindesk.com/markets/2026/09/15/standard-chartered-expects-arbitrum-s-arb-rising-70-fold-to-usd10-as-robinhood-boosts-its-revenue",
-      "published": "2026-09-15T13:25+00:00"
+      "title": "Bitcoin Core 32 enters final testing with faster validation, fee changes and security fixes",
+      "link": "https://www.coindesk.com/tech/2026/09/16/bitcoin-core-32-enters-final-testing-with-faster-validation-fee-changes-and-security-fixes",
+      "published": "2026-09-16T12:00+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Zcash holders back 25-second blocks, vote to keep ZEC halving schedule",
+      "link": "https://cointelegraph.com/news/zcash-nu7-poll-faster-blocks-zec-halvings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-16T11:46+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Circle launches Arc mainnet with USDC as native gas token",
+      "link": "https://cointelegraph.com/news/circle-arc-mainnet-launch-usdc-native-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-16T11:39+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "To ensure permanent economic innovation, we must pass the Clarity Act now",
-      "link": "https://www.coindesk.com/opinion/2026/09/15/to-ensure-permanent-economic-innovation-we-must-pass-the-clarity-act-now",
-      "published": "2026-09-15T12:00+00:00"
+      "title": "Bitcoin loses touch with the Dollar Index, U.S. stocks ahead of the Fed",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/16/bitcoin-loses-touch-with-the-dollar-index-u-s-stocks-ahead-of-the-fed",
+      "published": "2026-09-16T11:16+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin traders brace for Fed hike, but a surprise hold could pose bigger risk",
+      "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-traders-brace-for-fed-hike-but-a-surprise-hold-could-pose-bigger-risk",
+      "published": "2026-09-16T11:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Two Prime makes onchain finance push with $10 million-backed bitcoin yield vault",
+      "link": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault",
+      "published": "2026-09-16T11:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
+      "link": "https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails",
+      "published": "2026-09-16T10:48+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Deutsche Bank close to debuting crypto custody for institutions",
+      "link": "https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients",
+      "published": "2026-09-16T10:46+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin steady as stocks slide following Fed rate hike, Warsh press conference",
+      "link": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
+      "published": "2026-09-16T10:37+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
+      "link": "https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-16T10:33+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle debuts Arc blockchain which Jeremy Allaire calls ‘more consequential’ than USDC",
+      "link": "https://www.coindesk.com/business/2026/09/15/circle-debuts-arc-blockchain-which-jeremy-allaire-calls-more-consequential-than-usdc",
+      "published": "2026-09-16T10:30+00:00"
     },
     {
       "source": "The Block",
-      "title": "House committee releases sweeping crypto tax bill ahead of Wednesday markup",
-      "link": "https://www.theblock.co/news/regulation/2026-09-15-house-committee-crypto-tax-bill-414824",
-      "published": "2026-09-15T11:52+00:00"
+      "title": "Circle launches Arc mainnet with BlackRock and Visa among validators, mints 10 billion ARC tokens",
+      "link": "https://www.theblock.co/news/ecosystems/2026-09-16-circle-launches-arc-mainnet-with-blackrock-and-visa-among-validators-mints-10-billion-arc-tokens-415250",
+      "published": "2026-09-16T10:30+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ethiopia cuts Bitcoin miners’ power by 77% amid hydropower shortage: Report",
+      "link": "https://cointelegraph.com/news/ethiopia-bitcoin-mining-power-cut-hydro-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-16T10:11+00:00"
     },
     {
       "source": "The Block",
-      "title": "Standard Chartered sees Arbitrum at $10 by end-2030, up 70-fold",
-      "link": "https://www.theblock.co/news/markets/2026-09-15-standard-chartered-sees-arbitrum-at-10-by-end-2030-up-70-fold-414821",
-      "published": "2026-09-15T11:50+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ether, solana, XRP likely to gain if Clarity Act progresses",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/15/ether-solana-xrp-likely-to-gain-if-clarity-act-progresses",
-      "published": "2026-09-15T11:15+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why banks should stop worrying and learn to love the Clarity Act",
-      "link": "https://www.coindesk.com/opinion/2026/09/15/why-banks-should-stop-worrying-and-learn-to-love-the-clarity-act",
-      "published": "2026-09-15T11:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Velocity extends Series A to $48M at $200M valuation with backing from Visa, Circle, and Ripple",
-      "link": "https://www.coindesk.com/business/2026/09/10/velocity-extends-series-a-to-usd48m-at-usd200m-valuation-with-backing-from-visa-circle-and-ripple",
-      "published": "2026-09-15T11:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin gives back Monday's gain as Clarity Act odds fade on Polymarket",
-      "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-gives-back-monday-s-gain-as-clarity-act-odds-fade-on-polymarket",
-      "published": "2026-09-15T10:41+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "How a simple coding mistake let a hacker drain $7.8 million from a crypto wallet",
-      "link": "https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet",
-      "published": "2026-09-15T10:27+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Nigel Farage-backed Stack BTC plans to acquire a gold dealer for $16 million to fund bitcoin buy",
-      "link": "https://www.coindesk.com/business/2026/09/15/nigel-farage-backed-stack-btc-eyes-usd16-million-gold-dealer-deal-to-fund-bitcoin-buy",
-      "published": "2026-09-15T10:06+00:00"
+      "title": "Deutsche Bank plans bitcoin, ether custody for institutional clients in Europe",
+      "link": "https://www.theblock.co/news/business/2026-09-16-deutsche-bank-plans-bitcoin-ether-custody-for-institutional-clients-in-europe-415251",
+      "published": "2026-09-16T10:05+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "US House crypto tax package omits mining, staking reward deferral",
-      "link": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-15T10:04+00:00"
+      "title": "Italy investigates government email breach linked to Revolut data leak",
+      "link": "https://cointelegraph.com/news/italy-government-email-breach-revolut-data-leak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-16T09:58+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's Coinbase premium sinks to one-month low, here’s why",
+      "link": "https://www.coindesk.com/markets/2026/09/16/bitcoin-s-coinbase-premium-sinks-to-one-month-low-here-s-why",
+      "published": "2026-09-16T09:57+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
-      "link": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-15T09:40+00:00"
+      "title": "Bitcoin Coinbase Premium hits monthly low as CLARITY Act vote squeezes US demand",
+      "link": "https://cointelegraph.com/markets/bitcoin-coinbase-premium-hits-monthly-low-as-clarity-act-vote-squeezes-us-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-16T09:55+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals",
+      "link": "https://www.coindesk.com/business/2026/09/16/two-robinhood-engineers-charged-with-insider-trading-using-hyperliquid-perpetuals",
+      "published": "2026-09-16T09:42+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "ECB seeks online merchants for 2027 digital euro pilot",
+      "link": "https://cointelegraph.com/news/ecb-online-merchants-2027-digital-euro-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-16T08:36+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum, Base give up on common wallet standard after months of talks",
+      "link": "https://www.coindesk.com/tech/2026/09/16/ethereum-base-give-up-on-common-wallet-standard-after-months-of-talks",
+      "published": "2026-09-16T08:07+00:00"
     },
     {
       "source": "The Block",
-      "title": "Tonkeeper rebrands as Keeper with support for 7 networks, including Bitcoin and Ethereum",
-      "link": "https://www.theblock.co/news/business/2026-09-15-tonkeeper-rebrands-as-keeper-with-support-for-7-networks-including-bitcoin-and-ethereum-414807",
-      "published": "2026-09-15T09:35+00:00"
+      "title": "Underdog sues Connecticut to stop sports prediction market crackdown",
+      "link": "https://www.theblock.co/news/regulation/2026-09-16-underdog-sues-connecticut-415242",
+      "published": "2026-09-16T07:08+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine",
+      "link": "https://www.coindesk.com/markets/2026/09/16/fed-meeting-is-shaping-up-to-be-a-nightmare-for-warsh-bitcoin-might-still-shine",
+      "published": "2026-09-16T06:42+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "AI has been a ‘net negative’ for crypto: Phemex CEO",
+      "link": "https://cointelegraph.com/news/ai-has-been-a-net-negative-for-crypto-phemex-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-16T06:38+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings",
+      "link": "https://www.coindesk.com/tech/2026/09/16/zcash-holders-overwhelmingly-back-faster-transactions-and-bitcoin-style-halvings",
+      "published": "2026-09-16T05:54+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US charges ex-Robinhood engineers over alleged pre-listing crypto trades",
+      "link": "https://cointelegraph.com/news/robinhood-engineers-hyperliquid-listing-trades-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-16T04:48+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto longs worth $570 million wiped out as Clarity Act fails",
+      "link": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails",
+      "published": "2026-09-16T04:07+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs shed $450M in biggest outflow since June",
+      "link": "https://cointelegraph.com/news/bitcoin-etfs-shed-450m-in-biggest-outflow-since-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-16T04:05+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
+      "link": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000",
+      "published": "2026-09-16T03:37+00:00"
     },
     {
       "source": "The Block",
-      "title": "Ark Invest sells $14 million in Circle, trims Coinbase as crypto stocks rally",
-      "link": "https://www.theblock.co/news/business/2026-09-15-ark-invest-sells-circle-coinbase-414811",
-      "published": "2026-09-15T09:32+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Hong Kong crypto exchange CoinEx to cease operations after 9 years in business",
-      "link": "https://www.coindesk.com/business/2026/09/15/hong-kong-crypto-exchange-coinex-to-cease-operations-after-9-years-in-business",
-      "published": "2026-09-15T09:30+00:00"
+      "title": "‘Nothing truly structural’: Analysts downplay Clarity Act defeat as bitcoin, major crypto stocks dip",
+      "link": "https://www.theblock.co/news/markets/2026-09-15-analysts-downplay-clarity-act-415234",
+      "published": "2026-09-16T02:48+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Bitcoin short-term holders hit 30-day profit streak as bull-market odds improve: CryptoQuant",
-      "link": "https://cointelegraph.com/markets/bitcoin-short-term-holders-hit-30-day-profit-streak-as-bull-market-odds-improve-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-15T09:30+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales",
-      "link": "https://cointelegraph.com/news/doj-61m-usdt-forfeiture-iranian-oil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-15T08:46+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Solana more than triples transaction size limit with mainnet upgrade",
-      "link": "https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-15T08:18+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Zama expands confidential Morpho lineup after first vault hits $40 million, launches private swaps on Ethereum",
-      "link": "https://www.theblock.co/news/defi/2026-09-15-zama-expands-confidential-morpho-lineup-after-first-vault-hits-40-million-launches-private-swaps-on-ethereum-414613",
-      "published": "2026-09-15T07:05+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Clarity Act fails in Senate, sending crypto lower",
-      "link": "https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act",
-      "published": "2026-09-15T06:37+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Crypto exchange CoinEx to shut down after 9 years, citing market slump",
-      "link": "https://www.theblock.co/news/business/2026-09-15-coinex-shut-down-414788",
-      "published": "2026-09-15T06:22+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "XRP Ledger is one vote away from starting its next big payments upgrade",
-      "link": "https://www.coindesk.com/tech/2026/09/15/xrp-ledger-is-one-vote-away-from-starting-its-next-big-payments-upgrade",
-      "published": "2026-09-15T05:58+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer",
-      "link": "https://cointelegraph.com/news/clarity-act-odds-fall-democrats-gop-final-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-15T05:32+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Balancer proposes winding down protocol and distributing treasury to BAL holders",
-      "link": "https://www.theblock.co/news/defi/2026-09-15-balancer-proposes-winding-down-414782",
-      "published": "2026-09-15T05:29+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
-      "link": "https://www.coindesk.com/markets/2026/09/15/u-s-doj-seeks-usd61-million-in-what-it-calls-crypto-laundered-iranian-oil-proceeds",
-      "published": "2026-09-15T05:12+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Ethereum, Base developers abandon effort to align account abstraction proposals",
-      "link": "https://www.theblock.co/news/ecosystems/2026-09-15-ethereum-base-account-abstraction-proposals-414775",
-      "published": "2026-09-15T04:35+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum",
-      "link": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum",
-      "published": "2026-09-15T04:34+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction",
-      "link": "https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-15T04:19+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Democrats send counteroffer to Republicans over Clarity Act provisions",
-      "link": "https://www.coindesk.com/policy/2026/09/15/democrats-send-counteroffer-to-republicans-over-clarity-act-provisions",
-      "published": "2026-09-15T04:09+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "US DOJ seeks $61 million in crypto proceeds from illicit Iranian oil sales laundered on Binance",
-      "link": "https://www.theblock.co/news/regulation/2026-09-15-doj-61-million-crypto-proceeds-iranian-oil-sales-414768",
-      "published": "2026-09-15T04:01+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Balancer eyes wind-down after restructuring fails to revive revenue",
-      "link": "https://cointelegraph.com/news/balancer-eyes-wind-down-after-restructuring-fails-revive-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-15T03:33+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. House panel shares crypto tax bill ahead of hearing later this week",
-      "link": "https://www.coindesk.com/policy/2026/09/14/u-s-house-panel-shares-crypto-tax-bill-ahead-of-hearing-later-this-week",
-      "published": "2026-09-15T03:27+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin slips to $77,800 as Senate Clarity Act vote nears and oil prices climb",
-      "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-slips-to-usd77-800-as-senate-clarity-act-vote-nears-and-oil-prices-climb",
-      "published": "2026-09-15T03:23+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Democrats push back on GOP’s ‘final’ CLARITY offer with counterproposal: Politico",
-      "link": "https://cointelegraph.com/news/democrats-push-back-on-gops-final-clarity-offer-with-counterproposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-15T00:46+00:00"
+      "title": "Crypto industry turns to US regulators after CLARITY setback",
+      "link": "https://cointelegraph.com/news/crypto-industry-turns-to-us-regulators-after-clarity-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-16T02:24+00:00"
     }
   ],
-  "generated": "2026-09-16T00:02:37+00:00"
+  "generated": "2026-09-17T00:11:43+00:00"
 }
