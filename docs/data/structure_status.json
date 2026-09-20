@@ -1,8 +1,8 @@
 {
-  "ts": "2026-09-19T23:57:30+00:00",
+  "ts": "2026-09-20T23:46:08+00:00",
   "source": "Binance(data-api.binance.vision)",
-  "spot": 81280.8,
-  "bars": 354,
+  "spot": 81274.0,
+  "bars": 355,
   "from": "2025-10-01",
   "ath": {
     "price": 126200,
@@ -14,10 +14,10 @@
   "rsi_now": 64.4,
   "status": "重大结构破坏(站上 75k 超强重合带)",
   "struct_dir": 0.6,
-  "purity_pct": 45,
+  "purity_pct": 47,
   "counts": {
     "LH": 7,
-    "LL": 6,
+    "LL": 7,
     "HH": 8,
     "HL": 8
   },
@@ -26,15 +26,10 @@
     "date": "2026-09-03"
   },
   "last_swing_low": {
-    "price": 76264,
-    "date": "2026-09-02"
+    "price": 74968,
+    "date": "2026-09-15"
   },
   "recent_swings": [
-    {
-      "type": "L",
-      "price": 57800,
-      "date": "2026-07-01"
-    },
     {
       "type": "H",
       "price": 66956,
@@ -69,6 +64,11 @@
       "type": "H",
       "price": 82300,
       "date": "2026-09-03"
+    },
+    {
+      "type": "L",
+      "price": 74968,
+      "date": "2026-09-15"
     }
   ],
   "violations": [
