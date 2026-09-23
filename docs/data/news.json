@@ -4,274 +4,328 @@
   "items": [
     {
       "source": "CoinDesk",
-      "title": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
-      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
-      "published": "2026-09-21T20:39+00:00"
+      "title": "U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms",
+      "link": "https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms",
+      "published": "2026-09-23T00:00+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Crypto VC Hashed anchors new digital asset private credit fund targeting $300 million",
+      "link": "https://www.theblock.co/news/markets/2026-09-22-hashed-private-credit-fund-416013",
+      "published": "2026-09-22T22:30+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "CFTC warns ‘mention market’ prediction contracts carry heightened manipulation risk",
+      "link": "https://www.theblock.co/news/regulation/2026-09-22-cftc-advisory-mention-markets-manipulation-risk-416120",
+      "published": "2026-09-22T21:42+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Democrats 'chose visceral hatred for' Donald Trump over crypto Clarity Act, Lummis says",
+      "link": "https://www.coindesk.com/policy/2026/09/22/democrats-chose-visceral-hatred-for-donald-trump-over-crypto-clarity-act-lummis-says",
+      "published": "2026-09-22T21:29+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "CFTC Chairman Selig says markets must prepare for ‘mass tokenization’",
+      "link": "https://www.theblock.co/news/regulation/2026-09-22-cftc-selig-mass-tokenization-24-7-trading-416111",
+      "published": "2026-09-22T21:08+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Saudi Arabia exits China-backed mBridge CBDC project: FT",
-      "link": "https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-21T20:37+00:00"
+      "title": "Arch Lending eyes tokenized stocks as next collateral market",
+      "link": "https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-22T21:06+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Republican senator calls for probe into US presidents’ sons, citing crypto ventures",
+      "link": "https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-22T20:57+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto market structure can't wait for shot at post-election Clarity Act surge: White House",
+      "link": "https://www.coindesk.com/policy/2026/09/22/crypto-market-structure-can-t-wait-for-shot-at-post-election-clarity-act-surge-white-house",
+      "published": "2026-09-22T20:31+00:00"
+    },
+    {
+      "source": "美联储新闻稿",
+      "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
+      "published": "2026-09-22T20:30+00:00"
     },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-21T19:53+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
-      "link": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
-      "published": "2026-09-21T19:08+00:00"
+      "published": "2026-09-22T20:03+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Ondo lets institutions convert stocks directly into tokenized shares",
-      "link": "https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-21T18:35+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again",
-      "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-21T18:15+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Circle launches Bitcoin-backed USDC borrowing for institutional clients",
-      "link": "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-21T16:56+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-21T16:39+00:00"
+      "title": "Canada’s six largest banks explore tokenized Canadian dollar deposits",
+      "link": "https://cointelegraph.com/news/canada-six-largest-banks-explore-tokenized-canadian-dollar-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-22T19:56+00:00"
     },
     {
       "source": "The Block",
-      "title": "Clarity Act fallout: crypto’s Fairshake PAC commits $30 million against Sherrod Brown",
-      "link": "https://www.theblock.co/news/regulation/2026-09-21-clarity-act-fallout-cryptos-fairshake-pac-commits-30-million-against-sherrod-brown-415962",
-      "published": "2026-09-21T16:35+00:00"
+      "title": "Coinbase, Circle shares positioned for crypto recovery as estimates stabilize: William Blair",
+      "link": "https://www.theblock.co/news/markets/2026-09-22-coinbase-circle-shares-positioned-crypto-recovery-estimates-stabilize-william-blair-416083",
+      "published": "2026-09-22T18:44+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto political group plans to spend $30 million against Sherrod Brown's Senate bid",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/21/crypto-s-fairshake-repeats-history-with-usd30-million-to-oppose-sherrod-brown-senate-bid",
-      "published": "2026-09-21T16:01+00:00"
+      "title": "Canada's 'Big Six' banks to launch interbank tokenized deposit initiative",
+      "link": "https://www.coindesk.com/business/2026/09/22/canada-s-big-six-banks-unite-to-launch-interbank-tokenized-deposit-initiative",
+      "published": "2026-09-22T17:34+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight",
-      "link": "https://cointelegraph.com/news/crypto-biz-clarity-act-coinbase-sec-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-21T15:08+00:00"
+      "title": "Zcash gets first European ETP following US ETF launch",
+      "link": "https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-22T16:21+00:00"
     },
     {
       "source": "The Block",
-      "title": "Strive adds 1,355 bitcoin, picks up pace toward year-end second-place treasury goal",
-      "link": "https://www.theblock.co/news/markets/2026-09-21-strive-adds-1355-bitcoin-picks-up-pace-year-end-second-place-treasury-goal-415940",
-      "published": "2026-09-21T15:07+00:00"
+      "title": "Solo GP Jed Breed raises $15 million for his second early-stage crypto fund",
+      "link": "https://www.theblock.co/news/deals/2026-09-22-jed-breed-vc-second-crypto-fund-416075",
+      "published": "2026-09-22T16:15+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price seeks $86K as new support after oil dips below $90",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-seeks-86k-as-new-support-after-oil-dips-below-90?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-22T16:01+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CLARITY vote failure could stoke more crypto PAC spending in key races",
+      "link": "https://cointelegraph.com/news/failure-clarity-act-vote-us-lawmakers-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-22T15:55+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
+      "link": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-22T15:37+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "ECB plans to buy tokenized bonds with its own funds",
-      "link": "https://www.coindesk.com/policy/2026/09/21/ecb-announces-it-will-invest-in-tokenized-securities-via-new-pontes-platform",
-      "published": "2026-09-21T15:00+00:00"
+      "title": "Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody",
+      "link": "https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody",
+      "published": "2026-09-22T15:21+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act",
-      "link": "https://www.coindesk.com/policy/2026/09/21/banks-overseas-crypto-hubs-gain-from-clarity-act-s-senate-defeat-critics-say",
-      "published": "2026-09-21T14:53+00:00"
+      "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
+      "link": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
+      "published": "2026-09-22T14:32+00:00"
     },
     {
       "source": "The Block",
-      "title": "Coinbase opens IPO allocations to US customers, starting with Oura",
-      "link": "https://www.theblock.co/news/business/2026-09-21-coinbase-opens-ipo-allocations-us-customers-starting-oura-415942",
-      "published": "2026-09-21T14:47+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Kyle Samani predicts SOL flippening, claims ‘no one’ uses ETH",
-      "link": "https://cointelegraph.com/magazine/kyle-samani-predicts-sol-flippening-claims-no-one-uses-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-21T13:30+00:00"
+      "title": "Coinbase adds fixed-rate bitcoin-backed loans through Morpho Midnight",
+      "link": "https://www.theblock.co/news/defi/2026-09-22-coinbase-fixed-rate-bitcoin-loans-morpho-midnight-416050",
+      "published": "2026-09-22T14:13+00:00"
     },
     {
       "source": "The Block",
-      "title": "‘Crypto bull market is underway,’ Tom Lee says as Bitmine nears 5% Ethereum supply target with 27,562 ETH buy",
-      "link": "https://www.theblock.co/news/business/2026-09-21-crypto-bull-market-underway-tom-lee-says-bitmine-nears-5-ethereum-supply-target-with-27562-eth-buy-415923",
-      "published": "2026-09-21T13:14+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto",
-      "link": "https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto",
-      "published": "2026-09-21T13:11+00:00"
+      "title": "CME adds Bitcoin Cash and Uniswap futures as crypto derivatives push grows",
+      "link": "https://www.theblock.co/news/markets/2026-09-22-cme-adds-bitcoin-cash-and-uniswap-futures-as-crypto-derivatives-push-grows-416049",
+      "published": "2026-09-22T13:56+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Strategy buys 950 Bitcoin for $76M, repurchases $174M in STRC",
-      "link": "https://cointelegraph.com/news/strategy-950-btc-buy-strc-repurchase-174-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-21T12:48+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Treasury Secretary Scott Bessent champions dollar dominance across global markets and stablecoins",
-      "link": "https://www.coindesk.com/markets/2026/09/21/scott-bessent-champions-dollar-dominance-across-global-markets-and-stablecoins",
-      "published": "2026-09-21T12:44+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails",
-      "link": "https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails",
-      "published": "2026-09-21T12:17+00:00"
+      "title": "Big Questions: Does Satoshi actually own 1.1 million Bitcoin?",
+      "link": "https://cointelegraph.com/magazine/big-questions-does-satoshi-actually-own-1-million-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-22T13:30+00:00"
     },
     {
       "source": "The Block",
-      "title": "‘A little more orange’: Strategy buys 950 bitcoin for $76 million, bringing total holdings to 846,000 BTC",
-      "link": "https://www.theblock.co/news/business/2026-09-21-a-little-more-orange-strategy-bitcoin-michael-saylor-415893",
-      "published": "2026-09-21T12:09+00:00"
+      "title": "Binance takes $100 million Circle stake alongside five-year USDC deal",
+      "link": "https://www.theblock.co/news/business/2026-09-22-binance-takes-100-million-circle-stake-alongside-five-year-usdc-deal-416042",
+      "published": "2026-09-22T12:53+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Strategy returns to bitcoin buys, adding $75 million of BTC last week",
-      "link": "https://www.coindesk.com/markets/2026/09/21/strategy-returns-to-bitcoin-buys-adding-usd75-million-of-btc-last-week",
-      "published": "2026-09-21T12:08+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin's 44% gain in third quarter teases full-blown crypto bull run",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run",
-      "published": "2026-09-21T11:36+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Perp futures linked to 'bitcoin VIX' debut on Hyperliquid",
-      "link": "https://www.coindesk.com/markets/2026/09/21/perp-futures-linked-to-bitcoin-vix-debut-on-hyperliquid",
-      "published": "2026-09-21T11:30+00:00"
+      "title": "Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows",
+      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
+      "published": "2026-09-22T12:32+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "ECB launches Pontes to settle tokenized assets without stablecoins",
-      "link": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-21T11:27+00:00"
+      "title": "Binance takes $100M stake in Circle under expanded USDC deal",
+      "link": "https://cointelegraph.com/news/binance-stake-circle-expanded-usdc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-22T12:18+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money",
-      "link": "https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money",
-      "published": "2026-09-21T11:18+00:00"
+      "title": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
+      "link": "https://www.coindesk.com/business/2026/09/22/visa-partner-reap-eyes-local-currency-stablecoins-in-several-countries-for-24-7-onchain-fx",
+      "published": "2026-09-22T12:05+00:00"
     },
     {
       "source": "The Block",
-      "title": "Bitcoin taps $85,000 for first time since January as crypto short liquidations surge",
-      "link": "https://www.theblock.co/news/markets/2026-09-21-bitcoin-taps-85000-for-first-time-since-january-as-crypto-short-liquidations-surge-415905",
-      "published": "2026-09-21T10:56+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "NEAR jumps nearly 80% in a week as Intents volume nears $30B",
-      "link": "https://cointelegraph.com/markets/near-price-surge-intents-zcash-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-21T10:52+00:00"
+      "title": "SoFi begins stablecoin settlement on Mastercard network for program expected to exceed $25 billion in annualized volume",
+      "link": "https://www.theblock.co/news/business/2026-09-22-sofi-begins-stablecoin-settlement-on-mastercard-network-for-program-expected-to-exceed-25-billion-in-annualized-volume-416035",
+      "published": "2026-09-22T12:00+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin hits $85,000 as short squeeze forces out $648 million of bearish bets",
-      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-hits-usd85-000-as-short-squeeze-forces-out-usd648-million-of-bearish-bets",
-      "published": "2026-09-21T10:30+00:00"
+      "title": "A $3.2 million 'bitcoin butterfly' option trade bets on $95,000 by the end of October",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/22/a-usd3-2-million-bitcoin-butterfly-option-trade-bets-on-usd95-000-by-the-end-of-october",
+      "published": "2026-09-22T11:35+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "ECB to put its own money into tokenized securities via new Pontes DLT",
+      "link": "https://cointelegraph.com/news/ecb-money-tokenized-securities-pontes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-22T11:29+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "X sues its own users for running a fake bitcoin news bot farm",
-      "link": "https://www.coindesk.com/markets/2026/09/21/x-sues-its-won-users-for-running-a-fake-bitcoin-news-bot-farm",
-      "published": "2026-09-21T10:15+00:00"
+      "title": "Binance buys $100 million Circle stake in five-year USDC promotion deal",
+      "link": "https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal",
+      "published": "2026-09-22T11:07+00:00"
     },
     {
-      "source": "Cointelegraph",
-      "title": "BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week",
-      "link": "https://cointelegraph.com/markets/btc-price-nears-eight-month-high-above-85k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-21T10:15+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "X sues Bitcoin account operators over alleged $278K payout fraud",
-      "link": "https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-21T09:35+00:00"
+      "source": "CoinDesk",
+      "title": "Bitcoin recovers from Asian-session lows as falling oil price supports risk appetite",
+      "link": "https://www.coindesk.com/markets/2026/09/22/bitcoin-recovers-from-asian-session-lows-as-falling-oil-price-supports-risk-appetite",
+      "published": "2026-09-22T10:59+00:00"
     },
     {
       "source": "The Block",
-      "title": "X sues UK duo over alleged $277K crypto account payout fraud",
-      "link": "https://www.theblock.co/news/regulation/2026-09-21-x-sues-uk-duo-over-alleged-277k-crypto-account-payout-fraud-415889",
-      "published": "2026-09-21T09:24+00:00"
+      "title": "Bernstein sees annual prediction market volumes hitting $10 trillion by 2035 as financial assets overtake sports",
+      "link": "https://www.theblock.co/news/business/2026-09-22-bernstein-sees-annual-prediction-market-volumes-hitting-10-trillion-by-2035-as-financial-assets-overtake-sports-416030",
+      "published": "2026-09-22T10:56+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto enjoys bullish bounce post-Fed rate hike: Crypto Week Ahead",
-      "link": "https://www.coindesk.com/markets/2026/09/21/crypto-week-ahead",
-      "published": "2026-09-21T09:12+00:00"
+      "title": "Live updates: Bitcoin trades near $86,000 as U.S. stocks post small gains",
+      "link": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
+      "published": "2026-09-22T10:20+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
-      "link": "https://www.coindesk.com/business/2026/09/21/hana-bank-issues-south-korea-s-first-digital-bond-using-euroclear-s-blockchain",
-      "published": "2026-09-21T08:49+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin hits $87,000, while traders pile into leveraged bets",
-      "link": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
-      "published": "2026-09-21T08:39+00:00"
+      "title": "Binance probed by U.S. federal prosecutors for sanctions violations: Bloomberg",
+      "link": "https://www.coindesk.com/policy/2026/09/22/binance-probed-by-u-s-federal-prosecutors-for-sanctions-violations-bloomberg",
+      "published": "2026-09-22T10:07+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "ZetaChain holders approve plan to wind down L1, move ZETA to Solana",
-      "link": "https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-21T07:31+00:00"
+      "title": "Crypto metric signals altseason as Bitcoin market-cap share stalls below 60%",
+      "link": "https://cointelegraph.com/markets/crypto-metric-signals-altseason-as-bitcoin-market-cap-share-stalls-below-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-22T10:00+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Bank of Korea launches 24-hour won settlement pilot for foreign investors",
-      "link": "https://cointelegraph.com/news/bank-korea-won-settlement-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-21T06:41+00:00"
+      "title": "Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally",
+      "link": "https://cointelegraph.com/markets/crypto-market-cap-3-trillion-bitcoin-altcoins-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-22T09:58+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Kalshi faces ‘fake crypto volume’ allegations as critic flags identical $5,500 trades",
-      "link": "https://www.coindesk.com/markets/2026/09/21/kalshi-s-crypto-chief-responds-to-fake-crypto-volume-allegations-as-critic-flags-identical-usd5-500-trades",
-      "published": "2026-09-21T06:20+00:00"
+      "title": "Animoca Brands delays IPO plans, suspends merger talks with Currenc",
+      "link": "https://www.coindesk.com/business/2026/09/22/animoca-brands-delays-ipo-plans-suspends-merger-talks-with-currenc",
+      "published": "2026-09-22T09:47+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Bitcoin reclaims 50-week moving average as analysts eye end of bear market",
-      "link": "https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-21T04:29+00:00"
+      "title": "White hats outrun Coldcard hackers in 52-Bitcoin evacuation",
+      "link": "https://cointelegraph.com/news/white-hats-coldcard-btc-exploit-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-22T09:06+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Hana Bank taps Euroclear blockchain for $100M bond issuance: Report",
-      "link": "https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-21T04:27+00:00"
+      "title": "Crypto’s wild boom-and-bust cycles are fading, Solstice CEO says",
+      "link": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-22T08:06+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Spot bitcoin ETFs attract nearly $1 billion in largest daily inflow in 11 months",
+      "link": "https://www.theblock.co/news/markets/2026-09-22-spot-bitcoin-etfs-1-billion-daily-inflow-416005",
+      "published": "2026-09-22T07:44+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic",
-      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic",
-      "published": "2026-09-21T04:03+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin’s price has cleared a key hurdle that has historically preceded major bull runs",
-      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-s-price-has-cleared-a-key-hurdle-that-has-historically-preceded-major-bull-runs",
-      "published": "2026-09-21T03:56+00:00"
+      "title": "Spot bitcoin ETFs attracted nearly $1 billion on Monday, the 9th largest inflow ever",
+      "link": "https://www.coindesk.com/markets/2026/09/22/spot-bitcoin-etfs-attracted-nearly-usd1-billion-on-monday-the-9th-largest-inflow-ever",
+      "published": "2026-09-22T07:40+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "North Korean fake recruiters infect 30K devices, steal $10.7M in crypto",
-      "link": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-21T01:42+00:00"
+      "title": "Bitcoin ETFs flirt with $1B as inflows hit 2026 high",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-22T07:33+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Animoca puts Currenc merger on ice, delaying its Nasdaq debut",
+      "link": "https://cointelegraph.com/news/animoca-currenc-merger-delaying-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-22T06:48+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Whitehats move 52 bitcoin from the Coldcard hack to a recovery trust",
+      "link": "https://www.coindesk.com/markets/2026/09/22/whitehats-move-52-bitcoin-from-the-coldcard-hack-to-a-recovery-trust",
+      "published": "2026-09-22T06:27+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Onchain prediction market Trueo migrates to Ethereum; Vitalik Buterin welcomes ‘ethical’ market contender",
+      "link": "https://www.theblock.co/news/defi/2026-09-22-trueo-ethereum-migration-415999",
+      "published": "2026-09-22T06:01+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Australian 40-year economic outlook recognizes ‘AI revolution,’ omits crypto",
+      "link": "https://cointelegraph.com/news/australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-22T05:29+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Elon Musk's X brings crypto and stock trading via Coinbase, Kraken and Interactive Brokers partnership",
+      "link": "https://www.coindesk.com/markets/2026/09/22/elon-musk-s-x-brings-bitcoin-and-stock-trading-closer-to-the-timeline",
+      "published": "2026-09-22T05:26+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
+      "link": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000",
+      "published": "2026-09-22T04:33+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
+      "link": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
+      "published": "2026-09-22T04:15+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trueo prediction market moves from Base to Ethereum",
+      "link": "https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-22T04:03+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks",
+      "link": "https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-22T03:13+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Animoca Brands suspends merger deal that would have taken it public",
+      "link": "https://www.theblock.co/news/business/2026-09-21-animoca-brands-suspends-merger-deal-415991",
+      "published": "2026-09-22T02:46+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg",
+      "link": "https://cointelegraph.com/news/doj-probing-binance-over-alleged-iran-sanction-violations-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-22T02:22+00:00"
     }
   ],
-  "generated": "2026-09-22T00:38:55+00:00"
+  "generated": "2026-09-23T00:07:01+00:00"
 }
