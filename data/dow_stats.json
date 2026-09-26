@@ -1,9 +1,9 @@
 {
-  "ts": "2026-09-25T00:20:16+00:00",
+  "ts": "2026-09-26T00:25:24+00:00",
   "source": "Binance(data-api.binance.vision)",
   "weeks": 57,
-  "from": "2025-08-22",
-  "to": "2026-09-25",
+  "from": "2025-08-23",
+  "to": "2026-09-26",
   "baseline_pct": 14.3,
   "high_day_share": {
     "周一": 40.4,
@@ -110,14 +110,14 @@
       "intraday": -0.551
     },
     "周五": {
-      "daily": -0.028,
+      "daily": -0.038,
       "overnight": 0.0,
-      "intraday": -0.028
+      "intraday": -0.038
     },
     "周六": {
-      "daily": -0.084,
+      "daily": -0.063,
       "overnight": 0.0,
-      "intraday": -0.084
+      "intraday": -0.063
     },
     "周日": {
       "daily": 0.15,
