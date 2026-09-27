@@ -3,263 +3,77 @@
   "mode": "news",
   "items": [
     {
-      "source": "CoinDesk",
-      "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
-      "link": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
-      "published": "2026-09-25T22:17+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
-      "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
-      "published": "2026-09-25T21:17+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
-      "link": "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-25T20:37+00:00"
+      "source": "The Block",
+      "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
+      "link": "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944",
+      "published": "2026-09-26T17:24+00:00"
     },
     {
       "source": "The Block",
-      "title": "SEC crypto FAQ addresses token buybacks, network upgrades and promises of profit",
-      "link": "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914",
-      "published": "2026-09-25T20:32+00:00"
-    },
-    {
-      "source": "美联储新闻稿",
-      "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
-      "published": "2026-09-25T20:30+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
-      "link": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-25T20:26+00:00"
+      "title": "Kalshi loses appeal over Ohio and Tennessee sports betting laws, widening circuit split",
+      "link": "https://www.theblock.co/news/regulation/2026-09-26-kalshi-loses-appeal-over-ohio-and-tennessee-sports-betting-laws-widening-circuit-split-416937",
+      "published": "2026-09-26T15:17+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
-      "link": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
-      "published": "2026-09-25T20:01+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Blockchain Association CEO Summer Mersinger to step down, Kristin Smith to return as interim CEO",
-      "link": "https://www.theblock.co/news/regulation/2026-09-25-blockchain-association-ceo-summer-mersinger-tstep-down-kristin-smith-interim-ceo-416913",
-      "published": "2026-09-25T19:48+00:00"
+      "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
+      "link": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
+      "published": "2026-09-26T14:00+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
-      "link": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-25T18:56+00:00"
+      "title": "Kalshi loses appeal, setting up potential Supreme Court case",
+      "link": "https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-26T13:21+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
+      "link": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
+      "published": "2026-09-26T13:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+      "link": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
+      "published": "2026-09-26T12:56+00:00"
     },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-25T18:42+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide",
-      "link": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-25T18:33+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Man charged in $16 million crypto ‘massive pig butchering’ scam",
-      "link": "https://www.theblock.co/news/regulation/2026-09-25-man-charged-in-16-million-crypto-massive-pig-butchering-scam-416895",
-      "published": "2026-09-25T17:48+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitget clarifies $388M in assets affected by security breach",
-      "link": "https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-25T17:17+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Strategy seeks shareholder approval for daily preferred stock dividends",
-      "link": "https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-25T16:34+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto Biz: Wall Street and crypto fight for the same turf",
-      "link": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-25T15:49+00:00"
+      "published": "2026-09-26T12:17+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
-      "link": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
-      "published": "2026-09-25T14:41+00:00"
+      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+      "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+      "published": "2026-09-26T12:00+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
+      "link": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-26T09:02+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
+      "link": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-26T06:59+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Tokenization is moving faster than Washington",
-      "link": "https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington",
-      "published": "2026-09-25T14:37+00:00"
+      "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+      "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
+      "published": "2026-09-26T05:00+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Tether confirms minimal EQIBank exposure following $89M US asset seizure",
-      "link": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
-      "published": "2026-09-25T14:32+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Strategy proposes daily dividends to bring STRC back toward $100",
-      "link": "https://www.coindesk.com/markets/2026/09/25/strategy-proposes-daily-dividends-to-bring-strc-back-toward-usd100",
-      "published": "2026-09-25T14:22+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Magic Eden legacy approvals leave $5.7 million in NFTs exposed to exploit before rescue",
-      "link": "https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874",
-      "published": "2026-09-25T14:09+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans",
-      "link": "https://www.theblock.co/news/defi/2026-09-25-aave-v4-on-base-adds-coinbase-tokenized-stocks-as-collateral-for-usdc-loans-416372",
-      "published": "2026-09-25T14:00+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Strategy proposes daily dividends for STRC, STRD, STRF and STRK preferred stocks",
-      "link": "https://www.theblock.co/news/business/2026-09-25-strategy-proposes-daily-dividends-for-strc-strd-strf-and-strk-preferred-stocks-416869",
-      "published": "2026-09-25T13:48+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Exchanges reporting crypto gains to IRS becomes tax nightmare",
-      "link": "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-25T13:30+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "CoinMarketCap buys CoinGlass to expand crypto derivatives data",
-      "link": "https://cointelegraph.com/news/coinmarketcap-coinglass-expand-crypto-derivatives-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-25T12:44+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "SlowMist has yet to confirm crypto theft from iPhone Safari attack",
-      "link": "https://cointelegraph.com/news/no-confirmed-crypto-theft-iphone-safari-attack-slowmist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-25T12:19+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
-      "link": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
-      "published": "2026-09-25T11:54+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin holders are cashing out, just not the way they did at prior market tops",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
-      "published": "2026-09-25T11:29+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "IBIT options price trading more calmly after Bitcoin rebound",
-      "link": "https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-25T11:11+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Ethena expands USDe backing strategy into bStocks and equity perpetuals on Binance",
-      "link": "https://www.theblock.co/news/deals/2026-09-25-ethena-expands-usde-backing-strategy-into-bstocks-and-equity-perpetuals-on-binance-416367",
-      "published": "2026-09-25T11:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
-      "link": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
-      "published": "2026-09-25T09:59+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
-      "link": "https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-25T09:48+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit",
-      "link": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
-      "published": "2026-09-25T09:13+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "KelpDAO sues LayerZero, claims it endorsed setup used in $292 million rsETH exploit",
-      "link": "https://www.theblock.co/news/regulation/2026-09-25-kelpdao-sues-layerzero-claims-it-endorsed-setup-used-in-292-million-rseth-exploit-416361",
-      "published": "2026-09-25T09:13+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
-      "link": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
-      "published": "2026-09-25T08:58+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit",
-      "link": "https://cointelegraph.com/news/kelpdao-layerzero-lawsuit-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-25T08:51+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-25T07:41+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Samourai Wallet co-founder faces transfer after 30-day jail ordeal",
-      "link": "https://cointelegraph.com/news/samourai-wallet-co-founder-30-day-prison-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-25T07:28+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin moves to $84,000, oil slides on latest report of Middle East progress",
-      "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
-      "published": "2026-09-25T07:09+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Australian PM warns of AI’s ‘furious pace’ after agent breached government site",
-      "link": "https://cointelegraph.com/news/australia-pm-warns-of-ais-furious-pace-after-agent-breached-government-site?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-25T05:06+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork",
-      "link": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-25T04:41+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gracy Chen says",
-      "link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
-      "published": "2026-09-25T04:29+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Block brings Bitcoin Lightning payments to x402 for AI agents",
-      "link": "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-25T02:00+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
-      "link": "https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-09-25T00:32+00:00"
+      "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
+      "link": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
+      "published": "2026-09-26T04:30+00:00"
     }
   ],
-  "generated": "2026-09-26T00:25:25+00:00"
+  "generated": "2026-09-27T00:20:19+00:00"
 }

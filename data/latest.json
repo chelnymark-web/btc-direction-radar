@@ -1,43 +1,43 @@
 {
-  "ts": "2026-09-26T00:24:47+00:00",
-  "price": 84050.34,
-  "funding_rate": -6e-05,
-  "perp_basis_pct": -0.05168331264335436,
-  "funding_mean_30d": 4.055555555555556e-05,
-  "oi_btc": 573343908.0,
-  "oi_change_24h_pct": 3.676294688370918,
-  "top_ls_ratio": 0.6315789473684211,
-  "global_ls_ratio": 1.1704545454545454,
-  "taker_ratio": 11.787403632562393,
+  "ts": "2026-09-27T00:19:42+00:00",
+  "price": 84267.23,
+  "funding_rate": -4.5e-05,
+  "perp_basis_pct": -0.0408581129342842,
+  "funding_mean_30d": 3.91e-05,
+  "oi_btc": 555451064.0,
+  "oi_change_24h_pct": -1.2873329809575997,
+  "top_ls_ratio": 0.6103896103896104,
+  "global_ls_ratio": 1.1441941723341862,
+  "taker_ratio": 0.5057429237849083,
   "deriv_source": "gate.io(备用)",
-  "deribit_index": 84036.15,
-  "dvol": 34.66,
-  "skew_25d": 0.9299999999999997,
-  "atm_iv_near": 28.97,
-  "near_expiry_days": 6.3,
-  "atm_iv_next": 32.51,
-  "term_slope": 3.539999999999999,
-  "next_expiry_days": 20.3,
+  "deribit_index": 84249.07,
+  "dvol": 34.89,
+  "skew_25d": 0.6600000000000001,
+  "atm_iv_near": 31.07,
+  "near_expiry_days": 5.3,
+  "atm_iv_next": 33.1,
+  "term_slope": 2.030000000000001,
+  "next_expiry_days": 19.3,
   "flags": {
     "funding_rate": {
       "level": 2,
       "side": "short",
-      "note": "历史百分位 1%"
+      "note": "历史百分位 2%"
     },
     "top_ls_ratio": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 57%"
+      "note": "历史百分位 41%"
     },
     "global_ls_ratio": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 45%"
+      "note": "历史百分位 43%"
     },
     "perp_basis_pct": {
-      "level": 2,
-      "side": "short",
-      "note": "历史百分位 8%"
+      "level": 0,
+      "side": null,
+      "note": "历史百分位 59%"
     },
     "skew_25d": {
       "level": 0,
@@ -45,10 +45,10 @@
       "note": "历史百分位 30%"
     },
     "dvol": {
-      "level": 2,
+      "level": 1,
       "side": null,
-      "note": "历史百分位 4%"
+      "note": "历史百分位 12%"
     }
   },
-  "bias_score": -33
+  "bias_score": -17
 }
