@@ -1,6 +1,6 @@
 {
-  "ts": "2026-09-27T00:20:17+00:00",
-  "spot": 84267.23,
+  "ts": "2026-09-28T00:12:20+00:00",
+  "spot": 84385.51,
   "bands": [
     {
       "lo": 84938,
@@ -15,7 +15,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 0.8
+      "dist_pct": 0.7
     },
     {
       "lo": 92778,
@@ -30,7 +30,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 10.1
+      "dist_pct": 9.9
     },
     {
       "lo": 75017,
@@ -47,7 +47,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "下方",
-      "dist_pct": -10.6
+      "dist_pct": -10.7
     },
     {
       "lo": 73776,
@@ -62,7 +62,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "下方",
-      "dist_pct": -12.4
+      "dist_pct": -12.6
     },
     {
       "lo": 70806,
@@ -77,22 +77,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "下方",
-      "dist_pct": -16.0
-    },
-    {
-      "lo": 68000,
-      "hi": 68000,
-      "mid": 68000,
-      "members": [
-        "CME 缺口(本地 TradingView 确认确切边界)"
-      ],
-      "sources": [
-        "CME"
-      ],
-      "n_sources": 1,
-      "confluence": false,
-      "side": "下方",
-      "dist_pct": -19.3
+      "dist_pct": -16.1
     },
     {
       "lo": 100619,
@@ -107,7 +92,22 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 19.4
+      "dist_pct": 19.2
+    },
+    {
+      "lo": 68000,
+      "hi": 68000,
+      "mid": 68000,
+      "members": [
+        "CME 缺口(本地 TradingView 确认确切边界)"
+      ],
+      "sources": [
+        "CME"
+      ],
+      "n_sources": 1,
+      "confluence": false,
+      "side": "下方",
+      "dist_pct": -19.4
     },
     {
       "lo": 66739,
@@ -122,7 +122,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "下方",
-      "dist_pct": -20.8
+      "dist_pct": -20.9
     },
     {
       "lo": 65749,
@@ -137,7 +137,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "下方",
-      "dist_pct": -22.0
+      "dist_pct": -22.1
     },
     {
       "lo": 64345,
@@ -152,7 +152,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "下方",
-      "dist_pct": -23.6
+      "dist_pct": -23.7
     },
     {
       "lo": 61951,
@@ -169,7 +169,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "下方",
-      "dist_pct": -26.0
+      "dist_pct": -26.1
     },
     {
       "lo": 60961,
@@ -184,7 +184,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "下方",
-      "dist_pct": -27.7
+      "dist_pct": -27.8
     },
     {
       "lo": 59557,
@@ -201,7 +201,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "下方",
-      "dist_pct": -29.1
+      "dist_pct": -29.2
     },
     {
       "lo": 110319,
@@ -216,7 +216,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 30.9
+      "dist_pct": 30.7
     },
     {
       "lo": 41485,
@@ -246,7 +246,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 71.0
+      "dist_pct": 70.7
     },
     {
       "lo": 18495,
@@ -276,7 +276,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 98.3
+      "dist_pct": 98.0
     }
   ],
   "confluence_bands": [
@@ -295,7 +295,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "下方",
-      "dist_pct": -10.6
+      "dist_pct": -10.7
     },
     {
       "lo": 61951,
@@ -312,7 +312,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "下方",
-      "dist_pct": -26.0
+      "dist_pct": -26.1
     },
     {
       "lo": 59557,
@@ -329,7 +329,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "下方",
-      "dist_pct": -29.1
+      "dist_pct": -29.2
     }
   ]
 }

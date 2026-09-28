@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-27T00:20:16+00:00",
+  "ts": "2026-09-28T00:12:18+00:00",
   "components": {
     "ndx": {
       "name": "纳指100",
@@ -48,13 +48,13 @@
     "oil": {
       "name": "WTI原油",
       "symbol": "CL=F",
-      "value": 92.41,
-      "dod_pct": -2.33,
-      "w5_pct": -7.87,
-      "level": 1,
-      "direction": 1,
+      "value": 93.23,
+      "dod_pct": 0.89,
+      "w5_pct": -2.66,
+      "level": 0,
+      "direction": 0,
       "weight": 0.1,
-      "note": "↓-2.33%(5日 -7.9%)|急升=通胀火星+强化鹰派/滞胀(对 BTC 偏空);急跌=需求忧虑但缓解通胀压力 → 偏多 BTC"
+      "note": "↑+0.89%(5日 -2.7%)|急升=通胀火星+强化鹰派/滞胀(对 BTC 偏空);急跌=需求忧虑但缓解通胀压力 (变动温和,近中性)"
     }
   },
   "indices": [
@@ -147,13 +147,13 @@
   "gold": {
     "name": "黄金",
     "symbol": "GC=F",
-    "value": 4321.2,
-    "dod_pct": 0.54,
-    "falling": false,
-    "note": "↑+0.54%;只在与 BTC 同向下跌时读作恐慌最深处(去货币化/流动性危机)"
+    "value": 4290.5,
+    "dod_pct": -0.71,
+    "falling": true,
+    "note": "↓-0.71%;只在与 BTC 同向下跌时读作恐慌最深处(去货币化/流动性危机)"
   },
   "coverage": "5/5",
-  "macro_dir": 0.175,
-  "macro_bias": 18,
+  "macro_dir": 0.125,
+  "macro_bias": 12,
   "panic_extreme": false
 }
