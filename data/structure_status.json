@@ -1,17 +1,17 @@
 {
-  "ts": "2026-09-28T00:23:47+00:00",
+  "ts": "2026-09-29T01:34:06+00:00",
   "source": "Binance(data-api.binance.vision)",
-  "spot": 84903.1,
-  "bars": 363,
+  "spot": 82899.0,
+  "bars": 364,
   "from": "2025-10-01",
   "ath": {
     "price": 126200,
     "date": "2025-10-06"
   },
   "fractal_n": 5,
-  "dd_from_ath_pct": -32.7,
+  "dd_from_ath_pct": -34.3,
   "macro_trend": "宏观下跌",
-  "rsi_now": 66.2,
+  "rsi_now": 58.3,
   "status": "重大结构破坏(站上 75k 超强重合带)",
   "struct_dir": 0.6,
   "purity_pct": 45,
