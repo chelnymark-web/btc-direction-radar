@@ -1,9 +1,9 @@
 {
-  "ts": "2026-09-30T01:08:48+00:00",
+  "ts": "2026-10-01T01:08:56+00:00",
   "source": "Yahoo BTC=F(CME 连续期货)",
-  "spot": 83422.9,
+  "spot": 83604.6,
   "history_from": "2017-12-18",
-  "history_bars": 2209,
+  "history_bars": 2210,
   "total_gaps": 473,
   "unfilled_count": 14,
   "gaps": [
@@ -17,7 +17,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": 14.5,
+      "dist_pct": 14.2,
       "side": "上方"
     },
     {
@@ -30,7 +30,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -35.1,
+      "dist_pct": -35.3,
       "side": "下方"
     },
     {
@@ -43,7 +43,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": 39.5,
+      "dist_pct": 39.2,
       "side": "上方"
     },
     {
@@ -56,7 +56,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -42.3,
+      "dist_pct": -42.4,
       "side": "下方"
     },
     {
@@ -69,7 +69,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -49.9,
+      "dist_pct": -50.1,
       "side": "下方"
     },
     {
@@ -82,7 +82,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -58.8,
+      "dist_pct": -58.9,
       "side": "下方"
     },
     {
@@ -95,7 +95,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -64.3,
+      "dist_pct": -64.4,
       "side": "下方"
     },
     {
@@ -121,7 +121,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -75.3,
+      "dist_pct": -75.4,
       "side": "下方"
     },
     {
@@ -147,7 +147,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -80.1,
+      "dist_pct": -80.2,
       "side": "下方"
     },
     {
@@ -173,7 +173,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -86.5,
+      "dist_pct": -86.6,
       "side": "下方"
     },
     {
