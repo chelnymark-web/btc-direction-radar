@@ -1,54 +1,54 @@
 {
-  "ts": "2026-10-01T01:08:22+00:00",
-  "price": 83604.65,
-  "funding_rate": 4.2e-05,
-  "perp_basis_pct": -0.048430320562302086,
-  "funding_mean_30d": 3.5900000000000005e-05,
-  "oi_btc": 516753360.0,
-  "oi_change_24h_pct": 0.1722793044668354,
-  "top_ls_ratio": 0.5822784810126582,
-  "global_ls_ratio": 1.2643132397467658,
-  "taker_ratio": 0.5186370319121335,
+  "ts": "2026-10-02T01:11:14+00:00",
+  "price": 84679.98,
+  "funding_rate": -5e-06,
+  "perp_basis_pct": -0.04922060680693714,
+  "funding_mean_30d": 3.41e-05,
+  "oi_btc": 523145512.0,
+  "oi_change_24h_pct": 1.036513934069713,
+  "top_ls_ratio": 0.6075949367088608,
+  "global_ls_ratio": 1.016338062772557,
+  "taker_ratio": 0.1369432149463917,
   "deriv_source": "gate.io(备用)",
-  "deribit_index": 83548.31,
-  "dvol": 35.28,
-  "skew_25d": 0.7199999999999989,
-  "atm_iv_near": 31.32,
-  "near_expiry_days": 8.3,
-  "atm_iv_next": 33.68,
-  "term_slope": 2.3599999999999994,
-  "next_expiry_days": 29.3,
+  "deribit_index": 84649.24,
+  "dvol": 36.48,
+  "skew_25d": 1.610000000000003,
+  "atm_iv_near": 30.95,
+  "near_expiry_days": 7.3,
+  "atm_iv_next": 33.62,
+  "term_slope": 2.669999999999998,
+  "next_expiry_days": 21.3,
   "flags": {
     "funding_rate": {
-      "level": 0,
-      "side": null,
-      "note": "历史百分位 60%"
+      "level": 1,
+      "side": "short",
+      "note": "历史百分位 14%"
     },
     "top_ls_ratio": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 28%"
+      "note": "历史百分位 42%"
     },
     "global_ls_ratio": {
-      "level": 0,
-      "side": null,
-      "note": "历史百分位 53%"
+      "level": 1,
+      "side": "short",
+      "note": "历史百分位 21%"
     },
     "perp_basis_pct": {
       "level": 1,
       "side": "short",
-      "note": "历史百分位 25%"
+      "note": "历史百分位 17%"
     },
     "skew_25d": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 31%"
+      "note": "历史百分位 39%"
     },
     "dvol": {
-      "level": 1,
+      "level": 0,
       "side": null,
-      "note": "历史百分位 19%"
+      "note": "历史百分位 39%"
     }
   },
-  "bias_score": -8
+  "bias_score": -25
 }
