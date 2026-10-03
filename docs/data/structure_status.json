@@ -1,40 +1,35 @@
 {
-  "ts": "2026-10-02T01:22:50+00:00",
+  "ts": "2026-10-03T00:59:25+00:00",
   "source": "Binance(data-api.binance.vision)",
-  "spot": 84548.0,
-  "bars": 367,
+  "spot": 84656.8,
+  "bars": 368,
   "from": "2025-10-01",
   "ath": {
     "price": 126200,
     "date": "2025-10-06"
   },
   "fractal_n": 5,
-  "dd_from_ath_pct": -33.0,
+  "dd_from_ath_pct": -32.9,
   "macro_trend": "宏观下跌",
-  "rsi_now": 63.1,
+  "rsi_now": 63.4,
   "status": "重大结构破坏(站上 75k 超强重合带)",
   "struct_dir": 0.6,
-  "purity_pct": 45,
+  "purity_pct": 44,
   "counts": {
     "LH": 7,
     "LL": 7,
     "HH": 9,
-    "HL": 8
+    "HL": 9
   },
   "last_swing_high": {
     "price": 87396,
     "date": "2026-09-21"
   },
   "last_swing_low": {
-    "price": 74968,
-    "date": "2026-09-15"
+    "price": 82563,
+    "date": "2026-09-28"
   },
   "recent_swings": [
-    {
-      "type": "L",
-      "price": 62275,
-      "date": "2026-08-01"
-    },
     {
       "type": "H",
       "price": 65474,
@@ -69,15 +64,14 @@
       "type": "H",
       "price": 87396,
       "date": "2026-09-21"
+    },
+    {
+      "type": "L",
+      "price": 82563,
+      "date": "2026-09-28"
     }
   ],
   "violations": [
-    {
-      "type": "HH",
-      "date": "2026-05-06",
-      "price": 82850,
-      "note": "高点抬高=下跌结构第一道裂缝"
-    },
     {
       "type": "HH",
       "date": "2026-08-28",
@@ -142,6 +136,12 @@
       "type": "HL",
       "date": "2026-09-02",
       "price": 76264,
+      "note": "低点抬高=更强的反转信号"
+    },
+    {
+      "type": "HL",
+      "date": "2026-09-28",
+      "price": 82563,
       "note": "低点抬高=更强的反转信号"
     }
   ],
