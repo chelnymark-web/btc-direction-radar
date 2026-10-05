@@ -1,61 +1,13 @@
 {
-  "kind": "daily",
-  "mode": "news",
+  "kind": "weekly",
+  "mode": "calendar",
+  "window_days": 7,
   "items": [
     {
-      "source": "CoinDesk",
-      "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
-      "link": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
-      "published": "2026-10-03T16:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
-      "link": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
-      "published": "2026-10-03T16:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
-      "link": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
-      "published": "2026-10-03T15:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto's Sisyphean struggle",
-      "link": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
-      "published": "2026-10-03T13:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
-      "link": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
-      "published": "2026-10-03T13:00+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-03T12:20+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
-      "link": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-03T11:59+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Community banks sue OCC over trust bank charters of crypto firms",
-      "link": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-03T09:25+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
-      "link": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-03T07:06+00:00"
+      "date": "2026-10-07",
+      "name": "FOMC Meeting Minutes(USD·高影响)",
+      "source": "ForexFactory"
     }
   ],
-  "generated": "2026-10-04T00:23:59+00:00"
+  "generated": "2026-10-05T00:21:59+00:00"
 }
