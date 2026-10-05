@@ -1,13 +1,61 @@
 {
-  "kind": "weekly",
-  "mode": "calendar",
-  "window_days": 7,
+  "kind": "daily",
+  "mode": "news",
   "items": [
     {
-      "date": "2026-10-07",
-      "name": "FOMC Meeting Minutes(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "Cointelegraph",
+      "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-04T22:31+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-04T18:51+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "There's an election next month: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
+      "published": "2026-10-04T18:30+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto poured years into new products. The next challenge is keeping users",
+      "link": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
+      "published": "2026-10-04T14:00+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trump taps intel chief Jay Clayton to lead new Super Intelligence Force",
+      "link": "https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-04T13:48+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
+      "link": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
+      "published": "2026-10-04T13:00+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
+      "link": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-04T12:42+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
+      "link": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-04T09:40+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
+      "link": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-04T07:18+00:00"
     }
   ],
-  "generated": "2026-10-05T00:21:59+00:00"
+  "generated": "2026-10-05T00:32:14+00:00"
 }
