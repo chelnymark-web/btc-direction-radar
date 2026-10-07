@@ -1,40 +1,35 @@
 {
-  "ts": "2026-10-06T02:06:46+00:00",
+  "ts": "2026-10-07T01:15:21+00:00",
   "source": "Binance(data-api.binance.vision)",
-  "spot": 85566.8,
-  "bars": 371,
+  "spot": 85410.0,
+  "bars": 372,
   "from": "2025-10-01",
   "ath": {
     "price": 126200,
     "date": "2025-10-06"
   },
   "fractal_n": 5,
-  "dd_from_ath_pct": -32.2,
+  "dd_from_ath_pct": -32.3,
   "macro_trend": "宏观下跌",
-  "rsi_now": 63.5,
+  "rsi_now": 62.6,
   "status": "重大结构破坏(站上 75k 超强重合带)",
   "struct_dir": 0.6,
-  "purity_pct": 44,
+  "purity_pct": 45,
   "counts": {
-    "LH": 7,
+    "LH": 8,
     "LL": 7,
     "HH": 9,
     "HL": 9
   },
   "last_swing_high": {
-    "price": 87396,
-    "date": "2026-09-21"
+    "price": 87220,
+    "date": "2026-10-02"
   },
   "last_swing_low": {
     "price": 82563,
     "date": "2026-09-28"
   },
   "recent_swings": [
-    {
-      "type": "H",
-      "price": 65474,
-      "date": "2026-08-09"
-    },
     {
       "type": "L",
       "price": 62535,
@@ -69,6 +64,11 @@
       "type": "L",
       "price": 82563,
       "date": "2026-09-28"
+    },
+    {
+      "type": "H",
+      "price": 87220,
+      "date": "2026-10-02"
     }
   ],
   "violations": [
