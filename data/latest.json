@@ -1,54 +1,54 @@
 {
-  "ts": "2026-10-10T01:33:29+00:00",
-  "price": 82609.6,
-  "funding_rate": 2e-06,
-  "perp_basis_pct": -0.045394239894636944,
-  "funding_mean_30d": 3.0011111111111114e-05,
-  "oi_btc": 496429496.0,
-  "oi_change_24h_pct": -3.8871906182000453,
-  "top_ls_ratio": 0.5324675324675325,
-  "global_ls_ratio": 1.5264631564570101,
-  "taker_ratio": 0.1552766943643661,
+  "ts": "2026-10-11T00:43:01+00:00",
+  "price": 82961.5,
+  "funding_rate": -3.2e-05,
+  "perp_basis_pct": -0.05383219927316104,
+  "funding_mean_30d": 2.8033333333333335e-05,
+  "oi_btc": 518191360.0,
+  "oi_change_24h_pct": 4.393689793833731,
+  "top_ls_ratio": 0.4819277108433735,
+  "global_ls_ratio": 1.4301212507977026,
+  "taker_ratio": 5.747183979974968,
   "deriv_source": "gate.io(备用)",
-  "deribit_index": 82542.05,
-  "dvol": 36.57,
-  "skew_25d": 2.9599999999999973,
-  "atm_iv_near": 30.23,
-  "near_expiry_days": 6.3,
-  "atm_iv_next": 32.71,
-  "term_slope": 2.4800000000000004,
-  "next_expiry_days": 20.3,
+  "deribit_index": 82879.95,
+  "dvol": 36.94,
+  "skew_25d": 2.4800000000000004,
+  "atm_iv_near": 30.96,
+  "near_expiry_days": 5.3,
+  "atm_iv_next": 32.95,
+  "term_slope": 1.990000000000002,
+  "next_expiry_days": 19.3,
   "flags": {
     "funding_rate": {
-      "level": 1,
+      "level": 2,
       "side": "short",
-      "note": "历史百分位 23%"
+      "note": "历史百分位 4%"
     },
     "top_ls_ratio": {
       "level": 2,
       "side": "short",
-      "note": "历史百分位 3%"
+      "note": "历史百分位 0%"
     },
     "global_ls_ratio": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 72%"
+      "note": "历史百分位 70%"
     },
     "perp_basis_pct": {
-      "level": 0,
-      "side": null,
-      "note": "历史百分位 43%"
+      "level": 2,
+      "side": "short",
+      "note": "历史百分位 5%"
     },
     "skew_25d": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 59%"
+      "note": "历史百分位 50%"
     },
     "dvol": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 43%"
+      "note": "历史百分位 47%"
     }
   },
-  "bias_score": -25
+  "bias_score": -50
 }

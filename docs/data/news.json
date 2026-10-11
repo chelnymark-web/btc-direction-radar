@@ -3,287 +3,83 @@
   "mode": "news",
   "items": [
     {
-      "source": "CoinDesk",
-      "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
-      "link": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
-      "published": "2026-10-09T21:21+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
-      "link": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-09T20:39+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "New York permanently bars Celsius founder Mashinsky in $35M fraud settlement",
-      "link": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-09T20:14+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
-      "link": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-09T19:04+00:00"
+      "source": "The Block",
+      "title": "Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ",
+      "link": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
+      "published": "2026-10-10T18:35+00:00"
     },
     {
       "source": "The Block",
-      "title": "Former FTX COO says Netflix’s ‘Altruists’ trailer ‘made me physically throw up’",
-      "link": "https://www.theblock.co/news/business/2026-10-09-former-ftx-coo-netflix-the-altruists-trailer-418208",
-      "published": "2026-10-09T18:51+00:00"
+      "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
+      "link": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
+      "published": "2026-10-10T15:10+00:00"
     },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-09T18:30+00:00"
+      "published": "2026-10-10T12:30+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Robinhood Chain considers technology that gives paying traders priority",
-      "link": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
-      "published": "2026-10-09T18:11+00:00"
+      "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+      "link": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+      "published": "2026-10-10T12:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
+      "link": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
+      "published": "2026-10-10T12:00+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
-      "link": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-09T17:21+00:00"
+      "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
+      "link": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-10T11:52+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
+      "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+      "published": "2026-10-10T11:00+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
-      "link": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-09T17:02+00:00"
+      "title": "Tech chief says EU can fend off rogue AI risk: Report",
+      "link": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-10T08:41+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
-      "link": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-09T16:22+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Blockchain.com seeks CFTC greenlight for US prediction markets, crypto derivatives trading: CNBC",
-      "link": "https://www.theblock.co/news/business/2026-10-09-blockchain-com-cftc-license-prediction-markets-derivatives-418192",
-      "published": "2026-10-09T16:05+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold",
-      "link": "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-09T15:51+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin consolidates near $82.5K as crypto weathers Ledger theft reports",
-      "link": "https://cointelegraph.com/markets/bitcoin-consolidates-crypto-weathers-ledger-theft-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-09T15:20+00:00"
+      "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+      "link": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-10T07:10+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
-      "link": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
-      "published": "2026-10-09T14:55+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Ledger investigates wallet drains involving CryptoBilis buyers; estimate tops $86 million in losses",
-      "link": "https://www.theblock.co/news/business/2026-10-09-ledger-cryptobilis-fund-losses-418163",
-      "published": "2026-10-09T14:52+00:00"
+      "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+      "published": "2026-10-10T05:43+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
-      "link": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
-      "published": "2026-10-09T14:47+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "US targets $1 billion Iran-linked crypto seizure, Bessent says ‘we know where it is’",
-      "link": "https://www.theblock.co/news/regulation/2026-10-09-us-targets-1-billion-iran-linked-crypto-seizure-bessent-says-we-know-where-it-is-418151",
-      "published": "2026-10-09T14:41+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "New York AG secures up to $35 million from former Celsius CEO Alex Mashinsky",
-      "link": "https://www.theblock.co/news/regulation/2026-10-09-ny-attorney-general-alex-mashinsky-celsius-35-million-ban-418154",
-      "published": "2026-10-09T14:16+00:00"
-    },
-    {
-      "source": "美联储新闻稿",
-      "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
-      "published": "2026-10-09T14:00+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures",
-      "link": "https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-09T13:49+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "France is world’s most dangerous place for Bitcoiners: 90 attacks in 7 months",
-      "link": "https://cointelegraph.com/magazine/france-is-worlds-most-dangerous-place-for-bitcoiners-90-attacks-in-7-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-09T13:30+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Base creator Jesse Pollak says equities and non-dollar stablecoins will lead upcoming ‘tokenization supercycle’",
-      "link": "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144",
-      "published": "2026-10-09T13:12+00:00"
+      "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+      "link": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+      "published": "2026-10-10T04:44+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
-      "link": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
-      "published": "2026-10-09T12:23+00:00"
+      "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+      "link": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+      "published": "2026-10-10T04:20+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Zcash developers set January target for quantum-resistant payments after ‘bunker mode’ scare",
-      "link": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
-      "published": "2026-10-09T11:39+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
-      "published": "2026-10-09T11:09+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
-      "link": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-09T10:49+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
-      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
-      "published": "2026-10-09T10:44+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16",
-      "link": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
-      "published": "2026-10-09T10:40+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "UK sanctions three crypto exchanges tied to Russian illicit funds",
-      "link": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-09T10:34+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5 million round led by Bain Capital Crypto",
-      "link": "https://www.theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131",
-      "published": "2026-10-09T10:33+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
-      "link": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
-      "published": "2026-10-09T10:16+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "French lawmakers back stablecoin swap tax in 2027 budget bill",
-      "link": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-09T10:16+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
-      "link": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
-      "published": "2026-10-09T10:14+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations",
-      "link": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-crypto-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-09T09:50+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
-      "link": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
-      "published": "2026-10-09T09:20+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI",
-      "link": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
-      "published": "2026-10-09T09:08+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round",
-      "link": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
-      "published": "2026-10-09T09:06+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin, Ether ETFs’ October outflows swell toward $1B",
-      "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-09T07:34+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin slips from day's highs, set to close week with a loss",
-      "link": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
-      "published": "2026-10-09T06:51+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
-      "link": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
-      "published": "2026-10-09T06:40+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto projects apply for Anthropic’s new frontier AI security scanner",
-      "link": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-09T05:34+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Trump administration outlines quantum, AI initiatives in $6B science push",
-      "link": "https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-09T05:25+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
-      "link": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
-      "published": "2026-10-09T05:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
-      "link": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
-      "published": "2026-10-09T04:21+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush",
-      "link": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
-      "published": "2026-10-09T04:04+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
-      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
-      "published": "2026-10-09T03:27+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
-      "link": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-09T03:08+00:00"
+      "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
+      "link": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
+      "published": "2026-10-10T03:00+00:00"
     }
   ],
-  "generated": "2026-10-10T01:34:07+00:00"
+  "generated": "2026-10-11T00:43:38+00:00"
 }
