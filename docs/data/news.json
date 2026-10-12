@@ -1,53 +1,79 @@
 {
-  "kind": "weekly",
-  "mode": "calendar",
-  "window_days": 7,
+  "kind": "daily",
+  "mode": "news",
   "items": [
     {
-      "date": "2026-10-14",
-      "name": "Core CPI m/m(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "Cointelegraph",
+      "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-11T22:57+00:00"
     },
     {
-      "date": "2026-10-14",
-      "name": "Core CPI y/y(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "The Block",
+      "title": "Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid’s ETH prices",
+      "link": "https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239",
+      "published": "2026-10-11T22:26+00:00"
     },
     {
-      "date": "2026-10-14",
-      "name": "CPI m/m(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "CoinDesk",
+      "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
+      "published": "2026-10-11T18:30+00:00"
     },
     {
-      "date": "2026-10-14",
-      "name": "CPI y/y(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "The Block",
+      "title": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
+      "link": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
+      "published": "2026-10-11T18:07+00:00"
     },
     {
-      "date": "2026-10-15",
-      "name": "Core PPI m/m(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "Cointelegraph",
+      "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
+      "link": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-11T17:11+00:00"
     },
     {
-      "date": "2026-10-15",
-      "name": "Core Retail Sales m/m(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "CoinDesk",
+      "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+      "link": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
+      "published": "2026-10-11T16:00+00:00"
     },
     {
-      "date": "2026-10-15",
-      "name": "PPI m/m(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "CoinDesk",
+      "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
+      "link": "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
+      "published": "2026-10-11T15:40+00:00"
     },
     {
-      "date": "2026-10-15",
-      "name": "Retail Sales m/m(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "CoinDesk",
+      "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+      "link": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
+      "published": "2026-10-11T13:00+00:00"
     },
     {
-      "date": "2026-10-15",
-      "name": "Fed Chairman Warsh Speaks(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-11T12:59+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Coldcard says it’s investigating how phishing link appeared on its X account",
+      "link": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-11T10:40+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ledger confirms unauthorized hardware implant, says losses may exceed $86M",
+      "link": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-11T09:05+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+      "link": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-11T07:50+00:00"
     }
   ],
-  "generated": "2026-10-12T00:53:29+00:00"
+  "generated": "2026-10-12T01:04:47+00:00"
 }
