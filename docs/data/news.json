@@ -1,85 +1,53 @@
 {
-  "kind": "daily",
-  "mode": "news",
+  "kind": "weekly",
+  "mode": "calendar",
+  "window_days": 7,
   "items": [
     {
-      "source": "The Block",
-      "title": "Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ",
-      "link": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
-      "published": "2026-10-10T18:35+00:00"
+      "date": "2026-10-14",
+      "name": "Core CPI m/m(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "The Block",
-      "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
-      "link": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
-      "published": "2026-10-10T15:10+00:00"
+      "date": "2026-10-14",
+      "name": "Core CPI y/y(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-10T12:30+00:00"
+      "date": "2026-10-14",
+      "name": "CPI m/m(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "CoinDesk",
-      "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
-      "link": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
-      "published": "2026-10-10T12:00+00:00"
+      "date": "2026-10-14",
+      "name": "CPI y/y(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "CoinDesk",
-      "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
-      "link": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
-      "published": "2026-10-10T12:00+00:00"
+      "date": "2026-10-15",
+      "name": "Core PPI m/m(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
-      "link": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-10T11:52+00:00"
+      "date": "2026-10-15",
+      "name": "Core Retail Sales m/m(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
-      "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
-      "published": "2026-10-10T11:00+00:00"
+      "date": "2026-10-15",
+      "name": "PPI m/m(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Tech chief says EU can fend off rogue AI risk: Report",
-      "link": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-10T08:41+00:00"
+      "date": "2026-10-15",
+      "name": "Retail Sales m/m(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
-      "link": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-10T07:10+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
-      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
-      "published": "2026-10-10T05:43+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
-      "link": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
-      "published": "2026-10-10T04:44+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
-      "link": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
-      "published": "2026-10-10T04:20+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
-      "link": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
-      "published": "2026-10-10T03:00+00:00"
+      "date": "2026-10-15",
+      "name": "Fed Chairman Warsh Speaks(USD·高影响)",
+      "source": "ForexFactory"
     }
   ],
-  "generated": "2026-10-11T00:43:38+00:00"
+  "generated": "2026-10-12T00:53:29+00:00"
 }
