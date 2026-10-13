@@ -1,53 +1,53 @@
 {
-  "ts": "2026-10-12T01:04:09+00:00",
-  "price": 83990.48,
-  "funding_rate": 1.4e-05,
-  "perp_basis_pct": -0.048195938396822985,
-  "funding_mean_30d": 2.7288888888888887e-05,
-  "oi_btc": 520843544.0,
-  "oi_change_24h_pct": 0.8304185298859296,
-  "top_ls_ratio": 0.5180722891566265,
-  "global_ls_ratio": 1.2853039106874713,
-  "taker_ratio": 2.1013372526920207,
+  "ts": "2026-10-13T02:53:32+00:00",
+  "price": 82930.81,
+  "funding_rate": -4.9e-05,
+  "perp_basis_pct": -0.03715145191515394,
+  "funding_mean_30d": 2.632222222222222e-05,
+  "oi_btc": 519238224.0,
+  "oi_change_24h_pct": -1.4816793244028978,
+  "top_ls_ratio": 0.611111111111111,
+  "global_ls_ratio": 1.4577395015623809,
+  "taker_ratio": 2.5925521157833455,
   "deriv_source": "gate.io(备用)",
-  "deribit_index": 83896.59,
-  "dvol": 37.33,
-  "skew_25d": 2.460000000000001,
-  "atm_iv_near": 32.66,
-  "near_expiry_days": 11.3,
-  "atm_iv_next": 36.75,
-  "term_slope": 4.090000000000003,
-  "next_expiry_days": 46.3,
+  "deribit_index": 82846.05,
+  "dvol": 37.19,
+  "skew_25d": 1.4299999999999997,
+  "atm_iv_near": 32.5,
+  "near_expiry_days": 10.2,
+  "atm_iv_next": 36.51,
+  "term_slope": 4.009999999999998,
+  "next_expiry_days": 45.2,
   "flags": {
     "funding_rate": {
-      "level": 0,
-      "side": null,
-      "note": "历史百分位 34%"
-    },
-    "top_ls_ratio": {
       "level": 2,
       "side": "short",
       "note": "历史百分位 2%"
     },
+    "top_ls_ratio": {
+      "level": 0,
+      "side": null,
+      "note": "历史百分位 44%"
+    },
     "global_ls_ratio": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 55%"
+      "note": "历史百分位 71%"
     },
     "perp_basis_pct": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 28%"
+      "note": "历史百分位 74%"
     },
     "skew_25d": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 49%"
+      "note": "历史百分位 40%"
     },
     "dvol": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 52%"
+      "note": "历史百分位 50%"
     }
   },
   "bias_score": -17
