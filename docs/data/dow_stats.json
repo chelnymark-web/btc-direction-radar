@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-18T23:50:22+00:00",
+  "ts": "2026-10-18T23:58:41+00:00",
   "source": "Binance(data-api.binance.vision)",
   "weeks": 57,
   "from": "2025-09-14",
@@ -120,9 +120,9 @@
       "intraday": -0.043
     },
     "周日": {
-      "daily": 0.25,
+      "daily": 0.251,
       "overnight": 0.0,
-      "intraday": 0.25
+      "intraday": 0.251
     }
   },
   "observation_check": "用户观察「周一高(42.1%)+周三低(10.5%)」:数据有一定呼应,但仍弱,勿重仓依赖。",
