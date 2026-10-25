@@ -3,263 +3,71 @@
   "mode": "news",
   "items": [
     {
-      "source": "Cointelegraph",
-      "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
-      "link": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-23T21:32+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
-      "link": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-23T20:54+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
-      "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-23T18:39+00:00"
+      "source": "The Block",
+      "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
+      "link": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
+      "published": "2026-10-24T17:44+00:00"
     },
     {
       "source": "The Block",
-      "title": "Netanyahu seeking blockchain plan to prepare for possible sanctions",
-      "link": "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792",
-      "published": "2026-10-23T18:15+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
-      "link": "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785",
-      "published": "2026-10-23T17:46+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
-      "link": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-23T17:42+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Initia halts network after security incident as attacker reportedly mints tokens",
-      "link": "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755",
-      "published": "2026-10-23T17:03+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
-      "link": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-23T16:08+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
-      "link": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-23T15:39+00:00"
+      "title": "Argentine judge clears Milei and 10 others in LIBRA case, finding no ‘criminally relevant deception’",
+      "link": "https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606",
+      "published": "2026-10-24T16:24+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
-      "link": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
-      "published": "2026-10-23T13:58+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-23T13:38+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "China targets 2030 for its national blockchain network buildout",
-      "link": "https://cointelegraph.com/news/china-2030-national-blockchain-network-buildout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-23T13:21+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Phantom rolls out Kalshi prediction markets to US users, says it’s ‘confident and comfortable’ amid state lawsuits",
-      "link": "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652",
-      "published": "2026-10-23T13:00+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
-      "link": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
-      "published": "2026-10-23T12:55+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "New York AG seeks $1.37B from NovaTech founders over Ponzi scheme",
-      "link": "https://cointelegraph.com/news/new-york-ag-novatech-founders-companies-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-23T12:33+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness",
-      "link": "https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-23T12:23+00:00"
+      "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+      "link": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+      "published": "2026-10-24T16:00+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
-      "link": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
-      "published": "2026-10-23T12:03+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Was crypto self-custody ever designed for beginners?",
-      "link": "https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-23T11:47+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows",
-      "link": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
-      "published": "2026-10-23T11:39+00:00"
+      "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
+      "link": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
+      "published": "2026-10-24T15:21+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
-      "published": "2026-10-23T11:22+00:00"
+      "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+      "link": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+      "published": "2026-10-24T15:11+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high",
-      "link": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
-      "published": "2026-10-23T11:13+00:00"
+      "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
+      "link": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
+      "published": "2026-10-24T15:00+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
-      "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
-      "published": "2026-10-23T10:54+00:00"
+      "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
+      "link": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
+      "published": "2026-10-24T14:38+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin appears to have decoupled from midterm cycle bottom history",
-      "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
-      "published": "2026-10-23T10:53+00:00"
+      "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
+      "link": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
+      "published": "2026-10-24T14:06+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
-      "link": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
-      "published": "2026-10-23T10:22+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
-      "link": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-23T10:13+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "New York seeks over $1.3 billion from NovaTech founders after couple fled the US",
-      "link": "https://www.theblock.co/news/regulation/2026-10-23-new-york-seeks-over-1-3-billion-from-novatech-founders-after-couple-fled-the-us-424453",
-      "published": "2026-10-23T10:12+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "South Korea to amend forex law to regulate stablecoins as payment instruments: report",
-      "link": "https://www.theblock.co/news/regulation/2026-10-23-south-korea-stablecoins-payment-instruments-424028",
-      "published": "2026-10-23T09:52+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bybit secures first full Dubai license for spot trading services",
-      "link": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-23T09:50+00:00"
+      "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+      "link": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
+      "published": "2026-10-24T14:00+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
-      "link": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
-      "published": "2026-10-23T08:57+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
-      "link": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-23T08:47+00:00"
+      "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
+      "link": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
+      "published": "2026-10-24T12:00+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
-      "link": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
-      "published": "2026-10-23T08:02+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
-      "link": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-23T07:15+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-23T07:09+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
-      "link": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-23T05:09+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
-      "link": "https://www.coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo",
-      "published": "2026-10-23T05:01+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
-      "link": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
-      "published": "2026-10-23T04:59+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
-      "link": "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
-      "published": "2026-10-23T04:36+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
-      "link": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-23T04:34+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "HSBC rolls out its first HKD stablecoin RedCoin to retail users",
-      "link": "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018",
-      "published": "2026-10-23T04:03+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
-      "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
-      "published": "2026-10-23T03:13+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Chainlink partners with LG CNS to drive Korean won stablecoin expansion",
-      "link": "https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993",
-      "published": "2026-10-23T02:48+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities",
-      "link": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990",
-      "published": "2026-10-23T02:21+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Switzerland’s first retail spot Bitcoin ETF targets November launch",
-      "link": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-23T00:59+00:00"
+      "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+      "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+      "published": "2026-10-24T04:45+00:00"
     }
   ],
-  "generated": "2026-10-24T00:21:34+00:00"
+  "generated": "2026-10-25T00:04:28+00:00"
 }

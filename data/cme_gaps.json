@@ -1,25 +1,12 @@
 {
-  "ts": "2026-10-24T00:21:31+00:00",
+  "ts": "2026-10-25T00:04:25+00:00",
   "source": "Yahoo BTC=F(CME 连续期货)",
-  "spot": 80836.1,
+  "spot": 80792.8,
   "history_from": "2017-12-18",
-  "history_bars": 2227,
-  "total_gaps": 476,
-  "unfilled_count": 15,
+  "history_bars": 2228,
+  "total_gaps": 475,
+  "unfilled_count": 14,
   "gaps": [
-    {
-      "date": "2026-10-22",
-      "open_date": "2026-10-24",
-      "low": 81450.0,
-      "high": 81455.0,
-      "mid": 81452.5,
-      "direction": "向下跳空",
-      "touched": false,
-      "filled": false,
-      "partial": false,
-      "dist_pct": 0.8,
-      "side": "上方"
-    },
     {
       "date": "2026-01-16",
       "open_date": "2026-01-20",
@@ -30,7 +17,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": 18.1,
+      "dist_pct": 18.2,
       "side": "上方"
     },
     {
@@ -56,7 +43,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -40.5,
+      "dist_pct": -40.4,
       "side": "下方"
     },
     {
@@ -95,7 +82,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -57.5,
+      "dist_pct": -57.4,
       "side": "下方"
     },
     {
@@ -108,7 +95,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -63.2,
+      "dist_pct": -63.1,
       "side": "下方"
     },
     {
@@ -173,7 +160,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -85.9,
+      "dist_pct": -85.8,
       "side": "下方"
     },
     {
@@ -199,7 +186,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -86.9,
+      "dist_pct": -86.8,
       "side": "下方"
     }
   ]

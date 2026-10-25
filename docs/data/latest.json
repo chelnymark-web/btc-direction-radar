@@ -1,53 +1,53 @@
 {
-  "ts": "2026-10-24T00:20:56+00:00",
-  "price": 80836.14,
-  "funding_rate": 2.5e-05,
-  "perp_basis_pct": -0.0481344111680784,
-  "funding_mean_30d": 2.376666666666667e-05,
-  "oi_btc": 553740256.0,
-  "oi_change_24h_pct": -5.170778488398179,
-  "top_ls_ratio": 0.5625,
-  "global_ls_ratio": 1.9349865329246774,
-  "taker_ratio": 0.8008417025346724,
+  "ts": "2026-10-25T00:03:50+00:00",
+  "price": 80792.8,
+  "funding_rate": 1e-05,
+  "perp_basis_pct": -0.02896297689894239,
+  "funding_mean_30d": 2.5211111111111112e-05,
+  "oi_btc": 556532080.0,
+  "oi_change_24h_pct": 0.07974556228289252,
+  "top_ls_ratio": 0.4651162790697674,
+  "global_ls_ratio": 1.9797486664858512,
+  "taker_ratio": 0.4288439660453312,
   "deriv_source": "gate.io(备用)",
-  "deribit_index": 80720.2,
-  "dvol": 37.5,
-  "skew_25d": 3.91,
-  "atm_iv_near": 30.99,
-  "near_expiry_days": 6.3,
-  "atm_iv_next": 36.25,
-  "term_slope": 5.260000000000002,
-  "next_expiry_days": 20.3,
+  "deribit_index": 80696.84,
+  "dvol": 37.96,
+  "skew_25d": 4.319999999999997,
+  "atm_iv_near": 31.83,
+  "near_expiry_days": 5.3,
+  "atm_iv_next": 36.16,
+  "term_slope": 4.329999999999998,
+  "next_expiry_days": 19.3,
   "flags": {
     "funding_rate": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 44%"
+      "note": "历史百分位 30%"
     },
     "top_ls_ratio": {
-      "level": 1,
+      "level": 2,
       "side": "short",
-      "note": "历史百分位 22%"
+      "note": "历史百分位 0%"
     },
     "global_ls_ratio": {
       "level": 2,
       "side": "long",
-      "note": "历史百分位 92%"
+      "note": "历史百分位 94%"
     },
     "perp_basis_pct": {
-      "level": 0,
-      "side": null,
-      "note": "历史百分位 27%"
+      "level": 1,
+      "side": "long",
+      "note": "历史百分位 88%"
     },
     "skew_25d": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 69%"
+      "note": "历史百分位 73%"
     },
     "dvol": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 54%"
+      "note": "历史百分位 60%"
     }
   },
   "bias_score": 8
