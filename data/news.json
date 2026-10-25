@@ -1,73 +1,48 @@
 {
-  "kind": "daily",
-  "mode": "news",
+  "kind": "weekly",
+  "mode": "calendar",
+  "window_days": 7,
   "items": [
     {
-      "source": "The Block",
-      "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
-      "link": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
-      "published": "2026-10-24T17:44+00:00"
+      "date": "2026-10-27",
+      "name": "FOMC 会议第一天",
+      "source": "FOMC"
     },
     {
-      "source": "The Block",
-      "title": "Argentine judge clears Milei and 10 others in LIBRA case, finding no ‘criminally relevant deception’",
-      "link": "https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606",
-      "published": "2026-10-24T16:24+00:00"
+      "date": "2026-10-28",
+      "name": "FOMC 利率决议 + 记者会",
+      "source": "FOMC"
     },
     {
-      "source": "CoinDesk",
-      "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
-      "link": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
-      "published": "2026-10-24T16:00+00:00"
+      "date": "2026-10-28",
+      "name": "Federal Funds Rate(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "CoinDesk",
-      "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
-      "link": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
-      "published": "2026-10-24T15:21+00:00"
+      "date": "2026-10-28",
+      "name": "FOMC Statement(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
-      "link": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
-      "published": "2026-10-24T15:11+00:00"
+      "date": "2026-10-28",
+      "name": "FOMC Press Conference(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "CoinDesk",
-      "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
-      "link": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
-      "published": "2026-10-24T15:00+00:00"
+      "date": "2026-10-29",
+      "name": "Advance GDP q/q(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "CoinDesk",
-      "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
-      "link": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
-      "published": "2026-10-24T14:38+00:00"
+      "date": "2026-10-29",
+      "name": "Core PCE Price Index m/m(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "CoinDesk",
-      "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
-      "link": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
-      "published": "2026-10-24T14:06+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
-      "link": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
-      "published": "2026-10-24T14:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
-      "link": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
-      "published": "2026-10-24T12:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
-      "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
-      "published": "2026-10-24T04:45+00:00"
+      "date": "2026-10-30",
+      "name": "Deribit 月度期权到期(08:00 UTC)",
+      "source": "规则"
     }
   ],
-  "generated": "2026-10-25T00:04:28+00:00"
+  "generated": "2026-10-25T23:42:11+00:00"
 }
