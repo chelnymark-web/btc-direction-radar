@@ -3,47 +3,287 @@
   "mode": "news",
   "items": [
     {
+      "source": "The Block",
+      "title": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
+      "link": "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642",
+      "published": "2026-10-27T01:00+00:00"
+    },
+    {
       "source": "Cointelegraph",
-      "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
-      "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-25T22:48+00:00"
+      "title": "Ripple wins final US approval for national trust bank",
+      "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-27T00:06+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US OCC calls on community banks to become payment stablecoin issuers",
+      "link": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-26T21:38+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
+      "link": "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-26T21:23+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
+      "link": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-26T19:47+00:00"
     },
     {
       "source": "The Block",
-      "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
-      "link": "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617",
-      "published": "2026-10-25T18:46+00:00"
+      "title": "CZ pitches BNB Chain’s role in AI as BNB Standard rings Nasdaq bell",
+      "link": "https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790",
+      "published": "2026-10-26T19:43+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "AI company Anthropic announces IPO, expected as early as November",
+      "link": "https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-26T18:42+00:00"
     },
     {
       "source": "The Block",
-      "title": "Keystone customers say breach exposed data the hardware wallet maker promised to delete",
-      "link": "https://www.theblock.co/news/business/2026-10-25-keystone-customers-say-breach-exposed-data-the-hardware-wallet-maker-promised-to-delete-431613",
-      "published": "2026-10-25T15:56+00:00"
+      "title": "Hyperliquid says Kraken parent Payward to be first CFTC-regulated HIP-3 deployer",
+      "link": "https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787",
+      "published": "2026-10-26T18:21+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Y Combinator-backed Mochatrade raises $5.5 million to offer US stock perpetuals to Indian traders",
+      "link": "https://www.theblock.co/news/deals/2026-10-26-y-combinator-mochatrade-funding-crypto-431775",
+      "published": "2026-10-26T17:55+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "ECB official sees digital euro as key to protecting EU ‘sovereignty’",
-      "link": "https://cointelegraph.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-25T15:11+00:00"
+      "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
+      "link": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-26T17:46+00:00"
     },
     {
-      "source": "CoinDesk",
-      "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
-      "link": "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus",
-      "published": "2026-10-25T15:00+00:00"
+      "source": "The Block",
+      "title": "Prediction markets and derivatives drive Bernstein’s crypto stock outlook for Coinbase, Robinhood and Circle",
+      "link": "https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750",
+      "published": "2026-10-26T16:36+00:00"
     },
     {
-      "source": "CoinDesk",
-      "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
-      "link": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
-      "published": "2026-10-25T13:00+00:00"
+      "source": "The Block",
+      "title": "NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket",
+      "link": "https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764",
+      "published": "2026-10-26T16:27+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
-      "link": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-25T11:42+00:00"
+      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
+      "link": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-26T16:18+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+      "link": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
+      "published": "2026-10-26T16:05+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
+      "link": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
+      "published": "2026-10-26T15:59+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
+      "link": "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-26T15:54+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "OCC calls on community banks to enter the stablecoin payments market",
+      "link": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
+      "published": "2026-10-26T15:45+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
+      "link": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
+      "published": "2026-10-26T14:51+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "PHP flaw shows AI ‘vulnerability apocalypse’ is on schedule: Immunefi CEO",
+      "link": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-26T14:25+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
+      "link": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
+      "published": "2026-10-26T14:23+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Tom Lee insists ‘crypto bull market is underway’ as Bitmine adds 10,452 ETH",
+      "link": "https://www.theblock.co/news/business/2026-10-26-tom-lee-insists-crypto-bull-market-is-underway-as-bitmine-adds-10452-eth-431743",
+      "published": "2026-10-26T14:12+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
+      "link": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-26T13:27+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-26T13:26+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Strategy pauses bitcoin buys, repurchases $205 million of STRC preferred shares",
+      "link": "https://www.theblock.co/news/business/2026-10-26-strategy-pauses-bitcoin-buys-repurchases-205-million-of-strc-preferred-shares-431699",
+      "published": "2026-10-26T13:23+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "AI giant Anthropic files for blockbuster IPO",
+      "link": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
+      "published": "2026-10-26T13:22+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Strive closes in on second-largest corporate bitcoin treasury with $511 million purchase",
+      "link": "https://www.theblock.co/news/business/2026-10-26-strive-closes-in-second-largest-corporate-bitcoin-treasury-511-million-purchase-431729",
+      "published": "2026-10-26T13:19+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
+      "link": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-26T13:12+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Galaxy says bitcoin bear market is over; now is the time to buy and hold",
+      "link": "https://www.theblock.co/news/markets/2026-10-26-galaxy-says-bitcoin-bear-market-is-over-now-is-the-time-to-buy-and-hold-431720",
+      "published": "2026-10-26T13:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000",
+      "published": "2026-10-26T11:53+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
+      "link": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-26T11:39+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Aviva Investors, Ripple launch tokenized share class of $29 billion sterling fund on XRP Ledger",
+      "link": "https://www.theblock.co/news/business/2026-10-26-aviva-investors-ripple-tokenized-share-class-sterling-fund-xrp-ledger-431712",
+      "published": "2026-10-26T11:34+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
+      "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
+      "published": "2026-10-26T11:24+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live news: Bitcoin dips below $80,000 as stocks rally following Anthropic IPO filing",
+      "link": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink",
+      "published": "2026-10-26T11:05+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-26T10:49+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
+      "link": "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off",
+      "published": "2026-10-26T10:33+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Securitize’s tokenized stock value halves as Circle widens lead",
+      "link": "https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-26T10:25+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "South Korea weighs fourth delay of crypto gains tax, eyes 2029 start: report",
+      "link": "https://www.theblock.co/news/regulation/2026-10-26-south-korea-weighs-fourth-delay-crypto-tax-431649",
+      "published": "2026-10-26T10:06+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/10/26/fed-ecb-and-boj-interest-rate-decisions-coinbase-earnings-crypto-week-ahead",
+      "published": "2026-10-26T09:14+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-26T08:20+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Over 11 million bitcoin has no known owner. Here's what it means",
+      "link": "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying",
+      "published": "2026-10-26T07:18+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
+      "link": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
+      "published": "2026-10-26T05:39+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
+      "link": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
+      "published": "2026-10-26T05:15+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Musk warns over 200 AI neoclouds face ‘guppy-level death’",
+      "link": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-26T05:13+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+      "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+      "published": "2026-10-26T04:37+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
+      "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-26T03:21+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
+      "link": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout",
+      "published": "2026-10-26T03:11+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Keystone says website breach exposed hardware wallet buyers’ addresses",
+      "link": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-26T02:24+00:00"
     }
   ],
-  "generated": "2026-10-25T23:55:38+00:00"
+  "generated": "2026-10-27T01:15:56+00:00"
 }
