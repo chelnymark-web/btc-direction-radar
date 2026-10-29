@@ -1,6 +1,6 @@
 {
-  "ts": "2026-10-28T01:01:43+00:00",
-  "spot": 80677.4,
+  "ts": "2026-10-29T01:38:14+00:00",
+  "spot": 80722.01,
   "bands": [
     {
       "lo": 84938,
@@ -15,7 +15,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 5.3
+      "dist_pct": 5.2
     },
     {
       "lo": 75017,
@@ -62,7 +62,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "下方",
-      "dist_pct": -12.2
+      "dist_pct": -12.3
     },
     {
       "lo": 92778,
@@ -77,7 +77,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 15.0
+      "dist_pct": 14.9
     },
     {
       "lo": 68000,
@@ -92,7 +92,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "下方",
-      "dist_pct": -15.7
+      "dist_pct": -15.8
     },
     {
       "lo": 66739,
@@ -137,7 +137,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "下方",
-      "dist_pct": -20.2
+      "dist_pct": -20.3
     },
     {
       "lo": 61951,
@@ -154,7 +154,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "下方",
-      "dist_pct": -22.7
+      "dist_pct": -22.8
     },
     {
       "lo": 60961,
@@ -169,7 +169,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "下方",
-      "dist_pct": -24.4
+      "dist_pct": -24.5
     },
     {
       "lo": 100619,
@@ -184,7 +184,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 24.7
+      "dist_pct": 24.6
     },
     {
       "lo": 59557,
@@ -261,7 +261,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 78.6
+      "dist_pct": 78.5
     },
     {
       "lo": 167062,
@@ -276,7 +276,7 @@
       "n_sources": 1,
       "confluence": false,
       "side": "上方",
-      "dist_pct": 107.1
+      "dist_pct": 107.0
     }
   ],
   "confluence_bands": [
@@ -312,7 +312,7 @@
       "n_sources": 2,
       "confluence": true,
       "side": "下方",
-      "dist_pct": -22.7
+      "dist_pct": -22.8
     },
     {
       "lo": 59557,
