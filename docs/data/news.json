@@ -1,33 +1,97 @@
 {
-  "kind": "weekly",
-  "mode": "calendar",
-  "window_days": 7,
+  "kind": "daily",
+  "mode": "news",
   "items": [
     {
-      "date": "2026-11-03",
-      "name": "Congressional Elections(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "Cointelegraph",
+      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+      "link": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-01T23:59+00:00"
     },
     {
-      "date": "2026-11-06",
-      "name": "美国非农就业报告(常规日,以 BLS 官方为准)",
-      "source": "规则"
+      "source": "Cointelegraph",
+      "title": "Billions flee Binance on reopen, THORChain founder opposes coin freeze: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-01T23:09+00:00"
     },
     {
-      "date": "2026-11-06",
-      "name": "Average Hourly Earnings m/m(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "CoinDesk",
+      "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
+      "published": "2026-11-01T19:30+00:00"
     },
     {
-      "date": "2026-11-06",
-      "name": "Non-Farm Employment Change(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "The Block",
+      "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
+      "link": "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257",
+      "published": "2026-11-01T18:25+00:00"
     },
     {
-      "date": "2026-11-06",
-      "name": "Unemployment Rate(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "CoinDesk",
+      "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
+      "link": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
+      "published": "2026-11-01T17:00+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
+      "link": "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259",
+      "published": "2026-11-01T16:32+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The key races to watch for the 2026 election",
+      "link": "https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election",
+      "published": "2026-11-01T15:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
+      "link": "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards",
+      "published": "2026-11-01T15:00+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-01T14:17+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto PACs made big Republican push in final weeks before November 3 election",
+      "link": "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election",
+      "published": "2026-11-01T14:00+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "DeepSeek developing AI agent requiring less human input: Report",
+      "link": "https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-01T13:40+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
+      "link": "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year",
+      "published": "2026-11-01T13:00+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
+      "link": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
+      "published": "2026-11-01T10:35+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance says phase one of withdrawals opens after $6.3B hack",
+      "link": "https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-01T09:38+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "FBI blames North Korea for record $6.3B Binance hack",
+      "link": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-01T07:44+00:00"
     }
   ],
-  "generated": "2026-11-02T01:10:08+00:00"
+  "generated": "2026-11-02T01:20:09+00:00"
 }
