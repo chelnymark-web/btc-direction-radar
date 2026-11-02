@@ -1,18 +1,33 @@
 {
-  "kind": "monthly",
+  "kind": "weekly",
   "mode": "calendar",
-  "window_days": 30,
+  "window_days": 7,
   "items": [
+    {
+      "date": "2026-11-03",
+      "name": "Congressional Elections(USD·高影响)",
+      "source": "ForexFactory"
+    },
     {
       "date": "2026-11-06",
       "name": "美国非农就业报告(常规日,以 BLS 官方为准)",
       "source": "规则"
     },
     {
-      "date": "2026-11-27",
-      "name": "Deribit 月度期权到期(08:00 UTC)",
-      "source": "规则"
+      "date": "2026-11-06",
+      "name": "Average Hourly Earnings m/m(USD·高影响)",
+      "source": "ForexFactory"
+    },
+    {
+      "date": "2026-11-06",
+      "name": "Non-Farm Employment Change(USD·高影响)",
+      "source": "ForexFactory"
+    },
+    {
+      "date": "2026-11-06",
+      "name": "Unemployment Rate(USD·高影响)",
+      "source": "ForexFactory"
     }
   ],
-  "generated": "2026-11-02T01:07:08+00:00"
+  "generated": "2026-11-02T01:10:08+00:00"
 }
