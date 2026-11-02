@@ -1,133 +1,18 @@
 {
-  "kind": "daily",
-  "mode": "news",
+  "kind": "monthly",
+  "mode": "calendar",
+  "window_days": 30,
   "items": [
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
-      "link": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
-      "published": "2026-10-31T18:00+00:00"
+      "date": "2026-11-06",
+      "name": "美国非农就业报告(常规日,以 BLS 官方为准)",
+      "source": "规则"
     },
     {
-      "source": "CoinDesk",
-      "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
-      "link": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
-      "published": "2026-10-31T16:09+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts",
-      "link": "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
-      "published": "2026-10-31T16:00+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
-      "link": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-31T15:36+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
-      "link": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-31T15:26+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Hackers hijack a dozen DeFi websites, all registered with Name.com, and steal about $138,000",
-      "link": "https://www.theblock.co/news/defi/2026-10-31-hackers-hijack-a-dozen-defi-websites-all-registered-with-name-com-and-steal-about-138000-432251",
-      "published": "2026-10-31T15:26+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
-      "link": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
-      "published": "2026-10-31T15:24+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-31T15:09+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Institutions embrace crypto staking despite shrinking yields",
-      "link": "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields",
-      "published": "2026-10-31T15:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
-      "link": "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
-      "published": "2026-10-31T14:40+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin turns 18: Has the original rebel grown up?",
-      "link": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-31T14:27+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "As big bitcoin miners chase AI profits, individuals get another shot at the rewards",
-      "link": "https://www.coindesk.com/tech/2026/10/31/as-big-bitcoin-miners-chase-ai-profits-individuals-get-another-shot-at-the-rewards",
-      "published": "2026-10-31T14:00+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping",
-      "link": "https://cointelegraph.com/news/texas-brothers-sentenced-to-15-years-in-prison-for-armed-crypto-robbery-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-31T13:37+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Chainalysis says hacker using ‘offensive agentic techniques’ accessed its customers’ names and emails",
-      "link": "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244",
-      "published": "2026-10-31T13:27+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "18 years in, what has Bitcoin truly done?",
-      "link": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
-      "published": "2026-10-31T13:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
-      "link": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
-      "published": "2026-10-31T12:49+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
-      "link": "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion",
-      "published": "2026-10-31T12:00+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Blockchain investigator Chainalysis hit by cybersecurity incident",
-      "link": "https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-31T11:22+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Binance $6.3B record hack sparks pre-election political clashes",
-      "link": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-10-31T09:58+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
-      "link": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
-      "published": "2026-10-31T05:01+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
-      "link": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
-      "published": "2026-10-31T00:48+00:00"
+      "date": "2026-11-27",
+      "name": "Deribit 月度期权到期(08:00 UTC)",
+      "source": "规则"
     }
   ],
-  "generated": "2026-11-01T00:46:48+00:00"
+  "generated": "2026-11-02T01:07:08+00:00"
 }
