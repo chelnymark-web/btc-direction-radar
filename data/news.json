@@ -3,305 +3,77 @@
   "mode": "news",
   "items": [
     {
+      "source": "The Block",
+      "title": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
+      "link": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992",
+      "published": "2026-11-07T21:57+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
+      "link": "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988",
+      "published": "2026-11-07T20:59+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+      "link": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
+      "published": "2026-11-07T19:13+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+      "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+      "published": "2026-11-07T17:36+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+      "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+      "published": "2026-11-07T16:51+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
+      "link": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
+      "published": "2026-11-07T16:46+00:00"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-06T22:00+00:00"
+      "published": "2026-11-07T14:22+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
-      "link": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-06T21:05+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Treasury cuts off MEXC Global over alleged $16 billion in transactions linked to Iran, North Korea and Russia",
-      "link": "https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957",
-      "published": "2026-11-06T21:02+00:00"
+      "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
+      "link": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-07T14:16+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-      "link": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-06T20:51+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "US Treasury walks back crypto surveillance ‘travel rule’ proposal",
-      "link": "https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951",
-      "published": "2026-11-06T20:37+00:00"
+      "title": "Bitcoin holders have received eCash — What can you do with it?",
+      "link": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-07T13:30+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Binance hack is ‘cyber war,’ TRM Labs executive says",
-      "link": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-06T20:36+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
-      "link": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
-      "published": "2026-11-06T20:09+00:00"
+      "title": "US sanctions Canadian money-exchange firms over Iran ties",
+      "link": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-07T11:10+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
-      "link": "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-06T20:04+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Gnosis Pay data breach exposes customer info; funds unaffected",
-      "link": "https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934",
-      "published": "2026-11-06T18:58+00:00"
+      "title": "Suspicious prediction market activity seen before election poll release: NYT",
+      "link": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-07T09:10+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
-      "link": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-06T18:47+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Trump administration moves closer to allowing crypto in 401(k) retirement plans",
-      "link": "https://www.theblock.co/news/regulation/2026-11-06-trump-administration-moves-closer-allowing-crypto-401k-retirement-plans-435939",
-      "published": "2026-11-06T18:29+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
-      "link": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-06T18:22+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
-      "link": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
-      "published": "2026-11-06T18:06+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-06T17:49+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
-      "link": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
-      "published": "2026-11-06T17:42+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Strive’s bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
-      "link": "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907",
-      "published": "2026-11-06T16:07+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
-      "link": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
-      "published": "2026-11-06T15:26+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Aave Labs buys Avon team in fixed-rate lending push",
-      "link": "https://www.theblock.co/news/business/2026-11-06-aave-labs-buys-avon-team-in-fixed-rate-lending-push-435901",
-      "published": "2026-11-06T15:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
-      "link": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
-      "published": "2026-11-06T14:33+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "What Democrats’ US midterm sweep means for the CLARITY Act",
-      "link": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-06T14:30+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
-      "link": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-06T13:57+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "TeraWulf’s bitcoin mining revenue falls 69% as HPC leasing surges amid Anthropic buildout",
-      "link": "https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885",
-      "published": "2026-11-06T13:40+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
-      "link": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
-      "published": "2026-11-06T13:31+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
-      "link": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-06T13:23+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Hypercall to launch first Anthropic-linked pre-IPO options market",
-      "link": "https://www.theblock.co/news/markets/2026-11-06-hypercall-anthropic-linked-pre-ipo-options-market-435453",
-      "published": "2026-11-06T13:00+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Crypto ETFs see over half a billion dollars in outflows amid post-midterm market slide",
-      "link": "https://www.theblock.co/news/markets/2026-11-06-crypto-etfs-see-over-half-a-billion-dollars-in-outflows-amid-post-midterm-market-slide-435873",
-      "published": "2026-11-06T12:33+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
-      "published": "2026-11-06T12:30+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
-      "link": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-06T12:15+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
-      "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
-      "published": "2026-11-06T11:58+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
-      "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
-      "published": "2026-11-06T11:49+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Nigeria’s central bank introduces stablecoin licensing rules, bans algorithmic versions",
-      "link": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
-      "published": "2026-11-06T11:43+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Binance hackers had 8-week intrusion window before $6.3B exploit: SEAL",
-      "link": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-06T11:26+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
-      "link": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-06T11:16+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Greece approves 10% tax on crypto gains starting in 2027",
-      "link": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-06T11:05+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage",
-      "link": "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-06T10:47+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Binance’s $6.3B hack leaves questions over hot wallet safeguards",
-      "link": "https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-06T10:40+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
-      "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
-      "published": "2026-11-06T09:53+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
-      "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-06T09:00+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
-      "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
-      "published": "2026-11-06T08:47+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Hyperliquid Strategies seeks futures registration for perps",
-      "link": "https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-06T08:42+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Kalshi hit with injunction over sports contracts on California tribal lands",
-      "link": "https://www.theblock.co/news/business/2026-11-06-kalshi-injunction-california-tribal-lands-435813",
-      "published": "2026-11-06T08:34+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
-      "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-06T08:19+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
-      "link": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
-      "published": "2026-11-06T08:04+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Zcash’s major network upgrade NU7 goes live on mainnet, cutting block time by threefold",
-      "link": "https://www.theblock.co/news/defi/2026-11-06-zcashs-nu7-goes-live-435807",
-      "published": "2026-11-06T07:36+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Chainalysis says breach exposed password hashes and live tokens",
-      "link": "https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-06T06:54+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
-      "link": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
-      "published": "2026-11-06T05:14+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto exchanges tout cold storage ratios after Binance attack",
-      "link": "https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-06T05:07+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "IREN’s bitcoin mining revenue drops 58% as firm plans full exit by year-end",
-      "link": "https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783",
-      "published": "2026-11-06T04:29+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Ark Invest buys more Coinbase as shares plunge 10% in wider market rout",
-      "link": "https://www.theblock.co/news/markets/2026-11-05-ark-invest-buys-coinbase-trims-bullish-bitmine-435769",
-      "published": "2026-11-06T03:56+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
-      "link": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
-      "published": "2026-11-06T02:24+00:00"
+      "title": "Nvidia may face a more hostile post-election Washington: Report",
+      "link": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-07T07:45+00:00"
     }
   ],
-  "generated": "2026-11-07T01:42:45+00:00"
+  "generated": "2026-11-08T01:10:41+00:00"
 }
