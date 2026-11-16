@@ -1,28 +1,79 @@
 {
-  "kind": "weekly",
-  "mode": "calendar",
-  "window_days": 7,
+  "kind": "daily",
+  "mode": "news",
   "items": [
     {
-      "date": "2026-11-16",
-      "name": "Fed Chairman Warsh Speaks(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "Cointelegraph",
+      "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
+      "link": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-15T23:47+00:00"
     },
     {
-      "date": "2026-11-17",
-      "name": "Core Retail Sales m/m(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "Cointelegraph",
+      "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-15T22:50+00:00"
     },
     {
-      "date": "2026-11-17",
-      "name": "Retail Sales m/m(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "The Block",
+      "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
+      "link": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
+      "published": "2026-11-15T21:57+00:00"
     },
     {
-      "date": "2026-11-18",
-      "name": "FOMC Meeting Minutes(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "The Block",
+      "title": "Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing",
+      "link": "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363",
+      "published": "2026-11-15T20:33+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
+      "published": "2026-11-15T19:30+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Enterprise blockchain is going to come back from the dead",
+      "link": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-15T14:30+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
+      "link": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
+      "published": "2026-11-15T14:00+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-15T11:18+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+      "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-15T10:23+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Coinone warns of phishing, identity theft after customer data breach",
+      "link": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-15T08:07+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+      "link": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-15T06:27+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+      "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+      "published": "2026-11-15T02:50+00:00"
     }
   ],
-  "generated": "2026-11-16T01:30:05+00:00"
+  "generated": "2026-11-16T01:37:20+00:00"
 }
