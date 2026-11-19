@@ -1,54 +1,54 @@
 {
-  "ts": "2026-11-18T03:21:56+00:00",
-  "price": 64368.85,
-  "funding_rate": 2.1e-05,
-  "perp_basis_pct": -0.04280020537883718,
-  "funding_mean_30d": 6.113333333333332e-05,
-  "oi_btc": 558909232.0,
-  "oi_change_24h_pct": 0.16394141613394692,
-  "top_ls_ratio": 0.5375,
-  "global_ls_ratio": 1.6245039263700076,
-  "taker_ratio": 0.0,
+  "ts": "2026-11-19T02:57:26+00:00",
+  "price": 62560.02,
+  "funding_rate": 3.49e-05,
+  "perp_basis_pct": -0.044549218494487924,
+  "funding_mean_30d": 6.0853333333333315e-05,
+  "oi_btc": 604311384.0,
+  "oi_change_24h_pct": 8.140385744574779,
+  "top_ls_ratio": 0.4588235294117647,
+  "global_ls_ratio": 2.176722338204593,
+  "taker_ratio": 1.407283026049188,
   "deriv_source": "gate.io(备用)",
-  "deribit_index": 64295.08,
-  "dvol": 44.06,
-  "skew_25d": 5.82,
-  "atm_iv_near": 41.95,
-  "near_expiry_days": 9.2,
-  "atm_iv_next": 41.76,
-  "term_slope": -0.19000000000000483,
-  "next_expiry_days": 37.2,
+  "deribit_index": 62490.82,
+  "dvol": 47.01,
+  "skew_25d": 6.380000000000003,
+  "atm_iv_near": 48.89,
+  "near_expiry_days": 8.2,
+  "atm_iv_next": 45.18,
+  "term_slope": -3.710000000000001,
+  "next_expiry_days": 36.2,
   "flags": {
     "funding_rate": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 38%"
+      "note": "历史百分位 50%"
     },
     "top_ls_ratio": {
-      "level": 1,
+      "level": 2,
       "side": "short",
-      "note": "历史百分位 20%"
+      "note": "历史百分位 1%"
     },
     "global_ls_ratio": {
-      "level": 0,
-      "side": null,
-      "note": "历史百分位 65%"
+      "level": 2,
+      "side": "long",
+      "note": "历史百分位 95%"
     },
     "perp_basis_pct": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 48%"
+      "note": "历史百分位 41%"
     },
     "skew_25d": {
       "level": 1,
       "side": "short",
-      "note": "历史百分位 81%"
+      "note": "历史百分位 85%"
     },
     "dvol": {
       "level": 2,
       "side": null,
-      "note": "历史百分位 94%"
+      "note": "历史百分位 97%"
     }
   },
-  "bias_score": -17
+  "bias_score": -8
 }
