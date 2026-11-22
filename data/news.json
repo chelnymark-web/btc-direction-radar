@@ -3,323 +3,89 @@
   "mode": "news",
   "items": [
     {
-      "source": "CoinDesk",
-      "title": "Kalshi races to get ahead of New York order that could shut down exchange",
-      "link": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
-      "published": "2026-11-20T22:51+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
-      "link": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
-      "published": "2026-11-20T22:05+00:00"
+      "source": "The Block",
+      "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
+      "link": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
+      "published": "2026-11-21T21:17+00:00"
     },
     {
       "source": "The Block",
-      "title": "DCG’s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high",
-      "link": "https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784",
-      "published": "2026-11-20T21:40+00:00"
-    },
-    {
-      "source": "美联储新闻稿",
-      "title": "Federal Reserve announces College Fed Challenge winners",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
-      "published": "2026-11-20T21:15+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Rep. Casten seeks to curb prediction market insider trading with DOJ whistleblower program",
-      "link": "https://www.theblock.co/news/regulation/2026-11-20-rep-casten-seeks-curb-prediction-market-insider-trading-doj-whistleblower-program-444779",
-      "published": "2026-11-20T19:41+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
-      "link": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-20T19:37+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
-      "link": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-20T18:37+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic",
-      "link": "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758",
-      "published": "2026-11-20T18:22+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost",
-      "link": "https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763",
-      "published": "2026-11-20T18:17+00:00"
+      "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
+      "link": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+      "published": "2026-11-21T18:51+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
-      "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
-      "published": "2026-11-20T18:13+00:00"
+      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+      "published": "2026-11-21T17:50+00:00"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
-      "link": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-20T16:55+00:00"
+      "source": "CoinDesk",
+      "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+      "link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+      "published": "2026-11-21T16:41+00:00"
     },
     {
       "source": "The Block",
-      "title": "Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
-      "link": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
-      "published": "2026-11-20T16:11+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
-      "link": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-20T15:55+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
-      "link": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-20T15:52+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "DBS bets it can lose the deposit and keep the client",
-      "link": "https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-20T15:32+00:00"
-    },
-    {
-      "source": "美联储新闻稿",
-      "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
-      "published": "2026-11-20T15:00+00:00"
+      "title": "Chainflip’s FLIP drops 34% after attacker drains $4.86 million from vault with suspected key compromise",
+      "link": "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804",
+      "published": "2026-11-21T15:24+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
-      "link": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
-      "published": "2026-11-20T14:54+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Rep. Horsford sees opening for House vote on crypto tax bill before Congress ends",
-      "link": "https://www.theblock.co/news/regulation/2026-11-20-rep-horsford-sees-opening-house-vote-crypto-tax-bill-before-congress-ends-444720",
-      "published": "2026-11-20T14:51+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
-      "link": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
-      "published": "2026-11-20T14:38+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Wintermute policy chief calls for crypto lobby to ‘clean house’ in D.C.",
-      "link": "https://www.theblock.co/news/regulation/2026-11-20-wintermute-policy-chief-calls-for-crypto-lobby-clean-house-d-c-444721",
-      "published": "2026-11-20T14:36+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
-      "link": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
-      "published": "2026-11-20T14:25+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
-      "link": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
-      "published": "2026-11-20T13:35+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
-      "link": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
-      "published": "2026-11-20T13:30+00:00"
+      "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+      "link": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+      "published": "2026-11-21T12:30+00:00"
     },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-20T13:29+00:00"
+      "published": "2026-11-21T11:18+00:00"
     },
     {
       "source": "Cointelegraph",
-      "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
-      "link": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-20T13:21+00:00"
+      "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
+      "link": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-21T09:48+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+      "link": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-21T07:51+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
-      "link": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
-      "published": "2026-11-20T13:11+00:00"
+      "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+      "published": "2026-11-21T06:16+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+      "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+      "published": "2026-11-21T05:59+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+      "link": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-21T05:40+00:00"
     },
     {
       "source": "The Block",
-      "title": "US spot bitcoin ETFs see $582 million in daily net outflows as November total nears $3.5 billion",
-      "link": "https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217",
-      "published": "2026-11-20T12:29+00:00"
+      "title": "JPMorgan says bitcoin’s price drop pressures miners, Senate passes ‘Death Bets Act’, and more",
+      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
+      "published": "2026-11-21T04:30+00:00"
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
-      "published": "2026-11-20T12:15+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings",
-      "link": "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226",
-      "published": "2026-11-20T12:12+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin drops for third straight day as Asian tech shares slide",
-      "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide",
-      "published": "2026-11-20T11:42+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
-      "link": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-20T11:31+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "VanEck to end Gemini ETF custody deals, keeps Coinbase",
-      "link": "https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-20T10:54+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Coinbase targets first-half 2027 for its own prediction market contracts",
-      "link": "https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts",
-      "published": "2026-11-20T10:48+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "MoonPay applies for national trust bank charter to expand stablecoin services",
-      "link": "https://www.theblock.co/news/business/2026-11-20-moonpay-applies-occ-national-bank-charter-444198",
-      "published": "2026-11-20T10:39+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest",
-      "link": "https://cointelegraph.com/markets/bitcoin-first-death-cross-repeat-2023-bottom-25k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-20T10:29+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Senate passes ‘Death Bets Act’ to ban prediction market contracts tied to death and war",
-      "link": "https://www.theblock.co/news/regulation/2026-11-20-senate-death-bets-act-444200",
-      "published": "2026-11-20T10:09+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
-      "link": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
-      "published": "2026-11-20T10:02+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Cathie Wood's Ark Invest piled into Anthropic IPO, buying $90 million worth of shares",
-      "link": "https://www.coindesk.com/markets/2026/11/20/cathie-wood-s-ark-invest-piled-into-anthropic-ipo-buying-usd90-million-worth-of-shares",
-      "published": "2026-11-20T09:48+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
-      "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-20T08:18+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Wrapped Monero token plunges 99% as issuer-linked wallet sells $13.5 million",
-      "link": "https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million",
-      "published": "2026-11-20T08:04+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "SEC charges 8 firms over fake crypto platforms tied to $37M fraud",
-      "link": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-20T08:03+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Michael Saylor sees up to $7.5 billion in ‘natural demand’ for Strategy’s STRC preferred stock",
-      "link": "https://www.theblock.co/news/business/2026-11-20-michael-saylor-natural-demand-strategy-strc-444190",
-      "published": "2026-11-20T08:02+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s",
-      "link": "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-20T06:24+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Here's what's crashing gold and likely weighing on bitcoin too",
-      "link": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
-      "published": "2026-11-20T06:12+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Anthropic shares may fall 5% at Friday’s open, crypto futures suggest",
-      "link": "https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid",
-      "published": "2026-11-20T06:08+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "CFTC Chair on Hyperliquid and onchain venues, Ripple CLO doubts Elizabeth Warren will set crypto policy, and more",
-      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143",
-      "published": "2026-11-20T05:40+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
-      "link": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
-      "published": "2026-11-20T05:32+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
-      "link": "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling",
-      "published": "2026-11-20T05:20+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
-      "link": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
-      "published": "2026-11-20T04:58+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
-      "link": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
-      "published": "2026-11-20T04:28+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Coinbase backs CFTC proposal to distinguish prediction market contracts from gambling",
-      "link": "https://www.theblock.co/news/business/2026-11-19-coinbase-backs-cftc-prediction-markets-444152",
-      "published": "2026-11-20T04:24+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
-      "link": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-20T03:33+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
-      "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
-      "published": "2026-11-20T03:32+00:00"
+      "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+      "published": "2026-11-21T04:10+00:00"
     }
   ],
-  "generated": "2026-11-21T03:00:36+00:00"
+  "generated": "2026-11-22T01:57:20+00:00"
 }
