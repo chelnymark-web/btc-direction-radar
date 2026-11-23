@@ -1,23 +1,79 @@
 {
-  "kind": "weekly",
-  "mode": "calendar",
-  "window_days": 7,
+  "kind": "daily",
+  "mode": "news",
   "items": [
     {
-      "date": "2026-11-25",
-      "name": "Core PCE Price Index m/m(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "Cointelegraph",
+      "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
+      "link": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-23T00:53+00:00"
     },
     {
-      "date": "2026-11-25",
-      "name": "Prelim GDP q/q(USD·高影响)",
-      "source": "ForexFactory"
+      "source": "The Block",
+      "title": "A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge",
+      "link": "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838",
+      "published": "2026-11-22T23:17+00:00"
     },
     {
-      "date": "2026-11-27",
-      "name": "Deribit 月度期权到期(08:00 UTC)",
-      "source": "规则"
+      "source": "Cointelegraph",
+      "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-22T22:47+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Trump to host second memecoin dinner tonight with TRUMP down 99% from peak",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828",
+      "published": "2026-11-22T20:58+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "More on the pending oversight hearings: State of Crypto",
+      "link": "https://www.coindesk.com/",
+      "published": "2026-11-22T19:30+00:00"
+    },
+    {
+      "source": "The Block",
+      "title": "Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
+      "link": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
+      "published": "2026-11-22T18:58+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "The future of onchain FX could start with users, not institutional liquidity",
+      "link": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-22T14:30+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+      "link": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+      "published": "2026-11-22T14:00+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-22T11:25+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+      "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-22T09:33+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+      "link": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-22T07:24+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+      "link": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-22T05:28+00:00"
     }
   ],
-  "generated": "2026-11-23T02:06:38+00:00"
+  "generated": "2026-11-23T02:21:59+00:00"
 }

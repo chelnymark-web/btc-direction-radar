@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-23T02:06:38+00:00",
+  "ts": "2026-11-23T02:21:58+00:00",
   "source": "Binance(data-api.binance.vision)",
   "weeks": 57,
   "from": "2025-10-20",
@@ -90,9 +90,9 @@
   },
   "returns": {
     "周一": {
-      "daily": 0.259,
+      "daily": 0.255,
       "overnight": 0.0,
-      "intraday": 0.259
+      "intraday": 0.255
     },
     "周二": {
       "daily": -0.311,

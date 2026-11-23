@@ -1,8 +1,8 @@
 {
-  "ts": "2026-11-23T02:06:02+00:00",
-  "price": 60849.06,
-  "funding_rate": 5.25e-05,
-  "perp_basis_pct": -0.04435565643906079,
+  "ts": "2026-11-23T02:21:22+00:00",
+  "price": 60725.34,
+  "funding_rate": 5.5e-05,
+  "perp_basis_pct": -0.041745340577753115,
   "funding_mean_30d": 5.4019999999999974e-05,
   "oi_btc": 530134368.0,
   "oi_change_24h_pct": -2.0389768608039454,
@@ -10,19 +10,19 @@
   "global_ls_ratio": 1.4068243633066841,
   "taker_ratio": 0.9618637551899123,
   "deriv_source": "gate.io(备用)",
-  "deribit_index": 60749.79,
-  "dvol": 54.57,
-  "skew_25d": 9.57,
-  "atm_iv_near": 53.57,
+  "deribit_index": 60620.65,
+  "dvol": 54.64,
+  "skew_25d": 9.549999999999997,
+  "atm_iv_near": 53.36,
   "near_expiry_days": 11.2,
-  "atm_iv_next": 51.27,
-  "term_slope": -2.299999999999997,
+  "atm_iv_next": 51.24,
+  "term_slope": -2.1199999999999974,
   "next_expiry_days": 32.2,
   "flags": {
     "funding_rate": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 63%"
+      "note": "历史百分位 64%"
     },
     "top_ls_ratio": {
       "level": 2,
@@ -37,7 +37,7 @@
     "perp_basis_pct": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 43%"
+      "note": "历史百分位 55%"
     },
     "skew_25d": {
       "level": 2,
