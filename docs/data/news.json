@@ -1,91 +1,23 @@
 {
-  "kind": "daily",
-  "mode": "news",
+  "kind": "weekly",
+  "mode": "calendar",
+  "window_days": 7,
   "items": [
     {
-      "source": "The Block",
-      "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
-      "link": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
-      "published": "2026-11-21T21:17+00:00"
+      "date": "2026-11-25",
+      "name": "Core PCE Price Index m/m(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "The Block",
-      "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
-      "link": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
-      "published": "2026-11-21T18:51+00:00"
+      "date": "2026-11-25",
+      "name": "Prelim GDP q/q(USD·高影响)",
+      "source": "ForexFactory"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
-      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
-      "published": "2026-11-21T17:50+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
-      "link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
-      "published": "2026-11-21T16:41+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "Chainflip’s FLIP drops 34% after attacker drains $4.86 million from vault with suspected key compromise",
-      "link": "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804",
-      "published": "2026-11-21T15:24+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
-      "link": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
-      "published": "2026-11-21T12:30+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-21T11:18+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
-      "link": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-21T09:48+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
-      "link": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-21T07:51+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
-      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
-      "published": "2026-11-21T06:16+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
-      "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
-      "published": "2026-11-21T05:59+00:00"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
-      "link": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "2026-11-21T05:40+00:00"
-    },
-    {
-      "source": "The Block",
-      "title": "JPMorgan says bitcoin’s price drop pressures miners, Senate passes ‘Death Bets Act’, and more",
-      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
-      "published": "2026-11-21T04:30+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
-      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
-      "published": "2026-11-21T04:10+00:00"
+      "date": "2026-11-27",
+      "name": "Deribit 月度期权到期(08:00 UTC)",
+      "source": "规则"
     }
   ],
-  "generated": "2026-11-22T01:57:20+00:00"
+  "generated": "2026-11-23T02:06:38+00:00"
 }
