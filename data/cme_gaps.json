@@ -1,12 +1,25 @@
 {
-  "ts": "2026-11-23T02:21:56+00:00",
+  "ts": "2026-11-24T05:46:28+00:00",
   "source": "Yahoo BTC=F(CME 连续期货)",
-  "spot": 60725.3,
+  "spot": 60738.3,
   "history_from": "2017-12-18",
-  "history_bars": 2248,
+  "history_bars": 2249,
   "total_gaps": 480,
-  "unfilled_count": 16,
+  "unfilled_count": 17,
   "gaps": [
+    {
+      "date": "2026-11-20",
+      "open_date": "2026-11-23",
+      "low": 58305.0,
+      "high": 61105.0,
+      "mid": 59705.0,
+      "direction": "向上跳空",
+      "touched": true,
+      "filled": false,
+      "partial": true,
+      "dist_pct": -1.7,
+      "side": "下方"
+    },
     {
       "date": "2026-11-13",
       "open_date": "2026-11-16",
@@ -108,7 +121,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -55.4,
+      "dist_pct": -55.5,
       "side": "下方"
     },
     {
@@ -121,7 +134,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": 57.3,
+      "dist_pct": 57.2,
       "side": "上方"
     },
     {
