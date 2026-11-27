@@ -1,12 +1,25 @@
 {
-  "ts": "2026-11-26T03:59:52+00:00",
+  "ts": "2026-11-27T03:58:26+00:00",
   "source": "Yahoo BTC=F(CME 连续期货)",
-  "spot": 60778.7,
+  "spot": 61424.3,
   "history_from": "2017-12-18",
   "history_bars": 2251,
-  "total_gaps": 480,
-  "unfilled_count": 17,
+  "total_gaps": 481,
+  "unfilled_count": 18,
   "gaps": [
+    {
+      "date": "2026-11-25",
+      "open_date": "2026-11-27",
+      "low": 60190.0,
+      "high": 60680.0,
+      "mid": 60435.0,
+      "direction": "向上跳空",
+      "touched": true,
+      "filled": false,
+      "partial": true,
+      "dist_pct": -1.6,
+      "side": "下方"
+    },
     {
       "date": "2026-11-20",
       "open_date": "2026-11-23",
@@ -17,7 +30,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -1.8,
+      "dist_pct": -2.8,
       "side": "下方"
     },
     {
@@ -30,7 +43,7 @@
       "touched": false,
       "filled": false,
       "partial": false,
-      "dist_pct": 10.6,
+      "dist_pct": 9.4,
       "side": "上方"
     },
     {
@@ -43,7 +56,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -10.9,
+      "dist_pct": -11.9,
       "side": "下方"
     },
     {
@@ -56,7 +69,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -20.8,
+      "dist_pct": -21.7,
       "side": "下方"
     },
     {
@@ -69,7 +82,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": 24.3,
+      "dist_pct": 23.0,
       "side": "上方"
     },
     {
@@ -82,7 +95,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -31.3,
+      "dist_pct": -32.0,
       "side": "下方"
     },
     {
@@ -95,7 +108,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -43.4,
+      "dist_pct": -44.0,
       "side": "下方"
     },
     {
@@ -108,20 +121,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -51.0,
-      "side": "下方"
-    },
-    {
-      "date": "2023-10-13",
-      "open_date": "2023-10-16",
-      "low": 26840.0,
-      "high": 27275.0,
-      "mid": 27057.5,
-      "direction": "向上跳空",
-      "touched": true,
-      "filled": false,
-      "partial": true,
-      "dist_pct": -55.5,
+      "dist_pct": -51.5,
       "side": "下方"
     },
     {
@@ -134,8 +134,21 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": 57.1,
+      "dist_pct": 55.5,
       "side": "上方"
+    },
+    {
+      "date": "2023-10-13",
+      "open_date": "2023-10-16",
+      "low": 26840.0,
+      "high": 27275.0,
+      "mid": 27057.5,
+      "direction": "向上跳空",
+      "touched": true,
+      "filled": false,
+      "partial": true,
+      "dist_pct": -55.9,
+      "side": "下方"
     },
     {
       "date": "2023-03-10",
@@ -147,7 +160,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -66.1,
+      "dist_pct": -66.5,
       "side": "下方"
     },
     {
@@ -160,7 +173,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -72.1,
+      "dist_pct": -72.4,
       "side": "下方"
     },
     {
@@ -173,7 +186,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -72.7,
+      "dist_pct": -73.0,
       "side": "下方"
     },
     {
@@ -186,7 +199,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -81.2,
+      "dist_pct": -81.4,
       "side": "下方"
     },
     {
@@ -199,7 +212,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -81.5,
+      "dist_pct": -81.7,
       "side": "下方"
     },
     {
@@ -212,7 +225,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -82.5,
+      "dist_pct": -82.7,
       "side": "下方"
     },
     {
@@ -225,7 +238,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": 91.5,
+      "dist_pct": 89.5,
       "side": "上方"
     }
   ]
