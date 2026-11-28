@@ -1,25 +1,12 @@
 {
-  "ts": "2026-11-27T03:58:26+00:00",
+  "ts": "2026-11-28T03:45:59+00:00",
   "source": "Yahoo BTC=F(CME 连续期货)",
-  "spot": 61424.3,
+  "spot": 59955.6,
   "history_from": "2017-12-18",
-  "history_bars": 2251,
+  "history_bars": 2252,
   "total_gaps": 481,
-  "unfilled_count": 18,
+  "unfilled_count": 17,
   "gaps": [
-    {
-      "date": "2026-11-25",
-      "open_date": "2026-11-27",
-      "low": 60190.0,
-      "high": 60680.0,
-      "mid": 60435.0,
-      "direction": "向上跳空",
-      "touched": true,
-      "filled": false,
-      "partial": true,
-      "dist_pct": -1.6,
-      "side": "下方"
-    },
     {
       "date": "2026-11-20",
       "open_date": "2026-11-23",
@@ -30,7 +17,20 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -2.8,
+      "dist_pct": -0.4,
+      "side": "下方"
+    },
+    {
+      "date": "2024-09-06",
+      "open_date": "2024-09-09",
+      "low": 53695.0,
+      "high": 54565.0,
+      "mid": 54130.0,
+      "direction": "向上跳空",
+      "touched": true,
+      "filled": false,
+      "partial": true,
+      "dist_pct": -9.7,
       "side": "下方"
     },
     {
@@ -43,21 +43,8 @@
       "touched": false,
       "filled": false,
       "partial": false,
-      "dist_pct": 9.4,
+      "dist_pct": 12.1,
       "side": "上方"
-    },
-    {
-      "date": "2024-09-06",
-      "open_date": "2024-09-09",
-      "low": 53695.0,
-      "high": 54565.0,
-      "mid": 54130.0,
-      "direction": "向上跳空",
-      "touched": true,
-      "filled": false,
-      "partial": true,
-      "dist_pct": -11.9,
-      "side": "下方"
     },
     {
       "date": "2024-02-09",
@@ -69,7 +56,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -21.7,
+      "dist_pct": -19.7,
       "side": "下方"
     },
     {
@@ -82,7 +69,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": 23.0,
+      "dist_pct": 26.0,
       "side": "上方"
     },
     {
@@ -95,7 +82,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -32.0,
+      "dist_pct": -30.4,
       "side": "下方"
     },
     {
@@ -108,7 +95,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -44.0,
+      "dist_pct": -42.7,
       "side": "下方"
     },
     {
@@ -121,7 +108,20 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -51.5,
+      "dist_pct": -50.3,
+      "side": "下方"
+    },
+    {
+      "date": "2023-10-13",
+      "open_date": "2023-10-16",
+      "low": 26840.0,
+      "high": 27275.0,
+      "mid": 27057.5,
+      "direction": "向上跳空",
+      "touched": true,
+      "filled": false,
+      "partial": true,
+      "dist_pct": -54.9,
       "side": "下方"
     },
     {
@@ -134,21 +134,8 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": 55.5,
+      "dist_pct": 59.3,
       "side": "上方"
-    },
-    {
-      "date": "2023-10-13",
-      "open_date": "2023-10-16",
-      "low": 26840.0,
-      "high": 27275.0,
-      "mid": 27057.5,
-      "direction": "向上跳空",
-      "touched": true,
-      "filled": false,
-      "partial": true,
-      "dist_pct": -55.9,
-      "side": "下方"
     },
     {
       "date": "2023-03-10",
@@ -160,7 +147,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -66.5,
+      "dist_pct": -65.6,
       "side": "下方"
     },
     {
@@ -173,7 +160,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -72.4,
+      "dist_pct": -71.7,
       "side": "下方"
     },
     {
@@ -186,7 +173,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -73.0,
+      "dist_pct": -72.3,
       "side": "下方"
     },
     {
@@ -199,7 +186,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -81.4,
+      "dist_pct": -80.9,
       "side": "下方"
     },
     {
@@ -212,7 +199,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -81.7,
+      "dist_pct": -81.3,
       "side": "下方"
     },
     {
@@ -225,7 +212,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": -82.7,
+      "dist_pct": -82.3,
       "side": "下方"
     },
     {
@@ -238,7 +225,7 @@
       "touched": true,
       "filled": false,
       "partial": true,
-      "dist_pct": 89.5,
+      "dist_pct": 94.1,
       "side": "上方"
     }
   ]

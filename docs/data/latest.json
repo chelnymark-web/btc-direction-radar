@@ -1,48 +1,48 @@
 {
-  "ts": "2026-11-27T03:57:52+00:00",
-  "price": 61424.26,
-  "funding_rate": 8.39e-05,
-  "perp_basis_pct": -0.04716377535521171,
-  "funding_mean_30d": 4.9282222222222205e-05,
-  "oi_btc": 621669664.0,
-  "oi_change_24h_pct": 2.039786730673766,
-  "top_ls_ratio": 0.4302325581395349,
-  "global_ls_ratio": 1.4693556402186516,
-  "taker_ratio": 0.6545342962263062,
+  "ts": "2026-11-28T03:45:25+00:00",
+  "price": 59955.63,
+  "funding_rate": 3.39e-05,
+  "perp_basis_pct": -0.046317585187574215,
+  "funding_mean_30d": 4.8469999999999995e-05,
+  "oi_btc": 633790018.0,
+  "oi_change_24h_pct": 1.989676782833054,
+  "top_ls_ratio": 0.4457831325301205,
+  "global_ls_ratio": 1.7646949577490947,
+  "taker_ratio": 0.8775138507176199,
   "deriv_source": "gate.io(备用)",
-  "deribit_index": 61329.75,
-  "dvol": 49.51,
-  "skew_25d": 7.170000000000002,
-  "atm_iv_near": 48.86,
-  "near_expiry_days": 7.2,
-  "atm_iv_next": 50.49,
-  "term_slope": 1.6300000000000026,
-  "next_expiry_days": 21.2,
+  "deribit_index": 59887.28,
+  "dvol": 52.08,
+  "skew_25d": 8.229999999999997,
+  "atm_iv_near": 49.47,
+  "near_expiry_days": 6.2,
+  "atm_iv_next": 50.05,
+  "term_slope": 0.5799999999999983,
+  "next_expiry_days": 20.2,
   "flags": {
     "funding_rate": {
-      "level": 1,
-      "side": "long",
-      "note": "历史百分位 81%"
+      "level": 0,
+      "side": null,
+      "note": "历史百分位 48%"
     },
     "top_ls_ratio": {
       "level": 2,
       "side": "short",
-      "note": "历史百分位 3%"
+      "note": "历史百分位 4%"
     },
     "global_ls_ratio": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 56%"
+      "note": "历史百分位 74%"
     },
     "perp_basis_pct": {
       "level": 0,
       "side": null,
-      "note": "历史百分位 28%"
+      "note": "历史百分位 30%"
     },
     "skew_25d": {
       "level": 1,
       "side": "short",
-      "note": "历史百分位 84%"
+      "note": "历史百分位 86%"
     },
     "dvol": {
       "level": 2,
@@ -50,5 +50,5 @@
       "note": "历史百分位 96%"
     }
   },
-  "bias_score": -17
+  "bias_score": -25
 }
